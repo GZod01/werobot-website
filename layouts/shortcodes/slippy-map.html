@@ -1,0 +1,16 @@
+<div class="maplibre-map" id="short-code-slippy-map"></div>
+<script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css" rel="stylesheet" />
+<script>
+var map = new maplibregl.Map({
+container: 'short-code-slippy-map',
+style:
+'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+    center: [{{ .Get "lng" }}, {{ .Get "lat" }}],
+zoom: {{ .Get "zoom" }}
+});
+ 
+var marker = new maplibregl.Marker()
+.setLngLat([{{ .Get "lng" }}, {{ .Get "lat" }}])
+.addTo(map);
+</script>

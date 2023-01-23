@@ -1,0 +1,30 @@
+baseURL = '/'
+languageCode = 'fr'
+defaultContentLanguage = 'fr'
+title = "We Robot"
+
+summaryLength = 50
+
+# THIS IS UNACCEPTALBE, I REALLY THOUGH THIS WAS THE DEFAULT IN HUGO!!
+assetDir = "assets"
+
+[sitemap]
+changefreq = 'weekly'
+
+[params]
+dateFmt = "02.01.2006 15:04"
+
+[params.defaultImage] 
+local = true
+src = "cover/cover.jpg"
+
+[taxonomies]
+imtag = 'imtags'
+
+# theme = "custom"
+
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
+

@@ -1,0 +1,37 @@
+<dl class="card contact-card">
+    <dt>
+        Nom
+    </dt>
+    <dd>
+        {{ site.Data.contact.name }}
+    </dd>
+
+    <dt>Téléphone</dt>
+    <dd>
+        <a href="tel:{{ site.Data.contact.phone }}">{{ site.Data.contact.phone }}</a>
+    </dd>
+
+    <dt>Adresse électronique</dt>
+    <dd>
+        <a href="mailto:{{ site.Data.contact.email }}">{{ site.Data.contact.email }}</a>
+    </dd>
+
+    <dt>Facebook</dt>
+    <dd>
+        <a href="{{ site.Data.contact.facebook.url }}">{{ site.Data.contact.facebook.name }}</a>
+    </dd>
+
+    <dt>Adresse</dt>
+    <dd>
+        {{ site.Data.contact.address.house_number }}
+        {{ site.Data.contact.address.street_name }}<br>
+        {{ site.Data.contact.address.postal_code }}
+        {{ site.Data.contact.address.quarter }}
+        {{ site.Data.contact.address.city }}
+    </dd>
+
+    <dt>SIRET</dt>
+    <dd>
+        {{ site.Data.contact.siret }}
+    </dd>
+</dl>

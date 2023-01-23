@@ -1,0 +1,131 @@
+# Basé sur la plaquette 2021
+# "Tarifs atelier 2021 (hors pièces éventuelles), Diagnostic Gratuit"  
+
+move:
+  - min: 0
+    max: 5
+    price: 0
+  - min: 5
+    max: 10
+    price: 10
+  - min: 10
+    max: 25
+    price: 15
+
+forfait:
+  - name: "Forfait révision"
+    price: 35
+    components:
+      - name: "Serrage cintre, potence et poste de pilotage"
+      - name: "Serrage selle et tige de selle"
+      - name: "Pression des pneus"
+      - name: "Réglage freins"
+      - name: "Régalge dérailleurs avant et arrière"
+      - name: "Vérification pièces d'usure"
+        description: "Chaine, casette, plateaux, pneus, patins ou plaquettes de freins"
+      - name: "Lubrification de la transmission"
+      - name: "Dévoilage"
+
+standalone:
+  - name: "Roues"
+    components:
+      - name: "Changement de pneu ou chambre à air"
+        variant: "Roue classique"
+        price: 7
+      - name: "Changement de pneu ou chambre à air"
+        variant: "Roue spéciale (avec moteur etc.)"
+        price: 19
+      - name: "Dévoilage roue"
+        price: 9
+      - name: "Réglage jeu de moyeu"
+        price: 7
+      - name: "Graissage moyeu et réglage du jeu"
+        price: 14
+      - name: "Changement de rayon et dévoilage (jusqu'a 3 rayons)"
+        price: 18
+
+  - name: "Direction"
+    components:
+      - name: "Réglage jeu de direction standard"
+        price: 6
+      - name: "Réglage jeu de direction Aheadset"
+        price: 9
+      - name: "Nettoyage et graissage jeu de direction"
+        price: 25
+      - name: "Changement jeu de direction"
+        price: 25
+      - name: "Changement cintre VTT, VTC, BMX"
+        price: 12
+      - name: "Changement cintre Route"
+        price: 12
+      - name: "Changement potence"
+        price: 12
+      - name: "Changement guidoline"
+        price: 9
+      - name: "Changement de grip"
+        price: 6
+      - name: "Changement de fourche"
+        price: 29
+
+  - name: "Transmission"
+    components:
+      - name: "Changement chaine"
+        price: 9
+      - name: "Changement casette et roue libre"
+        price: 9
+      - name: "Changement ou graissage boitier de pédalier"
+        price: 25
+      - name: "Changement pédales"
+        price: 6
+      - name: "Changement de pédalier"
+        price: 15
+      - name: "Changement et réglage manette dérailleur VTT/VTC"
+        price: 19
+      - name: "Guidoline Route"
+        price: 26
+      - name: "Changement et réglage dérailleur"
+        price: 19
+      - name: "Réglage 1 dérailleur"
+        price: 9
+      - name: "Réglage 2 dérailleurs"
+        price: 15
+      - name: "Changement de galet"
+        price: 12
+      - name: "Réglage 1 frein"
+        price: 9
+      - name: "Réglage 2 freins"
+        price: 15
+      - name: "Changement et réglage patins ou plaquettes"
+        price: 10
+      - name: "Changement disque"
+        price: 10
+      - name: "Changement levier de frein VTT/VTC"
+        price: 12
+      - name: "Changement d'étrier de frein"
+        price: 15
+      - name: "Changement de frein hydraulique VTT/VTC"
+        price: 15
+      - name: "Changement de frein hydraulique Route"
+        price: 26
+      - name: "Purge frein hydraulique"
+        price: 20
+      - name: "Changement ou nettoyage plaquettes"
+        price: 9
+
+  - name: "Divers"
+    components:
+      - name: "Changement de selle ou tige de selle"
+        price: 6
+      - name: "Pose d'un porte bagage"
+        price: 8
+      - name: "Pose d'une béquille"
+        price: 6
+      - name: "Pose d'un compteur"
+        price: 9
+      - name: "Pose d'un panier"
+        price: 6
+      - name: "Pose garde-boue"
+        price: 10
+      - name: "Forfait nettoyage"
+        price: 10
+

@@ -1,0 +1,43 @@
+.team-mosaic {
+  margin-top: 2.5em;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-column-gap: 28px;
+  grid-row-gap: 2em;
+  .team-item {
+    text-align: center;
+    .team-item-title {
+      margin-top: 0.3em;
+      margin-bottom: 0.2em;
+      font-size: 1.4em;
+      font-weight: 300;
+    }
+    .team-item-image {
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 10em;
+      height: 10em;
+      overflow: hidden;
+      img {
+        width: auto;
+        height: 10em;
+      }
+    }
+    .team-item-description {
+      font-size: 0.9em;
+    }
+  }
+
+  .team-item:last-of-type{
+   margin-right: 0;
+  }
+}
+
+@media (max-width: $responsive-medium) {
+  .team-mosaic {
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 0;
+  }
+}

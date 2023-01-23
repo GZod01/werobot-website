@@ -1,0 +1,132 @@
+.partners {
+  margin-top: 2em;
+  .partner {
+    //GiGa
+    &:first-child img {
+      width: 60%;
+    }
+    //uimm
+    /*&:nth-child(2) img {
+      width: 50%;
+    }*/
+    //papavoine
+    &:nth-child(2) img {
+      width: 40%;
+      margin-bottom: 1em;
+    }
+    //Girv
+    &:nth-child(3) img {
+      width: 60%;
+    }
+    // arianegroup
+    &:nth-child(4) img {
+      width: 65%;
+    }
+    // gaillon
+    &:nth-child(5) img {
+      width: 40%;
+    }
+    // skf
+    &:nth-child(6) {
+      margin-top: 2.2em;
+      img {
+        width: 55%;
+      }
+    }
+    // AtisComputer
+    &:nth-child(7) {
+      margin-top: 2.2em;
+      img {
+        width: 75%;
+      }
+    }
+    margin-top: 1.2em;
+
+    .partner-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+  }
+}
+
+.partners-quick {
+  margin-top: 1.5em;
+  margin-bottom: -2em;
+  justify-content: space-around;
+  .partner-quick-title {
+    margin-bottom: .5em;
+  }
+  .partner-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+      width: auto;
+      height: 7em;
+    }
+    &:nth-of-type(4) {
+      img {
+        height: 5em;
+      }
+    }
+    &:nth-of-type(5) {
+      img {
+        height: 6em;
+      }
+    }
+    &:nth-of-type(6) {
+      //margin-top: 2.5em;
+      img {
+        height: 4em;
+      }
+    }
+    &:nth-of-type(7) {
+      img {
+        padding: 1em;
+      }
+    }
+  }
+}
+
+@media (max-width: $responsive-medium) {
+  .partners-quick .partner-item {
+    img {
+      padding: 10px;
+    }
+  }
+  .partners {
+    margin-top: 2em;
+    .partner {
+      //Girv
+      &:nth-child(3) img {
+        margin-top: .5em;
+        margin-bottom: 1em;
+      }
+      // arianegroup
+      &:nth-child(4) img {
+        margin-top: .5em;
+        margin-bottom: 1em;
+      }
+      // gaillon
+      &:nth-child(5) img {
+        margin-top: 1em;
+        margin-bottom: .5em;
+      }
+      //skf
+      &:nth-child(6) {
+        margin-top: 2em;
+        img {
+          margin-bottom: 1em;
+        }
+      }
+      &:nth-child(7) {
+        margin-top: 2em;
+        img {
+          margin-bottom: 1em;
+        }
+      }
+    }
+  }
+}

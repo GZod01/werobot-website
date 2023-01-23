@@ -1,0 +1,42 @@
+{{ define "main" }}
+    <div class="cover">
+        <div class="cover-back"></div>
+        <div class="cover-container">
+            <div class="container mx-auto">
+                <div class="cover-title">
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+	<main class="container mx-auto content text">
+		<article class="article">
+
+            {{ with .Date }}
+                <div>Publié le <b><time>{{ . | time.Format ":date_full" }}</time></b></div>
+            {{ end }}
+    
+
+        {{ if .Params.featured_image }}
+        {{ $featuredImage := .Resources.GetMatch (.Params.featured_image.src | safeURL)  }}
+        {{ if $featuredImage }}
+            {{ $featuredImage = $featuredImage.Resize "600x" }}
+            <figure>
+                <img alt="" src="{{ $featuredImage.RelPermalink }}" />
+                {{ with .Params.featured_image.caption }}
+            <figcaption>{{ . }}</figcaption>
+                {{ end }}
+            </figure>
+        {{ end }}
+        {{ end }}
+
+            {{ range .Params.tags }}
+               <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+			<div>
+				{{ .Content }}
+			</div>
+		</article>
+	</main>
+{{ end }}

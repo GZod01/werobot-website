@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{ partial "head.html" . }}
+    
+    {{- block "head" . -}}{{ end }}
+</head>
+<body>
+    <div
+        id="main-page-wrap"
+        class="main-page-wrap"
+    >
+	{{ partial "header" . }}
+	{{ block "main" . }}{{ end }}
+    </div>
+	{{ partial "footer" . }}
+</body>
+</html>

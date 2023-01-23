@@ -1,0 +1,120 @@
+$cover-height: 15em;
+
+.cover {
+  position: relative;
+
+  .cover-back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://s.werobot.fr/headerCover.jpeg');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+
+  .cover-container {
+    width: 100%;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+    min-height: $cover-height;
+    background-color: rgba(41, 128, 185, 0.8);
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 5em 0;
+  }
+
+  .cover-title {
+    line-height: 3em;
+    font-size: 1.5em;
+    padding-left: 1.5em;
+  }
+
+  &.large-cover {
+    .cover-container {
+      padding: 6em 0;
+    }
+  }
+
+  &.cover-mode-small .cover-container {
+    padding: 6em 0;
+  }
+
+  &.cover-mode-medium .cover-container {
+    height: 40vh;
+  }
+
+  &.cover-mode-large .cover-container {
+    height: 50vh;
+  }
+
+  &.cover-mode-full .cover-container {
+    height: 77vh;
+  }
+
+  .cover-date {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-size: 1.2em;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    .cover-date-icon{
+      margin-right: 1em;
+    }
+  }
+}
+
+
+@media (max-width: $responsive-small) {
+  .cover {
+    &.cover-mode-medium .cover-container {
+      height: 49vh !important;
+    }
+  }
+}
+
+@media (max-width: $responsive-interlarge) {
+  .cover {
+    &.cover-mode-large .cover-container {
+      height: 40vh !important;
+    }
+    &.cover-mode-full .cover-container {
+      height: 65vh;
+    }
+  }
+}
+
+@media (max-width: $responsive-medium) {
+  .cover {
+    .cover-back {
+      background-position: center !important;
+    }
+    .cover-title {
+      font-size: 1.3em;
+      padding-left: 0;
+    }
+
+    &.cover-mode-medium .cover-container {
+      height: 45vh;
+    }
+    &.large-cover .cover-container { padding: 5em 0; }
+    &.cover-mdoe-small .cover-container { padding: 5em 0; }
+
+    //&.cover-mode-large .cover-container {
+      //padding: 11em 0 !important;
+    //}
+  }
+}
+
+@media (min-width: $responsive-large) {
+  .cover {
+    &.large-cover .cover-container { padding: 8em 0; }
+
+    //&.cover-mode-large .cover-container {
+      //padding: 21em 0 !important;
+    //}
+  }
+}

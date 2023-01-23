@@ -1,0 +1,82 @@
+<!-- :class="{'not-complete' : $store.state.headerComplete === false}" -->
+<div
+  id="header"
+  class="header"
+>
+  <div class="header-container container mx-auto">
+    <a
+      href="/"
+      class="link">
+      <div class="header-title-container">
+        <div class="header-logo">
+          {{ $image := resources.Get "images/logo.png" }}
+          <img
+            src="{{ $image.RelPermalink }}"
+            class="logo">
+        </div>
+        <div class="header-title">
+          <div class="header-title-title">header title</div>
+          <div class="header-sub-title">header sub title</div>
+        </div>
+      </div>
+    </a>
+    <div class="header-nav-responsive-button-container">
+      <div
+        class="header-nav-responsive-button"
+      >
+        <i class="fa fas fa-bars"></i>
+      </div>
+    </div>
+    <div class="header-nav">
+      <div class="header-nav-item">
+        <a
+          href="/"
+          class="link">
+            Home
+        </a>
+      </div>
+      <div class="header-nav-item">
+        <a
+          href="/blog"
+          class="link">Blog</a>
+      </div>
+      <div class="header-nav-item">
+        <a
+          href="/about"
+          class="link">About</a>
+      </div>
+      <div class="header-nav-item">
+        <a
+          href="/contact-us"
+          class="link">Contact</a>
+      </div>
+      <div class="header-nav-item">
+        <a
+          href="/donate"
+          class="link link-primary">Donate</a>
+      </div>
+    </div>
+    <div class="header-locale-container">
+      <div
+        id="h"
+        class="footer-locale ">
+        <a
+          class="button button-primary"
+        >
+          <div class="button-icon">
+            <i class="fa fas fa-flag"></i>
+          </div>
+          <div
+            class="link button-text">
+            <!-- <span> -->
+            <!--   English -->
+            <!-- </span> -->
+            <span>
+              Français
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

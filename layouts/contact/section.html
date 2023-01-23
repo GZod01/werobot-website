@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="page-container">
+    <h1>Informations de contact</h2>
+    <div class="columns-two">
+        <div>
+            {{ partial "contact-card" }}
+        </div>
+
+        <div>
+            <!-- https://www.openstreetmap.org/node/9526690022 -->
+            <!--  49,1755136, 1,3343608 -->
+            {{ partial "slippy-map" (dict "lat" 49.175513 "lng" 1.33436 "zoom" 15) }}
+        </div>
+    </div>
+</main>
+{{ end }}

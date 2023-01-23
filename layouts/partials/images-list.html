@@ -1,0 +1,54 @@
+<div class="gallery">
+    <div class="gallery__side">
+        {{ $listtitle := .Title }}
+        {{ if or .Title .Content }}
+        <div>
+            {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+            {{ with .Content }}<div>{{ . }}</div>{{ end }}
+        </div>
+        {{ end }}
+        <p class="gallery-tags__title">Filtrer par étiquettes :</p>
+        <ul class="gallery-tags__list tags-list">
+            {{- if eq (.Scratch.Get "image_list_context") "imtags" -}}
+            <li class="gallery-tags__item tags-list__item">
+                <a href="/images">Tout</a>
+            </li>
+            {{- end -}}
+            {{- range .Site.Taxonomies.imtags -}}
+            <li class="gallery-tags__item tags-list__item">
+                <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
+
+    <div class="gallery__items-container">
+        <div class="gallery__items">
+            {{ range $item := (.Paginator 8).Pages }}
+            <a class="gallery__item" href="{{ .RelPermalink }}">
+                {{ $image := .Resources.GetMatch "original.jpg" }}
+                {{ $image := $image.Resize "x350" }}
+                {{ with $image }}
+                <img 
+                    class="gallery__image"
+                    title="{{ $item.Title }}"
+                    src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+                />
+                {{ end }}
+
+                {{/*
+                <div class="post-title">
+                    {{ if eq $listtitle "Posts" }}
+                    {{ .Date.Format "2006-01-02" }} <a href="{{ .RelPermalink }}">{{.Title }}</a>
+                    {{ else }}
+                    <a href="{{ .RelPermalink }}">{{.Title }}</a>
+                    {{ end }}
+                </div>
+                */}}
+
+            </a>
+            {{ end }}
+        </div>
+        {{ partial "pagination.html" . }}
+    </div>
+</div>

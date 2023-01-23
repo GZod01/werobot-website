@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{- $description := partialCached "data/description" . .RelPermalink -}}
+<meta name="description" content="{{ $description }}">
+
+{{- with .Site.Params.author -}}
+<meta name="author" content="{{ . }}">
+{{ end }}
+
+{{- $title := partialCached "data/title" . .RelPermalink -}}
+<title>{{ $title }}</title>
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ partial "opengraph/include.html" . }}
+
+{{ range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end }}
+
+{{ with .Site.Params.favicon }}
+<link rel="shortcut icon" href="{{ . }}" />
+{{ end }}
+
+<!-- Note: j'ai galérer à rajouter du scss car en fait y'avait déja une variable $style de définit plus haut... -->
+{{ $style := resources.Get "scss/main.scss" | resources.ToCSS  | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+
