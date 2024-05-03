@@ -1,6 +1,7 @@
 baseURL = '/'
 languageCode = 'fr'
 defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = false
 title = "We Robot"
 
 summaryLength = 50
@@ -8,11 +9,25 @@ summaryLength = 50
 # THIS IS UNACCEPTALBE, I REALLY THOUGH THIS WAS THE DEFAULT IN HUGO!!
 assetDir = "assets"
 
+
+[languages]
+[languages.fr]
+languageCode='fr'
+languageName="Français"
+[languages.en]
+languageCode='en'
+languageName="English"
+
 [sitemap]
 changefreq = 'weekly'
 
 [params]
 dateFmt = "02.01.2006 15:04"
+slogan = "La Robotique, ensemble"
+favicon = "/images/logo.png"
+footer_description = """
+Créée en 2017, association locale de robotique pour les jeunes, basée à Gaillon en France. Nous participons à des concours nationaux ou internationaux, gagnant d'un prix au First Global Contest à Washington DC en 2017 et du World Adolescent Robotic Contest à Guyiang, Chine en 2018
+"""
 
 [params.defaultImage] 
 local = true
@@ -20,6 +35,40 @@ src = "cover/cover.jpg"
 
 [taxonomies]
 imtag = 'imtags'
+
+[menus]
+
+[[menus.footer_left]]
+name="Accueil"
+url="/"
+
+[[menus.footer_left]]
+name="Blog"
+url="/blog"
+
+[[menus.footer_left]]
+name="Photos"
+url="/photos"
+
+[[menus.footer_left]]
+name="Donner"
+url="/donate"
+
+[[menus.footer_right]]
+name="À Propos"
+url="/about"
+
+[[menus.footer_right]]
+name="Où sommes nous"
+url="/about#place"
+
+[[menus.footer_right]]
+name="Nous contacter"
+url="/contact"
+
+[[menus.footer_right]]
+name="Mentions Légales"
+url="/legals"
 
 # theme = "custom"
 

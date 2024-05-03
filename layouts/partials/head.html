@@ -8,7 +8,8 @@
 <meta name="author" content="{{ . }}">
 {{ end }}
 
-{{- $title := partialCached "data/title" . .RelPermalink -}}
+{{/*- $title := partialCached "data/title" . .RelPermalink -*/}}
+{{ $title := (printf "%s - %s" .Title .Site.Title) }}
 <title>{{ $title }}</title>
 
 <link rel="canonical" href="{{ .Permalink }}">
@@ -20,7 +21,7 @@
 {{ end }}
 
 {{ with .Site.Params.favicon }}
-<link rel="shortcut icon" href="{{ . }}" />
+<link rel="shortcut icon"  href="{{ . }}" />
 {{ end }}
 
 <!-- Note: j'ai galérer à rajouter du scss car en fait y'avait déja une variable $style de définit plus haut... -->

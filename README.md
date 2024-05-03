@@ -1,8 +1,8 @@
-# Etoile de bethleem - site web
+# WeRobot - site web
 
 ## Comment installer
 
-- git clone etoiledebethleem/website website
+- git clone https://forge.gzod01.fr/werobot/website.git website
 - cd website
 
 ## Comment développer
@@ -12,9 +12,4 @@
 ## Comment build
 
 - hugo
-
-## Idées
-
-- gallerie avec un scroll : https://staticbattery.com/ (on sera toujours obligé de faire de la navigation)
-
 

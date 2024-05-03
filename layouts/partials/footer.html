@@ -28,57 +28,31 @@
                 </div>
 
                 <div class="footer-description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		    {{ .Site.Params.footer_description }}
                 </div>
               </div>
             </div>
           </div>
           <div class="w-full md:w-1/4">
             <div class="footer-links">
-                <a
-                        href="/"
-                        class="link">
-                    Home
-                </a>
-                <a
-                        href="/blog"
-                        class="link">
-                    Blog
-                </a>
-                <a
-                        href="/photos"
-                        class="link">
-                    Photos
-                </a>
-                <a
-                        href="/donate"
-                        class="link">
-                    Donate
-                </a>
+		{{ range .Site.Menus.footer_left }}
+		<a
+			href="{{ .URL }}"
+			class="link">
+		    {{ .Name}}
+		</a>
+		{{ end }}
             </div>
           </div>
           <div class="w-full md:w-1/4">
             <div class="footer-links">
+		{{ range .Site.Menus.footer_right }}
                 <a
-                        href="/about"
+			href="{{ .URL }}"
                         class="link">
-                    About
+		    {{ .Name }}
                 </a>
-                <a
-                        href="/about#place"
-                        class="link">
-                    Où sommes nous
-                </a>
-                <a
-                        href="/contact"
-                        class="link">
-                    Contact us
-                </a>
-                <a
-                        href="/legals"
-                        class="link">
-                    Legals
-                </a>
+		{{ end }}
             </div>
           </div>
         </div>
@@ -124,8 +98,8 @@
               <div
                 class="link button-text">
                   <span>
-                  Français
-                </span>
+		      Français
+		  </span>
               </div>
             </a>
           </div>
