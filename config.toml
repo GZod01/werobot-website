@@ -14,9 +14,13 @@ assetDir = "assets"
 [languages.fr]
 languageCode='fr'
 languageName="Français"
+[languages.fr.params]
+nextlang="en"
 [languages.en]
 languageCode='en'
 languageName="English"
+[languages.en.params]
+nextlang="fr"
 
 [sitemap]
 changefreq = 'weekly'

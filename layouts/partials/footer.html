@@ -89,16 +89,20 @@
           <div
             id="h"
             class="footer-locale">
+	      {{ $sitelanguages := .Site.Languages }}
+	      {{ $nextlang := (collections.Last (collections.Where $sitelanguages "Lang" .Language.Params.nextlang )) }}
+	      {{ $nextlang_url := (printf "/%s/%s" $nextlang.Lang .Page.RelPermalink ) }}
             <a
               class="button button-primary"
-              @click="onSwapLocale">
+	      href="{{ $nextlang_url }}"
+	      >
               <div class="button-icon">
                 <i class="fa fas fa-flag"></i>
               </div>
               <div
                 class="link button-text">
                   <span>
-		      Français
+		      {{ $nextlang.Name }}
 		  </span>
               </div>
             </a>

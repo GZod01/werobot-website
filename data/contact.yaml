@@ -1,20 +1,20 @@
-name: "Laurent Gringoire"
-phone: "+33 06 52 64 05 37"
-email: "bicycleure@laposte.net"
-website: "https://www.bicycleure.fr"
+name: "WeRobot"
+#phone: "+33 06 52 64 05 37"
+email: "contact@werobot.fr"
+website: "https://werobot.fr"
 facebook:
-  name: "Bicycl'Eure"
-  url: https://www.facebook.com/profile.php?id=100064205644693
-siret: "537577 785 00018"
+  name: "WeRobot"
+  url: https://www.facebook.com/WeRobot
+#siret: "537577 785 00018"
 # https://www.openstreetmap.org/node/9526690022
 # 49.1755136, 1.3343608
-address:
-  house_number: 30
-  street_name: Résidence des Trois Moulins
-  postal_code: 27940
-  quarter: Aubevoye
-  city: Le Val d'Hazey
-location:
-  lat: 49.1755136
-  lng: 1.3343608
+#address:
+#  house_number: 30
+#  street_name: Résidence des Trois Moulins
+#  postal_code: 27940
+#  quarter: Aubevoye
+#  city: Le Val d'Hazey
+#location:
+#  lat: 49.1755136
+#  lng: 1.3343608
 
