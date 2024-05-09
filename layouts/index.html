@@ -1,12 +1,118 @@
 {{ define "main" }}
 	<main class="page-container">
+  <div>
+    <div class="cover">
+      <div class="cover-back"></div>
+      <div class="cover-container">
+        <div class="container mx-auto">
+          <div class="cover-title">
+            <h1>{{ .Site.Params.landing.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content">
+      <div class="container mx-auto">
+        <div class="flex flex-wrap justify-between">
+          <div class="w-full">
+            <div class="card no-actions card-blue mx-2">
+              <div class="card-title">
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.edito.title }}
+              </div>
+              <div
+                class="card-text">
+		  {{ .Site.Params.landing.edito.content }}
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2 ">
+            <div class="card card-purple mx-2">
+              <div class="card-title">
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.mission.title }}
+              </div>
+              <div
+                class="card-text">
+		  {{ .Site.Params.landing.mission.content }}
+              </div>
+              <div class="card-actions">
+                <nuxt-link
+                  to="/about"
+                  class="card-action">
+                  {{ .Site.Params.landing.mission.action }}
+                </nuxt-link>
+              </div>
+            </div>
+          </div>
+          <div class="w-full md:w-1/2">
+            <div class="card card-green mx-2">
+              <div class="card-title">
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.support.title }}
+              </div>
+              <div
+                class="card-text">
+		  {{ .Site.Params.landing.support.content }}
+              </div>
+              <div class="card-actions">
+                <a
+                  :href="$env.donate"
+                  class="card-action">
+                  {{ .Site.Params.landing.support.action }}
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="divider my-5"></div>
+        <h2 class="index-icon-title py-2 mb-5">
+          <i class="fa fas fa-newspaper"></i>
+          {{ .Site.Params.articles.last }}
+        </h2>
+	{{<articles :locale="$store.state.locale">}}
+        <div class="index-more-section">
+          <nuxt-link
+            to="/blog"
+            class="mt-3 link button button-primary">
+            <div class="button-icon">
+              <i class="fa fas fa-plus-square"></i>
+            </div>
+            <div class="button-text">{{ .Site.Params.more }}</div>
+          </nuxt-link>
+        </div>
+        <div class="clear-fix"></div>
+        <div class="divider mt-4 mb-5"></div>
+        <h2 class="index-icon-title py-2 mb-5">
+          <i class="fa fas fa-newspaper"></i>
+          {{ .Site.Params.photos.last }}
+        </h2>
+        <photos limit="4" />
+        <div class="index-more-section">
+          <nuxt-link
+            to="/photos"
+            class="mt-3 link button button-primary">
+            <div class="button-icon">
+              <i class="fa fas fa-plus-square"></i>
+            </div>
+            <div class="button-text">{{ .Site.Params.more }}</div>
+          </nuxt-link>
+        </div>
+        <div class="clear-fix"></div>
+        <div class="divider my-5"></div>
+        <div class="partners-quick flex flex-wrap">
+          <div class="partner-quick-title partner-item w-full">
+            <h3 class="partner-quick-title py-2 mb-2">
+              {{ .Site.Params.partners.support-us }}
+            </h3>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
         Index
-        {{/*
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{ range $paginator.Pages }}
 			{{ .Render "summary" }}
 		{{ end }}
 		{{ partial "pagination.html" . }}
-        */}}
 	</main>
 {{ end }}

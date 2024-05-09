@@ -1,0 +1,104 @@
+{
+  "_id": "fr",
+  "locale": "fr",
+  "title": "We Robot",
+  "description": "Créée en 2017, association locale de robotique pour les jeunes, basée à Gaillon en France. Nous participons à des concours nationaux ou internationaux, gagnant d'un prix au First Global Contest à Washington DC en 2017 et du World Adolescent Robotic Contest à Guyiang, Chine en 2018.",
+  "keywords": ["Gaillon", "Robotique", "We Robot", "France", "Association", "Locale"],
+  "slogan": "La robotique, ensemble",
+  "landing": {
+    "title": "Construire, tester,apprendre, déployer",
+    "edito": {
+      "title": "Edito",
+      "content":"<p>Une fois n'est pas coutume l'édito se met à jour en avril. Il y a une raison à cela : We Robot est de nouveau sélectionné pour représenter la France au <a href='https://first.global/fgc/'>FIRST Global Challenge 2024</a>  qui se tiendra à Athènes du 26 au 29 septembre 2024. C'est une fois de plus une occasion extraordinaire pour nos jeunes et nous espérons trouver le soutien financier nécessaire pour y participer.</p><p> L'adhésion gratuite pour les lycéen.nes qui seraient intéressé.es par la communication reste gratuite et nous avons bon espoir de former une équipe de communication de choc</p><p> Vous pouvez désormais nous trouver <a href='https://www.openstreetmap.org/node/7510411804'>avenue du Printemps de Prague</a> à Gaillon dans la résidence autonomie</p><p>Vous pouvez nous contacter par l'intermédiaire de <a href='https://werobot.fr/contact-us'>notre formulaire</a> et pour adhérer, cela se fait directement <a href='https://www.helloasso.com/associations/we-robot/adhesions/we-robot-2023-24'>en ligne ici</a>.</p>"
+    },
+    "mission": {
+      "title": "Notre objectif",
+      "content": "Notre but principal est l'éducation ludique des jeunes dans le domaines des sciences et techniques.<br> Nous faisons participer, à des concours nationaux et internationaux de robotique, une équipe de jeunes motivés et passionnés.<br> Parallèlement, nous proposons une initiation à la robotique pour les enfants de 8 à 12 ans.",
+      "action": "Voir plus..."
+    },
+    "support": {
+      "title": "Soutenez nous",
+      "content": "La robotique est une activité onéreuse. Elle nécessite beaucoup de matériel (moteurs, capteurs, structures mécaniques, cartes électroniques, instruments de mesure, outils, visserie, ordinateur ...).<br>De plus les déplacements, particulièrement à l'international, ne sont pas à la portée de tous. <br> C'est pourquoi nous sommes toujours à la recherche de partenaires et de soutien financier.",
+      "action": "Donner"
+    }
+  },
+  "home": "Accueil",
+  "blog": {
+    "title": "Blog",
+    "description": "Le Blog de We Robot, c'est comme la vie, il y a des haut et des bas."
+  },
+  "previous": "Précédent",
+  "next": "Suivant",
+  "about": "A propos",
+  "place": "Où nous trouver",
+  "legals": {
+    "title": "Mentions légales",
+    "description": "Retrouvez ici les mentions légales du site werobot.fr"
+  },
+  "donate": "Donner",
+  "articles": {
+    "title": "Articles",
+    "all": "Tout les articles",
+    "last": "Nos derniers articles",
+    "empty": "Aucun articles disponibles",
+    "sort-by-dates": {
+      "title": "Trier par dates",
+      "posts": "articles(s)",
+      "close": "Fermer"
+    },
+    "sort-by-years": {
+      "title": "Trier par années",
+      "posts": "articles(s)",
+      "close": "Fermer"
+    }
+  },
+  "photos": {
+    "title": "Photos",
+    "description": "Vous trouverez ici les dernières photos instagram de l'équipe.",
+    "all": "Toutes les photos",
+    "last": "Nos dernières photos",
+    "empty": "Pas de photos disponibles"
+  },
+  "more": "Voir plus...",
+  "loading": "Chargement...",
+  "contact-us": {
+    "title": "Contactez nous",
+    "description": "Il y a plusieurs façon de contacter l'équipe We Robot, l'une consiste à utiliser le formulaire founis sur cette page.",
+    "president": {
+      "title": "En contactant le président"
+    },
+    "form": {
+      "title": "En utilisant le formulaire",
+      "description": "Pour toute question ou proposition, n'hésitez-pas à nous contacter à l'aide du formulaire ci-dessous.",
+      "field_required": "Ce champs est requis",
+      "recaptcha_required": "Veuillez cocher le recaptcha",
+      "invalid_email": "Cet email est invalide",
+      "not-enough-length": "Vous devez être un peu plus précis...",
+      "submit": "Valider",
+      "loading": "Traitement de votre message...",
+      "success": "Votre message a bien été envoyé !",
+      "name": "Votre nom",
+      "name_placeholder": "Jean Dupont",
+      "email": "Votre email",
+      "email_placeholder": "jean.dupont@exemple.fr",
+      "subject": "Sujet",
+      "subject_placeholder": "Ubi est magnum nixus?",
+      "content": "Votre message",
+      "content_placeholder": "Mineralis de fortis abaculus, imperium glos est fidelis gemna, cesaris."
+    }
+  },
+  "error": {
+    "unknown": {
+      "title": "Erreur inconnue",
+      "description": "C'est dommage, on ne saura jamais la cause de l'erreur..."
+    },
+    "not-found": {
+      "title": "Vous vous êtes perdu ?",
+      "description": "Cette page n'existe pas ou plus."
+    }
+  },
+  "page-not-supported": "Cette page n'est pas disponible dans votre langue actuellement.",
+  "partners": {
+    "support-us": "Ils nous soutiennent"
+  }
+}

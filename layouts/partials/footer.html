@@ -89,12 +89,16 @@
           <div
             id="h"
             class="footer-locale">
-	      {{ $sitelanguages := .Site.Languages }}
-	      {{ $nextlang := (collections.Last (collections.Where $sitelanguages "Lang" .Language.Params.nextlang )) }}
-	      {{ $nextlang_url := (printf "/%s/%s" $nextlang.Lang .Page.RelPermalink ) }}
+	      {{ $nextlangcode := .Language.Params.nextlang }}
+	      {{ $nextlang := . }}
+	      {{ range .Translations }}
+	      {{ if (eq .Lang $nextlangcode) }}
+	      {{ $nextlang = . }}
+	      {{ end }}
+	      {{ end }} 
             <a
               class="button button-primary"
-	      href="{{ $nextlang_url }}"
+	      href="{{ $nextlang.Permalink }}"
 	      >
               <div class="button-icon">
                 <i class="fa fas fa-flag"></i>
@@ -102,7 +106,7 @@
               <div
                 class="link button-text">
                   <span>
-		      {{ $nextlang.Name }}
+		      {{ $nextlang.Language.LanguageName }}
 		  </span>
               </div>
             </a>
