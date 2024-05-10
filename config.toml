@@ -26,6 +26,76 @@ slogan = "Robotic, together"
 footer_description = """
 Created in 2017, local association of robotic for youth, based in Gaillon, France. We participate to international and national competitions, winner of First Global Contest in Washington DC in 2017 and of World Adolescent Robotic Contest in Guyiang, China in 2018.
 """
+home = "Home"
+previous = "Previous"
+next = "Next"
+about = "About"
+place = "Where you can find us"
+donate = "Donate"
+loading = "Loading..."
+more = "See more..."
+page-not-supported = "We are sorry this page is not supported in your language yet."
+
+  [languages.en.params.blog]
+  title = "Blog"
+  description = "The Blog is THE place to find all the news and story from the team."
+
+  [languages.en.params.legals]
+  title = "Legals term"
+  description = "See here the legals term of the website werobot.fr"
+
+  [languages.en.params.articles]
+  title = "Articles"
+  all = "All articles"
+  last = "Our last articles"
+  empty = "No articles"
+
+    [languages.en.params.articles.sort-by-dates]
+    title = "Sort by dates"
+    posts = "post(s)"
+    close = "Close"
+
+    [languages.en.params.articles.sort-by-years]
+    title = "Sort by years"
+    posts = "articles(s)"
+    close = "Close"
+
+  [languages.en.params.photos]
+  title = "Photos"
+  description = "Last pictures from the instragram account of the We Robot team."
+  all = "All photos"
+  last = "Our last photos"
+  empty = "No photos"
+
+  [languages.en.params.contact-us]
+  title = "Contact us"
+  description = "There are many way to contact the We Robot team, one of which is to use the form provided on this page."
+
+    [languages.en.params.contact-us.president]
+    title = "By contacting the president"
+
+    [languages.en.params.contact-us.form]
+    title = "By using the form"
+    description = "If you have any questions or proposal, please contact us through the form below."
+    field_required = "This field is required"
+    recaptcha_required = "The recaptcha is required"
+    invalid_email = "This email is invalid"
+    not-enough-length = "You must be more precise..."
+    submit = "Submit"
+    loading = "Loading..."
+    success = "Your message has been sent!"
+    name = "Your name"
+    name_placeholder = "John Doe"
+    email = "Your email"
+    email_placeholder = "john.doe@example.com"
+    subject = "Subject"
+    subject_placeholder = "Ubi est magnum nixus?"
+    content = "Your message"
+    content_placeholder = "Mineralis de fortis abaculus, imperium glos est fidelis gemna, cesaris."
+
+  [languages.en.params.partners]
+  support-us = "They support us"
+
 [[languages.en.params.errors]]
 id="unknown"
 title="This is a error"
@@ -40,6 +110,7 @@ description= "This page doesn't exist"
 changefreq = 'weekly'
 
 [params]
+mainSections= "posts"
 error404message = "Page non trouvée"
 dateFmt = "02.01.2006 15:04"
 slogan = "La Robotique, ensemble"
@@ -47,6 +118,17 @@ favicon = "/images/logo.png"
 footer_description = """
 Créée en 2017, association locale de robotique pour les jeunes, basée à Gaillon en France. Nous participons à des concours nationaux ou internationaux, gagnant d'un prix au First Global Contest à Washington DC en 2017 et du World Adolescent Robotic Contest à Guyiang, Chine en 2018
 """
+home = "Accueil"
+previous = "Précédent"
+next = "Suivant"
+about = "A propos"
+place = "Où nous trouver"
+donate = "Donner"
+more = "Voir plus..."
+loading = "Chargement..."
+page-not-supported = "Cette page n'est pas disponible dans votre langue actuellement."
+
+
 [[params.errors]]
 id="unknown"
 title="Erreur inconnue"
@@ -78,6 +160,79 @@ title = "Construire, tester,apprendre, déployer"
 local = true
 src = "cover/cover.jpg"
 
+
+
+  [params.blog]
+  title = "Blog"
+  description = "Le Blog de We Robot, c'est comme la vie, il y a des haut et des bas."
+
+  [params.legals]
+  title = "Mentions légales"
+  description = "Retrouvez ici les mentions légales du site werobot.fr"
+
+  [params.articles]
+  title = "Articles"
+  all = "Tout les articles"
+  last = "Nos derniers articles"
+  empty = "Aucun articles disponibles"
+
+    [params.articles.sort-by-dates]
+    title = "Trier par dates"
+    posts = "articles(s)"
+    close = "Fermer"
+
+    [params.articles.sort-by-years]
+    title = "Trier par années"
+    posts = "articles(s)"
+    close = "Fermer"
+
+  [params.photos]
+  title = "Photos"
+  description = "Vous trouverez ici les dernières photos instagram de l'équipe."
+  all = "Toutes les photos"
+  last = "Nos dernières photos"
+  empty = "Pas de photos disponibles"
+
+  [params.contact-us]
+  title = "Contactez nous"
+  description = "Il y a plusieurs façon de contacter l'équipe We Robot, l'une consiste à utiliser le formulaire founis sur cette page."
+
+    [params.contact-us.president]
+    title = "En contactant le président"
+
+    [params.contact-us.form]
+    title = "En utilisant le formulaire"
+    description = "Pour toute question ou proposition, n'hésitez-pas à nous contacter à l'aide du formulaire ci-dessous."
+    field_required = "Ce champs est requis"
+    recaptcha_required = "Veuillez cocher le recaptcha"
+    invalid_email = "Cet email est invalide"
+    not-enough-length = "Vous devez être un peu plus précis..."
+    submit = "Valider"
+    loading = "Traitement de votre message..."
+    success = "Votre message a bien été envoyé !"
+    name = "Votre nom"
+    name_placeholder = "Jean Dupont"
+    email = "Votre email"
+    email_placeholder = "jean.dupont@exemple.fr"
+    subject = "Sujet"
+    subject_placeholder = "Ubi est magnum nixus?"
+    content = "Votre message"
+    content_placeholder = "Mineralis de fortis abaculus, imperium glos est fidelis gemna, cesaris."
+
+  [params.partners]
+  support-us = "Ils nous soutiennent"
+
+
+
+
+
+
+
+
+
+
+
+
 [taxonomies]
 imtag = 'imtags'
 
@@ -89,7 +244,7 @@ url="/"
 
 [[menus.footer_left]]
 name="Blog"
-url="/blog"
+url="/posts"
 
 [[menus.footer_left]]
 name="Photos"

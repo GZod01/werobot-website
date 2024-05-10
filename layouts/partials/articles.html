@@ -1,0 +1,53 @@
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js" integrity="sha512-hUhvpC5f8cgc04OZb55j0KNGh4eh7dLxd/dPSJ5VyzqDWxsayYbojWyl5Tkcgrmb/RVKCRJI1jNlRbVP4WWC4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment-with-locales.min.js" integrity="sha512-4F1cxYdMiAW98oomSLaygEwmCnIP38pb4Kx70yQYqRwLVCs3DbRumfBq82T08g/4LJ/smbFGFpmeFlQgoDccgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/locale/{{ .Lang }}.min.js" integrity="sha512-RAt2+PIRwJiyjWpzvvhKAG2LEdPpQhTgWfbEkFDCo8wC4rFYh5GQzJBVIFDswwaEDEYX16GEE/4fpeDNr7OIZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<div class="articles-list transition-parent">
+    {{ $allposts :=  (where site.RegularPages "Section" "=" site.Params.mainSections)}}
+    {{ $allposts = $allposts.ByDate }}
+    {{ $context := (page.GetPage "/posts")}}
+    {{  if (eq (len $allposts) 0)  }} 
+    <div
+        class="section-error-container transition-child"
+        style="height: 100%;">
+        <div class="section-error-content">
+          <i class="fa fas fa-times-circle"></i>
+          {{ .Site.Params.articles.empty }}
+        </div>
+      </div>
+      {{ else }}
+      <div
+        class="articles">
+	{{ range $index, $article := ($context.Page.Paginate $allposts .ammount).Pages }}
+	<a class=article href="{{ $article.RelPermalink }}">
+          <article>
+            <div
+		    style="background-image:url({{ $article.Params.banner }});"
+              class="article-thumb">
+            </div>
+	    {{ if (and (eq $index 0) (lt (sub $article.Date.Day time.Now.Day ) 14)) }}
+            <span
+              class="article-status">NEW</span>
+	    {{ end }}
+            <div class="article-body">
+              <div class="article-title">
+                {{ $article.Title }}
+              </div>
+              <div class="article-subtitle">
+		  <span id=from-now data-date="{{ $article.Date.Format "20060102" }}"></span> 
+              </div>
+              <p class="article-description">
+                {{ $article.Description }}
+              </p>
+            </div>
+          </article>
+	</a>
+	  {{ end }}
+      </div>
+      {{ end }}
+  </div>
+
+  <script>
+      moment.locale("{{ .context.Lang }}");
+      document.querySelectorAll("#from-now").forEach(e=>{e.innerHTML = moment(e.getAttribute("data-date"),"YYYYMMDD").fromNow();});
+  </script>
+		{{/* partial "pagination.html" . */}}

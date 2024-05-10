@@ -1,0 +1,105 @@
+{{ define "main" }}
+{{  $showDatesList := false }}
+<div>
+    <div class="cover">
+      <div class="cover-back"></div>
+      <div class="cover-container">
+        <div class="container mx-auto">
+          <div class="cover-title">
+            <h1>{{ site.Params.blog.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content">
+      <div class="container mx-auto">
+	{{ if $showDatesList }}
+          <div
+            class="sort-by-dates-container"
+          >
+            <h3 class="ml-2">{{ (index site.Params.articles "sort-by-years").title }}</h3>
+            <ul class="dates-mosaic">
+              <li>
+                <a
+                  class="link link-primary"
+                  @click="filterYear(null)">{{ site.Params.articles.all }}</a>
+              </li>
+	      
+	      {{ range (.Pages.GroupByDate "2006") }}
+              <li>
+                <a
+                  class="link link-primary"
+                  @click="filterYear(year.name)">{{ .Key }}</a> : {{(len .)}} {{ (index site.Params.articles "sort-by-years").posts }}
+              </li>
+	      {{ end }}
+            </ul>
+          </div>
+	  {{ end }}
+        <div class="blog-title-container py-2">
+          <h2 class="index-icon-title blog-title">
+            <i class="fa fas fa-newspaper"></i>
+            {{ site.Params.articles.all }}
+          </h2>
+          <div class="sort">
+            <div
+              class="link button button-primary"
+              @click="fetchDates">
+              <div class="button-icon">
+		  {{ if $showDatesList }}
+                <i
+                  class="fa fas fa-calendar"></i>
+		{{ else }}
+                <i class="fa fas fa-times"></i>
+			{{end}}
+              </div>
+	      {{ if not $showDatesList }}
+              <div
+                class="button-text">{{ (index site.Params.articles "sort-by-years").title }}</div>
+	      {{ else }}
+              <div
+                class="button-text">{{ (index site.Params.articles "sort-by-years").close }}</div>
+	      {{ end }}
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-4">
+	    {{partial "articles.html" (dict "Paging" true "context" . "ammount" 3)}}
+        </div>
+
+        <div class="mt-6 pt-2 blog-pagination">
+          <div class="blog-pagination-previous">
+            <a
+		    class="{{ if .Paginator.HasPrev }}disabled{{end}}"
+              class="button button-primary mobile-icon"
+	      href="{{ if .Paginator.HasPrev}}{{.Paginator.Prev.URL}}{{ end }}">
+              <div class="button-icon">
+                <i class="fa fas fa-arrow-left"></i>
+              </div>
+              <div class="link button-text">
+                {{ site.Params.previous }}
+              </div>
+            </a>
+          </div>
+          <div class="blog-pagination-current">
+              Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}
+          </div>
+          <div class="blog-pagination-next">
+            <a
+		    class="{{ if .Paginator.HasNext }}disabled{{end}}"
+              class="button button-primary mobile-icon"
+	      href="{{ if .Paginator.HasNext }}{{.Paginator.Next.URL }}{{end}}">
+              <div class="link button-text">
+                {{ site.Params.next }}
+              </div>
+              <div class="button-icon">
+                <i class="fa fas fa-arrow-right"></i>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}

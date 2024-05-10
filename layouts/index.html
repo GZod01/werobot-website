@@ -6,7 +6,7 @@
       <div class="cover-container">
         <div class="container mx-auto">
           <div class="cover-title">
-            <h1>{{ .Site.Params.landing.title }}</h1>
+            <h1>{{ .Site.Params.landing.title | safeHTML }}</h1>
           </div>
         </div>
       </div>
@@ -17,46 +17,46 @@
           <div class="w-full">
             <div class="card no-actions card-blue mx-2">
               <div class="card-title">
-                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.edito.title }}
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.edito.title | safeHTML }}
               </div>
               <div
                 class="card-text">
-		  {{ .Site.Params.landing.edito.content }}
+		  {{ .Site.Params.landing.edito.content | safeHTML }}
               </div>
             </div>
           </div>
           <div class="w-full md:w-1/2 ">
             <div class="card card-purple mx-2">
               <div class="card-title">
-                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.mission.title }}
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.mission.title | safeHTML }}
               </div>
               <div
                 class="card-text">
-		  {{ .Site.Params.landing.mission.content }}
+		  {{ .Site.Params.landing.mission.content | safeHTML }}
               </div>
               <div class="card-actions">
-                <nuxt-link
-                  to="/about"
+                <a
+                  href="{{ relLangURL "/about" }}"
                   class="card-action">
-                  {{ .Site.Params.landing.mission.action }}
-                </nuxt-link>
+                  {{ .Site.Params.landing.mission.action | safeHTML }}
+                </a>
               </div>
             </div>
           </div>
           <div class="w-full md:w-1/2">
             <div class="card card-green mx-2">
               <div class="card-title">
-                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.support.title }}
+                <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.support.title | safeHTML }}
               </div>
               <div
                 class="card-text">
-		  {{ .Site.Params.landing.support.content }}
+		  {{ .Site.Params.landing.support.content | safeHTML }}
               </div>
               <div class="card-actions">
                 <a
-                  :href="$env.donate"
+			href="{{ relLangURL "/donate" }}"
                   class="card-action">
-                  {{ .Site.Params.landing.support.action }}
+                  {{ .Site.Params.landing.support.action | safeHTML }}
                 </a>
               </div>
             </div>
@@ -65,42 +65,42 @@
         <div class="divider my-5"></div>
         <h2 class="index-icon-title py-2 mb-5">
           <i class="fa fas fa-newspaper"></i>
-          {{ .Site.Params.articles.last }}
+          {{ .Site.Params.articles.last | safeHTML }}
         </h2>
-	{{<articles :locale="$store.state.locale">}}
+	{{ partial "articles.html" (dict "Paging" true "context" . "ammount" 3)}}
         <div class="index-more-section">
-          <nuxt-link
-            to="/blog"
+          <a
+		  href="{{ relLangURL "/blog" }}"
             class="mt-3 link button button-primary">
             <div class="button-icon">
               <i class="fa fas fa-plus-square"></i>
             </div>
-            <div class="button-text">{{ .Site.Params.more }}</div>
-          </nuxt-link>
+            <div class="button-text">{{ .Site.Params.more | safeHTML }}</div>
+          </a>
         </div>
         <div class="clear-fix"></div>
         <div class="divider mt-4 mb-5"></div>
         <h2 class="index-icon-title py-2 mb-5">
           <i class="fa fas fa-newspaper"></i>
-          {{ .Site.Params.photos.last }}
+          {{ .Site.Params.photos.last | safeHTML }}
         </h2>
         <photos limit="4" />
         <div class="index-more-section">
-          <nuxt-link
-            to="/photos"
+          <a
+            href="{{ relLangURL "/photos" }}"
             class="mt-3 link button button-primary">
             <div class="button-icon">
               <i class="fa fas fa-plus-square"></i>
             </div>
-            <div class="button-text">{{ .Site.Params.more }}</div>
-          </nuxt-link>
+            <div class="button-text">{{ .Site.Params.more | safeHTML }}</div>
+          </a>
         </div>
         <div class="clear-fix"></div>
         <div class="divider my-5"></div>
         <div class="partners-quick flex flex-wrap">
           <div class="partner-quick-title partner-item w-full">
             <h3 class="partner-quick-title py-2 mb-2">
-              {{ .Site.Params.partners.support-us }}
+              {{ index .Site.Params.partners "support-us" | safeHTML }}
             </h3>
           </div>
 
@@ -109,10 +109,5 @@
     </div>
   </div>
         Index
-		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-		{{ range $paginator.Pages }}
-			{{ .Render "summary" }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
 	</main>
 {{ end }}
