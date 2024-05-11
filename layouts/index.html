@@ -84,7 +84,7 @@
           <i class="fa fas fa-newspaper"></i>
           {{ .Site.Params.photos.last | safeHTML }}
         </h2>
-        <photos limit="4" />
+	{{ partial "photos.html" (dict "limit" 4) }}
         <div class="index-more-section">
           <a
             href="{{ relLangURL "/photos" }}"
@@ -108,6 +108,5 @@
       </div>
     </div>
   </div>
-        Index
 	</main>
 {{ end }}
