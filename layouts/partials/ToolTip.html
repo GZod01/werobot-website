@@ -1,0 +1,11 @@
+<div>
+    <div v-if="$isServer === true">
+      <slot/>
+    </div>
+    <div
+      v-tooltip.top="value"
+      v-else
+      @click="$router.push(to)">
+      <slot/>
+    </div>
+  </div>

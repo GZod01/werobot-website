@@ -103,6 +103,11 @@
               {{ index .Site.Params.partners "support-us" | safeHTML }}
             </h3>
           </div>
+	  {{ range .Site.Data.partners.partners }}
+	  <a href="{{ relLangURL "/about#partners" }}" title="{{ .Name }}" class="partner-item link {{ if .class }}{{ .class}}{{ else }}w-1/2 md:w-1/5{{ end }}">
+	      <img src="https://s.werobot.fr/{{ .img }}"/>
+	  </a>
+	  {{ end }}
 
         </div>
       </div>

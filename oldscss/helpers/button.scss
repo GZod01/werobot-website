@@ -1,0 +1,45 @@
+.button {
+  line-height: 1.15 !important;
+  display: flex;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+  color: white;
+  .button-text {
+    padding: 10px;
+    border-radius: 2px;
+  }
+  .button-icon {
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 2px;
+  }
+  transition: opacity 0.2s;
+  text-decoration: none;
+  border-radius: 2px;
+}
+
+.button-primary {
+  background-color: #3498db;
+  .button-icon {
+    background-color: #2980b9;
+  }
+}
+
+.button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.button.disabled {
+  opacity: 0.5;
+  filter: grayscale(100);
+  transform: none !important;
+}
+
+@media (max-width: $responsive-small) {
+  .button.mobile-icon {
+    .button-text {
+      display: none;
+    }
+  }
+}

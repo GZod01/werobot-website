@@ -1,0 +1,11 @@
+@media (max-width: $responsive-medium) {
+  .container {
+    width: 94% !important;
+  }
+}
+
+@media (max-width: $responsive-interlarge) {
+  .container {
+    width: 90% !important;
+  }
+}

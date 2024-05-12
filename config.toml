@@ -35,6 +35,23 @@ donate = "Donate"
 loading = "Loading..."
 more = "See more..."
 page-not-supported = "We are sorry this page is not supported in your language yet."
+[languages.en.params.landing]
+title = "Build, test,learn, deploy"
+
+  [languages.en.params.landing.edito]
+  title = "Edito"
+  content = "The 2022-2023 season has once again been a great success for the Saturday morning digital workshop. Six teenagers have been very dedicated, and we have shared wonderful moments. The intervention at the Jardins de bas neighborhood house unfolded in a mixed manner due to numerous interruptions. In fact, it has been suspended this year, and we are waiting for the stabilization of its opening and planning to modify the intervention format. We prepared for the Junior Robotics French Cup, but the regional competition was canceled at the last minute, so we couldn't compete against others. <p> For this 2023-2024 school year, we are resuming with more or less the same ingredients: <ul><li>The Saturday digital workshop</li><li>Robotics competitions: <li>The <a href='https://first.global/fgc/'>FIRST Global Challenge</a> in Singapore in early October 2023</li><li>The <a href='https://robotiquefirstfrance.org/le-defi-robotique-2024/'>FIRST Tech Challenge</a> in Lyon in early April 2024</li></li><li>Continuing free membership for high school students interested in communication</li></ul> Furthermore, starting December 2, 2023, we are changing locations and you can find us <a href='https://www.openstreetmap.org/node/7510411804'>on Avenue du Printemps de Prague</a> in Gaillon.</p><p>You can contact us via <a href='https://werobot.fr/contact-us'>our form</a> and to join, you can do it directly <a href='https://www.helloasso.com/associations/we-robot/adhesions/we-robot-2023-24'>online here</a>.</p>"
+
+  [languages.en.params.landing.mission]
+  title = "Our goal"
+  content = "Our main purpose is the playful education of teenagers in the fields of STEAM.<br>We have teams of motivated students participate in national and internation robotic competitions.<br>At the same time, we propose an initiation into robotics for children from 8 to 12 years old."
+  action = "See more..."
+
+  [languages.en.params.landing.support]
+  title = "Support us"
+  content = "Robotics is an expensive activity. It requires a lot of hardware (engines, sensors, mechanical elements, electronic boards, tools, nuts and bolts, computer ...).<br>Moreover, travel, especially internationally, is not within everyone's reach.<br>That's why we are always looking for partners and financial support."
+  action = "Donate"
+
 
   [languages.en.params.blog]
   title = "Blog"
@@ -110,7 +127,7 @@ description= "This page doesn't exist"
 changefreq = 'weekly'
 
 [params]
-mainSections= "posts"
+mainSections= "blog"
 error404message = "Page non trouvée"
 dateFmt = "02.01.2006 15:04"
 slogan = "La Robotique, ensemble"
@@ -158,7 +175,7 @@ title = "Construire, tester,apprendre, déployer"
 
 [params.defaultImage] 
 local = true
-src = "cover/cover.jpg"
+src = "cover/cover.png"
 
 
 

@@ -12,7 +12,7 @@
 		    {{ range .Paginator.Pages }}
 		    <li class="news-item">
                 <a href="{{ .RelPermalink }}" class="news-item__image">
-                    {{ $featuredImage := (resources.Get (printf "%s" ("cover/cover.jpg" | safeURL))) }}
+                    {{ $featuredImage := (resources.Get (printf "%s" ("cover/cover.png" | safeURL))) }}
                     
                     {{ if .Params.featured_image }}
                         {{ $featuredImage = .Resources.GetMatch (.Params.featured_image.src | safeURL)  }}

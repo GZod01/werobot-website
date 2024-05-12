@@ -1,0 +1,19 @@
+.ol-attribution {
+  ul {
+    margin: 0 !important;
+    padding: .5em !important;
+    line-height: normal;
+    font-size: small;
+  }
+}
+
+.about-place-map {
+  width: 50em;
+  height: 30em;
+}
+
+@media (max-width: $responsive-small) {
+  .about-place-map {
+    width: 100%;
+  }
+}

@@ -57,26 +57,31 @@
       </div>
     </div>
     <div class="header-locale-container">
-      <div
-        id="h"
-        class="footer-locale ">
-        <a
-          class="button button-primary"
-        >
-          <div class="button-icon">
-            <i class="fa fas fa-flag"></i>
-          </div>
-          <div
-            class="link button-text">
-            <!-- <span> -->
-            <!--   English -->
-            <!-- </span> -->
-            <span>
-              Français
-            </span>
-          </div>
-        </a>
-      </div>
+	<div
+		id="h"
+		class="footer-locale">
+	    {{ $nextlangcode := .Language.Params.nextlang }}
+	    {{ $nextlang := . }}
+	    {{ range .Translations }}
+	    {{ if (eq .Lang $nextlangcode) }}
+	    {{ $nextlang = . }}
+	    {{ end }}
+	    {{ end }} 
+	    <a
+		    class="button button-primary"
+		    href="{{ $nextlang.Permalink }}"
+		    >
+		    <div class="button-icon">
+			<i class="fa fas fa-flag"></i>
+		    </div>
+		    <div
+			    class="link button-text">
+			<span>
+			    {{ $nextlang.Language.LanguageName }}
+			</span>
+		    </div>
+	    </a>
+	</div>
     </div>
   </div>
 </div>

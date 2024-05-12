@@ -21,10 +21,8 @@
   transform: scale(1.2);
 }
 
-//.content-container {
-//}
 
-.content-container.not-complete {
+.page-container.not-complete {
   position: relative;
   top: 97px;
   padding-bottom: 97px;
@@ -122,18 +120,6 @@
       margin-top: .75em;
       margin-bottom: 0.5em;
     }
-  }
-
-  figure {
-    img {
-      margin-bottom: 0;
-      padding-bottom: 0.5rem !important;
-    }
-    figcaption {
-      text-align: center;
-      font-size: 0.9em;
-    }
-    margin-bottom: 2rem;
   }
 }
 
