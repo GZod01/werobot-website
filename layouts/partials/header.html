@@ -28,60 +28,16 @@
       </div>
     </div>
     <div class="header-nav">
+	{{ range .Site.Menus.main.ByWeight }}
       <div class="header-nav-item">
         <a
-          href="/"
-          class="link">
-            Home
-        </a>
+		href="{{ .URL }}"
+		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }}">{{ .Title }}</a>
       </div>
-      <div class="header-nav-item">
-        <a
-          href="/blog"
-          class="link">Blog</a>
-      </div>
-      <div class="header-nav-item">
-        <a
-          href="/about"
-          class="link">About</a>
-      </div>
-      <div class="header-nav-item">
-        <a
-          href="/contact-us"
-          class="link">Contact</a>
-      </div>
-      <div class="header-nav-item">
-        <a
-          href="/donate"
-          class="link link-primary">Donate</a>
-      </div>
+      {{ end }}
     </div>
     <div class="header-locale-container">
-	<div
-		id="h"
-		class="footer-locale">
-	    {{ $nextlangcode := .Language.Params.nextlang }}
-	    {{ $nextlang := . }}
-	    {{ range .Translations }}
-	    {{ if (eq .Lang $nextlangcode) }}
-	    {{ $nextlang = . }}
-	    {{ end }}
-	    {{ end }} 
-	    <a
-		    class="button button-primary"
-		    href="{{ $nextlang.Permalink }}"
-		    >
-		    <div class="button-icon">
-			<i class="fa fas fa-flag"></i>
-		    </div>
-		    <div
-			    class="link button-text">
-			<span>
-			    {{ $nextlang.Language.LanguageName }}
-			</span>
-		    </div>
-	    </a>
-	</div>
+	{{ partial "locales-list.html" }}
     </div>
   </div>
 </div>

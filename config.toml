@@ -23,7 +23,7 @@ languageName="English"
 nextlang="fr"
 keywords = ["Gaillon", "Robotic", "We Robot", "France", "Association", "Local"]
 slogan = "Robotic, together"
-footer_description = """
+description = """
 Created in 2017, local association of robotic for youth, based in Gaillon, France. We participate to international and national competitions, winner of First Global Contest in Washington DC in 2017 and of World Adolescent Robotic Contest in Guyiang, China in 2018.
 """
 home = "Home"
@@ -36,7 +36,7 @@ loading = "Loading..."
 more = "See more..."
 page-not-supported = "We are sorry this page is not supported in your language yet."
 [languages.en.params.landing]
-title = "Build, test,learn, deploy"
+title = "Build, test, learn, deploy"
 
   [languages.en.params.landing.edito]
   title = "Edito"
@@ -132,7 +132,7 @@ error404message = "Page non trouvée"
 dateFmt = "02.01.2006 15:04"
 slogan = "La Robotique, ensemble"
 favicon = "/images/logo.png"
-footer_description = """
+description = """
 Créée en 2017, association locale de robotique pour les jeunes, basée à Gaillon en France. Nous participons à des concours nationaux ou internationaux, gagnant d'un prix au First Global Contest à Washington DC en 2017 et du World Adolescent Robotic Contest à Guyiang, Chine en 2018
 """
 home = "Accueil"
@@ -156,7 +156,7 @@ title="Vous vous êtes perdu ?"
 description= "Cette page n'existe pas ou plus"
 
 [params.landing]
-title = "Construire, tester,apprendre, déployer"
+title = "Construire, tester, apprendre, déployer"
 
   [params.landing.edito]
   title = "Edito"
@@ -255,42 +255,90 @@ imtag = 'imtags'
 
 [menus]
 
+[[menus.main]]
+weight=1
+url="/"
+identifier="home"
+title="Accueil"
+
+[[menus.main]]
+weight=2
+identifier="blog"
+url="/blog"
+title="Blog"
+
+[[menus.main]]
+weight=3
+identifier="about"
+url="/about"
+title="A Propos"
+
+[[menus.main]]
+weight=4
+identifier="contact"
+url="/contact"
+title="Contact"
+
+[[menus.main]]
+weight=5
+identifier="donate"
+url="/donate"
+title="Donner"
+[menus.main.params]
+customClass="link-primary"
+
+
 [[menus.footer_left]]
+weight=1
+identifier="home"
 name="Accueil"
 url="/"
 
 [[menus.footer_left]]
+weight=2
+identifier="blog"
 name="Blog"
-url="/posts"
+url="/blog"
 
 [[menus.footer_left]]
+weight=3
+identifier="photos"
 name="Photos"
 url="/photos"
 
 [[menus.footer_left]]
+weight=4
+identifier="donate"
 name="Donner"
 url="/donate"
 
 [[menus.footer_right]]
+weight=1
+identifier="about"
 name="À Propos"
 url="/about"
 
 [[menus.footer_right]]
+weight=2
+identifier="where"
 name="Où sommes nous"
 url="/about#place"
 
 [[menus.footer_right]]
+weight=3
+identifier="contact"
 name="Nous contacter"
 url="/contact"
 
 [[menus.footer_right]]
+weight=4
+identifier="legals"
 name="Mentions Légales"
 url="/legals"
 
-# theme = "custom"
 
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = true
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 

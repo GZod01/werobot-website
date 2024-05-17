@@ -35,7 +35,7 @@
                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}
 			<div>
-				{{ .Content }}
+				{{ .Content | safeHTML }}
 			</div>
 		</article>
 	</main>

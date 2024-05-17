@@ -1,3 +1,22 @@
 {{ define "main" }}
-<h1>{{ i18n "error/not-found/message" }}</h1>
+{{ $error:=(index (where .Site.Params.errors "id" "=" "404") 0)}}
+<div class="header-border">
+    <div class="container mx-auto error-container">
+      <div class="error">
+        <div class="error-icon">
+          <i class="fa fas fa-exclamation-circle"></i>
+        </div>
+        <div class="error-content">
+          <div>
+            <h2 class="error-title">
+              {{ $error.title }}
+            </h2>
+            <p class="error-description">
+              {{ $error.description }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 {{ end }}

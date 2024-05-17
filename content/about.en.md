@@ -12,7 +12,7 @@ After three months spent building, training and communicating, we finally met th
 ### 2017-2018 season
 
 <div class="d-flex justify-center">
-  <img alt="Our old logo" data-src="https://s.werobot.fr/old_logo.png" title="Our old logo" width="100" />
+  <img alt="Our old logo" src="https://s.werobot.fr/old_logo.png" title="Our old logo" width="100" />
 </div>
 
 We participated in two competitions :
@@ -54,7 +54,7 @@ This year, the workshop at the community center only occurred sporadically as it
 <div class="team-mosaic">
   <div class="team-item">
     <div class="team-item-image">
-      <img data-src="https://static.werobot.fr/profiles/franck.jpg" alt="avatar">
+      <img src="https://static.werobot.fr/profiles/franck.jpg" alt="avatar">
     </div>
     <p class="team-item-title">Franck</p>
     <p class="team-item-description">President, Coach</p>
@@ -62,7 +62,7 @@ This year, the workshop at the community center only occurred sporadically as it
 
   <div class="team-item">
     <div class="team-item-image">
-      <img data-src="https://static.werobot.fr/profiles/francois.jpg" alt="avatar">
+      <img src="https://static.werobot.fr/profiles/francois.jpg" alt="avatar">
     </div>
     <p class="team-item-title">François</p>
     <p class="team-item-description">Treasurer, Coach</p>
@@ -70,7 +70,7 @@ This year, the workshop at the community center only occurred sporadically as it
 
   <div class="team-item">
     <div class="team-item-image">
-      <img data-src="https://static.werobot.fr/profiles/katia.jpg" alt="avatar">
+      <img src="https://static.werobot.fr/profiles/katia.jpg" alt="avatar">
     </div>
     <p class="team-item-title">Katia</p>
     <p class="team-item-description">Secretary</p>
@@ -78,7 +78,7 @@ This year, the workshop at the community center only occurred sporadically as it
   
 <div class="team-item">
 <div class="team-item-image">
-  <img data-src="https://static.werobot.fr/profiles/matthieu.jpg" alt="avatar">
+  <img src="https://static.werobot.fr/profiles/matthieu.jpg" alt="avatar">
 </div>
 <p class="team-item-title">Matthieu</p>
 <p class="team-item-description">Alumni, Coach</p>
@@ -86,7 +86,7 @@ This year, the workshop at the community center only occurred sporadically as it
 
 <div class="team-item">
   <div class="team-item-image">
-    <img data-src="https://static.werobot.fr/profiles/mohamed.jpg" alt="avatar">
+    <img src="https://static.werobot.fr/profiles/mohamed.jpg" alt="avatar">
   </div>
   <p class="team-item-title">Mohamed</p>
   <p class="team-item-description">Alumni, Coach</p>
@@ -100,7 +100,7 @@ This year, the workshop at the community center only occurred sporadically as it
 <div class="partners">
   <div class="partner flex flex-wrap">
     <div class="w-full md:w-1/3 partner-image">
-      <img data-src="https://s.werobot.fr/logoGIGAreduit.png">
+      <img src="https://s.werobot.fr/logoGIGAreduit.png">
     </div>
     <div class="w-full md:w-2/3">
       Since October 2017, the GIGA supports us. We presented them our organization in their general assembly and have had a great financial support from them for our travels ans purchase of equipment.
@@ -110,7 +110,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://uimm.lafabriquedelavenir.fr/">
-      <img data-src="https://s.werobot.fr/UIMMfabriqueMetiers.jpg">
+      <img src="https://s.werobot.fr/UIMMfabriqueMetiers.jpg">
     </a>
     <div class="w-full md:w-2/3">
       <div>
@@ -120,7 +120,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div> -->
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://www.papavoine-menuiserie.com/">
-      <img data-src="https://s.werobot.fr/papavoine.jpg">
+      <img src="https://s.werobot.fr/papavoine.jpg">
     </a>
     <div class="w-full md:w-2/3">
       <div>
@@ -130,7 +130,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://www.girv.com/">
-      <img data-src="https://s.werobot.fr/girv.png">
+      <img src="https://s.werobot.fr/girv.png">
     </a>
     <div class="w-full md:w-2/3">
       <div>
@@ -140,7 +140,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://www.ariane.group">
-      <img data-src="https://s.werobot.fr/arianegroup_lg.png">
+      <img src="https://s.werobot.fr/arianegroup_lg.png">
     </a>
     <div class="w-full md:w-2/3">
       Ariane Group Vernon helped to buy us a 3D printer in february 2019.
@@ -148,7 +148,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <!-- <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://marianneurope.fr/">
-      <img data-src="https://s.werobot.fr/marianneEurope.png">
+      <img src="https://s.werobot.fr/marianneEurope.png">
     </a>
     <div class="w-full md:w-2/3">
       <div>
@@ -158,7 +158,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div> -->
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="http://www.ville-gaillon.fr/">
-      <img data-src="https://s.werobot.fr/logoVilleGaillon.jpg">
+      <img src="https://s.werobot.fr/logoVilleGaillon.jpg">
     </a>
     <div class="w-full md:w-2/3">
       At the beginning of the 2017-2018 season, the city hall of Gaillon granted us a small subsidy.
@@ -167,7 +167,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://www.skf.com/fr">
-      <img data-src="https://s.werobot.fr/skf.png">
+      <img src="https://s.werobot.fr/skf.png">
     </a>
     <div class="w-full md:w-2/3">
       SKF Vernon helped to buy us a 3D printer in february 2019.
@@ -175,7 +175,7 @@ This year, the workshop at the community center only occurred sporadically as it
   </div>
   <div class="partner flex flex-wrap">
     <a class="w-full md:w-1/3 partner-image" href="https://www.atiscomputer.com">
-      <img data-src="https://s.werobot.fr/atisComputer.jpg">
+     <img src="https://s.werobot.fr/atisComputer.jpg">
     </a>
     <div class="w-full md:w-2/3">
       Helps us since april 2019. They already gave us 2 <a href="https://www.raspberrypi.org/">Raspberry Pi</a> 3B+ and some computers.

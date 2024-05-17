@@ -1,8 +1,5 @@
-{{- $title := partialCached "data/title" . .RelPermalink -}}
-{{- $description := partialCached "data/description" . .RelPermalink -}}
-
-<meta property='og:title' content='{{ $title }}'>
-<meta property='og:description' content='{{ $description }}'>
+<meta property='og:title' content='{{ if page.Title }}{{ page.Title }}{{ else }}{{ site.Title }}{{ end }}'>
+<meta property='og:description' content='{{ if page.Description }}{{ page.Description }}{{ else }}{{ site.Params.description }}{{ end }}'>
 <meta property='og:url' content='{{ .Permalink }}'>
 <meta property='og:site_name' content='{{ .Site.Title }}'>
 <meta property='og:type' content='

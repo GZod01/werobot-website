@@ -28,7 +28,7 @@
                 </div>
 
                 <div class="footer-description">
-		    {{ .Site.Params.footer_description }}
+		    {{ .Site.Params.description }}
                 </div>
               </div>
             </div>
@@ -86,31 +86,7 @@
                 {{ partial "svg" "github" }}
             </a>
           </div>
-          <div
-            id="h"
-            class="footer-locale">
-	      {{ $nextlangcode := .Language.Params.nextlang }}
-	      {{ $nextlang := . }}
-	      {{ range .Translations }}
-	      {{ if (eq .Lang $nextlangcode) }}
-	      {{ $nextlang = . }}
-	      {{ end }}
-	      {{ end }} 
-            <a
-              class="button button-primary"
-	      href="{{ $nextlang.Permalink }}"
-	      >
-              <div class="button-icon">
-                <i class="fa fas fa-flag"></i>
-              </div>
-              <div
-                class="link button-text">
-                  <span>
-		      {{ $nextlang.Language.LanguageName }}
-		  </span>
-              </div>
-            </a>
-          </div>
+	  {{ partial "locales-list.html" }}
         </div>
       </div>
     </div>

@@ -1,8 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{{- $description := partialCached "data/description" . .RelPermalink -}}
-<meta name="description" content="{{ $description }}">
+<meta name="description" content="{{ if page.Description }}{{ page.Description }}{{ else }}{{ site.Params.description }}{{ end }}">
 
 {{- with .Site.Params.author -}}
 <meta name="author" content="{{ . }}">

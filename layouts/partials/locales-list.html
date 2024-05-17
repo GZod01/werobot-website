@@ -1,0 +1,31 @@
+<div
+	id="h"
+	class="footer-locale">
+    {{ $nextlangcode := page.Language.Params.nextlang }}
+    {{ $nextlang := page }}
+    {{ $nextlangurl := (strings.ReplaceRE "(/en|/fr)/(.*)" "$2" page.RelPermalink)}}
+    {{ $nextlangurl :=  (printf "/%s%s" $nextlangcode $nextlangurl)}}
+    {{ $nextlangpage := (page.GetPage $nextlangurl) }}
+    {{ with $nextlangpage }}
+    {{ $nextlang = . }}
+    {{ end }}
+    {{ range page.Translations }}
+    {{ if (eq .Lang $nextlangcode) }}
+    {{ $nextlang = . }}
+    {{ end }}
+    {{ end }} 
+    <a
+	    class="button button-primary"
+	    href="{{ $nextlang.Permalink }}"
+	    >
+	    <div class="button-icon">
+		<i class="fa fas fa-flag"></i>
+	    </div>
+	    <div
+		    class="link button-text">
+		<span>
+		    {{ $nextlang.Language.LanguageName }}
+		</span>
+	    </div>
+    </a>
+</div>
