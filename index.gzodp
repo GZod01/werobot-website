@@ -1,4 +1,6 @@
 <?php
+$medias = [];
+if(!isset($_SESSION["medias"])){
 $opts = [
     "http" => [
 	"method" => "GET",
@@ -6,7 +8,7 @@ $opts = [
     ]
 ];
 $context = stream_context_create($opts);
-$u = "https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables=%7B%22id%22%3A%225408546825%22,%20%22first%22%3A%2250%22,%20%22after%22%3A%20%22%22%7D";
+$u = "test.json";//"https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables=%7B%22id%22%3A%225408546825%22,%20%22first%22%3A%2250%22,%20%22after%22%3A%20%22%22%7D";
 $json = file_get_contents($u, false, $context);
 $data = json_decode($json, true);
 $raw = $data['data']['user']['edge_owner_to_timeline_media']['edges'];
@@ -28,6 +30,24 @@ foreach ($raw as $rawMedia) {
 	'taken_at'  => $rawMedia['taken_at_timestamp']
     ];
 }
+$_SESSION["medias"]=json_encode($medias);
+}
+$medias = json_decode($_SESSION["medias"],true);
+if(isset($_GET["id"])){
+    $newarr = [];
+    foreach($medias as $k => $v){
+	$newarr[$v['id']] = $v;
+    }
+    if(!isset($newarr[$_GET["id"]]) and !in_array($_GET["id"],$newarr)){
+	die(print_r($newarr,true));
+    }
+    header('Content-Type: image/png');
+    die( file_get_contents($newarr[$_GET["id"]]["thumbnail"]));
+}
+if(isset($_GET["limit"])){
+    $limit = intval($_GET["limit"]);
+    $medias = array_slice($medias, 0, $limit);
+}
 ?>
 <div
 class="photos-list-photos">
@@ -35,7 +55,7 @@ class="photos-list-photos">
 foreach($medias as $m){
 ?>
 <a
-style="background-image:url(<?=$m["thumbnail"]?>);"
+style="background-image:url(/getallphotos?id=<?=$m["id"]?>);"
 title="<?=$m["caption"]?>"
 class="photos-list-item"
 href="<?=$m["link"]?>"

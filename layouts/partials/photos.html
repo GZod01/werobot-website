@@ -8,10 +8,10 @@
 	</div>
     </div>
 </div>
-<script>
+<script defer>
     function loadimages(){
 	    var http = new XMLHttpRequest();
-	    var url = '/getallphotos';
+	    var url = '/getallphotos{{ if .limit }}?limit={{ .limit }}{{ end }}';
 	    http.open('GET', url, false);
 	    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 	    http.onreadystatechange = function() {//Call a function when the state changes.
@@ -23,4 +23,5 @@
 		}
 	    http.send();
 	}
+	loadimages();
 </script>
