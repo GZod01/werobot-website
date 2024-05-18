@@ -9,10 +9,6 @@
     {{ if .ammount }}
     {{ $ammount = (cast.ToInt .ammount) }}
     {{ end }}
-    {{ if (.Get 2) }}
-    {{ debug.Dump (.Get 2) }}
-    {{ $ammount = (cast.ToInt (.Get 2) )}}
-    {{ end }}
     {{  if (eq (len $allposts) 0)  }} 
     <div
         class="section-error-container transition-child"
@@ -25,7 +21,11 @@
       {{ else }}
       <div
         class="articles">
-	{{ range $index, $article := ($context.Page.Paginate $allposts (cast.ToInt $ammount)).Pages }}
+	{{ $pageslist := (first $ammount $allposts )}}
+	{{ if .pagination }}
+	{{ $pageslist = ($context.Page.Paginate $allposts (cast.ToInt $ammount)).Pages }}
+	{{ end }}
+	{{ range $index, $article := $pageslist }}
 	<a class=article href="{{ $article.RelPermalink }}">
           <article>
             <div
