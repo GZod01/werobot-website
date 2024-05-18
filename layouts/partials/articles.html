@@ -5,6 +5,10 @@
     {{ $allposts :=  (where site.RegularPages "Section" "=" "blog")}}
     {{ $allposts = $allposts.ByDate.Reverse }}
     {{ $context := (page.GetPage "/blog")}}
+    {{ $ammount := 9 }}
+    {{ if .ammount }}
+    {{ $ammount := (cast.ToInt .ammount) }}
+    {{ end }}
     {{  if (eq (len $allposts) 0)  }} 
     <div
         class="section-error-container transition-child"
@@ -17,7 +21,7 @@
       {{ else }}
       <div
         class="articles">
-	{{ range $index, $article := ($context.Page.Paginate $allposts .ammount).Pages }}
+	{{ range $index, $article := ($context.Page.Paginate $allposts (cast.ToInt $ammount)).Pages }}
 	<a class=article href="{{ $article.RelPermalink }}">
           <article>
             <div
