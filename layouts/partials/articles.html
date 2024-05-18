@@ -7,7 +7,7 @@
     {{ $context := (page.GetPage "/blog")}}
     {{ $ammount := 9 }}
     {{ if .ammount }}
-    {{ $ammount := (cast.ToInt .ammount) }}
+    {{ $ammount = (cast.ToInt .ammount) }}
     {{ end }}
     {{  if (eq (len $allposts) 0)  }} 
     <div
