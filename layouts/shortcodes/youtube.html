@@ -4,5 +4,5 @@
 {{ else if (.Get "src") }}
 {{ $code = (.Get "src") }}
 {{ $code = (strings.ReplaceRE `(http(?:s)?:\/\/(?:www\.)?youtu(?:(?:be\.com)|(?:\.be))|(?:be-nocookie\.com))\/(?:(?:watch\?v=)|(?:embed\/)|(?:\/v\/))?(.+)?(?:\&|\?)` "" $code) }}
-<a class=youtubelink href="https://youtu.be/{{ $code }}"><img src="http://i3.ytimg.com/vi/{{ $code }}/hqdefault.jpg"/></a>
 {{ end }}
+<a class=youtubelink href="https://youtu.be/{{ $code }}"><img src="http://i3.ytimg.com/vi/{{ $code }}/hqdefault.jpg"/></a>

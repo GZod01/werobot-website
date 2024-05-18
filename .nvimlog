@@ -1,1 +1,2 @@
 WARN  2024-05-18T09:36:35.325 329730 log_path_init:95: Failed to create directory /var/www/.cache for writing logs: Unknown system error 1
+WARN  2024-05-18T18:18:09.860 1425503 log_path_init:95: Failed to create directory /var/www/.cache for writing logs: Unknown system error 1
