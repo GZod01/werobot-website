@@ -10,6 +10,7 @@
     {{ $ammount = (cast.ToInt .ammount) }}
     {{ end }}
     {{ if (.Get 2) }}
+    {{ debug.Dump (.Get 2) }}
     {{ $ammount = (cast.ToInt (.Get 2) }}
     {{ end }}
     {{  if (eq (len $allposts) 0)  }} 
