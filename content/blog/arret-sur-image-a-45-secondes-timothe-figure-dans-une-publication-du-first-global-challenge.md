@@ -1,8 +1,8 @@
 ---
 title: "Arrêt sur image à 45 secondes : Timothé figure dans une publication du FIRST Global Challenge !"
-date: "2024-05-11T06:48:06+02:00"
-lastmod: "2024-05-18T16:19:31+02:00"
-lastupdate: "2024-05-18T16:19:31+02:00"
+date: "2024-05-11T02:48:06+02:00"
+lastmod: "2024-05-18T16:24:46+02:00"
+lastupdate: "2024-05-18T16:24:46+02:00"
 author: "GZod01"
 authors: ["GZod01"]
 facebook_author: "false"
@@ -10,9 +10,9 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: " 
-Timothé, un membre de notre équipe est très récemment apparu dans l’une des dernières vidéos du &lt;i&gt;FIRST&lt;/i&gt;  Global Challenge visant à faire reconnaître la robotique comme étant un sport officiel. "
-baneer: "false"
+description: "  Timothé, un membre de notre équipe est très récemment apparu dans l’une des dernières vidéos du &amp;amp;lt;i&amp;amp;gt;FIRST&amp;amp;lt;/i&amp;amp;gt;  Global Challenge visant à faire reconnaître la robotique comme étant un sport officiel. "
+baneer: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
+banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
 draft: false 
 
 ---
@@ -30,11 +30,6 @@ C’est en tous cas une immense fierté pour notre équipe d’apparaître dans 
 
 La vidéo avec notre superstar est disponible ici : 
 
-{{<youtube code="Ljup-TK_tZ">}}
-{{/*
-<center>
-<iframe class="youtube-player" width="1060" height="597" 
-src="https://www.youtube.com/embed/Ljup-TK_tZY?
-si=OTt1S-JNfMcyMN_e" title="YouTube video player" frameborder="0" allow="accelerometer;clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
-*/}}
+{{<youtube code="Ljup-TK_tZY">}}
+
+
