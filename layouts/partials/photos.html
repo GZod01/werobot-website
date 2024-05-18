@@ -1,34 +1,26 @@
-{{ $photos := (resources.Match "posts/*")}}  {{/*resources.ByType "image" */}}
-  <div class="transition-parent photos-list">
-      {{ if (or (eq $photos nil) (eq (len $photos) 0))}}
-      <div
-        class="transition-child section-error-container"
-        style="height: 100%;">
-        <div class="section-error-content">
-          <i class="fa fas fa-times-circle"></i>
-          {{ .Site.Params.photos.empty }}
-        </div>
-      </div>
-      {{ else }}
-      <div
-        class="photos-list-photos">
-	  {{ range $photos }}
-        <a
-	  style="background-image:url({{ .RelPermalink }});"
-	  title="{{ .Name }}"
-          class="photos-list-item"
-	  href="{{ .RelPermalink }}"
-	  target="_blank"
-        >
-        </a>
-	    {{ end  }}
-      </div>
-      {{ end }}
-    <no-ssr>
-      <vue-gallery-slideshow
-        :images="photosSlideShow"
-        :index="index"
-        @close="index = null"
-      ></vue-gallery-slideshow>
-    </no-ssr>
-  </div>
+<div id=photoslist class="transition-parent photos-list">
+    <div
+	    class="transition-child section-error-container"
+	    style="height: 100%;">
+	<div class="section-error-content">
+	    <i class="fa fas fa-times-circle"></i>
+	    {{ .Site.Params.photos.empty }}
+	</div>
+    </div>
+</div>
+<script>
+    function loadimages(){
+	    var http = new XMLHttpRequest();
+	    var url = '/getallphotos';
+	    http.open('GET', url, false);
+	    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+	    http.onreadystatechange = function() {//Call a function when the state changes.
+		    if(http.readyState == 4 && http.status == 200) {
+			    let responsehtml = http.responseText;
+			    document.querySelector("#photoslist").innerHTML = responsehtml;
+			}
+
+		}
+	    http.send();
+	}
+</script>
