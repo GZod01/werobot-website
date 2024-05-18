@@ -9,6 +9,9 @@
     {{ if .ammount }}
     {{ $ammount = (cast.ToInt .ammount) }}
     {{ end }}
+    {{ if (.Get 2) }}
+    {{ $ammount = (cast.ToInt (.Get 2) }}
+    {{ end }}
     {{  if (eq (len $allposts) 0)  }} 
     <div
         class="section-error-container transition-child"
