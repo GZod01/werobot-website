@@ -1,7 +1,7 @@
 ---
 title: "C'est la rentrée à la maison de quartier"
-date: 2019-09-15 11:04:02
-lastupdate: 2019-09-15 11:04:02
+date: "2019-09-15 11:04:02"
+lastupdate: "2019-09-15 11:04:02"
 banner: "https://static.werobot.fr/blog/bob-ross/5d7df8d745ab6/50.jpg"
 slug: "cest-la-rentree-a-la-maison-de-quartier"
 description: " 

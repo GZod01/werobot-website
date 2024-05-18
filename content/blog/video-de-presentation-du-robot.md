@@ -1,7 +1,7 @@
 ---
 title: "Vidéo de présentation du robot"
-date: 2017-06-22 12:16:02
-lastupdate: 2019-01-19 10:30:21
+date: "2017-06-22 12:16:02"
+lastupdate: "2019-01-19 10:30:21"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e467966b49/original.jpg"
 slug: "video-de-presentation-du-robot"
 description: " 

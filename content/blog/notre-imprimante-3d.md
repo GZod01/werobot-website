@@ -1,7 +1,7 @@
 ---
 title: "Notre Imprimante 3D"
-date: 2019-02-24 08:23:43
-lastupdate: 2019-03-26 18:34:13
+date: "2019-02-24 08:23:43"
+lastupdate: "2019-03-26 18:34:13"
 banner: "https://static.werobot.fr/blog/bob-ross/5c72444be58ce/50.jpg"
 slug: "notre-imprimante-3d"
 description: " 

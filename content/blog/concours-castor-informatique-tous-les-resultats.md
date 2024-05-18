@@ -1,7 +1,7 @@
 ---
 title: "Concours Castor INFORMATIQUE / Tous les résultats !"
-date: 2023-01-20 23:00:00
-lastupdate: 2023-01-21 11:57:36
+date: "2023-01-20 23:00:00"
+lastupdate: "2023-01-21 11:57:36"
 banner: "https://static.werobot.fr/blog/bob-ross/6395f293538d9/50.png"
 slug: "concours-castor-informatique-tous-les-resultats"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "First Tech Challenge - Lyon"
-date: 2024-04-19 15:04:38
-lastupdate: 2024-04-20 00:39:19
+date: "2024-04-19 15:04:38"
+lastupdate: "2024-04-20 00:39:19"
 banner: "https://static.werobot.fr/blog/bob-ross/6622a1cf3e578/50.png"
 slug: "first-tech-challenge-lyon"
 description: " 

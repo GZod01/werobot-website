@@ -1,7 +1,7 @@
 ---
 title: "Our new facilities"
-date: 2019-04-13 22:46:36
-lastupdate: 2019-04-13 23:01:13
+date: "2019-04-13 22:46:36"
+lastupdate: "2019-04-13 23:01:13"
 banner: "https://static.werobot.fr/blog/bob-ross/5cb1d5fce540c/50.jpg"
 slug: "our-new-facilities"
 description: " 

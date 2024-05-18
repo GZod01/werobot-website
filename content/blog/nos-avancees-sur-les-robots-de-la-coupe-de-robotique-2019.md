@@ -1,7 +1,7 @@
 ---
 title: "Nos avancées sur les robots de la coupe de robotique 2019"
-date: 2019-02-14 15:06:21
-lastupdate: 2019-02-14 15:10:26
+date: "2019-02-14 15:06:21"
+lastupdate: "2019-02-14 15:10:26"
 banner: "https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/75.jpg"
 slug: "nos-avancees-sur-les-robots-de-la-coupe-de-robotique-2019"
 description: " 

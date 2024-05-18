@@ -1,7 +1,7 @@
 ---
 title: "TR2019 - Qualification à Caen"
-date: 2019-03-24 00:00:00
-lastupdate: 2021-08-31 09:38:18
+date: "2019-03-24 00:00:00"
+lastupdate: "2021-08-31 09:38:18"
 banner: "https://static.werobot.fr/blog/bob-ross/5ca888851bd47/50.jpg"
 slug: "tr2019-qualification-a-caen"
 description: " 

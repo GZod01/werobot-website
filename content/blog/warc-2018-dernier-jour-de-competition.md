@@ -1,7 +1,7 @@
 ---
 title: "WARC 2018 - Dernier jour de compétition"
-date: 2018-07-23 11:50:03
-lastupdate: 2019-01-19 10:30:27
+date: "2018-07-23 11:50:03"
+lastupdate: "2019-01-19 10:30:27"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e44fe30cb2/50.jpg"
 slug: "warc-2018-dernier-jour-de-competition"
 description: " 

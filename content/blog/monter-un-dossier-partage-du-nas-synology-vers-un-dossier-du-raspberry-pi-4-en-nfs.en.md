@@ -1,7 +1,7 @@
 ---
 title: "Mount a Synology NAS shared folder to a Raspberry PI 4 folder with NFS"
-date: 2024-01-18 10:00:00
-lastupdate: 2024-02-08 15:05:35
+date: "2024-01-18 10:00:00"
+lastupdate: "2024-02-08 15:05:35"
 banner: "https://static.werobot.fr/blog/bob-ross/65b04b1d03f30/50.png"
 slug: "mount-a-synology-nas-shared-folder-to-a-raspberry-pi-4-folder-with-nfs"
 description: " 

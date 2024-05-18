@@ -1,7 +1,7 @@
 ---
 title: "The final part of the kit is here"
-date: 2017-05-29 00:00:00
-lastupdate: 2019-01-19 10:30:34
+date: "2017-05-29 00:00:00"
+lastupdate: "2019-01-19 10:30:34"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4698e43bb/original.jpg"
 slug: "the-final-part-of-the-kit-is-here"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Brainstorming"
-date: 2017-04-29 05:35:49
-lastupdate: 2019-01-19 10:30:31
+date: "2017-04-29 05:35:49"
+lastupdate: "2019-01-19 10:30:31"
 banner: "https://static.wixstatic.com/media/4d79d8_f16726dc99b94a9aaa5964b27c9eb42c~mv2.gif"
 slug: "brainstorming"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Résologik : un partenaire actif pour l'éducation au numérique"
-date: 2019-12-04 16:09:50
-lastupdate: 2021-08-31 09:24:11
+date: "2019-12-04 16:09:50"
+lastupdate: "2021-08-31 09:24:11"
 banner: "https://static.werobot.fr/blog/bob-ross/5de7d3f480842/50.jpg"
 slug: "resologik-un-partenaire-actif-pour-leducation-au-numerique"
 description: " 

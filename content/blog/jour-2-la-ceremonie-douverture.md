@@ -1,7 +1,7 @@
 ---
 title: "Jour 2 - La cérémonie d'ouverture"
-date: 2017-07-16 02:49:31
-lastupdate: 2019-01-19 10:30:23
+date: "2017-07-16 02:49:31"
+lastupdate: "2019-01-19 10:30:23"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e464d89fb3/original.jpg"
 slug: "jour-2-la-ceremonie-douverture"
 description: " 

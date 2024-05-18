@@ -1,7 +1,7 @@
 ---
 title: "Our participation in the FIRST competition in luxembourg"
-date: 2019-05-24 20:33:36
-lastupdate: 2021-08-31 09:30:10
+date: "2019-05-24 20:33:36"
+lastupdate: "2021-08-31 09:30:10"
 banner: "https://static.werobot.fr/blog/bob-ross/5ce5a2c799b3f/50.jpg"
 slug: "our-participation-in-the-first-competition-in-luxembourg"
 description: " 

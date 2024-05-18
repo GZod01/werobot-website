@@ -1,7 +1,7 @@
 ---
 title: "Quatre heures non-stop de montages et d'essais"
-date: 2017-04-29 05:46:16
-lastupdate: 2019-01-19 10:30:19
+date: "2017-04-29 05:46:16"
+lastupdate: "2019-01-19 10:30:19"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46bedf0d4/50.jpg"
 slug: "quatre-heures-non-stop-de-montages-et-dessais"
 description: " 

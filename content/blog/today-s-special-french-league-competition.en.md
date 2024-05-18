@@ -1,7 +1,7 @@
 ---
 title: "Today’s Special : French League Competition ! "
-date: 2022-12-18 00:00:00
-lastupdate: 2022-12-11 16:24:55
+date: "2022-12-18 00:00:00"
+lastupdate: "2022-12-11 16:24:55"
 banner: "https://static.werobot.fr/blog/bob-ross/6395f293538d9/50.png"
 slug: "today-s-special-french-league-competition"
 description: " 

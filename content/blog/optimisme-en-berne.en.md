@@ -1,7 +1,7 @@
 ---
 title: " Lower optimism"
-date: 2017-06-13 09:45:52
-lastupdate: 2019-01-19 10:30:35
+date: "2017-06-13 09:45:52"
+lastupdate: "2019-01-19 10:30:35"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e468698f38/original.jpg"
 slug: "lower-optimism"
 description: " 

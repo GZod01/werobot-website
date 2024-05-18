@@ -1,7 +1,7 @@
 ---
 title: "Back to robots at the comunity center"
-date: 2019-09-15 11:04:02
-lastupdate: 2019-09-15 11:18:50
+date: "2019-09-15 11:04:02"
+lastupdate: "2019-09-15 11:18:50"
 banner: "https://static.werobot.fr/blog/bob-ross/5d7df8d745ab6/50.jpg"
 slug: "back-to-robots-at-the-comunity-center"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "French Robotic Cup"
-date: 2020-10-21 16:50:44
-lastupdate: 2020-10-21 17:10:38
+date: "2020-10-21 16:50:44"
+lastupdate: "2020-10-21 17:10:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5f90604ad7136/50.jpg"
 slug: "french-robotic-cup"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Arrêt sur image à 45 secondes : Timothé figure dans une publication du FIRST Global Challenge !"
-date: 2024-05-11 06:48:06
-lastupdate: 2024-05-12 10:19:13
+date: "2024-05-11 06:48:06"
+lastupdate: "2024-05-12 10:19:13"
 banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
 slug: "arret-sur-image-a-45-secondes-timothe-figure-dans-une-publication-du-first-global-challenge"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "We Robot in Singapore : The debrief !"
-date: 2023-11-12 14:05:13
-lastupdate: 2024-02-07 23:28:43
+date: "2023-11-12 14:05:13"
+lastupdate: "2024-02-07 23:28:43"
 banner: "https://static.werobot.fr/blog/bob-ross/654bc47aeebff/50.jpg"
 slug: "we-robot-in-singapore-the-debrief"
 description: " 

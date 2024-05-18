@@ -1,7 +1,7 @@
 ---
 title: "Notre rentrée de la robotique 2019-2020"
-date: 2019-10-01 06:48:40
-lastupdate: 2021-08-29 16:06:08
+date: "2019-10-01 06:48:40"
+lastupdate: "2021-08-29 16:06:08"
 banner: "https://static.werobot.fr/blog/bob-ross/5d92f228efdf5/50.jpg"
 slug: "notre-rentree-de-la-robotique-2019-2020"
 description: " 

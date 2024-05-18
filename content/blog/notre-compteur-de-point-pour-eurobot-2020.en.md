@@ -1,7 +1,7 @@
 ---
 title: "Our eurobot 2020 score simulator app"
-date: 2019-09-26 20:00:53
-lastupdate: 2019-09-27 21:32:46
+date: "2019-09-26 20:00:53"
+lastupdate: "2019-09-27 21:32:46"
 banner: "https://static.werobot.fr/blog/bob-ross/5d8d18c92e617/50.png"
 slug: "our-eurobot-2020-score-simulator-app"
 description: " 

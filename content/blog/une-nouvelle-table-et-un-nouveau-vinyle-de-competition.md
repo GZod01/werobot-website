@@ -1,7 +1,7 @@
 ---
 title: "Une nouvelle table et un nouveau vinyle de compétition !"
-date: 2019-11-24 21:23:08
-lastupdate: 2021-08-31 09:23:36
+date: "2019-11-24 21:23:08"
+lastupdate: "2021-08-31 09:23:36"
 banner: "https://static.werobot.fr/blog/bob-ross/5dda28986144b/50.jpg"
 slug: "une-nouvelle-table-et-un-nouveau-vinyle-de-competition"
 description: " 

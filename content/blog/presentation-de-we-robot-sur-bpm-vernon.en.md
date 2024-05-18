@@ -1,7 +1,7 @@
 ---
 title: "We Robot at bpm Vernon "
-date: 2019-09-20 14:13:19
-lastupdate: 2019-09-26 09:48:00
+date: "2019-09-20 14:13:19"
+lastupdate: "2019-09-26 09:48:00"
 banner: "https://static.werobot.fr/blog/bob-ross/5d84db020c400/50.jpg"
 slug: "we-robot-at-bpm-vernon"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "TR2018 - Normandie Championship"
-date: 2018-03-31 05:59:31
-lastupdate: 2019-01-19 10:30:39
+date: "2018-03-31 05:59:31"
+lastupdate: "2019-01-19 10:30:39"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg"
 slug: "tr2018-normandie-championship"
 description: " 

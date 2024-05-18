@@ -1,7 +1,7 @@
 ---
 title: "Laying the table ."
-date: 2023-02-04 00:00:00
-lastupdate: 2023-03-02 18:47:10
+date: "2023-02-04 00:00:00"
+lastupdate: "2023-03-02 18:47:10"
 banner: "https://static.werobot.fr/blog/bob-ross/63cbb56e9bed7/50.png"
 slug: "laying-the-table"
 description: " 

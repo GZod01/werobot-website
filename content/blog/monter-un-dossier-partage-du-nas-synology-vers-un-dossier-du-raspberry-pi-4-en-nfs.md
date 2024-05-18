@@ -1,7 +1,7 @@
 ---
 title: "Monter un dossier partagé du NAS Synology vers un dossier du Raspberry PI 4 en NFS"
-date: 2024-01-18 01:00:00
-lastupdate: 2024-02-08 15:06:01
+date: "2024-01-18 01:00:00"
+lastupdate: "2024-02-08 15:06:01"
 banner: "https://static.werobot.fr/blog/bob-ross/65b04b1d03f30/50.png"
 slug: "monter-un-dossier-partage-du-nas-synology-vers-un-dossier-du-raspberry-pi-4-en-nfs"
 description: " 

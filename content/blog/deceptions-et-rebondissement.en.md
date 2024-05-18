@@ -1,7 +1,7 @@
 ---
 title: "Disappointment, twists and turns"
-date: 2018-06-20 09:20:53
-lastupdate: 2019-01-19 10:30:40
+date: "2018-06-20 09:20:53"
+lastupdate: "2019-01-19 10:30:40"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e45f329075/50.jpg"
 slug: "disappointment-twists-and-turns"
 description: " 

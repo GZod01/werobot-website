@@ -1,7 +1,7 @@
 ---
 title: "Récapitulatif de la saison"
-date: 2020-09-05 09:49:44
-lastupdate: 2020-09-05 09:49:44
+date: "2020-09-05 09:49:44"
+lastupdate: "2020-09-05 09:49:44"
 banner: "https://static.werobot.fr/blog/bob-ross/5f535ef7e7e84/50.jpg"
 slug: "recapitulatif-de-la-saison"
 description: " 

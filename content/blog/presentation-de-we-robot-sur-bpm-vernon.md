@@ -1,7 +1,7 @@
 ---
 title: "Présentation de We Robot sur BPM Vernon"
-date: 2019-09-20 14:13:19
-lastupdate: 2019-09-26 09:41:37
+date: "2019-09-20 14:13:19"
+lastupdate: "2019-09-26 09:41:37"
 banner: "https://static.werobot.fr/blog/bob-ross/5d84db020c400/50.jpg"
 slug: "presentation-de-we-robot-sur-bpm-vernon"
 description: " 

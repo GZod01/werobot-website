@@ -1,7 +1,7 @@
 ---
 title: "Week-end avec Bruno Papavoine"
-date: 2019-01-05 00:00:00
-lastupdate: 2019-01-06 14:37:38
+date: "2019-01-05 00:00:00"
+lastupdate: "2019-01-06 14:37:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5c2be2ffb7092/50.jpg"
 slug: "week-end-avec-bruno-papavoine"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "What's new this week-end ?"
-date: 2017-05-21 00:00:00
-lastupdate: 2019-01-19 10:30:34
+date: "2017-05-21 00:00:00"
+lastupdate: "2019-01-19 10:30:34"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e469e231bf/original.jpg"
 slug: "whats-new-this-week-end"
 description: " 

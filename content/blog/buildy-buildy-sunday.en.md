@@ -1,7 +1,7 @@
 ---
 title: " Buildy, buildy sunday !"
-date: 2017-04-30 05:55:47
-lastupdate: 2019-01-19 10:30:32
+date: "2017-04-30 05:55:47"
+lastupdate: "2019-01-19 10:30:32"
 banner: "https://static.wixstatic.com/media/4d79d8_b82652960bf545f2926a9345c9f65069~mv2_d_4272_2848_s_4_2.jpg/v1/fill/w_804,h_536,al_c,q_90,usm_0.66_1.00_0.01/4d79d8_b82652960bf545f2926a9345c9f65069~mv2_d_4272_2848_s_4_2.jpg"
 slug: "buildy-buildy-sunday"
 description: " 

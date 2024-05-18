@@ -1,7 +1,7 @@
 ---
 title: "Résologik : An active partner for STEM"
-date: 2019-12-04 16:09:50
-lastupdate: 2021-08-31 09:24:15
+date: "2019-12-04 16:09:50"
+lastupdate: "2021-08-31 09:24:15"
 banner: "https://static.werobot.fr/blog/bob-ross/5de7d3f480842/50.jpg"
 slug: "resologik-an-active-partner-for-stem"
 description: " 

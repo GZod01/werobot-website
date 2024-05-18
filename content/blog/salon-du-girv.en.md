@@ -1,7 +1,7 @@
 ---
 title: "Business exhibition"
-date: 2018-11-22 09:16:56
-lastupdate: 2019-01-19 10:30:42
+date: "2018-11-22 09:16:56"
+lastupdate: "2019-01-19 10:30:42"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b966d544/50.jpg"
 slug: "business-exhibition"
 description: " 

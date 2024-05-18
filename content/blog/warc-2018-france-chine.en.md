@@ -1,7 +1,7 @@
 ---
 title: "WARC 2018 - France -> China"
-date: 2018-07-21 10:13:44
-lastupdate: 2019-01-19 10:30:40
+date: "2018-07-21 10:13:44"
+lastupdate: "2019-01-19 10:30:40"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e45ab0108f/50.jpg"
 slug: "warc-2018-france-china"
 description: " 

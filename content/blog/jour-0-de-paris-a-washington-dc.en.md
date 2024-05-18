@@ -1,7 +1,7 @@
 ---
 title: " Day zero : Paris to Washington, DC"
-date: 2017-07-14 02:26:37
-lastupdate: 2019-01-19 10:30:37
+date: "2017-07-14 02:26:37"
+lastupdate: "2019-01-19 10:30:37"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e465b01a03/original.jpg"
 slug: "day-zero-paris-to-washington-dc"
 description: " 

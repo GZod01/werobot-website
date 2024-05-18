@@ -1,7 +1,7 @@
 ---
 title: " Day 4 - Final Day"
-date: 2017-07-18 03:17:35
-lastupdate: 2019-01-19 10:30:38
+date: "2017-07-18 03:17:35"
+lastupdate: "2019-01-19 10:30:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e463f93edf/original.jpg"
 slug: "day-4-final-day"
 description: " 

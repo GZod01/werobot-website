@@ -1,7 +1,7 @@
 ---
 title: " La brigade est au complet."
-date: 2022-12-09 05:20:04
-lastupdate: 2022-12-09 09:44:41
+date: "2022-12-09 05:20:04"
+lastupdate: "2022-12-09 09:44:41"
 banner: "https://static.werobot.fr/blog/bob-ross/6392eeca3913a/50.jpg"
 slug: "la-brigade-est-au-complet"
 description: " 

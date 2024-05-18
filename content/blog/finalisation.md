@@ -1,7 +1,7 @@
 ---
 title: "Finalisation"
-date: 2017-07-12 02:11:26
-lastupdate: 2019-01-19 10:30:22
+date: "2017-07-12 02:11:26"
+lastupdate: "2019-01-19 10:30:22"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46641fd28/original.jpg"
 slug: "finalisation"
 description: " 

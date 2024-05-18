@@ -1,7 +1,7 @@
 ---
 title: "WeRobot and the BBC … ??? "
-date: 2023-02-25 00:00:00
-lastupdate: 2023-03-04 15:31:12
+date: "2023-02-25 00:00:00"
+lastupdate: "2023-03-04 15:31:12"
 banner: "https://static.werobot.fr/blog/bob-ross/64031f08928bd/50.jpg"
 slug: "werobot-and-the-bbc"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Day 3 - The Challenge begins"
-date: 2017-07-17 03:02:14
-lastupdate: 2019-01-19 10:30:38
+date: "2017-07-17 03:02:14"
+lastupdate: "2019-01-19 10:30:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/original.jpg"
 slug: "day-3-the-challenge-begins"
 description: " 

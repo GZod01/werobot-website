@@ -1,7 +1,7 @@
 ---
 title: "C'est la rentrée pour tout le monde"
-date: 2020-09-05 11:30:28
-lastupdate: 2021-08-29 16:05:23
+date: "2020-09-05 11:30:28"
+lastupdate: "2021-08-29 16:05:23"
 banner: "https://static.werobot.fr/blog/bob-ross/5f537405a7bdc/50.png"
 slug: "cest-la-rentree-pour-tout-le-monde"
 description: " 

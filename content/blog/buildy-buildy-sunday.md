@@ -1,7 +1,7 @@
 ---
 title: "Buildy, buildy Sunday!"
-date: 2017-04-30 05:55:47
-lastupdate: 2019-01-19 10:30:20
+date: "2017-04-30 05:55:47"
+lastupdate: "2019-01-19 10:30:20"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46bb54597/original.jpg"
 slug: "buildy-buildy-sunday"
 description: " 

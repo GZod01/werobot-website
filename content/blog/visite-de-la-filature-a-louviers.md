@@ -1,7 +1,7 @@
 ---
 title: "Visite de La Filature à Louviers"
-date: 2019-01-23 00:00:00
-lastupdate: 2019-02-10 18:14:42
+date: "2019-01-23 00:00:00"
+lastupdate: "2019-02-10 18:14:42"
 banner: "https://static.werobot.fr/blog/bob-ross/5c56bb629a937/50.jpg"
 slug: "visite-de-la-filature-a-louviers"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Quick post"
-date: 2017-05-06 00:00:00
-lastupdate: 2019-01-19 10:30:19
+date: "2017-05-06 00:00:00"
+lastupdate: "2019-01-19 10:30:19"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46b811acc/original.jpg"
 slug: "quick-post"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "WARC2018 - Last day"
-date: 2018-07-23 11:50:03
-lastupdate: 2019-01-19 10:30:41
+date: "2018-07-23 11:50:03"
+lastupdate: "2019-01-19 10:30:41"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e44fe30cb2/50.jpg"
 slug: "warc2018-last-day"
 description: " 

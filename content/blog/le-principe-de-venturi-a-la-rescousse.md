@@ -1,7 +1,7 @@
 ---
 title: "Le principe de Venturi à la rescousse."
-date: 2022-11-12 00:00:00
-lastupdate: 2022-11-12 17:52:35
+date: "2022-11-12 00:00:00"
+lastupdate: "2022-11-12 17:52:35"
 banner: "https://static.werobot.fr/blog/bob-ross/636f78e80e608/50.png"
 slug: "le-principe-de-venturi-a-la-rescousse"
 description: " 

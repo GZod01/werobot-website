@@ -1,7 +1,7 @@
 ---
 title: "Jour 3 - La compétition commence"
-date: 2017-07-17 03:02:14
-lastupdate: 2019-01-19 10:30:24
+date: "2017-07-17 03:02:14"
+lastupdate: "2019-01-19 10:30:24"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/original.jpg"
 slug: "jour-3-la-competition-commence"
 description: " 

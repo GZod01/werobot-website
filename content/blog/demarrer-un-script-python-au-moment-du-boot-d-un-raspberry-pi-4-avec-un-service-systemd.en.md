@@ -1,7 +1,7 @@
 ---
 title: "To start a Python script at boot time on a Raspberry Pi 4 using a systemd service"
-date: 2024-02-07 15:00:00
-lastupdate: 2024-02-08 18:43:04
+date: "2024-02-07 15:00:00"
+lastupdate: "2024-02-08 18:43:04"
 banner: "https://static.werobot.fr/blog/bob-ross/65c4d9e70ec91/50.png"
 slug: "to-start-a-python-script-at-boot-time-on-a-raspberry-pi-4-using-a-systemd-service"
 description: " 

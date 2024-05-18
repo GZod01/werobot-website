@@ -1,7 +1,7 @@
 ---
 title: "Assemblée générale GIRV"
-date: 2018-12-13 00:00:00
-lastupdate: 2019-01-19 10:30:42
+date: "2018-12-13 00:00:00"
+lastupdate: "2019-01-19 10:30:42"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b71c5ddd/50.jpg"
 slug: "assemblee-generale-girv"
 description: " 

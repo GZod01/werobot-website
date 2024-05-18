@@ -1,7 +1,7 @@
 ---
 title: "Aujourd’hui c’est concours !"
-date: 2022-12-16 22:00:00
-lastupdate: 2022-12-14 18:45:33
+date: "2022-12-16 22:00:00"
+lastupdate: "2022-12-14 18:45:33"
 banner: "https://static.werobot.fr/blog/bob-ross/6395f293538d9/50.png"
 slug: "aujourd-hui-c-est-concours"
 description: " 

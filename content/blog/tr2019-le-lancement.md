@@ -1,7 +1,7 @@
 ---
 title: "TR2019 : le lancement"
-date: 2018-10-07 09:51:29
-lastupdate: 2019-01-19 10:30:29
+date: "2018-10-07 09:51:29"
+lastupdate: "2019-01-19 10:30:29"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e44e4c6b93/original.png"
 slug: "tr2019-le-lancement"
 description: " 

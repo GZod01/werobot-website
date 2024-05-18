@@ -1,7 +1,7 @@
 ---
 title: "La partie finale du kit est arrivé !"
-date: 2017-05-29 00:00:00
-lastupdate: 2019-01-19 10:30:28
+date: "2017-05-29 00:00:00"
+lastupdate: "2019-01-19 10:30:28"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4698e43bb/original.jpg"
 slug: "la-partie-finale-du-kit-est-arrive"
 description: " 

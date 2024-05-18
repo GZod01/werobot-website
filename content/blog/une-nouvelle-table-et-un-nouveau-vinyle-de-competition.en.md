@@ -1,7 +1,7 @@
 ---
 title: "A new table and a new competition vinyl flooring materials."
-date: 2019-11-24 21:23:08
-lastupdate: 2021-08-31 09:23:48
+date: "2019-11-24 21:23:08"
+lastupdate: "2021-08-31 09:23:48"
 banner: "https://static.werobot.fr/blog/bob-ross/5dda28986144b/50.jpg"
 slug: "a-new-table-and-a-new-competition-vinyl-flooring-materials"
 description: " 

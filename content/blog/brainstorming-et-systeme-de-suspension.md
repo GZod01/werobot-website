@@ -1,7 +1,7 @@
 ---
 title: "Brainstorming et système de suspension"
-date: 2017-06-07 06:15:35
-lastupdate: 2019-01-19 10:30:20
+date: "2017-06-07 06:15:35"
+lastupdate: "2019-01-19 10:30:20"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46925b992/50.jpg"
 slug: "brainstorming-et-systeme-de-suspension"
 description: " 

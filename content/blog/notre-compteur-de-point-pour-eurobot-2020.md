@@ -1,7 +1,7 @@
 ---
 title: "Notre compteur de point pour eurobot 2020"
-date: 2019-09-26 20:00:53
-lastupdate: 2019-09-27 21:29:21
+date: "2019-09-26 20:00:53"
+lastupdate: "2019-09-27 21:29:21"
 banner: "https://static.werobot.fr/blog/bob-ross/5d8d18c92e617/50.png"
 slug: "notre-compteur-de-point-pour-eurobot-2020"
 description: " 

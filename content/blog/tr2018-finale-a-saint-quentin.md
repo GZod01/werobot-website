@@ -1,7 +1,7 @@
 ---
 title: "TR2018 - Finale à Saint-Quentin"
-date: 2018-04-08 06:33:10
-lastupdate: 2019-03-01 23:01:12
+date: "2018-04-08 06:33:10"
+lastupdate: "2019-03-01 23:01:12"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4609b80f2/original.jpg"
 slug: "tr2018-finale-a-saint-quentin"
 description: " 

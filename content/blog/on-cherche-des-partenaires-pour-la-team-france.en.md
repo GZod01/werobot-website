@@ -1,7 +1,7 @@
 ---
 title: "We're looking for partners for TEAM FRANCE"
-date: 2024-05-09 23:55:06
-lastupdate: 2024-05-10 22:59:31
+date: "2024-05-09 23:55:06"
+lastupdate: "2024-05-10 22:59:31"
 banner: "https://static.werobot.fr/blog/bob-ross/663e5b8473cc2/50.png"
 slug: "we-re-looking-for-partners-for-team-france"
 description: " 

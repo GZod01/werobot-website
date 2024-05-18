@@ -1,7 +1,7 @@
 ---
 title: "We Robot déménage !"
-date: 2023-12-02 21:00:00
-lastupdate: 2024-02-07 22:24:37
+date: "2023-12-02 21:00:00"
+lastupdate: "2024-02-07 22:24:37"
 banner: "https://static.werobot.fr/blog/bob-ross/656b9e558bb2b/50.jpg"
 slug: "we-robot-demenage"
 description: " 

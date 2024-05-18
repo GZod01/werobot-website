@@ -1,7 +1,7 @@
 ---
 title: "Our work on our robotic cup 2019 robots"
-date: 2019-02-15 14:10:36
-lastupdate: 2019-04-06 13:58:19
+date: "2019-02-15 14:10:36"
+lastupdate: "2019-04-06 13:58:19"
 banner: "https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/50.jpg"
 slug: "our-work-on-our-robotic-cup-2019-robots"
 description: " 

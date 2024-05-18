@@ -1,7 +1,7 @@
 ---
 title: "WARC2018 - preparation"
-date: 2018-07-12 09:47:21
-lastupdate: 2019-01-19 10:30:40
+date: "2018-07-12 09:47:21"
+lastupdate: "2019-01-19 10:30:40"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e45d6c0abf/50.jpg"
 slug: "warc2018-preparation"
 description: " 

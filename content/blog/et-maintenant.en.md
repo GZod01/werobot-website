@@ -1,7 +1,7 @@
 ---
 title: "What's next ?"
-date: 2019-06-04 14:51:41
-lastupdate: 2019-07-03 15:00:46
+date: "2019-06-04 14:51:41"
+lastupdate: "2019-07-03 15:00:46"
 banner: "https://static.werobot.fr/blog/bob-ross/5cf663248e6e6/50.jpg"
 slug: "whats-next"
 description: " 

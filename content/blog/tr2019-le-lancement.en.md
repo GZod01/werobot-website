@@ -1,7 +1,7 @@
 ---
 title: "TR2019 - Kick Off"
-date: 2018-10-07 09:51:29
-lastupdate: 2019-01-27 23:56:40
+date: "2018-10-07 09:51:29"
+lastupdate: "2019-01-27 23:56:40"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e44e4c6b93/original.png"
 slug: "tr2019-kick-off"
 description: " 

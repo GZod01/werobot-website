@@ -1,7 +1,7 @@
 ---
 title: "Robot Foot"
-date: 2018-11-23 09:31:40
-lastupdate: 2019-01-19 10:30:29
+date: "2018-11-23 09:31:40"
+lastupdate: "2019-01-19 10:30:29"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b7d1fad6/50.jpg"
 slug: "robot-foot"
 description: " 

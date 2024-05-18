@@ -1,7 +1,7 @@
 ---
 title: "We're back ! Looking for sponsors !"
-date: 2017-09-27 03:28:44
-lastupdate: 2019-01-19 10:30:38
+date: "2017-09-27 03:28:44"
+lastupdate: "2019-01-19 10:30:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e463c10cde/original.jpg"
 slug: "were-back-looking-for-sponsors"
 description: " 

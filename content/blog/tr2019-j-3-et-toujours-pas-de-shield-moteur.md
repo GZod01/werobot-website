@@ -1,7 +1,7 @@
 ---
 title: "TR2019 : J-3 et toujours pas de shield moteur"
-date: 2019-03-20 20:19:39
-lastupdate: 2019-03-20 20:19:39
+date: "2019-03-20 20:19:39"
+lastupdate: "2019-03-20 20:19:39"
 banner: "https://static.werobot.fr/blog/bob-ross/5c927fc59976a/50.jpg"
 slug: "tr2019-j-3-et-toujours-pas-de-shield-moteur"
 description: " 

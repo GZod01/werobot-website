@@ -1,7 +1,7 @@
 ---
 title: "We Robot à Singapour : Le debrief !"
-date: 2023-11-12 19:05:13
-lastupdate: 2024-02-07 23:36:47
+date: "2023-11-12 19:05:13"
+lastupdate: "2024-02-07 23:36:47"
 banner: "https://static.werobot.fr/blog/bob-ross/654bc47aeebff/50.jpg"
 slug: "we-robot-a-singapour-le-debrief"
 description: " 

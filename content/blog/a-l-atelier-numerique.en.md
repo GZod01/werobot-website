@@ -1,7 +1,7 @@
 ---
 title: "Meanwhile in the I.T workshop..."
-date: 2022-11-18 17:00:00
-lastupdate: 2022-12-03 11:20:13
+date: "2022-11-18 17:00:00"
+lastupdate: "2022-12-03 11:20:13"
 banner: "https://static.werobot.fr/blog/bob-ross/636fc81126555/50.jpg"
 slug: "meanwhile-in-the-i-t-workshop"
 description: " 

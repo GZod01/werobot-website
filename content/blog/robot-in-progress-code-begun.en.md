@@ -1,7 +1,7 @@
 ---
 title: " Robot in Progress -- Code begun"
-date: 2017-05-07 00:00:00
-lastupdate: 2019-01-19 10:30:32
+date: "2017-05-07 00:00:00"
+lastupdate: "2019-01-19 10:30:32"
 banner: "https://static.werobot.fr/blog/bob-ross/5bf196e1587aa.jpg"
 slug: "robot-in-progress-code-begun"
 description: " 

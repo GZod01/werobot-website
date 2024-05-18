@@ -1,7 +1,7 @@
 ---
 title: "TR2018 - Qualifications régionales"
-date: 2018-03-31 05:59:31
-lastupdate: 2019-01-19 10:30:25
+date: "2018-03-31 05:59:31"
+lastupdate: "2019-01-19 10:30:25"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg"
 slug: "tr2018-qualifications-regionales"
 description: " 

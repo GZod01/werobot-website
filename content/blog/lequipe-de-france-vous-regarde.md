@@ -1,7 +1,7 @@
 ---
 title: "L'équipe de France vous regarde !"
-date: 2017-06-14 09:51:20
-lastupdate: 2019-01-19 10:30:21
+date: "2017-06-14 09:51:20"
+lastupdate: "2019-01-19 10:30:21"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e468393832/original.jpg"
 slug: "lequipe-de-france-vous-regarde"
 description: " 

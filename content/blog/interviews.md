@@ -1,7 +1,7 @@
 ---
 title: "Interviews"
-date: 2017-05-08 00:00:00
-lastupdate: 2019-01-19 10:30:20
+date: "2017-05-08 00:00:00"
+lastupdate: "2019-01-19 10:30:20"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46ab56ccd/original.jpg"
 slug: "interviews"
 description: " 

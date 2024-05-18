@@ -1,7 +1,7 @@
 ---
 title: "Les valeurs de la TEAM FRANCE"
-date: 2024-05-07 14:00:00
-lastupdate: 2024-05-08 20:50:35
+date: "2024-05-07 14:00:00"
+lastupdate: "2024-05-08 20:50:35"
 banner: "https://static.werobot.fr/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 slug: "les-valeurs-de-la-team-france"
 description: " 

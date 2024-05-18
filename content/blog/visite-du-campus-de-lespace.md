@@ -1,7 +1,7 @@
 ---
 title: "Visite du Campus de l’espace"
-date: 2019-01-17 00:00:00
-lastupdate: 2019-02-10 18:18:37
+date: "2019-01-17 00:00:00"
+lastupdate: "2019-02-10 18:18:37"
 banner: "https://static.werobot.fr/blog/bob-ross/5c56b83c33f4a/50.jpg"
 slug: "visite-du-campus-de-lespace"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Astro-Pi"
-date: 2018-11-19 10:11:58
-lastupdate: 2019-01-19 10:30:41
+date: "2018-11-19 10:11:58"
+lastupdate: "2019-01-19 10:30:41"
 banner: "https://static.werobot.fr/blog/bob-ross/5c0051c444c39.png"
 slug: "astro-pi"
 description: " 

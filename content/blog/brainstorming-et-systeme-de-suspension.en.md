@@ -1,7 +1,7 @@
 ---
 title: "Brainstorming and hanging system"
-date: 2017-06-07 06:15:35
-lastupdate: 2019-01-19 10:30:35
+date: "2017-06-07 06:15:35"
+lastupdate: "2019-01-19 10:30:35"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46925b992/50.jpg"
 slug: "brainstorming-and-hanging-system"
 description: " 

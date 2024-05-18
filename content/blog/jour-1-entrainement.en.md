@@ -1,7 +1,7 @@
 ---
 title: " Day 1 - Practice"
-date: 2017-07-15 02:42:41
-lastupdate: 2019-01-19 10:30:37
+date: "2017-07-15 02:42:41"
+lastupdate: "2019-01-19 10:30:37"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e465252c68/original.jpg"
 slug: "day-1-practice"
 description: " 

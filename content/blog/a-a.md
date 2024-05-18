@@ -1,7 +1,7 @@
 ---
 title: "A.A"
-date: 2022-10-28 22:00:00
-lastupdate: 2022-10-29 16:04:12
+date: "2022-10-28 22:00:00"
+lastupdate: "2022-10-29 16:04:12"
 banner: "https://static.werobot.fr/blog/bob-ross/635d15f6107fe/50.jpg"
 slug: "a-a"
 description: " 

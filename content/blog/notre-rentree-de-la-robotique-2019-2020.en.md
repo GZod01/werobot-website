@@ -1,7 +1,7 @@
 ---
 title: "Back to robotic! 2019-2020"
-date: 2019-10-01 06:48:40
-lastupdate: 2021-08-31 09:24:38
+date: "2019-10-01 06:48:40"
+lastupdate: "2021-08-31 09:24:38"
 banner: "https://static.werobot.fr/blog/bob-ross/5d92f228efdf5/50.jpg"
 slug: "back-to-robotic-2019-2020"
 description: " 

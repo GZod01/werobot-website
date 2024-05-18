@@ -1,7 +1,7 @@
 ---
 title: "Castor IT Competition : All the results !"
-date: 2023-01-21 00:00:00
-lastupdate: 2023-01-21 12:01:52
+date: "2023-01-21 00:00:00"
+lastupdate: "2023-01-21 12:01:52"
 banner: "https://static.werobot.fr/blog/bob-ross/6395f293538d9/50.png"
 slug: "castor-it-competition-all-the-results"
 description: " 

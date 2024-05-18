@@ -1,7 +1,7 @@
 ---
 title: "Freeze at 45 seconds: Timothé featured in a FIRST Global Challenge publication!"
-date: 2024-05-11 12:48:06
-lastupdate: 2024-05-11 17:17:55
+date: "2024-05-11 12:48:06"
+lastupdate: "2024-05-11 17:17:55"
 banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
 slug: "freeze-at-45-seconds-timothe-featured-in-a-first-global-challenge-publication"
 description: " 

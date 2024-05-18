@@ -1,7 +1,7 @@
 ---
 title: "A l'atelier numérique"
-date: 2022-11-18 20:00:00
-lastupdate: 2022-12-03 11:17:22
+date: "2022-11-18 20:00:00"
+lastupdate: "2022-12-03 11:17:22"
 banner: "https://static.werobot.fr/blog/bob-ross/636fc81126555/50.jpg"
 slug: "a-l-atelier-numerique"
 description: " 

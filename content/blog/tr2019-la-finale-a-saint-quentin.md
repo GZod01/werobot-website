@@ -1,7 +1,7 @@
 ---
 title: "TR2019 - La finale à Saint-Quentin"
-date: 2019-04-07 00:00:00
-lastupdate: 2019-04-09 18:22:27
+date: "2019-04-07 00:00:00"
+lastupdate: "2019-04-09 18:22:27"
 banner: "https://static.werobot.fr/blog/bob-ross/5ca9cddb0ee56/50.jpg"
 slug: "tr2019-la-finale-a-saint-quentin"
 description: " 

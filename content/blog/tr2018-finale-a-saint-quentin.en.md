@@ -1,7 +1,7 @@
 ---
 title: "TR2018 - National Challenge in Saint-Quentin"
-date: 2018-04-08 06:33:10
-lastupdate: 2019-01-19 10:30:39
+date: "2018-04-08 06:33:10"
+lastupdate: "2019-01-19 10:30:39"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e4609b80f2/original.jpg"
 slug: "tr2018-national-challenge-in-saint-quentin"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "Trophées de robotique 2018"
-date: 2017-10-15 03:34:17
-lastupdate: 2019-01-19 10:30:25
+date: "2017-10-15 03:34:17"
+lastupdate: "2019-01-19 10:30:25"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e463b08fb3/original.png"
 slug: "trophees-de-robotique-2018"
 description: " 

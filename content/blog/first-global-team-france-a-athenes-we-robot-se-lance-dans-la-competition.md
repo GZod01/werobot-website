@@ -1,7 +1,7 @@
 ---
 title: "FIRST Global TEAM FRANCE à Athènes : We Robot se lance dans la compétition ! "
-date: 2024-05-02 13:15:13
-lastupdate: 2024-05-12 10:21:08
+date: "2024-05-02 13:15:13"
+lastupdate: "2024-05-12 10:21:08"
 banner: "https://static.werobot.fr/blog/bob-ross/6634ff59aab60/50.jpg"
 slug: "first-global-team-france-a-athenes-we-robot-se-lance-dans-la-competition"
 description: " 

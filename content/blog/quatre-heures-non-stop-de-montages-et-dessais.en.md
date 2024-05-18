@@ -1,7 +1,7 @@
 ---
 title: "Four hours non-stop trying n' building"
-date: 2017-04-29 05:46:16
-lastupdate: 2019-01-19 10:30:31
+date: "2017-04-29 05:46:16"
+lastupdate: "2019-01-19 10:30:31"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e46bedf0d4/50.jpg"
 slug: "four-hours-non-stop-trying-n-building"
 description: " 

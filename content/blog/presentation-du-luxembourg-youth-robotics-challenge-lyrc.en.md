@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Luxembourg Youth Robotics Challenge (LYRC)"
-date: 2019-04-20 22:30:05
-lastupdate: 2019-04-20 22:53:32
+date: "2019-04-20 22:30:05"
+lastupdate: "2019-04-20 22:53:32"
 banner: "https://static.werobot.fr/blog/bob-ross/5cbb5239cbb7b/50.jpg"
 slug: "introducing-the-luxembourg-youth-robotics-challenge-lyrc"
 description: " 

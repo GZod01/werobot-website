@@ -1,6 +1,6 @@
-<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js" integrity="sha512-hUhvpC5f8cgc04OZb55j0KNGh4eh7dLxd/dPSJ5VyzqDWxsayYbojWyl5Tkcgrmb/RVKCRJI1jNlRbVP4WWC4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment-with-locales.min.js" integrity="sha512-4F1cxYdMiAW98oomSLaygEwmCnIP38pb4Kx70yQYqRwLVCs3DbRumfBq82T08g/4LJ/smbFGFpmeFlQgoDccgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/locale/{{ .Lang }}.min.js" integrity="sha512-RAt2+PIRwJiyjWpzvvhKAG2LEdPpQhTgWfbEkFDCo8wC4rFYh5GQzJBVIFDswwaEDEYX16GEE/4fpeDNr7OIZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{{/*<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js" integrity="sha512-hUhvpC5f8cgc04OZb55j0KNGh4eh7dLxd/dPSJ5VyzqDWxsayYbojWyl5Tkcgrmb/RVKCRJI1jNlRbVP4WWC4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment-with-locales.min.js" integrity="sha512-4F1cxYdMiAW98oomSLaygEwmCnIP38pb4Kx70yQYqRwLVCs3DbRumfBq82T08g/4LJ/smbFGFpmeFlQgoDccgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/locale/{{ .Lang }}.min.js" integrity="sha512-RAt2+PIRwJiyjWpzvvhKAG2LEdPpQhTgWfbEkFDCo8wC4rFYh5GQzJBVIFDswwaEDEYX16GEE/4fpeDNr7OIZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->*/}}
 <div class="articles-list transition-parent">
     {{ $allposts :=  (where site.RegularPages "Section" "=" "blog")}}
     {{ $allposts = $allposts.ByDate.Reverse }}
@@ -33,7 +33,7 @@
                 {{ $article.Title }}
               </div>
               <div class="article-subtitle">
-		  <span id=from-now data-date="{{ $article.Date.Format "20060102" }}"></span> 
+		      <span id=from-now data-date="{{ $article.Date.Format "20060102" }}">{{ $article.Date.Format "02/01/2006" }}</span>
               </div>
               <p class="article-description">
                 {{ $article.Description | safeHTML }}
@@ -46,8 +46,9 @@
       {{ end }}
   </div>
 
-  <script>
+  {{/*
+  <!--<script>
       moment.locale("{{ .context.Lang }}");
       document.querySelectorAll("#from-now").forEach(e=>{e.innerHTML = moment(e.getAttribute("data-date"),"YYYYMMDD").fromNow();});
-  </script>
-		{{/* partial "pagination.html" . */}}
+  </script>-->
+  */}}

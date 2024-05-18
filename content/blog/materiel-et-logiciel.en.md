@@ -1,7 +1,7 @@
 ---
 title: " Hard and Soft -ware"
-date: 2017-06-18 12:07:50
-lastupdate: 2019-01-19 10:30:35
+date: "2017-06-18 12:07:50"
+lastupdate: "2019-01-19 10:30:35"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e467d2444e/original.jpg"
 slug: "hard-and-soft-ware"
 description: " 

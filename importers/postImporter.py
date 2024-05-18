@@ -21,8 +21,8 @@ for p in posts:
     image = p["image"].replace("&lrsquo;","'");
     filecontent = f"""---
 title: "{title}"
-date: {created_at}
-lastupdate: {updated_at}
+date: "{created_at}"
+lastupdate: "{updated_at}"
 banner: "{image}"
 slug: "{slug}"
 description: " 

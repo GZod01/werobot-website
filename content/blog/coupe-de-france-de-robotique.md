@@ -1,7 +1,7 @@
 ---
 title: "Coupe de France de Robotique"
-date: 2020-10-21 16:50:44
-lastupdate: 2020-10-21 16:51:21
+date: "2020-10-21 16:50:44"
+lastupdate: "2020-10-21 16:51:21"
 banner: "https://static.werobot.fr/blog/bob-ross/5f90604ad7136/50.jpg"
 slug: "coupe-de-france-de-robotique"
 description: " 

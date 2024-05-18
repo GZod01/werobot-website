@@ -1,7 +1,7 @@
 ---
 title: "FIRST GLOBAL TEAM FRANCE A SINGAPOUR  : WeRobot releve le défi"
-date: 2023-09-17 02:00:00
-lastupdate: 2023-09-24 11:32:18
+date: "2023-09-17 02:00:00"
+lastupdate: "2023-09-24 11:32:18"
 banner: "https://static.werobot.fr/blog/bob-ross/650851940aed6/50.jpg"
 slug: "first-global-team-france-a-singapour-werobot-releve-le-defi"
 description: " 

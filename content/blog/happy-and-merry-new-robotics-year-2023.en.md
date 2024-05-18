@@ -1,7 +1,7 @@
 ---
 title: "## Happy and Merry New Robotics Year 2023 !"
-date: 2023-01-08 00:00:00
-lastupdate: 2023-01-11 19:53:30
+date: "2023-01-08 00:00:00"
+lastupdate: "2023-01-11 19:53:30"
 banner: "https://static.werobot.fr/blog/bob-ross/63bf029e7b9f8/50.png"
 slug: "happy-and-merry-new-robotics-year-2023"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: " Aménagement du plateau de jeu"
-date: 2019-01-13 00:00:00
-lastupdate: 2019-02-03 10:57:01
+date: "2019-01-13 00:00:00"
+lastupdate: "2019-02-03 10:57:01"
 banner: "https://static.werobot.fr/blog/bob-ross/5c4ad1bb0533a/50.jpg"
 slug: "amenagement-du-plateau-de-jeu"
 description: " 

@@ -1,7 +1,7 @@
 ---
 title: "WARC2018 - First competition day"
-date: 2018-07-22 11:02:04
-lastupdate: 2019-01-19 10:30:40
+date: "2018-07-22 11:02:04"
+lastupdate: "2019-01-19 10:30:40"
 banner: "https://static.werobot.fr/blog/bob-ross/5c3e45466adbe/50.jpg"
 slug: "warc2018-first-competition-day"
 description: " 
