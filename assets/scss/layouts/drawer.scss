@@ -65,7 +65,7 @@ body {
     }
     
   }
-  &.drawer-enabled, #drawer-toggler ~ body .drawer{
+  &.drawer-enabled, #drawer-toggler:checked ~ body .drawer{
     width: 300px;
     .drawer-links {
       opacity: 1;
