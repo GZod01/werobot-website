@@ -17,6 +17,11 @@ body {
 
 #drawer-toggler:checked ~ body, .drawer-body-scrolling-disabled {
   overflow: hidden;
+  background:grey;
+  * {
+      color:red!important;
+  }
+
 }
 
 .main-page-wrap {
@@ -79,4 +84,10 @@ body {
     padding-right: 1em;
     font-size: 1.3em;
   }
+}
+#drawer-toggler:checked + .drawer{
+    width: 300px;
+    .drawer-links {
+	opacity: 1;
+    }
 }

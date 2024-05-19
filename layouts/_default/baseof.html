@@ -5,8 +5,9 @@
     
     {{- block "head" . -}}{{ end }}
 </head>
-    <input type=checkbox hidden name=drawer-toggler id=drawer-toggler>
 <body>
+    <input type=checkbox hidden name=drawer-toggler id=drawer-toggler>
+    {{ partial "drawer" . }}
     <div
         id="main-page-wrap"
         class="main-page-wrap"
