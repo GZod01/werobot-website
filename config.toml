@@ -282,7 +282,7 @@ title="Contact"
 [[menus.main]]
 weight=5
 identifier="donate"
-url="/donate"
+url="https://www.helloasso.com/associations/we-robot/formulaires/1"
 title="Donner"
 [menus.main.params]
 customClass="link-primary"
@@ -310,7 +310,7 @@ url="/photos"
 weight=4
 identifier="donate"
 name="Donner"
-url="/donate"
+url="https://www.helloasso.com/associations/we-robot/formulaires/1"
 
 [[menus.footer_right]]
 weight=1
@@ -335,6 +335,10 @@ weight=4
 identifier="legals"
 name="Mentions Légales"
 url="/legals"
+
+[[languages.en.menu.main]]
+identifier="home"
+title="Home Page"
 
 
 [markup]
