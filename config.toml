@@ -146,6 +146,36 @@ loading = "Chargement..."
 page-not-supported = "Cette page n'est pas disponible dans votre langue actuellement."
 
 
+[[params.social]]
+id="facebook"
+weight=1
+title="Facebook"
+url="https://facebook.com/werobot"
+
+[[params.social]]
+id="instagram"
+weight=2
+title="Instagram"
+url="https://instagram.com/werobot"
+
+[[params.social]]
+id="x"
+weight=3
+title="X"
+url="https://x.com/werobot"
+
+#[[params.social]]
+#id="youtube"
+#weight=4
+#title="Youtube"
+#url="https://facebook.com/werobot"
+
+[[params.social]]
+id="github"
+weight=5
+title="GitHub"
+url="https://github.com/werobot-france"
+
 [[params.errors]]
 id="unknown"
 title="Erreur inconnue"

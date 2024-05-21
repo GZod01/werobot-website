@@ -1,94 +1,76 @@
-  <footer
-    id="footer"
-    class="footer">
+<footer
+	id="footer"
+	class="footer">
     <div class="footer-cover-back"></div>
     <div class="footer-cover"></div>
     <div class="footer-border">
-      <span class="footer-border-item"></span>
-      <span class="footer-border-item"></span>
-      <span class="footer-border-item"></span>
+	<span class="footer-border-item"></span>
+	<span class="footer-border-item"></span>
+	<span class="footer-border-item"></span>
     </div>
     <div class="footer-container container mx-auto">
-      <div>
-        <div class="flex flex-wrap">
-          <div class="w-full md:w-1/2">
-            <div class="footer-title-container">
-              <a
-                class="link footer-logo"
-                href="/"
-              >
-                {{ $image := resources.Get "images/logo.png" }}
-                <img
-                  src="{{ $image.RelPermalink }}"
-                  class="logo">
-              </a>
-              <div>
-                <div class="footer-title">
-                  We Robot
-                </div>
+	<div>
+	    <div class="flex flex-wrap">
+		<div class="w-full md:w-1/2">
+		    <div class="footer-title-container">
+			<a
+				class="link footer-logo"
+				href="/"
+				>
+				{{ $image := resources.Get "images/logo.png" }}
+				<img
+					src="{{ $image.RelPermalink }}"
+					class="logo">
+			</a>
+			    <div>
+				<div class="footer-title">
+				    We Robot
+				</div>
 
-                <div class="footer-description">
-		    {{ .Site.Params.description }}
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="w-full md:w-1/4">
-            <div class="footer-links">
-		{{ range .Site.Menus.footer_left }}
-		<a
-			href="{{ .URL }}"
-			class="link">
-		    {{ .Name}}
-		</a>
-		{{ end }}
-            </div>
-          </div>
-          <div class="w-full md:w-1/4">
-            <div class="footer-links">
-		{{ range .Site.Menus.footer_right }}
-                <a
-			href="{{ .URL }}"
-                        class="link">
-		    {{ .Name }}
-                </a>
-		{{ end }}
-            </div>
-          </div>
-        </div>
+				<div class="footer-description">
+				    {{ .Site.Params.description }}
+				</div>
+			    </div>
+		    </div>
+		</div>
+		<div class="w-full md:w-1/4">
+		    <div class="footer-links">
+			{{ range .Site.Menus.footer_left }}
+			<a
+				href="{{ .URL }}"
+				class="link">
+			    {{ .Name}}
+			</a>
+			{{ end }}
+		    </div>
+		</div>
+		<div class="w-full md:w-1/4">
+		    <div class="footer-links">
+			{{ range .Site.Menus.footer_right }}
+			<a
+				href="{{ .URL }}"
+				class="link">
+			    {{ .Name }}
+			</a>
+			{{ end }}
+		    </div>
+		</div>
+	    </div>
 
-        <div class="flex justify-between footer-footer">
-          <div class="footer-socials">
-            <a
-              href=""
-              class="footer-socials-item link">
-                {{ partial "svg" "facebook" }}
-            </a>
-            <a
-              href=""
-              class="footer-socials-item link">
-                {{ partial "svg" "instagram" }}
-            </a>
-            <a
-              href=""
-              class="footer-socials-item link">
-                {{ partial "svg" "twitter" }}
-            </a>
-            <!--
-            <a
-              :href="$env.socials.youtube"
-              class="footer-socials-item link">
-              <img src="~/assets/img/youtube.svg">
-            </a> -->
-            <a
-              href=""
-              class="footer-socials-item link">
-                {{ partial "svg" "github" }}
-            </a>
-          </div>
-	  {{ partial "locales-list.html" }}
-        </div>
-      </div>
+	    <div class="flex justify-between footer-footer">
+		<div class="footer-socials">
+		    {{ range .Site.Params.social }}
+		    <a
+			    href="{{ .URL }}"
+			    title="{{ .Title }}"
+			    class="footer-socials-item link">
+			{{ partial "svg" .id }}
+		    </a>
+		    {{ end }}
+		</div>
+		{{ partial "locales-list.html" }}
+	    </div>
+	</div>
     </div>
-  </div>
+    </div>
 
