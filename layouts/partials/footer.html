@@ -61,8 +61,8 @@
 		<div class="footer-socials">
 		    {{ range .Site.Params.social }}
 		    <a
-			    href="{{ .URL }}"
-			    title="{{ .Title }}"
+			    href="{{ .url }}"
+			    title="{{ .title }}"
 			    class="footer-socials-item link">
 			{{ partial "svg" .id }}
 		    </a>
