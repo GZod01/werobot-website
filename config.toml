@@ -162,7 +162,7 @@ url="https://instagram.com/werobot"
 id="x"
 weight=3
 title="X"
-url="https://x.com/werobot"
+url="https://x.com/werobot_fr"
 
 #[[params.social]]
 #id="youtube"
@@ -370,6 +370,11 @@ url="/legals"
 identifier="home"
 title="Home Page"
 
+
+
+[permalinks]
+  [permalinks.page]
+    blog = '/blog/:year/:slug/'
 
 [markup]
 [markup.goldmark]

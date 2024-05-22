@@ -29,7 +29,7 @@
               <li>
                 <a
                   class="link link-primary"
-                  @click="filterYear(year.name)">{{ .Key }}</a> : {{(len .)}} {{ (index site.Params.articles "sort-by-years").posts }}
+		  href="/blog/{{ .Key }}">{{ .Key }}</a> : {{(len .Pages)}} {{ (index site.Params.articles "sort-by-years").posts }}
               </li>
 	      {{ end }}
             </ul>
