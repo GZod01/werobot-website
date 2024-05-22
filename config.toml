@@ -373,8 +373,7 @@ title="Home Page"
 
 
 [permalinks]
-  [permalinks.page]
-    blog = '/blog/:year/:slug/'
+    blog = "/blog/:year/:slugorfilename/"
 
 [markup]
 [markup.goldmark]

@@ -70,8 +70,8 @@
         <div class="mt-6 pt-2 blog-pagination">
           <div class="blog-pagination-previous">
             <a
-		    class="{{ if .Paginator.HasPrev }}disabled{{end}}"
-              class="button button-primary mobile-icon"
+              class="button button-primary mobile-icon {{ if (not .Paginator.HasPrev) }}disabled{{end}}"
+	      {{ if (not .Paginator.HasPrev) }}disabled{{end}}
 	      href="{{ if .Paginator.HasPrev}}{{.Paginator.Prev.URL}}{{ end }}">
               <div class="button-icon">
                 <i class="fa fas fa-arrow-left"></i>
@@ -86,8 +86,8 @@
           </div>
           <div class="blog-pagination-next">
             <a
-		    class="{{ if .Paginator.HasNext }}disabled{{end}}"
-              class="button button-primary mobile-icon"
+              class="button button-primary mobile-icon {{ if (not .Paginator.HasNext) }}disabled{{end}}"
+	      {{ if (not .Paginator.HasNext) }}disabled{{end}}
 	      href="{{ if .Paginator.HasNext }}{{.Paginator.Next.URL }}{{end}}">
               <div class="link button-text">
                 {{ site.Params.next }}
