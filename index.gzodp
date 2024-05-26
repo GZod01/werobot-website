@@ -8,10 +8,19 @@ $opts = [
     ]
 ];
 $context = stream_context_create($opts);
-$u = "test.json";//"https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables=%7B%22id%22%3A%225408546825%22,%20%22first%22%3A%2250%22,%20%22after%22%3A%20%22%22%7D";
-$json = file_get_contents($u, false, $context);
-$data = json_decode($json, true);
-$raw = $data['data']['user']['edge_owner_to_timeline_media']['edges'];
+$raw = [];
+if(intval(file_get_contents("import.insta.time"))<(time()-(3600*12))){
+    $u = "https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables=%7B%22id%22%3A%225408546825%22,%20%22first%22%3A%2250%22,%20%22after%22%3A%20%22%22%7D";
+    $json = file_get_contents($u, false, $context);
+    $data = json_decode($json, true);
+    $raw = $data['data']['user']['edge_owner_to_timeline_media']['edges'];
+    file_put_contents("import.insta.json",json_encode($raw, JSON_PRETTY_PRINT));
+    file_put_contents("import.insta.time",strval(time()));
+}else{
+    $u = "import.insta.json";
+    $json = file_get_contents($u);
+    $raw= json_decode($json,true);
+}
 $medias = [];
 foreach ($raw as $rawMedia) {
     $rawMedia = $rawMedia['node'];
@@ -61,6 +70,7 @@ class="photos-list-item"
 href="<?=$m["link"]?>"
 target="_blank"
 >
+<span id=caption><?=htmlspecialchars($m["caption"])?></span>
 </a>
 <?php
 }

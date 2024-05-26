@@ -1,52 +1,71 @@
 .photos-list {
 
-  .photos-list-title {
-    margin-bottom: 1em;
-    .fa {
-      margin-right: 10px;
+    .photos-list-title {
+	margin-bottom: 1em;
+	.fa {
+	    margin-right: 10px;
+	}
     }
-  }
 
-  .photos-list-photos {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-column-gap: 1.2em;
-    grid-row-gap: 1.2em;
-    justify-content: center;
-  }
+    .photos-list-photos {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 1.2em;
+	grid-row-gap: 1.2em;
+	justify-content: center;
+    }
 
-  .photos-list-item {
-    border-radius: 5px;
-    height: 17.5em;
-    min-width: 14em;
-    background-size: cover;
-    background-position: center;
-    opacity: 1;
-    display: block;
-    transition: opacity 0.2s;
-  }
+    .photos-list-item {
+	border-radius: 5px;
+	height: 17.5em;
+	/*min-width: 14em;*/
+	width:17.5em;
+	background-size: cover;
+	background-position: center;
+	opacity: 1;
+	display: block;
+	transition: opacity 0.2s;
+	span#caption{
+	    display:none;
+	    background-color:rgba(27, 27,27, 0.7);
+	    color:white;
+	    width:17.5em;
+	    overflow:auto;
+	    height:17.5em;
+	    word-wrap:break-word;
+	    word-break:break-word;
+	    padding:10px;
+	    text-decoration:none!important;
+	}
 
-  .photos-list-item:hover {
-    opacity: 0.8;
-    cursor: pointer;
-    transition: opacity 0.2s;
-  }
+    }
+    .photos-list-item:hover {
+	opacity: 0.8;
+	cursor: pointer;
+	transition: opacity 0.2s;
+	span#caption{
+	    display:block;
+	}
+    }
 
-  .photos-more {
-    float: right;
-  }
+    .photos-more {
+	float: right;
+    }
 }
 
 
 @media (max-width: $responsive-medium) {
-  .photos-list {
-    .photos-list-photos {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
+    .photos-list {
+	.photos-list-photos {
+	    display: flex;
+	    justify-content: center;
+	    flex-wrap: wrap;
+	}
+	/*.photos-list-item {
+	    min-width: 17.5em;
+	    span#caption{
+		width:calc(17.5em - 10px);
+	    }
+	}*/
     }
-    .photos-list-item {
-      min-width: 17.5em;
-    }
-  }
 }
