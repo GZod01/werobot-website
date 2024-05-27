@@ -14,7 +14,7 @@
     <div class="content">
       <div class="container mx-auto">
         <div class="flex flex-wrap justify-between">
-          <div class="w-full">
+          <div class="w-full md:w-1/2">
             <div class="card no-actions card-blue mx-2">
               <div class="card-title">
                 <i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.edito.title | safeHTML }}
@@ -43,6 +43,20 @@
               </div>
             </div>
           </div>
+	  <div class="w-full md:w-1/2">
+	      <div class="card card-red mx-2">
+		  <div class="card-title">
+		      HELLOWORLD
+		  </div>
+		  <div class="card-text">
+		      Salut le monde
+		  </div>
+		  <div class="card-actions">
+		      <a href="/blog" class="card-action">Hello</a>
+		      <a href="/photos" class="card-action">World</a>
+		  </div>
+	      </div>
+	  </div>
           <div class="w-full md:w-1/2">
             <div class="card card-green mx-2">
               <div class="card-title">
