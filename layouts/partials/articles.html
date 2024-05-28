@@ -20,7 +20,7 @@
       </div>
       {{ else }}
       <div
-        class="articles">
+	      class="articles {{ if (lt $ammount 3) }}articles-len-{{ $ammount }}{{ end }}">
 	{{ $pageslist := (first $ammount $allposts )}}
 	{{ if .pagination }}
 	{{ $pageslist = ($context.Page.Paginate $allposts (cast.ToInt $ammount)).Pages }}

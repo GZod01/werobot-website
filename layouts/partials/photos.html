@@ -1,4 +1,5 @@
-<div id=photoslist class="transition-parent photos-list">
+<div id="photoslist{{ if .limit }}-{{ .limit }}{{ end }}" class="transition-parent photos-list">
+    <span id="number" name="{{if .limit }}{{ .limit }}{{ end }}"></span>
     <div
 	    class="transition-child section-error-container"
 	    style="height: 100%;">
@@ -9,19 +10,21 @@
     </div>
 </div>
 <script defer>
-    function loadimages(){
+    function loadimages(limit=-1){
 	    var http = new XMLHttpRequest();
-	    var url = '/getallphotos{{ if .limit }}?limit={{ .limit }}{{ end }}';
+	    let issetlimit = (limit!=-1);
+	    var url = '/getallphotos'+(issetlimit?('?limit='+limit):'');
 	    http.open('GET', url, false);
 	    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 	    http.onreadystatechange = function() {//Call a function when the state changes.
 		    if(http.readyState == 4 && http.status == 200) {
 			    let responsehtml = http.responseText;
-			    document.querySelector("#photoslist").innerHTML = responsehtml;
+			    document.querySelectorAll("#photoslist"+(issetlimit?`-${limit}`:'')).forEach(
+			    e=>{e.innerHTML = responsehtml});
 			}
 
 		}
 	    http.send();
 	}
-	loadimages();
+	loadimages({{ if .limit }}{{ .limit }}{{ end }});
 </script>

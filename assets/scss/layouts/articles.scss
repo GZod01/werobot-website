@@ -3,6 +3,12 @@
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 1.3em;
   grid-row-gap: 1.3em;
+  &.articles-len-1{
+      grid-template-columns:repeat(1,1fr);
+  }
+  &.articles-len-2{
+      grid-template-columns:repeat(2,1fr);
+  }
 
   article {
     height: 100%;

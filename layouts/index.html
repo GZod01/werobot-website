@@ -25,6 +25,40 @@
               </div>
             </div>
           </div>
+	  <div class="w-full md:w-1/2 flex justify-between" style="flex-direction: column;">
+	  <div class="w-full">
+	      <div class="card card-red mx-2">
+		  <div class="card-title">
+		      <i class="fas fa-newspaper"></i> {{ .Site.Params.articles.title | safeHTML }}
+		  </div>
+		  <div class="card-text">
+		      <h3>{{ .Site.Params.articles.last | safeHTML }}</h3>
+		      {{ partial "articles.html" (dict "context" . "ammount" 1)}}
+		  </div>
+		  <div class="card-actions">
+		      <a href="{{ relLangURL "/blog" }}" class="card-action">
+			  {{ .Site.Params.more | safeHTML }}
+		      </a>
+		  </div>
+	      </div>
+	  </div>
+	  <div class="w-full">
+	      <div class="card card-red mx-2">
+		  <div class="card-title">
+		      <i class="fab fa-instagram"></i> {{ .Site.Params.photos.title | safeHTML }}
+		  </div>
+		  <div class="card-text">
+		      <h3>{{ .Site.Params.photos.last | safeHTML }}</h3>
+		      {{ partial "photos.html" (dict "limit" 1) }}
+		  </div>
+		  <div class="card-actions">
+		      <a href="{{ relLangURL "/photos" }}" class="card-action">
+			  {{ .Site.Params.more | safeHTML }}
+		      </a>
+		  </div>
+	      </div>
+	  </div>
+	  </div>
           <div class="w-full md:w-1/2 ">
             <div class="card card-purple mx-2">
               <div class="card-title">
@@ -43,20 +77,6 @@
               </div>
             </div>
           </div>
-	  <div class="w-full md:w-1/2">
-	      <div class="card card-red mx-2">
-		  <div class="card-title">
-		      HELLOWORLD
-		  </div>
-		  <div class="card-text">
-		      Salut le monde
-		  </div>
-		  <div class="card-actions">
-		      <a href="/blog" class="card-action">Hello</a>
-		      <a href="/photos" class="card-action">World</a>
-		  </div>
-	      </div>
-	  </div>
           <div class="w-full md:w-1/2">
             <div class="card card-green mx-2">
               <div class="card-title">
@@ -81,7 +101,7 @@
           <i class="fa fas fa-newspaper"></i>
           {{ .Site.Params.articles.last | safeHTML }}
         </h2>
-	{{ partial "articles.html" (dict "Paging" true "context" . "ammount" 3)}}
+	{{ partial "articles.html" (dict  "context" . "ammount" 3)}}
         <div class="index-more-section">
           <a
 		  href="{{ relLangURL "/blog" }}"
@@ -95,7 +115,7 @@
         <div class="clear-fix"></div>
         <div class="divider mt-4 mb-5"></div>
         <h2 class="index-icon-title py-2 mb-5">
-          <i class="fa fas fa-newspaper"></i>
+          <i class="fab fa-instagram"></i>
           {{ .Site.Params.photos.last | safeHTML }}
         </h2>
 	{{ partial "photos.html" (dict "limit" 4) }}

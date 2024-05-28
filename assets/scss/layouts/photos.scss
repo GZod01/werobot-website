@@ -13,6 +13,15 @@
 	grid-column-gap: 1.2em;
 	grid-row-gap: 1.2em;
 	justify-content: center;
+	&.photos-list-photos-len-1{
+	    grid-template-columns:repeat(1,1fr);
+	}
+	&.photos-list-photos-len-2{
+	    grid-template-columns:repeat(2,1fr);
+	}
+	&.photos-list-photos-len-3{
+	    grid-template-columns:repeat(3,1fr);
+	}
     }
 
     .photos-list-item {

@@ -56,10 +56,14 @@ if(isset($_GET["id"])){
 if(isset($_GET["limit"])){
     $limit = intval($_GET["limit"]);
     $medias = array_slice($medias, 0, $limit);
+    $supclass="";
+    if(count($medias)<4){
+	$supclass = "photos-list-photos-len-".strval(count($medias));
+    }
 }
 ?>
 <div
-class="photos-list-photos">
+class="photos-list-photos <?=$supclass?>">
 <?php
 foreach($medias as $m){
 ?>
