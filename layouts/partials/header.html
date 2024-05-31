@@ -32,7 +32,17 @@
       <div class="header-nav-item">
         <a
 		href="{{ .URL }}"
-		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }}">{{ .Title }}</a>
+		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }}">
+	    {{ $title := .Title }}
+	    {{ with (index site.Params .Identifier) }}
+	    {{ if isset . "title" }}
+	    {{ $title = .Title }}
+	    {{ else }}
+	    {{ $title = . }}
+	    {{ end }}
+	    {{ end }}
+	    {{ $title }}
+	    </a>
       </div>
       {{ end }}
     </div>

@@ -39,7 +39,15 @@
 			<a
 				href="{{ .URL }}"
 				class="link">
-			    {{ .Name}}
+			    {{ $title := .Title }}
+			    {{ with (index site.Params .Identifier) }}
+			    {{ if isset . "title" }}
+			    {{ $title = .Title }}
+			    {{ else }}
+			    {{ $title = . }}
+			    {{ end }}
+			    {{ end }}
+			    {{ $title }}
 			</a>
 			{{ end }}
 		    </div>
@@ -50,7 +58,15 @@
 			<a
 				href="{{ .URL }}"
 				class="link">
-			    {{ .Name }}
+			    {{ $title := .Title }}
+			    {{ with (index site.Params .Identifier) }}
+			    {{ if isset . "title" }}
+			    {{ $title = .Title }}
+			    {{ else }}
+			    {{ $title = . }}
+			    {{ end }}
+			    {{ end }}
+			    {{ $title }}
 			</a>
 			{{ end }}
 		    </div>

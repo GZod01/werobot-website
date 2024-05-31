@@ -36,7 +36,7 @@ loading = "Loading..."
 more = "See more..."
 page-not-supported = "We are sorry this page is not supported in your language yet."
 [languages.en.params.landing]
-title = "Build, test, learn, deploy"
+title = "Build, Test, Learn, Deploy"
 
   [languages.en.params.landing.edito]
   title = "Edito"
@@ -186,7 +186,7 @@ title="Vous vous êtes perdu ?"
 description= "Cette page n'existe pas ou plus"
 
 [params.landing]
-title = "Construire, tester, apprendre, déployer"
+title = "Construire, Tester, Apprendre, Déployer"
 
   [params.landing.edito]
   title = "Edito"
@@ -305,7 +305,7 @@ title="A Propos"
 
 [[menus.main]]
 weight=4
-identifier="contact"
+identifier="contact-us"
 url="/contact"
 title="Contact"
 
@@ -321,54 +321,52 @@ customClass="link-primary"
 [[menus.footer_left]]
 weight=1
 identifier="home"
-name="Accueil"
+title="Accueil"
 url="/"
 
 [[menus.footer_left]]
 weight=2
 identifier="blog"
-name="Blog"
+title="Blog"
 url="/blog"
 
 [[menus.footer_left]]
 weight=3
 identifier="photos"
-name="Photos"
+title="Photos"
 url="/photos"
 
 [[menus.footer_left]]
 weight=4
 identifier="donate"
-name="Donner"
+title="Donner"
 url="https://www.helloasso.com/associations/we-robot/formulaires/1"
 
 [[menus.footer_right]]
 weight=1
 identifier="about"
-name="À Propos"
+title="À Propos"
 url="/about"
 
 [[menus.footer_right]]
 weight=2
 identifier="where"
-name="Où sommes nous"
+title="Où sommes nous"
 url="/about#place"
 
 [[menus.footer_right]]
 weight=3
-identifier="contact"
-name="Nous contacter"
+identifier="contact-us"
+title="Nous contacter"
 url="/contact"
 
 [[menus.footer_right]]
 weight=4
 identifier="legals"
-name="Mentions Légales"
+title="Mentions Légales"
 url="/legals"
 
-[[languages.en.menu.main]]
-identifier="home"
-title="Home Page"
+
 
 
 

@@ -15,6 +15,17 @@
 	justify-content: center;
 	&.photos-list-photos-len-1{
 	    grid-template-columns:repeat(1,1fr);
+	    .photos-list-item{
+		width:100%;
+		background-size: contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		span#caption{
+		    height:100%;
+		    width:100%;
+		}
+	    }
+
 	}
 	&.photos-list-photos-len-2{
 	    grid-template-columns:repeat(2,1fr);
