@@ -1,7 +1,6 @@
 ---
 title: A propos
 ---
-
 ## Notre histoire
 
 L'association a vu le jour en mai 2017. Son premier but était la participation au [First Global Challenge 2017](https://first.global/archive/fgc-2017/) à Washington D.C.
@@ -13,7 +12,7 @@ Après trois mois de préparation et de communication, nous rencontrons les 156 
 ### Saison 2017-2018
 
 <div class="d-flex justify-center pb-2">
-  <img alt="Notre ancien logo" src="https://s.werobot.fr/old_logo.png" title="Notre ancien logo" width="100" />
+  <img alt="Notre ancien logo" data-src="https://s.werobot.fr/old_logo.png" title="Notre ancien logo" width="100" />
 </div>
 
 Nous avons participé à deux compétitions cette année :
@@ -38,52 +37,28 @@ Les concours actuellement prévus cette année sont une nouvelle fois les [troph
 
 Saison très mouvementée évidemment. L'atelier hebdomadaire d'initiation à la robotique aux enfants du [Centre Social Condorcet](https://www.espacecondorcet.org/) a continué jusqu'au confinement. Nous avons par ailleurs pu organiser deux ateliers de découverte des [micro-bits](https://archive.microbit.org/fr/). En ce qui concerne les concours de robotique, nos deux jeunes ont bossé d'arrache-pieds mais les [trophées](http://tropheesderobotique.fr) on tout d'abord été programmés à une date impossible (trop proche du bac) nous avons réussi à négocier notre inscription à la [coupe de France](https://www.coupederobotique.fr/) mais ces événements ont finis par être annulés/reportés.
 
+### Saison 2020-2021
+
+Juste avant le deuxième confinement nous avons pu participer pour la première fois à la [coupe de France](https://www.coupederobotique.fr/).
+L'expérience aux côtés de Matthieu et Mohamed a été super intéressante. 
+Sinon la saison s'est déroulée en demie-teinte : encore une année sans compétition physique mais nous avons participé à une compétition en ligne organisée par [Student Robotics](https://studentrobotics.org/) durant laquelle nous avons remporté le "Rookie Award" (prix de la meilleure équipe débutante).
+L'atelier du samedi a été maintenu à distance. Les jeunes se connectaient sur un salon [jitsi](https://jitsi.org/) et nous avons pu faire quelques activités de programmation.
+
+### Saison 2021-2022
+Les ateliers à la maison de quartier et dans nos locaux des Douaires ont été très dynamiques mais nous n'avons pas pu participer à des compétitions faute de participants !
+
+### Saison 2022-2023
+Cette année l'atelier de la maison de quartier n'a eu lieu qu'épisodiquement car celle-ci a régulièrement été fermée du fait d'un manque de personnel encadrant.
+Notre participation aux Trophées de robotique (désormais appelés Coupe de France Junior de Robotique) a été annulée par l'organisation Normande à la dernière minutes.
+L'atelier numérique, lui, est resté très actif comme d'habitude.
+
+
 <div id="members"></div>
 
 ## Nos membres
 
-<div class="team-mosaic">
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/franck.jpg" alt="avatar"></div>
-    <p class="team-item-title">Franck</p>
-    <p class="team-item-description">Président de l'association, Coach</p>
-  </div>
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/francois.jpg" alt="avatar"></div>
-    <p class="team-item-title">François</p>
-    <p class="team-item-description">Trésorier de l'association, Coach</p>
-  </div>
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/katia.jpg" alt="avatar"></div>
-    <p class="team-item-title">Katia</p>
-    <p class="team-item-description">Secrétaire</p>
-  </div>
-  <!-- <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/antoine.jpg" alt="avatar"></div>
-    <p class="team-item-title">Antoine</p>
-    <p class="team-item-description">Trophées, Astro-Pi, Communication</p>
-  </div> -->
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/mathis.jpg" alt="avatar"></div>
-    <p class="team-item-title">Mathis</p>
-    <p class="team-item-description">Trophées, Astro-Pi, atelier de robotique</p>
-  </div>
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/matthieu.jpg" alt="avatar"></div>
-    <p class="team-item-title">Matthieu</p>
-    <p class="team-item-description">Trophées, Astro-Pi, Communication</p>
-  </div>
-  <div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/mohamed.jpg" alt="avatar"></div>
-    <p class="team-item-title">Mohamed</p>
-    <p class="team-item-description">Trophées, Astro-Pi, Communication</p>
-  </div>
-  <!--<div class="team-item">
-    <div class="team-item-image"><img src="https://static.werobot.fr/profiles/quentin.jpg" alt="avatar"></div>
-    <p class="team-item-title">Quentin</p>
-    <p class="team-item-description">Communication</p>
-  </div>-->
-</div>
+{{<members>}}
+
 
 <div id="partners"></div>
 

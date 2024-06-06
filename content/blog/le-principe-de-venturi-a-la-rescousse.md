@@ -2,7 +2,7 @@
 title: "Le principe de Venturi à la rescousse."
 date: "2022-11-12 00:00:00"
 lastupdate: "2022-11-12 17:52:35"
-banner: "https://static.werobot.fr/blog/bob-ross/636f78e80e608/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/636f78e80e608/50.png"
 slug: "le-principe-de-venturi-a-la-rescousse"
 description: " 
 Crash Test 
@@ -22,7 +22,7 @@ En attendant qu’ Aurélien et Matthieu finissent de modifier la programmation 
 
 Ça le connaît François, le dessin technique … Ça lui rappelle d’autres temps, pas si lointains avec d’autres jeunes !Papier, crayon, règle graduée, compas… C’est parti. Il s’agit de dessiner la pièce de dérivation à ajouter au système, pour la modéliser et enfin en faire une impression 3D.Les calculs doivent être précis.
 
-![alternative text](https://static.werobot.fr/blog/bob-ross/636fc6d3a1b23/50.jpg)
+![alternative text](/proxyPhotos?code=/blog/bob-ross/636fc6d3a1b23/50.jpg)
 
 ## Au menu la semaine prochaine
    une manette de PS4 à la sauce WeRobot!

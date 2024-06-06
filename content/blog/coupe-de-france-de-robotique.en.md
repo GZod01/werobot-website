@@ -2,7 +2,7 @@
 title: "French Robotic Cup"
 date: "2020-10-21 16:50:44"
 lastupdate: "2020-10-21 17:10:38"
-banner: "https://static.werobot.fr/blog/bob-ross/5f90604ad7136/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5f90604ad7136/50.jpg"
 slug: "french-robotic-cup"
 description: " 
 For the first time in our small non-profit history, one of our teams will attend to the <a href=\"https://www.coupederobotique.fr\">coupe de France de r
@@ -24,9 +24,9 @@ Meanwhile the two guys work hard because there's only one week left !
 
 <tr> 
 
-<td><img src="https://static.werobot.fr/blog/bob-ross/5f90604e24803/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5f90604e24803/50.jpg"></td>
 
-<td ><img src="https://static.werobot.fr/blog/bob-ross/5f90604c149f0/50.jpg"></td>
+<td ><img src="/proxyPhotos?code=/blog/bob-ross/5f90604c149f0/50.jpg"></td>
 
 </tr>
 

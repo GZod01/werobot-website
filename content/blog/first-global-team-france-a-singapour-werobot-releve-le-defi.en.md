@@ -2,7 +2,7 @@
 title: "FIRST GLOBAL TEAM FRANCE A SINGAPOUR : WeRobot takes on the challenge !"
 date: "2023-09-16 22:00:00"
 lastupdate: "2024-02-08 18:40:44"
-banner: "https://static.werobot.fr/blog/bob-ross/650851940aed6/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"
 slug: "first-global-team-france-a-singapour-werobot-takes-on-the-challenge"
 description: " 
 WeRobot will represent France at the First Global Challenge Singapore 2023.
@@ -18,19 +18,19 @@ Antoine, a former club member who participated in the Washington competition, co
 <center>
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/650851940aed6/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/650851948987c/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/650851948987c/50.jpg"></td>
 </tr>
 </table>
 </center>
 <center>
 <div style="width: 60%; max-width: 300px;">
-<img src="https://static.werobot.fr/blog/bob-ross/6508747ab39c3/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6508747ab39c3/50.jpg">
 </div>
 </center>
 <center>
 <div style="width: 200px">
-<img src="https://static.werobot.fr/blog/bob-ross/6509b99fa50d9/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6509b99fa50d9/50.jpg">
 </div>
 </center>
     

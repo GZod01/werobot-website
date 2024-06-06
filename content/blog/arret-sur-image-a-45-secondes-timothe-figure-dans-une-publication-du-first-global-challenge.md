@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "  Timothé, un membre de notre équipe est très récemment apparu dans l’une des dernières vidéos du <i>FIRST</i>  Global Challenge visant à faire reconnaître la robotique comme étant un sport officiel. "
-baneer: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
-banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
+baneer: "/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg"
 draft: false 
 
 ---
@@ -20,7 +20,7 @@ draft: false
 
 <center>
 <div style="width: 450px">
-<img src="https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg">
 </div>
 </center>
 

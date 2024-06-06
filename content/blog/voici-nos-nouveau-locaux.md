@@ -2,7 +2,7 @@
 title: "Voici nos nouveau locaux"
 date: "2019-04-13 22:46:36"
 lastupdate: "2019-04-13 22:46:36"
-banner: "https://static.werobot.fr/blog/bob-ross/5cb1d5fce540c/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5cb1d5fce540c/50.jpg"
 slug: "voici-nos-nouveau-locaux"
 description: " 
 Depuis aujourd'hui, la municipalité de Gaillon met à notre disposition d'immenses locaux.
@@ -26,12 +26,12 @@ Quelques images de plus :
 
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb245b1302ff/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2469208278/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb245b1302ff/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2469208278/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2462712d83/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2456f45796/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2462712d83/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2456f45796/50.jpg"></td>
 </tr>
 </table>
     

@@ -2,7 +2,7 @@
 {{ range .Site.Data.partners.partners }}
 <div id="{{ .id }}" class="partner flex flex-wrap">
     <a href="{{ .url | safeURL }}" title="{{ .Name }}" class="w-full md:w-1/3 partner-image">
-	<img src="{{ if .realimg }}{{ .realimg }}{{ else }}https://s.werobot.fr/{{ .img }}{{ end }}">
+	<img src="{{ if .realimg }}{{ .realimg }}{{ else }}/proxyPhotos?code=/{{ .img }}{{ end }}">
     </a>
     <div class="w-full md:w-2/3">
 	{{ .description | safeHTML }}

@@ -2,7 +2,7 @@
 title: "Visiting La Filature"
 date: "2019-01-24 00:00:00"
 lastupdate: "2019-02-03 11:10:29"
-banner: "https://static.werobot.fr/blog/bob-ross/5c56bb629a937/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c56bb629a937/50.jpg"
 slug: "visiting-la-filature"
 description: " 
 We were invited by Rodolphe Durand to visit La filature in Louviers.

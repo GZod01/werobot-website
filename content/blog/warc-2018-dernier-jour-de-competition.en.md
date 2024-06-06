@@ -2,7 +2,7 @@
 title: "WARC2018 - Last day"
 date: "2018-07-23 11:50:03"
 lastupdate: "2019-01-19 10:30:41"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e44fe30cb2/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e44fe30cb2/50.jpg"
 slug: "warc2018-last-day"
 description: " 
 This morning, the fifth series end up and we still rank 12th.
@@ -18,14 +18,14 @@ But, the alliance captains will still be able to choose us for the final phase. 
 
 Just before the last match, the students answer their first interview in China.
 
-![Interview sur place 1](https://static.werobot.fr/blog/bob-ross/5c3e450085384/50.jpg "Interview sur place 1")
+![Interview sur place 1](/proxyPhotos?code=/blog/bob-ross/5c3e450085384/50.jpg "Interview sur place 1")
 
-![Interview sur place 2](https://static.werobot.fr/blog/bob-ross/5c3e450725bde/50.jpg "Interview sur place 2")
+![Interview sur place 2](/proxyPhotos?code=/blog/bob-ross/5c3e450725bde/50.jpg "Interview sur place 2")
 
 We win the last match 110 vs 29. This make us climb really high in the final ranking :
 
 
-![classement à l'issue des phases de qualification](https://static.werobot.fr/blog/bob-ross/5c3e450990572/50.jpg "classement à l'issue des phases de qualification")
+![classement à l'issue des phases de qualification](/proxyPhotos?code=/blog/bob-ross/5c3e450990572/50.jpg "classement à l'issue des phases de qualification")
 
 We are fifth ! This is incredible.
 
@@ -43,25 +43,25 @@ We win the final ( 2 matchs vs 0).
 
 WE ARE THE CHAMPIONS
 
-![Les finalistes](https://static.werobot.fr/blog/bob-ross/5c3e450d8d264/50.jpg "Les finalistes")
+![Les finalistes](/proxyPhotos?code=/blog/bob-ross/5c3e450d8d264/50.jpg "Les finalistes")
 
 Before the closing ceremony, there a smaller one dedicated to secondary awards. We discover that we alsoi win the "Award for International Unity". This prize rewards our involment towards people and our friendliness. We are super proud !
 
-![Prix de l'unité internationale](https://static.werobot.fr/blog/bob-ross/5c3e450fe51b5/50.jpg "Prix de l'unité internationale")
+![Prix de l'unité internationale](/proxyPhotos?code=/blog/bob-ross/5c3e450fe51b5/50.jpg "Prix de l'unité internationale")
 
 This evening, it is our consecration.
 
-![Sièges (en plastique) réservés aux vainqueurs](https://static.werobot.fr/blog/bob-ross/5c3e451510df6/50.jpg "Sièges (en plastique) réservés aux vainqueurs")
+![Sièges (en plastique) réservés aux vainqueurs](/proxyPhotos?code=/blog/bob-ross/5c3e451510df6/50.jpg "Sièges (en plastique) réservés aux vainqueurs")
 
 In a crowdy local, on a hudge stage,
-![La scène](https://static.werobot.fr/blog/bob-ross/5c3e451aba3d2/50.jpg "La scène")
+![La scène](/proxyPhotos?code=/blog/bob-ross/5c3e451aba3d2/50.jpg "La scène")
 our students receive their victory cup.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hsAoZWPeOFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![La coupe](https://static.werobot.fr/blog/bob-ross/5c3e452086796/50.jpg "La coupe")
+![La coupe](/proxyPhotos?code=/blog/bob-ross/5c3e452086796/50.jpg "La coupe")
 
-![Le certificat](https://static.werobot.fr/blog/bob-ross/5c3e4523bb423/50.jpg "Le certificat")
+![Le certificat](/proxyPhotos?code=/blog/bob-ross/5c3e4523bb423/50.jpg "Le certificat")
 
 They are interviewed by the chinese TV.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LpQCpUhe0dw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

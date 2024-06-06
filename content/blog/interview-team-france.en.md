@@ -2,7 +2,7 @@
 title: " Team France Interview"
 date: "2017-05-29 00:00:00"
 lastupdate: "2019-01-19 10:30:34"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e469a90567/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e469a90567/original.jpg"
 slug: "team-france-interview"
 description: " 
 Mathieu has completed the post processing of all our interviews.

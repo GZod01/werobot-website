@@ -2,7 +2,7 @@
 title: "On the Hot Spot this week … Fired up !"
 date: "2022-11-25 23:00:00"
 lastupdate: "2022-12-09 09:04:23"
-banner: "https://static.werobot.fr/blog/bob-ross/636fc6d3a1b23/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/636fc6d3a1b23/50.jpg"
 slug: "on-the-hot-spot-this-week-fired-up"
 description: " 
 ## The Geeks , father & son

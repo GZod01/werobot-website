@@ -2,7 +2,7 @@
 title: "Concours Eurobot junior 2023 : C'est parti !"
 date: "2022-10-21 18:00:00"
 lastupdate: "2022-10-29 16:36:24"
-banner: "https://static.werobot.fr/blog/bob-ross/6353bb11d7b8b/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/6353bb11d7b8b/50.png"
 slug: "concours-eurobot-junior-2023-c-est-parti"
 description: " 
 L'équipe WeRobot est repartie en concours!

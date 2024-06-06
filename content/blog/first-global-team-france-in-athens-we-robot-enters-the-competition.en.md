@@ -2,7 +2,7 @@
 title: "First Global Team France in Athens : We Robot enters the competition! "
 date: "2024-05-03 19:47:54"
 lastupdate: "2024-05-03 19:47:54"
-banner: "https://static.werobot.fr/blog/bob-ross/66351ea1a662d/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/66351ea1a662d/50.jpg"
 slug: "first-global-team-france-in-athens-we-robot-enters-the-competition"
 description: " 
 ## We Robot has been selected for the third time to officially represent France at the FIRST Global Challenge, a robotics competition that brings toge
@@ -23,7 +23,7 @@ This new challenge is a great opportunity for our team to improve their skills, 
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/654bc47831545/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/654bc47831545/50.jpg">
 </div>
 </center>
 
@@ -39,7 +39,7 @@ Support WE ROBOT (helloasso.com)
 
 <center>
 <div style="width: 200px">
-<img src="https://static.werobot.fr/blog/bob-ross/6509b99fa50d9/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6509b99fa50d9/50.jpg">
 </div>
 </center>
     

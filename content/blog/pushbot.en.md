@@ -10,10 +10,10 @@ Mathis built the second part of the PushBot
 ---
 Then Mathis built the second part of the PushBot, adding a an arm and a claw.
 
-![pushbot complete](https://static.werobot.fr/blog/bob-ross/5bf190af0246e.jpg)
+![pushbot complete](/proxyPhotos?code=/blog/bob-ross/5bf190af0246e.jpg)
 He then tried to program it after I explained how we could use the RightStickX and RightStickY variables.
 
-![Mathis coding](https://static.werobot.fr/blog/bob-ross/5bf190f92724a.jpg)
+![Mathis coding](/proxyPhotos?code=/blog/bob-ross/5bf190f92724a.jpg)
 
 And finally, here it is :
 

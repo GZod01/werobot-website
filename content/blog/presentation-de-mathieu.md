@@ -2,7 +2,7 @@
 title: "Présentation de mathieu"
 date: "2017-05-09 00:00:00"
 lastupdate: "2019-01-19 10:30:27"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46a912c95/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46a912c95/original.jpg"
 slug: "presentation-de-mathieu"
 description: " 
 Nous avons parlé de Mathieu dans le dernier article mais nous ne l'avons jamais encore présenté

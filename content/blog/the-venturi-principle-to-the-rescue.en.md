@@ -2,7 +2,7 @@
 title: "The Venturi Principle to the Rescue"
 date: "2022-11-12 00:00:00"
 lastupdate: "2022-11-12 18:59:26"
-banner: "https://static.werobot.fr/blog/bob-ross/636f78e80e608/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/636f78e80e608/50.png"
 slug: "the-venturi-principle-to-the-rescue"
 description: " 
 Crash Test 
@@ -21,7 +21,7 @@ Aurélien and Matthieu are completing the upgraded programming of the collector.
 François knows a thing or two about technical drawing… Something to do with other times – not so old -and other lads. A sheet of paper, a couple of pencils, a reluer , a compass and here he goes again. It is about drawing the by-pass element , which be modeled and eventually printed in 3D.
 A serious business.
 
-![alternative text](https://static.werobot.fr/blog/bob-ross/636fc6d3a1b23/50.jpg)
+![alternative text](/proxyPhotos?code=/blog/bob-ross/636fc6d3a1b23/50.jpg)
 
 ##Next Week’s special
          a PS4 gamepad restyled by Masterchef Mahé

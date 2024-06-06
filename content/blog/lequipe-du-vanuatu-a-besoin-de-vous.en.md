@@ -2,7 +2,7 @@
 title: " Team Vanuatu needs your help"
 date: "2017-07-04 01:45:12"
 lastupdate: "2019-01-19 10:30:36"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46775c148/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46775c148/original.jpg"
 slug: "team-vanuatu-needs-your-help"
 description: " 
 

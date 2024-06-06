@@ -2,7 +2,7 @@
 title: "Assemblée générale GIRV"
 date: "2018-12-13 00:00:00"
 lastupdate: "2019-01-19 10:30:42"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b71c5ddd/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e3b71c5ddd/50.jpg"
 slug: "assemblee-generale-girv"
 description: " 
 M Didier Herbeaux, actuel président du GIRV et directeur du site d'ArianeGroup à Vernon, nous a invité à venir présenter notre association devant les membres du groupement interprofessionnel ce jeudi 13 décembre
@@ -18,7 +18,7 @@ Pour l'occasion, notre équipe s'était particulièrement mobilisée :
 
 Cette assemblée générale est traditionnellement réservée à la politique, celle-ci n'a pas dérogé à la règle et nous avons assisté à des interventions de personnalités politiques allant du local (le maire de Vernon :  François Ouzilleau) au national ( le Ministre chargé des Collectivités territoriales : Sébastien Lecornu). En contre-partie, ceux-ci ont également écouté notre présentation en compagnie d'une petite centaine de représentants du secteur privé de la région de Vernon.
 
-![Les politiques captivés par les jeunes !](https://static.werobot.fr/blog/bob-ross/5c3e3b746521f/50.jpg "Les politiques captivés par les jeunes !")
+![Les politiques captivés par les jeunes !](/proxyPhotos?code=/blog/bob-ross/5c3e3b746521f/50.jpg "Les politiques captivés par les jeunes !")
 
 A l'issue de leur brillante présentation, ils ont non seulement été chaudement applaudis mais en plus, Jérôme Taconnet, directeur général du Campus de l'Espace à Vernon, a proposé publiquement de mettre un local à disposition de l'association sur le Campus. De plus, Vincent Megret, directeur de <a href="http://www.skf.com/fr/our-company/skf-en-france/vernon/index.html">SKF Vernon</a>, nous a proposé de nous offrir l'imprimante 3D dont nous rêvions pour nos projets robotiques.
 

@@ -2,7 +2,7 @@
 title: "General Assembly of the GIRV"
 date: "2018-12-13 00:00:00"
 lastupdate: "2019-01-19 10:30:43"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b71c5ddd/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e3b71c5ddd/50.jpg"
 slug: "general-assembly-of-the-girv"
 description: " 
 An incredible evening !
@@ -20,7 +20,7 @@ For this event, our team is well prepared :
 
 Usually, this general assembly is dedicated to politician, and this evening it was also the case. We attend to speeches from several politicians from local ones (the mayor of Vernon : François Ouzilleau) to national one ( the Minister in charge of Territorial Communities : Sébastien Lecornu). And of course, these politicians attend to our presentation along with a small hundred of representatives of the private sector in the Vernon area.
 
-![Les politiques captivés par les jeunes !](https://static.werobot.fr/blog/bob-ross/5c3e3b746521f/50.jpg "Les politiques captivés par les jeunes !")
+![Les politiques captivés par les jeunes !](/proxyPhotos?code=/blog/bob-ross/5c3e3b746521f/50.jpg "Les politiques captivés par les jeunes !")
 
 After their showing, they were applaused and moreover, Jérôme Taconnet, the general manager of the "Campus de l''Espace" in Vernon, proposed to lend us a room on the Campus for all our activities. And Vincent Megret, director of <a href="http://www.skf.com/fr/our-company/skf-en-france/vernon/index.html">SKF Vernon</a>, proposed to buy us the 3D printer we dream of.
 

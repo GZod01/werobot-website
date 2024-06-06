@@ -2,7 +2,7 @@
 title: "Day 3 - The Challenge begins"
 date: "2017-07-17 03:02:14"
 lastupdate: "2019-01-19 10:30:38"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4646dc735/original.jpg"
 slug: "day-3-the-challenge-begins"
 description: " 
 The challenge begins today with the first three rounds.
@@ -21,21 +21,21 @@ But the team fixed the robot, improved it a bit and then it went better.
 
 Moreover, they were interviewed :
 
-![Antoine is interviewed](https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/50.jpg "Antoine is interviewed")
+![Antoine is interviewed](/proxyPhotos?code=/blog/bob-ross/5c3e4646dc735/50.jpg "Antoine is interviewed")
 
 They were thanked by an official diplomat of Gambia for the help they gave to the team of this country.
 
 Indeed Mathis and Quentin helped them building an arm to hang their robot and Antoine quickly wrote a code in java to allow them to pilot their robot.
 
-![Offcial from Gambia thanks Team France](https://static.werobot.fr/blog/bob-ross/5c3e4647815e5/50.jpg "Offcial from Gambia thanks Team France")
+![Offcial from Gambia thanks Team France](/proxyPhotos?code=/blog/bob-ross/5c3e4647815e5/50.jpg "Offcial from Gambia thanks Team France")
 
 The students also went to support and watch other teams competing.
 
-![](https://static.werobot.fr/blog/bob-ross/5c3e4648150f3/50.jpg "")
+![](/proxyPhotos?code=/blog/bob-ross/5c3e4648150f3/50.jpg "")
 
-![With Émile from Belgium](https://static.werobot.fr/blog/bob-ross/5c3e4648aa802/50.jpg "With Émile from Belgium")
+![With Émile from Belgium](/proxyPhotos?code=/blog/bob-ross/5c3e4648aa802/50.jpg "With Émile from Belgium")
 
 Moreover they managed to have a picture with Dean Kamen !!
 
-![With Dean Kamen](https://static.werobot.fr/blog/bob-ross/5c3e46494e323/50.jpg "With Dean Kamen")
+![With Dean Kamen](/proxyPhotos?code=/blog/bob-ross/5c3e46494e323/50.jpg "With Dean Kamen")
     

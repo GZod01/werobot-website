@@ -2,7 +2,7 @@
 title: "L'équipe du Vanuatu a besoin de vous"
 date: "2017-07-04 01:45:12"
 lastupdate: "2019-01-19 10:30:22"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46775c148/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46775c148/original.jpg"
 slug: "lequipe-du-vanuatu-a-besoin-de-vous"
 description: " 
 Après la Gambie et l'Afghanistan, il semblerait que l'équipe du Vanuatu ne puisse pas participer à la compétition.

@@ -6,7 +6,7 @@ $footer-cover-height: 10em;
 
   .footer-cover-back {
     height: $footer-cover-height;
-    background-image: url("https://s.werobot.fr/footerCover.jpeg");
+    background-image: url("/proxyPhotos?code=/footerCover.jpeg");
     background-size: cover;
     background-position-x: center;
     background-position-y: top;

@@ -69,12 +69,13 @@
   }
 
   .article-thumb {
-    height: 15em;
-    overflow: hidden;
-    background-color: white;
-    background-size: cover;
-    background-position: center;
-    transition: height 0.3s;
+      background-image:var(--article-image);
+      height: 15em;
+      overflow: hidden;
+      background-color: white;
+      background-size: cover;
+      background-position: center;
+      transition: height 0.3s;
   }
 
   .article-thumb img {

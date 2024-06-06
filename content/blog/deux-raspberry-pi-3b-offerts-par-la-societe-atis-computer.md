@@ -2,7 +2,7 @@
 title: "Deux Raspberry Pi 3B+ offerts par la société Atis Computer"
 date: "2019-04-14 20:00:31"
 lastupdate: "2019-04-21 23:30:33"
-banner: "https://static.werobot.fr/blog/bob-ross/5cbce0db44135/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/5cbce0db44135/50.png"
 slug: "deux-raspberry-pi-3b-offerts-par-la-societe-atis-computer"
 description: " 
 La société Atis Computer située 90 Rue de Constantine à Rouen nous offre deux Raspberry Pi 3B+ dans le cadre d'un partenariat annuel.
@@ -11,7 +11,7 @@ La société Atis Computer située 90 Rue de Constantine à Rouen nous offre deu
 <div align="center">
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb37026179dd/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb37026179dd/50.jpg"></td>
 </tr>
 </table>
 </div>

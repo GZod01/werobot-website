@@ -2,7 +2,7 @@
 title: "TR2019 : J-6 et c'est le désastre !"
 date: "2019-03-17 14:49:05"
 lastupdate: "2019-03-17 14:49:05"
-banner: "https://static.werobot.fr/blog/bob-ross/5c8e4fcb6e34d/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c8e4fcb6e34d/50.jpg"
 slug: "tr2019-j-6-et-cest-le-desastre"
 description: " 
 Nous avons passé beaucoup de temps sur le robot ces dernières semaines mais le résultat n'est pas du tout à la hauteur de nos espérances.

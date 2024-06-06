@@ -2,7 +2,7 @@
 title: "Disappointment, twists and turns"
 date: "2018-06-20 09:20:53"
 lastupdate: "2019-01-19 10:30:40"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e45f329075/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e45f329075/50.jpg"
 slug: "disappointment-twists-and-turns"
 description: " 
 Back from the US last summer, we thought we would attend to the next First Global Challenge to be held in Mexico.
@@ -21,16 +21,16 @@ Unfortunately, by the end of february,we've been noticed that we won't attend to
 
 Hopefuly, the GIGA didn't let us down : they invited us back to their general assembly on the 14th of June. There we showed one of our robots working and they supported us with 5000€.
 
- ![Installation](https://static.werobot.fr/blog/bob-ross/5c3e45f60b0ec/50.jpg "Installation")
+ ![Installation](/proxyPhotos?code=/blog/bob-ross/5c3e45f60b0ec/50.jpg "Installation")
 
-![Présentation](https://static.werobot.fr/blog/bob-ross/5c3e45f99b9ed/50.jpg "Présentation")
+![Présentation](/proxyPhotos?code=/blog/bob-ross/5c3e45f99b9ed/50.jpg "Présentation")
 
-![Remise du chèque](https://static.werobot.fr/blog/bob-ross/5c3e45f329075/50.jpg "Remise du chèque")
+![Remise du chèque](/proxyPhotos?code=/blog/bob-ross/5c3e45f329075/50.jpg "Remise du chèque")
 
 Some days later, we had a huge surprise :
 we received a mail from China, inviting us to the World Adolescent Robotic Contest. Indeed, for its 18th edition, the WARC wanted to add a category : FGC. 15 chinese teams and 15 foreign teams would particpate with the FGC2017 rules. We were chosen to represent FRANCE
 
 We don't have plenty of time to prepare and moreover, we have demantled our robot. Nevermind : this is even funnier to make another one and we already know the rules by heart !
 So we're jumping into :
-![Logo WARC](https://static.werobot.fr/blog/bob-ross/5c3e45ffe6309/50.png "Logo WARC")
+![Logo WARC](/proxyPhotos?code=/blog/bob-ross/5c3e45ffe6309/50.png "Logo WARC")
     

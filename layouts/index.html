@@ -137,7 +137,7 @@
 		    </div>
 		    {{ range .Site.Data.partners.partners }}
 		    <a href="{{ relLangURL (printf "%s%s" "/partners#" .id) }}" title="{{ .Name }}" class="partner-item link {{ if .class }}{{ .class}}{{ else }}w-1/2 md:w-1/5{{ end }}">
-			<img src="{{ if .realimg }}{{ .realimg }}{{ else }}https://s.werobot.fr/{{ .img }}{{ end }}"/>
+			<img src="{{ if .realimg }}{{ .realimg }}{{ else }}/proxyPhotos?code=/{{ .img }}{{ end }}"/>
 		    </a>
 		    {{ end }}
 

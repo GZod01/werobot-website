@@ -2,7 +2,7 @@
 title: "Démarrer un script python au moment du boot d'un Raspberry Pi  4 avec un service systemd"
 date: "2024-02-07 17:00:00"
 lastupdate: "2024-02-08 18:42:44"
-banner: "https://static.werobot.fr/blog/bob-ross/65c4d9e70ec91/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/65c4d9e70ec91/50.png"
 slug: "demarrer-un-script-python-au-moment-du-boot-d-un-raspberry-pi-4-avec-un-service-systemd"
 description: " 
 La méthode sytemd est le aujourd'hui le nouveau standard pour la gestion des services et pour l'exécution automatique de scripts
@@ -27,7 +27,7 @@ La méthode sytemd est le aujourd'hui le nouveau standard pour la gestion des se
 <table>
     <tbody>
         <tr>
-            <td><img alt="Bob Ross" src="https://static.werobot.fr/blog/bob-ross/65c4cde2be4c4/50.png" /></td>
+            <td><img alt="Bob Ross" src="/proxyPhotos?code=/blog/bob-ross/65c4cde2be4c4/50.png" /></td>
         </tr>
     </tbody>
 </table>

@@ -2,7 +2,7 @@
 title: "WARC2018 - First competition day"
 date: "2018-07-22 11:02:04"
 lastupdate: "2019-01-19 10:30:40"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e45466adbe/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e45466adbe/50.jpg"
 slug: "warc2018-first-competition-day"
 description: " 
 During the first day, we discovered the venue, we attended to a meeting to explain the rules, we practiced a bit with the robot but mostly we met agai
@@ -10,13 +10,13 @@ During the first day, we discovered the venue, we attended to a meeting to expla
 ---
 During the first day, we discovered the venue, we attended to a meeting to explain the rules, we practiced a bit with the robot but mostly we met again some "old" pals from Washington (particularly Sue, Ilylia and Diane). We also were invited to a "friendship night" which ended under an incredible downpour.
 
-![L'arrivée sur place](https://static.werobot.fr/blog/bob-ross/5c3e454fa8695/50.jpg "L'arrivée sur place")
+![L'arrivée sur place](/proxyPhotos?code=/blog/bob-ross/5c3e454fa8695/50.jpg "L'arrivée sur place")
 
-![Notre pit](https://static.werobot.fr/blog/bob-ross/5c3e45466adbe/50.jpg "Notre pit")
+![Notre pit](/proxyPhotos?code=/blog/bob-ross/5c3e45466adbe/50.jpg "Notre pit")
 
-![Friendship night](https://static.werobot.fr/blog/bob-ross/5c3e4558de6e2/50.jpg "Friendship night")
+![Friendship night](/proxyPhotos?code=/blog/bob-ross/5c3e4558de6e2/50.jpg "Friendship night")
 
-![Costume traditionnel](https://static.werobot.fr/blog/bob-ross/5c3e455b110b5/50.jpg "Costume traditionnel")
+![Costume traditionnel](/proxyPhotos?code=/blog/bob-ross/5c3e455b110b5/50.jpg "Costume traditionnel")
 
 Today is the first day of competition.
 
@@ -28,7 +28,7 @@ De plus, la compétition est divisée en deux phases :
 1 - The qualifying phase, during which alliances are randomly selected for every match and the scores for a team add up match after match. At the end of this phase, the top 4 teams are qualified for the final phae and become "Alliance captain".
 2 - The final phase. At the beginning, the four captains choose two teams each to form their alliance. Those alliance will last during all the phase. Then there is a semi-final and a final to choose the Championship Winning Alliance.
 
-![Let's go !](https://static.werobot.fr/blog/bob-ross/5c3e455d808bc/50.jpg "Let's go !")
+![Let's go !](/proxyPhotos?code=/blog/bob-ross/5c3e455d808bc/50.jpg "Let's go !")
 
 For once, the first match goes well. We only have one small technical problem but our alliance won 93 vs 77 and our team scores about 25 points.
 
@@ -43,15 +43,15 @@ The overall feeling at the end of the day is disappointment. Our robot works rea
 Nevertheless, we set up an evening in the center of Guiyang with other team to have fun together and this was awesome !
 
 
-![With team Malaysia](https://static.werobot.fr/blog/bob-ross/5c3e456501592/50.jpg "Avec l'équipe de Malaisie")
+![With team Malaysia](/proxyPhotos?code=/blog/bob-ross/5c3e456501592/50.jpg "Avec l'équipe de Malaisie")
 
-![Le centre de Guiyang](https://static.werobot.fr/blog/bob-ross/5c3e456b2c552/50.jpg "Le centre de Guiyang")
+![Le centre de Guiyang](/proxyPhotos?code=/blog/bob-ross/5c3e456b2c552/50.jpg "Le centre de Guiyang")
 
-![Des joueurs de go qui prennent le frais](https://static.werobot.fr/blog/bob-ross/5c3e456fde6d8/50.jpg "Des joueurs de go qui prennent le frais")
+![Des joueurs de go qui prennent le frais](/proxyPhotos?code=/blog/bob-ross/5c3e456fde6d8/50.jpg "Des joueurs de go qui prennent le frais")
 
-![Une très grande place ...](https://static.werobot.fr/blog/bob-ross/5c3e4575b62b6/50.jpg "Une très grande place ...")
+![Une très grande place ...](/proxyPhotos?code=/blog/bob-ross/5c3e4575b62b6/50.jpg "Une très grande place ...")
 
-![Une pagode](https://static.werobot.fr/blog/bob-ross/5c3e457ba0470/50.jpg "Une pagode")
+![Une pagode](/proxyPhotos?code=/blog/bob-ross/5c3e457ba0470/50.jpg "Une pagode")
 
 
 

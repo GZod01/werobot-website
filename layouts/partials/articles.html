@@ -29,7 +29,7 @@
 	<a class=article href="{{ $article.RelPermalink }}">
           <article>
             <div
-		    style="background-image:url({{ $article.Params.banner }});"
+		    style="--article-image:url({{ $article.Params.banner }});"
               class="article-thumb">
             </div>
 	    {{ if (and (eq $index 0) (lt (sub $article.Date.Day time.Now.Day ) 14)) }}

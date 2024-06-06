@@ -2,7 +2,7 @@
 title: "WARC 2018 - Premier Jour de compétition"
 date: "2018-07-22 11:02:04"
 lastupdate: "2019-01-19 10:30:26"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e45466adbe/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e45466adbe/50.jpg"
 slug: "warc-2018-premier-jour-de-competition"
 description: " 
 Après une première journée qui nous a permis de découvrir le lieu de la compétition, d'assister à une réunion pour préciser quelques règles, 
@@ -10,13 +10,13 @@ Après une première journée qui nous a permis de découvrir le lieu de la comp
 ---
 Après une première journée qui nous a permis de découvrir le lieu de la compétition, d'assister à une réunion pour préciser quelques règles, de faire des essais et surtout de retrouver quelques vieilles connaissances de Washington ( particulièrement Sue, Ilylia et Diane) nous avons été convié à la soirée de l'amitié qui s'est malheureusement terminée sous un déluge incroyable.
 
-![L'arrivée sur place](https://static.werobot.fr/blog/bob-ross/5c3e454fa8695/50.jpg "L'arrivée sur place")
+![L'arrivée sur place](/proxyPhotos?code=/blog/bob-ross/5c3e454fa8695/50.jpg "L'arrivée sur place")
 
-![Notre stand](https://static.werobot.fr/blog/bob-ross/5c3e45466adbe/50.jpg "Notre stand")
+![Notre stand](/proxyPhotos?code=/blog/bob-ross/5c3e45466adbe/50.jpg "Notre stand")
 
-![La soirée de l'amitié](https://static.werobot.fr/blog/bob-ross/5c3e4558de6e2/50.jpg "La soirée de l'amitié")
+![La soirée de l'amitié](/proxyPhotos?code=/blog/bob-ross/5c3e4558de6e2/50.jpg "La soirée de l'amitié")
 
-![Costume traditionnel](https://static.werobot.fr/blog/bob-ross/5c3e455b110b5/50.jpg "Costume traditionnel")
+![Costume traditionnel](/proxyPhotos?code=/blog/bob-ross/5c3e455b110b5/50.jpg "Costume traditionnel")
 
 
 
@@ -29,7 +29,7 @@ De plus, la compétition est divisée en deux phases :
 2 - La phase finale, au début de laquelle les capitaines d'alliance choisissent les deux équipes avec lesquelles ils souhaitent jouer cette phase. A l'issue de la sélection, les alliances ne changent plus et on dispute des demi-finales puis une finale pour déterminer l'alliance vainqueur du tournoi.
 
 
-![C'est parti !](https://static.werobot.fr/blog/bob-ross/5c3e455d808bc/50.jpg "C'est parti !")
+![C'est parti !](/proxyPhotos?code=/blog/bob-ross/5c3e455d808bc/50.jpg "C'est parti !")
 
 Pour une fois le premier match s'est bien passé. On n'a eu qu'un petit soucis technique mais l'alliance a gagné 93 à 77 et à titre individuel nous avons marqué à peu près 25 points.
 
@@ -44,15 +44,15 @@ Le bilan de la journée est assez décevant et pourtant notre robot fonctionne �
 
 Mais tout ça ne nous empêche pas d'organiser une sortie le soir même dans le centre de Guiyang avec d'autres équipes pour profiter du peu de temps que nous avons sur place.
 
-![Avec l'équipe de Malaisie](https://static.werobot.fr/blog/bob-ross/5c3e456501592/50.jpg "Avec l'équipe de Malaisie")
+![Avec l'équipe de Malaisie](/proxyPhotos?code=/blog/bob-ross/5c3e456501592/50.jpg "Avec l'équipe de Malaisie")
 
-![Le centre de Guiyang](https://static.werobot.fr/blog/bob-ross/5c3e456b2c552/50.jpg "Le centre de Guiyang")
+![Le centre de Guiyang](/proxyPhotos?code=/blog/bob-ross/5c3e456b2c552/50.jpg "Le centre de Guiyang")
 
-![Des joueurs de go qui prennent le frais](https://static.werobot.fr/blog/bob-ross/5c3e456fde6d8/50.jpg "Des joueurs de go qui prennent le frais")
+![Des joueurs de go qui prennent le frais](/proxyPhotos?code=/blog/bob-ross/5c3e456fde6d8/50.jpg "Des joueurs de go qui prennent le frais")
 
-![Une très grande place ...](https://static.werobot.fr/blog/bob-ross/5c3e4575b62b6/50.jpg "Une très grande place ...")
+![Une très grande place ...](/proxyPhotos?code=/blog/bob-ross/5c3e4575b62b6/50.jpg "Une très grande place ...")
 
-![Une pagode](https://static.werobot.fr/blog/bob-ross/5c3e457ba0470/50.jpg "Une pagode")
+![Une pagode](/proxyPhotos?code=/blog/bob-ross/5c3e457ba0470/50.jpg "Une pagode")
 
 
 

@@ -2,7 +2,7 @@
 title: "Business exhibition"
 date: "2018-11-22 09:16:56"
 lastupdate: "2019-01-19 10:30:42"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b966d544/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e3b966d544/50.jpg"
 slug: "business-exhibition"
 description: " 
 We were invited to the GIRV business exhibition  so as to introduce our non-profit to the members of this group
@@ -12,17 +12,17 @@ We were invited to <a href="https://salondugirv.com"> the GIRV business exhibiti
 
 For this exhibition, the students had designed new business cards and a roll-up.
 
-![Notre stand](https://static.werobot.fr/blog/bob-ross/5c3e3b9c79383/50.jpg "Notre stand")
+![Notre stand](/proxyPhotos?code=/blog/bob-ross/5c3e3b9c79383/50.jpg "Notre stand")
 
 This was an exiting moment. We met many different kind of contractors. Many of them were really interested by our non-profit and some of them are willing to help us.
 
-![Les jeunes bossent sur le stand](https://static.werobot.fr/blog/bob-ross/5c3e3b9eaa4e2/50.jpg "Les jeunes bossent sur le stand")
+![Les jeunes bossent sur le stand](/proxyPhotos?code=/blog/bob-ross/5c3e3b9eaa4e2/50.jpg "Les jeunes bossent sur le stand")
 
-![Contact et explications](https://static.werobot.fr/blog/bob-ross/5c3e3ba1278a6/50.jpg "Contact et explications")
+![Contact et explications](/proxyPhotos?code=/blog/bob-ross/5c3e3ba1278a6/50.jpg "Contact et explications")
 
-![Tout le monde s'en mêle](https://static.werobot.fr/blog/bob-ross/5c3e44cbf359c/50.jpg "Tout le monde s'en mêle")
+![Tout le monde s'en mêle](/proxyPhotos?code=/blog/bob-ross/5c3e44cbf359c/50.jpg "Tout le monde s'en mêle")
 
-![ArianeGroup et SKF](https://static.werobot.fr/blog/bob-ross/5c3e44cea3a0b/50.jpg "ArianeGroup et SKF")
+![ArianeGroup et SKF](/proxyPhotos?code=/blog/bob-ross/5c3e44cea3a0b/50.jpg "ArianeGroup et SKF")
 
 
 Indeed, the goals of this first encounter with the member of the GIRV were firstly to make our student discover the profesionnal world and secondly to fundraise.

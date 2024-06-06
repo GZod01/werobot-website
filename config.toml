@@ -282,6 +282,9 @@ src = "cover/cover.png"
 
 [taxonomies]
 imtag = 'imtags'
+tag="tags"
+category="categories"
+
 
 [menus]
 

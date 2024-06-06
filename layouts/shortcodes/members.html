@@ -1,0 +1,9 @@
+<div class="team-mosaic">
+    {{ range .Site.Data.members.members }}
+  <div class="team-item">
+      <div class="team-item-image"><img src="{{ .img|safeURL }}" alt="avatar"></div>
+      <p class="team-item-title">{{ .name }}</p>
+      <p class="team-item-description">{{ .post }}</p>
+  </div>
+  {{ end }}
+</div>

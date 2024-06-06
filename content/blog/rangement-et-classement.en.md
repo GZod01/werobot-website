@@ -2,7 +2,7 @@
 title: " Arrangement and classification"
 date: "2017-04-21 05:14:49"
 lastupdate: "2019-01-19 10:30:31"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46c9a6bf4/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46c9a6bf4/50.jpg"
 slug: "arrangement-and-classification"
 description: " 
 Today we tried to arrange most of the robot parts into boxes to see clear.
