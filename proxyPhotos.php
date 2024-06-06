@@ -18,6 +18,11 @@ function urlIsAvailable($url){
 }
 
 function getImage($url){
+    $alternativeurl = "./hellowrld/".str_replace("/","-",$url);
+    if(file_exists($alternativeurl)){
+	header('Content-Type: '.mime_content_type($alternativeurl));
+	die(file_get_contents($alternativeurl));
+    }
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -25,7 +30,6 @@ function getImage($url){
     curl_setopt($ch,CURLOPT_TIMEOUT_MS,2000);
     $response = curl_exec($ch);
     $res = !(curl_errno($ch) or curl_getinfo($ch, CURLINFO_HTTP_CODE)!==200);
-    $alternativeurl = "./hellowrld/".str_replace("/","-",$url);
     if($res){
 /*	$f = file_get_contents("alldomains");
 	if(!str_contains($f,$url)){
@@ -34,10 +38,6 @@ function getImage($url){
 	}*/
 	header('Content-Type: '.curl_getinfo($ch, CURLINFO_CONTENT_TYPE));
 	die($response);
-    }
-    elseif(file_exists($alternativeurl)){
-	header('Content-Type: '.mime_content_type($alternativeurl));
-	die(file_get_contents($alternativeurl));
     }
     else{
 	header('Content-Type: image/png');
