@@ -1,8 +1,8 @@
 ---
 title: "Rangement et classement"
-date: "2017-04-21 05:14:49"
-lastupdate: "2019-01-19 10:30:18"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46c9a6bf4/50.jpg"
+date: "2017-04-21 03:14:49"
+lastupdate: "2017-04-21 03:14:49"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e46c9a6bf4/50.jpg"
 slug: "rangement-et-classement"
 description: " 
 Nous avons essayé de ranger la plupart des éléments du kit dans des boîtes pour mieux s'y retrouver.

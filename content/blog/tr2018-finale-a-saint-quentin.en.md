@@ -1,8 +1,8 @@
 ---
 title: "TR2018 - National Challenge in Saint-Quentin"
-date: "2018-04-08 06:33:10"
-lastupdate: "2019-01-19 10:30:39"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4609b80f2/original.jpg"
+date: "2018-04-08 04:33:10"
+lastupdate: "2018-04-08 04:33:10"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e4609b80f2/original.jpg"
 slug: "tr2018-national-challenge-in-saint-quentin"
 description: " 
 Here we are, the national challenge. We passed the inspection et we're ready.
@@ -30,5 +30,5 @@ Third match at last satisfying : 199 points which make us jump from rank 27 to 2
 213 points for our fourth match (which is our record). We end up 20th out of 65 teams. We reached our goal and we are very proud...
 We'lle do even better next year.
 
-![Tableau des scores](/proxyPhotos?code=/blog/bob-ross/5c3e460a2fd26/50.jpg "Tableau des scores")
+![Tableau des scores](https://static.werobot.fr/blog/bob-ross/5c3e460a2fd26/50.jpg "Tableau des scores")
     

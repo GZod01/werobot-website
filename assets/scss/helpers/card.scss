@@ -41,6 +41,12 @@ $card-border-radius: 5px;
     border-bottom-right-radius: $card-border-radius;
   }
 }
+.card.no-title{
+    .card-text {
+	border-top-left-radius: $card-border-radius;
+	border-top-right-radius: $card-border-radius;
+    }
+}
 
 .card.card-green {
   color: #2f3640;

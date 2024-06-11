@@ -15,6 +15,18 @@
 	    <div class="container mx-auto">
 		<div class="flex flex-wrap justify-between">
 		    <div class="w-full md:w-1/2">
+			<div class="card card-red no-title mx-2">
+			    <div class="card-text">
+				{{ partial "articles.html" (dict "context" . "ammount" 1)}}
+			    </div>
+			    <div class="card-actions">
+				<a href="{{ relLangURL "/blog" }}" class="card-action">
+				    {{ .Site.Params.more | safeHTML }}
+				</a>
+			    </div>
+			</div>
+		    </div>
+		    <div class="w-full md:w-1/2">
 			<div class="card no-actions card-blue mx-2">
 			    <div class="card-title">
 				<i class="fa fas fa-arrow-circle-right"></i> {{ .Site.Params.landing.edito.title | safeHTML }}
@@ -25,38 +37,6 @@
 			    </div>
 			</div>
 		    </div>
-		    <!--<div class="w-full md:w-1/2 flex justify-between" style="flex-direction: column;">-->
-			<div class="w-full md:w-1/4">
-			    <div class="card card-red mx-2">
-				<div class="card-title">
-				    <i class="fas fa-newspaper"></i> {{ .Site.Params.articles.last | safeHTML }}
-				</div>
-				<div class="card-text">
-				    {{ partial "articles.html" (dict "context" . "ammount" 1)}}
-				</div>
-				<div class="card-actions">
-				    <a href="{{ relLangURL "/blog" }}" class="card-action">
-					{{ .Site.Params.more | safeHTML }}
-				    </a>
-				</div>
-			    </div>
-			</div>
-			<div class="w-full md:w-1/4">
-			    <div class="card card-red mx-2">
-				<div class="card-title">
-				    <i class="fab fa-instagram"></i> {{ .Site.Params.photos.last | safeHTML }}
-				</div>
-				<div class="card-text">
-				    {{ partial "photos.html" (dict "limit" 1) }}
-				</div>
-				<div class="card-actions">
-				    <a href="{{ relLangURL "/photos" }}" class="card-action">
-					{{ .Site.Params.more | safeHTML }}
-				    </a>
-				</div>
-			    </div>
-			</div>
-		    <!--</div>-->
 		    <div class="w-full md:w-1/2 ">
 			<div class="card card-purple mx-2">
 			    <div class="card-title">

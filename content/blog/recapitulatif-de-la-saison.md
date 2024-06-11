@@ -1,8 +1,8 @@
 ---
 title: "Récapitulatif de la saison"
-date: "2020-09-05 09:49:44"
-lastupdate: "2020-09-05 09:49:44"
-banner: "/proxyPhotos?code=/blog/bob-ross/5f535ef7e7e84/50.jpg"
+date: "2020-09-05 07:49:44"
+lastupdate: "2020-09-05 07:49:44"
+banner: "https://static.werobot.fr/blog/bob-ross/5f535ef7e7e84/50.jpg"
 slug: "recapitulatif-de-la-saison"
 description: " 
 C'est l'heure des bonnes résolution. Cela fait des mois que nous n'avons pas écrit sur ce blog.
@@ -17,11 +17,11 @@ Cela n'a pas empêché notre année d'être pleine de rebondissements.
 Nous avons commencé l'année en travaillant sur les trophées de robotiques. Nous avions deux robots : l'un autonome et l'autre piloté avec un système de déplacement holonome.
 <table>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5355cf98e47/50.jpg"></td>
-<td rowspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/5f5355c9cf2f0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f5355cf98e47/50.jpg"></td>
+<td rowspan="2"><img src="https://static.werobot.fr/blog/bob-ross/5f5355c9cf2f0/50.jpg"></td>
 </tr>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5355c5a112c/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f5355c5a112c/50.jpg"></td>
 </tr>
 </table>
 Nous avons appris par la suite que les dates des Trophées n'étaient pas compatibles avec le passage du bac pour les jeunes.
@@ -35,9 +35,9 @@ A ce jour, ils ont un robot dont les déplacements ne sont plus holonomes mais �
 
 <table>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6ea9efc/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6d8253e/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6fc6f23/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6ea9efc/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6d8253e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6fc6f23/50.jpg"></td>
 </tr>
 </table>
 

@@ -1,8 +1,8 @@
 ---
 title: "Notre rentrée de la robotique 2019-2020"
-date: "2019-10-01 06:48:40"
-lastupdate: "2021-08-29 16:06:08"
-banner: "/proxyPhotos?code=/blog/bob-ross/5d92f228efdf5/50.jpg"
+date: "2019-10-01 04:48:40"
+lastupdate: "2019-10-01 04:48:40"
+banner: "https://static.werobot.fr/blog/bob-ross/5d92f228efdf5/50.jpg"
 slug: "notre-rentree-de-la-robotique-2019-2020"
 description: " 
 
@@ -17,12 +17,12 @@ Ce dimanche nous avons ainsi réfléchis sur les rôles de nos robots, "quels ac
 
 
 <div class="image-mosaic">
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f2e41c127/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f2e4a46bb/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f2e349d5d/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f2879f969/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f25d9ba15/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f488e8b56/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f2e41c127/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f2e4a46bb/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f2e349d5d/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f2879f969/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f25d9ba15/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f488e8b56/50.jpg" />
 </div>
 
 Cet article est aussi l'occasion de vous parler de quelques changements apportés à nos locaux.
@@ -30,13 +30,13 @@ Cet article est aussi l'occasion de vous parler de quelques changements apporté
 Il y a deux semaines de cela nous avions installé du nouveau mobilier dans nos locaux : étagères pour ranger le matériel et pour ranger le plan de travail. En plus d'un nouveau canapé !
 
 <div class="flex flex-wrap"> 
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f5e46eac8/50.jpg" />
-  <img src="/proxyPhotos?code=/blog/bob-ross/5d92f5d98fbb3/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f5e46eac8/50.jpg" />
+  <img src="https://static.werobot.fr/blog/bob-ross/5d92f5d98fbb3/50.jpg" />
 </div>
 
 <div class="flex justify-center mb-2">
 <video controls style="width:80%">
-    <source src="/proxyPhotos?code=/blog/bob-ross/20190915_182329.mp4" type="video/mp4" />
+    <source src="https://s.werobot.fr/blog/bob-ross/20190915_182329.mp4" type="video/mp4" />
 </video>
 </div>
 
@@ -44,5 +44,5 @@ Nous allons continuer à améliorer nos locaux tout au long de l'année en fonct
 
 Bref, cette année s'annonce très intéréssante et pleine de rebondissements pour notre équipe ! Équipe que voici:
 
-![](/proxyPhotos?code=/blog/bob-ross/5d92f228efdf5/50.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5d92f228efdf5/50.jpg)
     

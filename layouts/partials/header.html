@@ -28,11 +28,22 @@
       </label>
     </div>
     <div class="header-nav">
+	{{ $current := . }}
 	{{ range .Site.Menus.main.ByWeight }}
+{{ $active := "" }}
+{{ $menu_item_url := .URL | relLangURL }}
+{{ $page_url:= $current.RelPermalink | relLangURL }}
+
+{{ if eq $menu_item_url $page_url }}
+{{ $active = "active" }}
+{{ end }}
+{{ if (and (hasPrefix $page_url $menu_item_url)  (not (eq $menu_item_url "/"))) }}
+{{ $active = "active" }}
+{{ end }}
       <div class="header-nav-item">
         <a
 		href="{{ .URL }}"
-		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }}">
+		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }} {{ $active }}">
 	    {{ $title := .Title }}
 	    {{ with (index site.Params .Identifier) }}
 	    {{ if isset . "title" }}

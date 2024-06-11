@@ -1,8 +1,8 @@
 ---
 title: "A week-end with Bruno Papavoine"
-date: "2019-01-05 00:00:00"
-lastupdate: "2019-01-06 10:21:26"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c2be2ffb7092/50.jpg"
+date: "2019-01-04 23:00:00"
+lastupdate: "2019-01-04 23:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/5c2be2ffb7092/50.jpg"
 slug: "a-week-end-with-bruno-papavoine"
 description: " 
 On the 29th and 30th of december 2018, the team We Robot was invited the  Papavoine B. et D. carpentry
@@ -18,16 +18,16 @@ We are very thankful to Bruno Papavoine and his company for the gracious and gen
 <div align="center">
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be06991e49/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be08c662dc/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be06991e49/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be08c662dc/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be05f53497/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be073620d0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be05f53497/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be073620d0/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be2ffb7092/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5c2be080470f8/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be2ffb7092/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5c2be080470f8/50.jpg"></td>
 </tr>
 </table>
 </div>

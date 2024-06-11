@@ -1,8 +1,8 @@
 ---
 title: "To start a Python script at boot time on a Raspberry Pi 4 using a systemd service"
-date: "2024-02-07 15:00:00"
-lastupdate: "2024-02-08 18:43:04"
-banner: "/proxyPhotos?code=/blog/bob-ross/65c4d9e70ec91/50.png"
+date: "2024-02-07 14:00:00"
+lastupdate: "2024-02-07 14:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/65c4d9e70ec91/50.png"
 slug: "to-start-a-python-script-at-boot-time-on-a-raspberry-pi-4-using-a-systemd-service"
 description: " 
 The systemd method is now the new standard for managing services and automatically executing scripts
@@ -27,7 +27,7 @@ The systemd method is now the new standard for managing services and automatical
 
 <table>
     <tr>
-        <td><img alt="Bob Ross" src="/proxyPhotos?code=/blog/bob-ross/65c4cde2be4c4/50.png" /></td>
+        <td><img alt="Bob Ross" src="https://static.werobot.fr/blog/bob-ross/65c4cde2be4c4/50.png" /></td>
     </tr>
 </table>
 

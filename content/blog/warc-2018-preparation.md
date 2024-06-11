@@ -1,8 +1,8 @@
 ---
 title: "WARC 2018 - Préparation"
-date: "2018-07-12 09:47:21"
-lastupdate: "2019-01-19 10:30:26"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e45d6c0abf/50.jpg"
+date: "2018-07-12 07:47:21"
+lastupdate: "2018-07-12 07:47:21"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e45d6c0abf/50.jpg"
 slug: "warc-2018-preparation"
 description: " 
 Un mois pour préparer le robot.
@@ -21,9 +21,9 @@ Il nous faut un robot rapide, fiable et efficace.
 On a déjà travailler sur du déplacement holonome en dehors des concours. On va se lancer dedans.
 De plus, l'année précédente, on a vu des systèmes de collecte de balles que nous appelons des "moissonneuses" qui semblaient efficaces. On se lance.
 
-![Base holonome](/proxyPhotos?code=/blog/bob-ross/5c3e45dc10183/50.jpg "Base holonome")
+![Base holonome](https://static.werobot.fr/blog/bob-ross/5c3e45dc10183/50.jpg "Base holonome")
 
-![Moissonneuse](/proxyPhotos?code=/blog/bob-ross/5c3e45de66a9c/50.jpg "Moissonneuse")
+![Moissonneuse](https://static.werobot.fr/blog/bob-ross/5c3e45de66a9c/50.jpg "Moissonneuse")
 
 On fait des tests de l'efficacité de la moissonneuse :
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1vc02eyuL9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,6 +38,6 @@ Quelques semaines plus tard, on arrive à ça :
 
 On est prêt à partir !
 
-![En route pour la Chine](/proxyPhotos?code=/blog/bob-ross/5c3e45d6c0abf/50.jpg "En route pour la Chine")
+![En route pour la Chine](https://static.werobot.fr/blog/bob-ross/5c3e45d6c0abf/50.jpg "En route pour la Chine")
 
     

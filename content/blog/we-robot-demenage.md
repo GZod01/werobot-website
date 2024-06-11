@@ -1,8 +1,8 @@
 ---
 title: "We Robot déménage !"
-date: "2023-12-02 21:00:00"
-lastupdate: "2024-02-07 22:24:37"
-banner: "/proxyPhotos?code=/blog/bob-ross/656b9e558bb2b/50.jpg"
+date: "2023-12-02 20:00:00"
+lastupdate: "2023-12-02 20:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/656b9e558bb2b/50.jpg"
 slug: "we-robot-demenage"
 description: " 
 Nous partons des Douaires et nous nous installons au rez-de-chaussé de la résidence autonomie du CCAS de Gaillon pour améliorer le cadre de vie de notre association.
@@ -17,12 +17,12 @@ L'association We Robot a effectivement déménagé le 25 novembre 2023 à la ré
 Nous tenons à remercier tous les bénévoles (parent comme enfants) qui se sont mobilisés pour plier le déménagement en une matinée ! Ce fut un moment convivial et sympa à partager ensemble.
 
 <figure>
-<img src="/proxyPhotos?code=/blog/bob-ross/656ba1617c2ec/50.jpg" alt="Vue sur un parking avec plusieurs voitures ou camionettes et des bénévoles autour avant d'y charger des tables.">
+<img src="https://static.werobot.fr/blog/bob-ross/656ba1617c2ec/50.jpg" alt="Vue sur un parking avec plusieurs voitures ou camionettes et des bénévoles autour avant d'y charger des tables.">
 <figcaption>Photo d'une partie du dispositif de logistique…</figcaption>
 </figure>
 
 <figure>
-<img src="/proxyPhotos?code=/blog/bob-ross/656ba15e22633/50.jpg" alt="Vue en contre plongé d'un déménagement d'un canapé par deux personnes dans un escalier étroit.">
+<img src="https://static.werobot.fr/blog/bob-ross/656ba15e22633/50.jpg" alt="Vue en contre plongé d'un déménagement d'un canapé par deux personnes dans un escalier étroit.">
 <figcaption>Certain meubles comme le canapé ont demandé un effort supplémentaire à nos bénévoles.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ De plus, notre présence au rez-de-chaussé évite la montée d'escalier, rendan
 Enfin, les locaux que nous met à disposition la mairie de Gaillon sont en bien meilleur état sanitaire et fonctionnels que ceux des Douaires.
 
 <figure>
-<img src="/proxyPhotos?code=/blog/bob-ross/656ba4c5a2530/50.jpg" alt='Déménagement d'une table, passage de la porte de la résidence CCAS. Il est écrit "RIP les douaires"'>
+<img src="https://static.werobot.fr/blog/bob-ross/656ba4c5a2530/50.jpg" alt='Déménagement d'une table, passage de la porte de la résidence CCAS. Il est écrit "RIP les douaires"'>
 <figcaption>RIP les douaires !</figcaption>
 </figure>
 

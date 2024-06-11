@@ -1,8 +1,8 @@
 ---
 title: "We Robot à Singapour : Le debrief !"
-date: "2023-11-12 19:05:13"
-lastupdate: "2024-02-07 23:36:47"
-banner: "/proxyPhotos?code=/blog/bob-ross/654bc47aeebff/50.jpg"
+date: "2023-11-12 18:05:13"
+lastupdate: "2023-11-12 18:05:13"
+banner: "https://static.werobot.fr/blog/bob-ross/654bc47aeebff/50.jpg"
 slug: "we-robot-a-singapour-le-debrief"
 description: " 
 
@@ -15,7 +15,7 @@ Notre aventure à Singapour. Jour par jour. Tous les matchs à revivre avec nous
 ## Jour 1 - Vendredi
 
 Après une arrivée en fin de journée la veille et la découverte de notre hotel, nous sommes attendus à 9h30 au Singapore Expo pour l'ouverture de la compétition. 
-<img src="/proxyPhotos?code=/blog/bob-ross/654bc479ab7ff/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/654bc479ab7ff/50.jpg">
 Les portes s'ouvrent et plus d'un millier de personnes venues du monde entier déferlent dans le parc des expositions. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_NnTnd3rEI?si=kEKsy-rJwb6hH8sX&amp;start=907" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -23,24 +23,24 @@ Nous nous entassons sur des bancs et des tables provisoirement mis à notre disp
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47a4ce7e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47a4ce7e/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc475d93a0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc475d93a0/50.jpg"></td>
 </tr>
 </table>
 </center>
 À 11h nos stands sont ouverts et nous pouvons nous installer. Pour notre équipe, il y a encore beaucoup de travail : il faut remonter le robot qui a dû être en partie démonté pour entrer dans sa boîte de transport et nous avons deux servomoteurs qui ne sont pas encore programmés. 
-<img src="/proxyPhotos?code=/blog/bob-ross/654bc47831545/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/654bc47831545/50.jpg">
 
 Une fois que c'est fait, nous avons l'occasion d'aller tester notre robot sur une des tables d'essais mis à dispositions des joueurs. Nous constatons alors que, dans la précipitation, nous n'avions pas remarqué une barre horizontale basse dans la zone centrale qui nous empêche de nous suspendre en fin de match. Nous prenons alors la décision de tenter de modifier notre système d'accroche. L'équipe s'y met ! Nous profitons néanmoins de la soirée pour explorer un peu Singapour : nous donnons rendez- vous à l'équipe du Luxembourg et à celle de la Malaysie à Marina Bay où nous assistons à un spectacle féérique de jets d'eau dans la moiteur de cette partie de l'Asie.
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47b90b32/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47b90b32/50.jpg"></td>
 
 </tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47961594/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47961594/50.jpg"></td>
 <tr>
 </tr>
 </table>
@@ -82,17 +82,17 @@ Le match est encore très décevant, nous ne parvenons qu'à mettre deux atomes 
 Nous sommes un peu déçu.es du résultat de cette première journée mais nous avons compris pourquoi les balles se sont mal déversées et imaginons un système de "languette" pour résoudre ce problème. Néanmoins, il nous reste encore beaucoup de matchs pour nous rattraper et ce soir FIRST nous emmène en ville et nous comptons bien en profiter ! 
 L'organisation est réglée comme du papier à musique : nous sommes conduit aux  [Gardens by the bay](https://www.gardensbythebay.com.sg/) et accueilli dans une grande salle de réception dans laquelle sont disposés divers stand de type street food et de nombreux mange-debout. Nous y prenns notre dîner. Ensuite nous sortons directement dans le  [flower Dome](https://www.gardensbythebay.com.sg/en/things-to-do/attractions/flower-dome.html) qui est une serre dédiée aux fleurs. Ensuite nous avons une entrée au [Cloud Forest](https://www.gardensbythebay.com.sg/en/things-to-do/attractions/cloud-forest.html) qui est une autre serre d'une hauteur lui permettant d'abriter une grande chute d'eau. 
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4ca6ef3/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4ca6ef3/50.jpg" />
 
 Nous profitons par ailleurs d'une expo temporaire dédiée aux films Avatar dans cet environnement. Les jeunes sont enchantés ! 
 Nous terminons par un magnifique spectacle son et lumière sur les arbres artificiels monumentaux celèbres de Singapoure (Supertree Grove) 
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4abc53e/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4abc53e/50.jpg" />
 
 Nous finissons la soirée en faussant compagnie à l'organistation de FIRST et en rejoignant l'équipe du Luxembourg ) Marina Bay. 
 Nous montons au 57ème étage du luxueux hotel Marina Bay Sands pour y admirer la vue puis allons prendre un verre en extérieur à Marina Bay.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4bab1a3/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4bab1a3/50.jpg" />
 
 La soirée est épuisante, nous rentrons un peu tard alors que le lendemain, notre plus grosse journée nous attend puisque nous avons six matchs à disputer. 
 
@@ -116,15 +116,15 @@ Nous sommes alliés à la République Démocratique du Congo et au Pakistan. Le 
 
 De plus, le fait que nous ayons remporté ce match sur le terrain principal fait que nous nous faisons interviewer par la TV local : CNA. C'est Tim qui représente l'équipe ! 
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6550020421241/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/6550020421241/50.jpg" />
 
 À 11h42 nous avons notre match suivant. Nous faisons équipe avec le Turkmenistant et la Syrie. Le Turkmenistan est censé être une bonne équipe mais le match se déroule très mal. De plus, un problème technique fait que les joueurs n'ont pas accès au chronomètre durant le match et les arbitres ne s'en rendent compte que très tardivement. Finalement le match est annulé et reporté à la fin de la journée. Nous avons le temps d'aller manger, notre match suvant est à 14h35. Nous sommes cette fois-ci alliés à Cuba et à Madagascar. C'est agréable pour les jeunes de pouvoir échanger un peu en français pour élaborer la stratégie.
 
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6550020003b2f/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/655002011b30e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6550020003b2f/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/655002011b30e/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -163,9 +163,9 @@ Aurélien prend le relais et cette fois la stratégie fonctionne. Toutes les éq
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6550020209cba/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65500203770d4/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65500202b92c0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6550020209cba/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65500203770d4/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65500202b92c0/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -208,11 +208,11 @@ Notre classement final est décevant : 161e sur 191 mais nous surmontons notre d
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65514624e6265/50.jpg"></td>
-<td rowspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/655146259cfe8/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65514624e6265/50.jpg"></td>
+<td rowspan="2"><img src="https://static.werobot.fr/blog/bob-ross/655146259cfe8/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6551462428fa2/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6551462428fa2/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -220,5 +220,5 @@ Notre classement final est décevant : 161e sur 191 mais nous surmontons notre d
 ## Jour 6 - Mercredi
 
 Nous quittons l'hotel à 10h30 et entamons notre périple du retour. Nous aterrissons vers 22h30 à Charles de Gaulle après 18h de trajet. Nous sommes accueillis par les parents des jeunes en fanfare et ça fait chaud au coeur.
-<img src="/proxyPhotos?code=/blog/bob-ross/65514b5e8f7ca/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/65514b5e8f7ca/50.jpg" />
     

@@ -1,5 +1,5 @@
 <?php
-$lastdate = strtotime("2024-05-28 23:00:00");
+$lastdate = 0; //strtotime("2024-05-28 23:00:00");
 $v = json_decode(file_get_contents("https://api.werobot.fr/post"),true);
 $nv = array_filter($v["data"]["posts"], function($a){global $lastdate;$res = strtotime($a["created_at"])>$lastdate; return $res;});
 foreach($nv as $p){
@@ -18,7 +18,7 @@ foreach($nv as $p){
 	json_decode(file_get_contents("https://api.werobot.fr/post/$p[id]"),true)["data"]["post"]["content"]));
     $created_at = $p["created_at"];
     $updated_at = $p["updated_at"];
-    $description= str_replace("\\n","\n",$p["description"]);
+    $description= str_replace("\\n","\n",str_replace("\"","\\\"",$p["description"]));
     $image = $p["image"];
     $filecontent = "---
 title: \"$title\"

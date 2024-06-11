@@ -1,8 +1,8 @@
 ---
 title: "Présentation du Luxembourg Youth Robotics Challenge (LYRC)"
-date: "2019-04-20 22:30:05"
-lastupdate: "2019-04-20 22:30:05"
-banner: "/proxyPhotos?code=/blog/bob-ross/5cbb5239cbb7b/50.jpg"
+date: "2019-04-20 20:30:05"
+lastupdate: "2019-04-20 20:30:05"
+banner: "https://static.werobot.fr/blog/bob-ross/5cbb5239cbb7b/50.jpg"
 slug: "presentation-du-luxembourg-youth-robotics-challenge-lyrc"
 description: " 
 Pour la première fois, l'association luxembourgeoise  Make It  organise une compétition nationale de robotique à kit fermé.
@@ -16,8 +16,8 @@ Les jeunes se sont attelés à ce concours depuis la fin du précédent. En plus
 Mathis et Mohammed ont réfléchi au design, l'ont modelé en 3D et enfin l'on construit :
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb527fa0352/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb5273c1b55/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb527fa0352/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb5273c1b55/50.jpg"></td>
 </tr>
 </table>
 
@@ -26,11 +26,11 @@ Celle-ci nous résiste un peu pour l'instant car nous n'arrivons pas à communiq
 
 <table>
 <tr>
-<td colspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/5cbb524c52a7e/50.jpg"></td>
+<td colspan="2"><img src="https://static.werobot.fr/blog/bob-ross/5cbb524c52a7e/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb520745ef4/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb51cfdf030/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb520745ef4/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb51cfdf030/50.jpg"></td>
 </tr>
 </table>
 

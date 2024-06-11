@@ -1,8 +1,8 @@
 ---
 title: "The Kitchen Staff is in Full Swing"
-date: "2022-12-09 04:20:04"
-lastupdate: "2022-12-09 10:48:22"
-banner: "/proxyPhotos?code=/blog/bob-ross/6392eeca3913a/50.jpg"
+date: "2022-12-09 03:20:04"
+lastupdate: "2022-12-09 03:20:04"
+banner: "https://static.werobot.fr/blog/bob-ross/6392eeca3913a/50.jpg"
 slug: "the-kitchen-staff-is-in-full-swing"
 description: " 
 Even by 3°C ,up here it is burning hot ! 

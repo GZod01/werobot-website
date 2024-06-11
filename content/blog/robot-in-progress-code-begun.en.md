@@ -1,8 +1,8 @@
 ---
 title: " Robot in Progress -- Code begun"
-date: "2017-05-07 00:00:00"
-lastupdate: "2019-01-19 10:30:32"
-banner: "/proxyPhotos?code=/blog/bob-ross/5bf196e1587aa.jpg"
+date: "2017-05-06 22:00:00"
+lastupdate: "2017-05-06 22:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/5bf196e1587aa.jpg"
 slug: "robot-in-progress-code-begun"
 description: " 
 Big day !
@@ -17,21 +17,21 @@ After having tried to mount a powerfull linear system, Mathis decided we could d
 So we changed our mind and went toward a new idea.
 Hopefully François was here to help us build it properly.
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf1979fb1a26.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf1979fb1a26.jpg)
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf197b7c768d.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf197b7c768d.jpg)
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf197cfe3147.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf197cfe3147.jpg)
 
 Meanwhile, Quentin began to seriously code our future competition bot : WeRobot2 
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf1985973988.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf1985973988.jpg)
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf1986a8cc5c.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf1986a8cc5c.jpg)
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf19891294a6.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf19891294a6.jpg)
 
-![](/proxyPhotos?code=/blog/bob-ross/5bf198a82a68e.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5bf198a82a68e.jpg)
 
  Another funny day :-D
 

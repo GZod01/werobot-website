@@ -1,8 +1,8 @@
 ---
 title: "Cup of ..."
-date: "2017-07-04 11:27:54"
-lastupdate: "2019-01-19 10:30:36"
-banner: "/proxyPhotos?code=/blog/bob-ross/5bf25b3e78d8e.jpg"
+date: "2017-07-04 09:27:54"
+lastupdate: "2017-07-04 09:27:54"
+banner: "https://static.werobot.fr/blog/bob-ross/5bf25b3e78d8e.jpg"
 slug: "cup-of"
 description: " 
 Hi everyone,

@@ -1,8 +1,8 @@
 ---
 title: "Retour sur la saison 2020/2021"
-date: "2021-08-14 13:37:18"
-lastupdate: "2021-08-29 15:42:00"
-banner: "/proxyPhotos?code=/blog/bob-ross/61169c5184a4e/50.jpg"
+date: "2021-08-14 11:37:18"
+lastupdate: "2021-08-14 11:37:18"
+banner: "https://static.werobot.fr/blog/bob-ross/61169c5184a4e/50.jpg"
 slug: "retour-sur-la-saison-20202021"
 description: " 
 Le récap' de la saison 2020/2021 qui, malgré le virus, a été très riche.
@@ -26,8 +26,8 @@ Comme annoncé dans <a href="https://werobot.fr/blog/coupe-de-france-de-robotiqu
 et admirez nos deux compétiteurs sur place :
 
 <div class="mosaic two-columns">
-  <img src="/proxyPhotos?code=/blog/bob-ross/6116b0c518e0f/50.jpg">
-  <img src="/proxyPhotos?code=/blog/bob-ross/6116b0d1c6cf9/50.jpg">
+  <img src="https://static.werobot.fr/blog/bob-ross/6116b0c518e0f/50.jpg">
+  <img src="https://static.werobot.fr/blog/bob-ross/6116b0d1c6cf9/50.jpg">
 </div>
 
 ## Les trophées de robotique
@@ -37,13 +37,13 @@ En début de saison, ils ont commencé à prendre en main le matériel :
 
 <div class="multistage-mosaic">
   <div class="multistage-item multistage-top-left">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169a6207bde/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169a6207bde/50.jpg">
   </div>
   <div class="multistage-item multistage-right">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169a5a02d6a/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169a5a02d6a/50.jpg">
   </div>
   <div class="multistage-item multistage-bottom-left">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169a40883cd/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169a40883cd/50.jpg">
   </div>
 </div>
 
@@ -61,11 +61,11 @@ Voici les images des différentes tables de jeu :
 
 
 <div class="flex-mosaic">
-  <img class="flex-mosaic-item" src="/proxyPhotos?code=/blog/bob-ross/611790fd3f7fa/50.png">
-  <img class="flex-mosaic-item" src="/proxyPhotos?code=/blog/bob-ross/611790fe08050/50.png">
+  <img class="flex-mosaic-item" src="https://static.werobot.fr/blog/bob-ross/611790fd3f7fa/50.png">
+  <img class="flex-mosaic-item" src="https://static.werobot.fr/blog/bob-ross/611790fe08050/50.png">
 </div>
 <div class="flex-mosaic">
-  <img class="flex-mosaic-item" src="/proxyPhotos?code=/blog/bob-ross/611790fedf2ab/50.png">
+  <img class="flex-mosaic-item" src="https://static.werobot.fr/blog/bob-ross/611790fedf2ab/50.png">
 </div>
 
 On y note bien l'évolution de la complexité. Non seulement le terrain n'est plus le même mais on voit apparaître des liens entre les pilliers puis des contours colorés autour de certains d'entre eux. Pour plus de détails vous pouvez lire <a href="https://studentrobotics.org/docs/resources/2021/rulebook.html">les règles du jeu</a> (en anglais).
@@ -86,8 +86,8 @@ Cette fois-ci, notre robot est le jaune (le programme est inchangé, le robot s'
 Cependant la performance de l'équipe pour sa première participation à cette compétition a été telle que nous avons reçu le "Prix des débutants" ça ne rend pas très bien comme appellation mais en anglais ça donne : "Rookie Award".
 
 <div class="mosaic two-columns">
-  <img class="md-img" src="/proxyPhotos?code=/blog/bob-ross/611a429c43000/original.png">
-  <img src="/proxyPhotos?code=/blog/bob-ross/61169c4657347/50.jpg">
+  <img class="md-img" src="https://static.werobot.fr/blog/bob-ross/611a429c43000/original.png">
+  <img src="https://static.werobot.fr/blog/bob-ross/61169c4657347/50.jpg">
 </div>
 
 Le détail des résultats, tour par tour, ainsi que les liens vers les vidéos de tous les matchs sont disponibles sur le site de <a href="https://studentrobotics.org/">Student Robotics</a>
@@ -98,7 +98,7 @@ Nous avons enchaîné sur un concours international organisé par la Malaisie (p
 
 À peine sortis de Student Robotics, on nous a proposé de nous inscrire :
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6117b783336c9/original.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/6117b783336c9/original.jpg">
 
 Cette compétition est divisée en plusieurs épreuves différentes et indépendantes. Nous avons constitué deux équipes :
 - Une avec seulement Matéo pour l'épreuve "Virtual Robot Programming" ;
@@ -106,12 +106,12 @@ Cette compétition est divisée en plusieurs épreuves différentes et indépend
 
 Le concours  a rencontré un certain succès et a réunis un grand nombre de pays différents :
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6117b77ebc84f/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/6117b77ebc84f/50.jpg">
 
 ### Virtual Robot Programming
 
 Cette épreuve avait deux étapes :
-- Tout d'abord Matéo devait programmer un robot virtuel dans un environnement à blocs de façon à lui faire réaliser des actions prédéfinies le plus rapidement possible. <img src="/proxyPhotos?code=/blog/bob-ross/6117b7811e4e6/50.png">
+- Tout d'abord Matéo devait programmer un robot virtuel dans un environnement à blocs de façon à lui faire réaliser des actions prédéfinies le plus rapidement possible. <img src="https://static.werobot.fr/blog/bob-ross/6117b7811e4e6/50.png">
 - Suite à ce programme, Matéo a été qualifié (arrivant dans les 10 premiers sur 120 participants). Il a alors dû se confronter à deux défis de programmation et répondre à des questions le tout en direct, en visio et en anglais !
 Ses succès se sont arrêtés là mais quel parcours !
 
@@ -122,21 +122,21 @@ L'autre épreuve était également en deux étapes.
 - Haroun et Mathis on dû concevoir un robot en 3D en utilisant le logiciel imposé <a href="https://www.vexrobotics.com/iq/downloads/cad-snapcad">snapCAD</a> qu'ils ne connaissaient pas du tout. Ils pouvaient laisser libre-cours à leur imagination mais le robot devait être fonctionnel, devait utiliser au moins une poulie et une courroie et devait avoir une utilité potentielle.
 
 <div class="mosaic two-columns">
-  <img src="/proxyPhotos?code=/blog/bob-ross/6117bb8ad9513/original.png">
-  <img src="/proxyPhotos?code=/blog/bob-ross/6117bb89061d7/original.jpg" style="width: 70% !important">
+  <img src="https://static.werobot.fr/blog/bob-ross/6117bb8ad9513/original.png">
+  <img src="https://static.werobot.fr/blog/bob-ross/6117bb89061d7/original.jpg" style="width: 70% !important">
 </div>
 
 - Une fois leur travail rendu, ils ont été soumis au même traitement que Matéo : une présentation de leur travail à faire en direct, en visio et en anglais.
 
 Leur travail et leur investissement ont été récompensés :
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6117b77d79c86/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/6117b77d79c86/50.jpg">
 
 ### Arbitrage
 
 Petit clin d'oeil final, Franck a également participé à cette compétition en tant qu'arbitre de l'épreuve "STEM-Robotics Pitch" qui consistait, pour les participants, à présenter le concept d'un robot pouvant servir dans le cadre de thèmes qui leur étaient imposés.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6117b77f9238a/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/6117b77f9238a/50.jpg">
 
 
 # L'Atelier Numérique
@@ -146,8 +146,8 @@ La grande nouveauté de l'année était la mise en place de l'atelier numérique
 Nous avons eu quatre jeunes inscrits qui y ont participé toute l'année avec un engouement fantastique : Salomé, Quentin, Swann et Timothé.
 
 <div class="mosaic two-columns">
-  <img src="/proxyPhotos?code=/blog/bob-ross/61169a712524c/50.jpg">
-  <img src="/proxyPhotos?code=/blog/bob-ross/61169a691b530/50.jpg">
+  <img src="https://static.werobot.fr/blog/bob-ross/61169a712524c/50.jpg">
+  <img src="https://static.werobot.fr/blog/bob-ross/61169a691b530/50.jpg">
 </div>
 
 Le confinement ne nous a pas empêché de poursuivre tout au long de l'année : la plupart des ateliers ont eu lieu en distanciel ! Les jeunes ont été très assidus et étonnament autonomes.
@@ -162,19 +162,19 @@ De plus nous avons participé à deux concours de programmation en ligne : <a hr
 
 <div class="flex-mosaic">
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/6117c025241f6/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/6117c025241f6/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/6117c0236d5b2/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/6117c0236d5b2/50.jpg">
   </div>
 </div>
 
 <div class="flex-mosaic" style="justify-content: space-around;">
   <div class="flex-mosaic-item">
-    <img class="sm-img" src="/proxyPhotos?code=/blog/bob-ross/6117c0a21eca7/50.jpg">
+    <img class="sm-img" src="https://static.werobot.fr/blog/bob-ross/6117c0a21eca7/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img class="sm-img" src="/proxyPhotos?code=/blog/bob-ross/6117c0a2cf122/50.jpg">
+    <img class="sm-img" src="https://static.werobot.fr/blog/bob-ross/6117c0a2cf122/50.jpg">
   </div>
 </div>
 
@@ -189,13 +189,13 @@ Après avoir assemblé les robots :
 
 <div class="flex-mosaic">
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169aa8df034/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169aa8df034/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169ab08a582/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169ab08a582/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169aa2cbf48/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169aa2cbf48/50.jpg">
   </div>
 </div>
 
@@ -203,10 +203,10 @@ Après avoir assemblé les robots :
 
 <div class="flex-mosaic">
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b491ac1f/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b491ac1f/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b429e1a1/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b429e1a1/50.jpg">
   </div>
 </div>
 
@@ -214,25 +214,25 @@ Puis nous nous sommes lancés dans le pari fou d'être capable de faire suivre �
 
 <div class="flex-mosaic">
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b06cae24/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b06cae24/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img class="sm-img" src="/proxyPhotos?code=/blog/bob-ross/61169b0cef451/50.jpg">
+    <img class="sm-img" src="https://static.werobot.fr/blog/bob-ross/61169b0cef451/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b93e06e7/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b93e06e7/50.jpg">
   </div>
 </div>
 
 <div class="flex-mosaic">
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b8dc6a9e/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b8dc6a9e/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b875250d/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b875250d/50.jpg">
   </div>
   <div class="flex-mosaic-item">
-    <img src="/proxyPhotos?code=/blog/bob-ross/61169b814f559/50.jpg">
+    <img src="https://static.werobot.fr/blog/bob-ross/61169b814f559/50.jpg">
   </div>
 </div>
 

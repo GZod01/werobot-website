@@ -1,8 +1,8 @@
 ---
 title: "Season playback"
-date: "2020-09-05 09:49:44"
-lastupdate: "2020-09-05 10:58:28"
-banner: "/proxyPhotos?code=/blog/bob-ross/5f535ef7e7e84/50.jpg"
+date: "2020-09-05 07:49:44"
+lastupdate: "2020-09-05 07:49:44"
+banner: "https://static.werobot.fr/blog/bob-ross/5f535ef7e7e84/50.jpg"
 slug: "season-playback"
 description: " 
 
@@ -18,11 +18,11 @@ Like a large part of the world, the coronavirus stopped everything here. Neverth
 We began the season working for "les trophées de robotique". We had two robots : an autonomous one and a driven one which was holonomic.
 <table>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5355cf98e47/50.jpg"></td>
-<td rowspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/5f5355c9cf2f0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f5355cf98e47/50.jpg"></td>
+<td rowspan="2"><img src="https://static.werobot.fr/blog/bob-ross/5f5355c9cf2f0/50.jpg"></td>
 </tr>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5355c5a112c/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f5355c5a112c/50.jpg"></td>
 </tr>
 </table>
 
@@ -37,9 +37,9 @@ At the moment, they have a new robot, not holonomic anymore, with an opponent de
 
 <table>
 <tr> 
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6ea9efc/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6d8253e/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5f535d6fc6f23/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6ea9efc/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6d8253e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5f535d6fc6f23/50.jpg"></td>
 </tr>
 </table>
 

@@ -1,14 +1,14 @@
 ---
 title: "We Robot at bpm Vernon "
-date: "2019-09-20 14:13:19"
-lastupdate: "2019-09-26 09:48:00"
-banner: "/proxyPhotos?code=/blog/bob-ross/5d84db020c400/50.jpg"
+date: "2019-09-20 12:13:19"
+lastupdate: "2019-09-20 12:13:19"
+banner: "https://static.werobot.fr/blog/bob-ross/5d84db020c400/50.jpg"
 slug: "we-robot-at-bpm-vernon"
 description: " 
 Today, Franck was invited in the studio of bpm radio Vernon to talk about our non-profit.
 "
 ---
-![](/proxyPhotos?code=/blog/bob-ross/5d84db020c400/50.jpg)
+![](https://static.werobot.fr/blog/bob-ross/5d84db020c400/50.jpg)
 
 Today, Franck was invited in the studio of <a href="https://www.facebook.com/BPMradioVernon/"> bpm radio Vernon</a> to talk about our non-profit.
 
@@ -19,7 +19,7 @@ You can tune in 99.3 if you're around Vernon but you also can listen to it throu
 <br>
 <b>UPDATE:</b> If you miss both broadcasts you can replay the interview here:
 
-<div style="display: flex; justify-content: center; margin-bottom: 1em; margin-top: 1em;"><audio src="/proxyPhotos?code=/25-09-2019-bpm-vernon-interview.mp3" controls /></div>
+<div style="display: flex; justify-content: center; margin-bottom: 1em; margin-top: 1em;"><audio src="https://s.werobot.fr/25-09-2019-bpm-vernon-interview.mp3" controls /></div>
 
 <!--
 Shortly after the last broadcast, you'll have access to the recording our our website. -->

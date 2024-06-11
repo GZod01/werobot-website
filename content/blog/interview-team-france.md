@@ -1,8 +1,8 @@
 ---
 title: "Interview Team France"
-date: "2017-05-29 00:00:00"
-lastupdate: "2019-01-19 10:30:29"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e469a90567/original.jpg"
+date: "2017-05-28 22:00:00"
+lastupdate: "2017-05-28 22:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e469a90567/original.jpg"
 slug: "interview-team-france"
 description: " 
 Matthieu vient juste de terminer le rendu de la vidéo de nos interviews. 

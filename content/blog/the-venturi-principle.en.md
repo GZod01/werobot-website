@@ -1,8 +1,8 @@
 ---
 title: "** The Venturi Principle"
-date: "2022-11-19 10:50:34"
-lastupdate: "2022-11-19 10:50:34"
-banner: "/proxyPhotos?code=/blog/bob-ross/636f78e80e608/50.png"
+date: "2022-11-19 09:50:34"
+lastupdate: "2022-11-19 09:50:34"
+banner: "https://static.werobot.fr/blog/bob-ross/636f78e80e608/50.png"
 slug: "the-venturi-principle"
 description: " 
 Crash Test 

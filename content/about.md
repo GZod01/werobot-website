@@ -12,7 +12,7 @@ Après trois mois de préparation et de communication, nous rencontrons les 156 
 ### Saison 2017-2018
 
 <div class="d-flex justify-center pb-2">
-  <img alt="Notre ancien logo" data-src="https://s.werobot.fr/old_logo.png" title="Notre ancien logo" width="100" />
+  <img alt="Notre ancien logo" data-src="/proxyPhotos?code=/old_logo.png" title="Notre ancien logo" width="100" />
 </div>
 
 Nous avons participé à deux compétitions cette année :
@@ -66,3 +66,17 @@ L'atelier numérique, lui, est resté très actif comme d'habitude.
 
 {{<partners>}}
 
+<div id="place-anchor" style="position: relative; opacity: 0; top: -550px;"></div>
+<div class="pt-3"></div>
+
+## Nos locaux
+
+Nous disposons de locaux prêtés par la ville de Gaillon situés à proximité du centre ville de Gaillon dans la résidence autonomie Flamants-Cygnes, situé rue du Printemps de Prague. Pour en savoir plus, [lisez notre article de blog à ce sujet.](/blog/we-robot-demenage)
+
+<div class="about-place-container mt-5 d-flex justify-center">
+  <div
+    id="place-map"
+    class="about-place-map">
+{{<slippy-map lng=1.3305366 lat=49.1586146 zoom=5 >}}
+  </div>
+</div>

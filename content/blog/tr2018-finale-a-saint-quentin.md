@@ -1,8 +1,8 @@
 ---
 title: "TR2018 - Finale à Saint-Quentin"
-date: "2018-04-08 06:33:10"
-lastupdate: "2019-03-01 23:01:12"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4609b80f2/original.jpg"
+date: "2018-04-08 04:33:10"
+lastupdate: "2018-04-08 04:33:10"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e4609b80f2/original.jpg"
 slug: "tr2018-finale-a-saint-quentin"
 description: " 
 C'est parti pour la finale, on est homologués et on est prêts.
@@ -32,7 +32,7 @@ Troisième match enfin satisfaisant : 199 points qui nous font passer de la 27ie
 
 213 points à la 4ème manche ce qui est notre record absolu... On termine 20ème sur 62 équipes... On a atteint notre objectif et on est super contents... On fera mieux l’année prochaine :-)
 
-![Tableau des scores](/proxyPhotos?code=/blog/bob-ross/5c3e460a2fd26/50.jpg "Tableau des scores")
+![Tableau des scores](https://static.werobot.fr/blog/bob-ross/5c3e460a2fd26/50.jpg "Tableau des scores")
 
 
     

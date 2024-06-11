@@ -1,8 +1,8 @@
 ---
 title: "TR2019 - La finale à Saint-Quentin"
-date: "2019-04-07 00:00:00"
-lastupdate: "2019-04-09 18:22:27"
-banner: "/proxyPhotos?code=/blog/bob-ross/5ca9cddb0ee56/50.jpg"
+date: "2019-04-06 22:00:00"
+lastupdate: "2019-04-06 22:00:00"
+banner: "https://static.werobot.fr/blog/bob-ross/5ca9cddb0ee56/50.jpg"
 slug: "tr2019-la-finale-a-saint-quentin"
 description: " 
 La finale était une première approche de la compétition pour deux de nos jeunes qui ont fait l'expérience du stress, des petits problèmes techniques, de la vérification du robot à chaque round... Le classement en milieu de tableau est déja une satisfactio
@@ -11,8 +11,8 @@ La finale était une première approche de la compétition pour deux de nos jeun
 <div align="center">
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9cddb0ee56/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9cdf092076/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9cddb0ee56/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9cdf092076/50.jpg"></td>
 </tr>
 </table>
 </div>
@@ -23,12 +23,12 @@ Pour progresser dans le classement, les jeunes devront progresser en pilotage qu
 <div align="center">
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9d34416696/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9d34d9bdab/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9d34416696/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9d34d9bdab/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9d3526d71c/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/5ca9d35659646/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9d3526d71c/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/5ca9d35659646/50.jpg"></td>
 </tr>
 </table>
 </div>

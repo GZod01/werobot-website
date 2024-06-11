@@ -1,8 +1,8 @@
 ---
 title: "We Robot in Singapore : The debrief !"
-date: "2023-11-12 14:05:13"
-lastupdate: "2024-02-07 23:28:43"
-banner: "/proxyPhotos?code=/blog/bob-ross/654bc47aeebff/50.jpg"
+date: "2023-11-12 13:05:13"
+lastupdate: "2023-11-12 13:05:13"
+banner: "https://static.werobot.fr/blog/bob-ross/654bc47aeebff/50.jpg"
 slug: "we-robot-in-singapore-the-debrief"
 description: " 
 Our adventure in Singapore. Day by day. Relive all the matches with us.
@@ -14,7 +14,7 @@ Our Singapore Adventure. Day by Day. Relive all the matches with us.
 
 After arriving late in the evening the day before and discovering our hotel, we are expected at 9:30 am at the Singapore Expo for the competition opening.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654bc479ab7ff/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/654bc479ab7ff/50.jpg">
 
 The doors open, and over a thousand people from around the world flood into the exhibition center.
 
@@ -25,26 +25,26 @@ We squeeze onto benches and tables temporarily provided for us. Immediately the 
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47a4ce7e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47a4ce7e/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc475d93a0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc475d93a0/50.jpg"></td>
 </tr>
 </table>
 </center>
 
 At 11 am, our stands are open, and we can set up. For our team, there is still a lot of work to do: we need to reassemble the robot, which had to be partly disassembled to fit into its transport box, and we have two servomotors that are not yet programmed.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654bc47831545/50.jpg">
+<img src="https://static.werobot.fr/blog/bob-ross/654bc47831545/50.jpg">
 
 Once that's done, we have the opportunity to test our robot on one of the practice tables provided for the players. We then realize that, in the rush, we hadn't noticed a low horizontal bar in the central area that prevents us from hanging at the end of the match. We then decide to try to modify our hanging system. The team gets to work! However, we still take advantage of the evening to explore Singapore a bit: we meet up with the team from Luxembourg and Malaysia at Marina Bay, where we witness a magical fountain show in the humidity of this part of Asia.
 
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47b90b32/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47b90b32/50.jpg"></td>
 </tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/654bc47961594/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/654bc47961594/50.jpg"></td>
 <tr>
 </tr>
 </table>
@@ -79,15 +79,15 @@ A very disappointing result for our alliance: only 20 points tied with the oppos
 
 The match is again very disappointing; we only manage to put two hydrogen atoms in the tank, the Dominican Republic does nothing, and Norway only pushes the tank to its final location. Result: 17 points against 28 for the opposing team. We are a little disappointed with the result of this first day, but we understand why the balls were poorly poured and imagine a "tab" system to solve this problem. However, we still have many matches left to catch up, and tonight FIRST takes us into town, and we intend to enjoy it! The organization is as smooth as silk: we are taken to the [Gardens by the bay](https://www.gardensbythebay.com.sg/) and welcomed into a large reception hall where various street food stands are set up, and there are many high tables. We have dinner there. Then we go directly to the [flower Dome](https://www.gardensbythebay.com.sg/en/things-to-do/attractions/flower-dome.html), which is a greenhouse dedicated to flowers. Then we have entry to the [Cloud Forest](https://www.gardensbythebay.com.sg/en/things-to-do/attractions/cloud-forest.html), which is another greenhouse of a height allowing it to house a large waterfall.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4ca6ef3/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4ca6ef3/50.jpg" />
 
 We also enjoy a temporary exhibition dedicated to the Avatar films in this environment. The young people are delighted! We end with a magnificent sound and light show on the famous monumental artificial trees of Singapore (Supertree Grove).
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4abc53e/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4abc53e/50.jpg" />
 
 We end the evening by leaving the FIRST organization and joining the Luxembourg team at Marina Bay. We go up to the 57th floor of the luxurious Marina Bay Sands hotel to admire the view and then go for a drink outdoors at Marina Bay.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/654ffd4bab1a3/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/654ffd4bab1a3/50.jpg" />
 
 The evening is exhausting, we return a little late while the next day, our biggest day awaits us as we have six matches to play.
 
@@ -112,7 +112,7 @@ We are allied with the Democratic Republic of the Congo and Pakistan. The match 
 
 Additionally, the fact that we won this match on the main field means that we are interviewed by the local TV: CNA. Tim represents the team !
 
-<img src="/proxyPhotos?code=/blog/bob-ross/6550020421241/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/6550020421241/50.jpg" />
 
 At 11:42 AM, we have our next match. We team up with Turkmenistan and Syria. Turkmenistan is supposed to be a good team, but the match goes very wrong. Moreover, a technical problem prevents the players from accessing the timer during the match, and the referees only realize this very late. Finally, the match is canceled and postponed to the end of the day. 
 We have time to grab lunch; our next match is at 2:35 PM. This time we are allied with Cuba and Madagascar. It's nice for the young people to be able to exchange a little in French to develop the strategy.
@@ -120,8 +120,8 @@ We have time to grab lunch; our next match is at 2:35 PM. This time we are allie
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6550020003b2f/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/655002011b30e/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6550020003b2f/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/655002011b30e/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -151,9 +151,9 @@ Aurélien takes over, and this time the strategy works. All teams play their rol
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6550020209cba/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65500203770d4/50.jpg"></td>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65500202b92c0/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6550020209cba/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65500203770d4/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65500202b92c0/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -186,11 +186,11 @@ Quentin takes over, but it's not much better. He arrives late to the central zon
 <center>
 <table>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/65514624e6265/50.jpg"></td>
-<td rowspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/655146259cfe8/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/65514624e6265/50.jpg"></td>
+<td rowspan="2"><img src="https://static.werobot.fr/blog/bob-ross/655146259cfe8/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="/proxyPhotos?code=/blog/bob-ross/6551462428fa2/50.jpg"></td>
+<td><img src="https://static.werobot.fr/blog/bob-ross/6551462428fa2/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -199,7 +199,7 @@ Quentin takes over, but it's not much better. He arrives late to the central zon
 
 We leave the hotel at 10:30 AM and begin our journey back. We land at Charles de Gaulle around 10:30 PM after an 18-hour trip. We are greeted by the parents of the young participants with great enthusiasm, which warms our hearts.
 
-<img src="/proxyPhotos?code=/blog/bob-ross/65514b5e8f7ca/50.jpg" />
+<img src="https://static.werobot.fr/blog/bob-ross/65514b5e8f7ca/50.jpg" />
 
 
 

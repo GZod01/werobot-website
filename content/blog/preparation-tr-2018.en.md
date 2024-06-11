@@ -1,8 +1,8 @@
 ---
 title: "TR2018 GroundWork"
-date: "2018-03-30 05:35:38"
-lastupdate: "2019-01-19 10:30:39"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4631038aa/50.jpg"
+date: "2018-03-30 03:35:38"
+lastupdate: "2018-03-30 03:35:38"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e4631038aa/50.jpg"
 slug: "tr2018-groundwork"
 description: " 
 After months of groundwork we're the day before the regional qualifications. It's time to show you our work.

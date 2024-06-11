@@ -1,8 +1,8 @@
 ---
 title: "TR2019 - Kick Off"
-date: "2018-10-07 09:51:29"
-lastupdate: "2019-01-27 23:56:40"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e44e4c6b93/original.png"
+date: "2018-10-07 07:51:29"
+lastupdate: "2018-10-07 07:51:29"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e44e4c6b93/original.png"
 slug: "tr2019-kick-off"
 description: " 
 
@@ -26,19 +26,19 @@ On se réunit donc tous les dimanches pour travailler et ça part dans tous les 
 1. We would like to have an autonomous robot able to find its way.
    1. Félix and Mathis build a base frame
 
-    ![Prototype de robot autonome](/proxyPhotos?code=/blog/bob-ross/5c3e44e5de144/50.jpg "Prototype de robot autonome")
+    ![Prototype de robot autonome](https://static.werobot.fr/blog/bob-ross/5c3e44e5de144/50.jpg "Prototype de robot autonome")
    1. Antoine and Matthieu try to code with encoders and gyroscope.
 
-    ![Tests de programme](/proxyPhotos?code=/blog/bob-ross/5c3e44ec81c96/50.jpg "Tests de programme")
+    ![Tests de programme](https://static.werobot.fr/blog/bob-ross/5c3e44ec81c96/50.jpg "Tests de programme")
 
 1. We also ahve to build a small robot able to climb up on a string.
    Mohamed and François prototype with Lego
 
-   ![Prototype en Lego](/proxyPhotos?code=/blog/bob-ross/5c3e44ee7c2f8/50.jpg "Prototype en Lego")
+   ![Prototype en Lego](https://static.werobot.fr/blog/bob-ross/5c3e44ee7c2f8/50.jpg "Prototype en Lego")
 
 1. The main robot must be able to collect and store pucks. Our first idea is to try to collect them on the ground.
 
-   ![Félix et Mathis conçoivent le mécanisme de récupération des palets](/proxyPhotos?code=/blog/bob-ross/5c3e44f05432e/50.jpg "Félix et Mathis conçoivent le mécanisme de récupération des palets")
+   ![Félix et Mathis conçoivent le mécanisme de récupération des palets](https://static.werobot.fr/blog/bob-ross/5c3e44f05432e/50.jpg "Félix et Mathis conçoivent le mécanisme de récupération des palets")
 
 1. About the elements on the playground :
    1. We have bought the pucks but haven't drilled them yet to make some lighter. We're not even sure to do it since we dpn't think it's important for practice.

@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE"
-date: "2024-05-10 07:55:06"
-lastupdate: "2024-05-10 22:51:04"
-banner: "/proxyPhotos?code=/blog/bob-ross/663e5b8473cc2/50.png"
+date: "2024-05-10 03:55:06"
+lastupdate: "2024-05-10 03:55:06"
+banner: "https://static.werobot.fr/blog/bob-ross/663e5b8473cc2/50.png"
 slug: "on-cherche-des-partenaires-pour-la-team-france"
 description: " 
 La TEAM FRANCE présentée par We Robot est officiellement sélectionnée pour le FIRST Global Challenge ATHENS 2024, les Jeux Olympiques junior de la Robotique
@@ -20,5 +20,4 @@ présentée par We Robot est fière et heureuse d’avoir été sélectionnée a
 <br>
 
 <iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview" width="640" height="936" allow="autoplay"></iframe>
-
     

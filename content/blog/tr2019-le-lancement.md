@@ -1,8 +1,8 @@
 ---
 title: "TR2019 : le lancement"
-date: "2018-10-07 09:51:29"
-lastupdate: "2019-01-19 10:30:29"
-banner: "/proxyPhotos?code=/blog/bob-ross/5c3e44e4c6b93/original.png"
+date: "2018-10-07 07:51:29"
+lastupdate: "2018-10-07 07:51:29"
+banner: "https://static.werobot.fr/blog/bob-ross/5c3e44e4c6b93/original.png"
 slug: "tr2019-le-lancement"
 description: " 
 Voilà, les Trophées de robotique sont officiellement lancés
@@ -22,19 +22,19 @@ On se réunit donc tous les dimanches pour travailler et ça part dans tous les 
 1. On voudrait présenter un robot autonome capable de se repérer.
    1. Félix et Mathis  nous fabrique un châssis fonctionnel 
 
-    ![Prototype de robot autonome](/proxyPhotos?code=/blog/bob-ross/5c3e44e5de144/50.jpg "Prototype de robot autonome")
+    ![Prototype de robot autonome](https://static.werobot.fr/blog/bob-ross/5c3e44e5de144/50.jpg "Prototype de robot autonome")
    1. Antoine et Matthieu des tests de programmation avec encodeurs sur les roues et gyroscope.
 
-    ![Tests de programme](/proxyPhotos?code=/blog/bob-ross/5c3e44ec81c96/50.jpg "Tests de programme")
+    ![Tests de programme](https://static.werobot.fr/blog/bob-ross/5c3e44ec81c96/50.jpg "Tests de programme")
 
 1. On doit également concevoir un mécanisme permettant de grimper le long d'une ficelle.
    Mohamed et François élabore un prototype en Lego
 
-   ![Prototype en Lego](/proxyPhotos?code=/blog/bob-ross/5c3e44ee7c2f8/50.jpg "Prototype en Lego")
+   ![Prototype en Lego](https://static.werobot.fr/blog/bob-ross/5c3e44ee7c2f8/50.jpg "Prototype en Lego")
 
 1. Le robot principal doit être capable de récupérer et stocker des palets. Nous envisageons pour l'instant de les récupérer au sol.
 
-   ![Félix et Mathis conçoivent le mécanisme de récupération des palets](/proxyPhotos?code=/blog/bob-ross/5c3e44f05432e/50.jpg "Félix et Mathis conçoivent le mécanisme de récupération des palets")
+   ![Félix et Mathis conçoivent le mécanisme de récupération des palets](https://static.werobot.fr/blog/bob-ross/5c3e44f05432e/50.jpg "Félix et Mathis conçoivent le mécanisme de récupération des palets")
 
 1. Pour les éléments de la table :
    1. Nous avons acheté les palets mais n'avons pas encore eu le temps de les découper pour simuler les différentes masses. Nous nous interrogeons d'ailleurs fortement sur l'intérêt de le faire.
