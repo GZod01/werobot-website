@@ -46,7 +46,7 @@
 	display: block;
 	transition: opacity 0.2s;
 	span#caption{
-		transition: widthvheight .5s ease;
+		transition: width,height .5s ease;
 	    display:none;
 	    background-color:rgba(27, 27,27, 0.7);
 	    color:white;
@@ -68,8 +68,8 @@
 	transition: opacity 0.2s;
 	span#caption{
 	    display:block;
-		width:var(--width);
-		height:var(--height);
+		width: var(--width)!important;
+		height:var(--height)!important;
 		overflow: auto;
 	}
     }
