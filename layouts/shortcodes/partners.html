@@ -5,7 +5,7 @@
 	<img src="{{ if .realimg }}{{ .realimg }}{{ else }}/proxyPhotos?code=/{{ .img }}{{ end }}">
     </a>
     <div class="w-full md:w-2/3">
-	{{ .description | safeHTML }}
+        {{ if (and .descriptionen (eq .Lang "en")) }}{{ .descriptionen | safeHTML }}{{ else }}{{ .description | safeHTML}}{{ end }}
     </div>
 </div>
 {{ end }}

@@ -12,7 +12,7 @@ Après trois mois de préparation et de communication, nous rencontrons les 156 
 ### Saison 2017-2018
 
 <div class="d-flex justify-center pb-2">
-  <img alt="Notre ancien logo" data-src="/proxyPhotos?code=/old_logo.png" title="Notre ancien logo" width="100" />
+  <img alt="Notre ancien logo" src="/proxyPhotos?code=/old_logo.png" title="Notre ancien logo" width="100" />
 </div>
 
 Nous avons participé à deux compétitions cette année :

@@ -29,3 +29,31 @@ $responsive-large: 1500px;
 @import "layouts/transitions";
 @import "layouts/contact-card";
 @import "layouts/map";
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+//   * {
+//     scrollbar-width: thin;
+//     scrollbar-color: #2980b9 #c7c7c7;
+//   }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+    z-index: 10;
+    right:0;
+  }
+
+  *::-webkit-scrollbar-track {
+    display: none;
+  }
+  *::-webkit-scrollbar-track-piece{
+    display: none;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: #3498db;
+    border-radius: 5px;
+  }
+  *::-webkit-scrollbar-thumb:hover{
+    background: #2980b9;
+  }

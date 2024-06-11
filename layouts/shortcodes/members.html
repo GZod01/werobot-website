@@ -1,9 +1,9 @@
 <div class="team-mosaic">
     {{ range .Site.Data.members.members }}
   <div class="team-item">
-      <div class="team-item-image"><img src="{{ .img|safeURL }}" alt="avatar"></div>
+      <div class="team-item-image"><img {{if .imgnoncover }}id="noncover"{{end}} src="/profiles/{{ .img }}{{ if .imgpng }}.png{{ else }}.jpg{{ end }}" alt="avatar"></div>
       <p class="team-item-title">{{ .name }}</p>
-      <p class="team-item-description">{{ .post }}</p>
+      <p class="team-item-description">{{ if (and .descriptionen (eq .Lang "en")) }}{{ .posten }}{{ else }}{{ .post }}{{ end }}</p>
   </div>
   {{ end }}
 </div>

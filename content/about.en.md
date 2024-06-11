@@ -12,7 +12,7 @@ After three months spent building, training and communicating, we finally met th
 ### 2017-2018 season
 
 <div class="d-flex justify-center">
-  <img alt="Our old logo" data-src="/proxyPhotos?code=/old_logo.png" title="Our old logo" width="100" />
+  <img alt="Our old logo" src="/proxyPhotos?code=/old_logo.png" title="Our old logo" width="100" />
 </div>
 
 We participated in two competitions :
@@ -51,137 +51,14 @@ This year, the workshop at the community center only occurred sporadically as it
 
 ## Our team
 
-<div class="team-mosaic">
-  <div class="team-item">
-    <div class="team-item-image">
-      <img data-src="/proxyPhotos?code=/profiles/franck.jpg" alt="avatar">
-    </div>
-    <p class="team-item-title">Franck</p>
-    <p class="team-item-description">President, Coach</p>
-  </div>
-
-  <div class="team-item">
-    <div class="team-item-image">
-      <img data-src="/proxyPhotos?code=/profiles/francois.jpg" alt="avatar">
-    </div>
-    <p class="team-item-title">François</p>
-    <p class="team-item-description">Treasurer, Coach</p>
-  </div>
-
-  <div class="team-item">
-    <div class="team-item-image">
-      <img data-src="/proxyPhotos?code=/profiles/katia.jpg" alt="avatar">
-    </div>
-    <p class="team-item-title">Katia</p>
-    <p class="team-item-description">Secretary</p>
-  </div>
-  
-<div class="team-item">
-<div class="team-item-image">
-  <img data-src="/proxyPhotos?code=/profiles/matthieu.jpg" alt="avatar">
-</div>
-<p class="team-item-title">Matthieu</p>
-<p class="team-item-description">Alumni, Coach</p>
-</div>
-
-<div class="team-item">
-  <div class="team-item-image">
-    <img data-src="/proxyPhotos?code=/profiles/mohamed.jpg" alt="avatar">
-  </div>
-  <p class="team-item-title">Mohamed</p>
-  <p class="team-item-description">Alumni, Coach</p>
-</div>
+{{<members>}}
 
 
 <div id="partners"></div>
 
-## They support us
+## [They support us](/partners)
 
-<div class="partners">
-  <div class="partner flex flex-wrap">
-    <div class="w-full md:w-1/3 partner-image">
-      <img data-src="/proxyPhotos?code=/logoGIGAreduit.png">
-    </div>
-    <div class="w-full md:w-2/3">
-      Since October 2017, the GIGA supports us. We presented them our organization in their general assembly and have had a great financial support from them for our travels ans purchase of equipment.
-    </div>
-  </div>
-  <!-- <div class="partner flex flex-wrap">
-  </div>
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://uimm.lafabriquedelavenir.fr/">
-      <img data-src="/proxyPhotos?code=/UIMMfabriqueMetiers.jpg">
-    </a>
-    <div class="w-full md:w-2/3">
-      <div>
-        Since december 2018, the <a href="https://uimm.lafabriquedelavenir.fr/">UIMM</a> of the state of the Eure help us to buy hardware and support us in our communication process
-      </div>
-    </div>
-  </div> -->
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://www.papavoine-menuiserie.com/">
-      <img data-src="/proxyPhotos?code=/papavoine.jpg">
-    </a>
-    <div class="w-full md:w-2/3">
-      <div>
-        During the 2018-2019 season , la <a href="https://www.papavoine-menuiserie.com/">Papavoine carpentry</a> helped us build most of the game elements for our table.
-      </div>
-    </div>
-  </div>
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://www.girv.com/">
-      <img data-src="/proxyPhotos?code=/girv.png">
-    </a>
-    <div class="w-full md:w-2/3">
-      <div>
-        Since november 2018, the <a href="https://www.girv.com/">Groupement Interprofessionnel de la Région de Vernon</a> trusts us and allowed us to meet new partners. We were able to present our non-profit during both their trade show and their general assembly in december. They also helped to buy us a 3D printer in february 2019.
-      </div>
-    </div>
-  </div>
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://www.ariane.group">
-      <img data-src="/proxyPhotos?code=/arianegroup_lg.png">
-    </a>
-    <div class="w-full md:w-2/3">
-      Ariane Group Vernon helped to buy us a 3D printer in february 2019.
-    </div>
-  </div>
-  <!-- <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://marianneurope.fr/">
-      <img data-src="/proxyPhotos?code=/marianneEurope.png">
-    </a>
-    <div class="w-full md:w-2/3">
-      <div>
-        Depuis novembre 2018, l'<a href="https://marianneurope.fr/">agence de conseil Marianne Europe</a> nous a inscrit à ses deux newsletters professionnelles afin que nous puissions nous tenir informer des initiatives et des innovations locales et nous mettre en relation avec les entreprises innovantes de notre secteur.
-      </div>
-    </div>
-  </div> -->
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="http://www.ville-gaillon.fr/">
-      <img data-src="/proxyPhotos?code=/logoVilleGaillon.jpg">
-    </a>
-    <div class="w-full md:w-2/3">
-      At the beginning of the 2017-2018 season, the city hall of Gaillon granted us a small subsidy.
-      Since april 2019, it lends us a wide venue to host our activities.
-    </div>
-  </div>
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://www.skf.com/fr">
-      <img data-src="/proxyPhotos?code=/skf.png">
-    </a>
-    <div class="w-full md:w-2/3">
-      SKF Vernon helped to buy us a 3D printer in february 2019.
-    </div>
-  </div>
-  <div class="partner flex flex-wrap">
-    <a class="w-full md:w-1/3 partner-image" href="https://www.atiscomputer.com">
-      <img data-src="/proxyPhotos?code=/atisComputer.jpg">
-    </a>
-    <div class="w-full md:w-2/3">
-      Helps us since april 2019. They already gave us 2 <a href="https://www.raspberrypi.org/">Raspberry Pi</a> 3B+ and some computers.
-    </div>
-  </div>
-</div>
+{{<partners>}}
 
 <div id="place-anchor" style="position: relative; opacity: 0; top: -550px;"></div>
 <div class="pt-3"></div>
@@ -194,5 +71,7 @@ We have premises offered by the city of Gaillon to host our activities. There ar
   <div
     id="place-map"
     class="about-place-map">
+{{<slippy-map lng=1.3305366 lat=49.1586146 zoom=5 >}}
   </div>
 </div>
+
