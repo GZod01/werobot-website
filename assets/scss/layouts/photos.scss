@@ -46,7 +46,7 @@
 	display: block;
 	transition: opacity 0.2s;
 	span#caption{
-		transition: width .5s ease,height .5s ease, border-radius .5s ease;
+		transition: width .5s ease,height .5s ease, border-radius .5s ease, overflow .5s ease-out;
 	    display:block;
 	    background-color:rgba(27, 27,27, 0.7);
 	    color:white;
