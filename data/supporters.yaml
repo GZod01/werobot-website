@@ -1,0 +1,44 @@
+sponsors:
+  - name: Donne Beaucoup d'argent
+    size: verybig
+  - name: Donne Beaucoup d'argent mais pas trop
+    size: big
+  - name: SKF
+    size: middle
+  - name: Schneider
+    size: middle
+  - name: Delbard
+    size: little
+
+
+
+# A dieu code nommé "beaucoup de travail pour rien" XD
+# compet:
+#   - name: First Global Challenge 2024
+#     levels: # différents niveaux de sponsoring
+#       - title: Gros Sponsors # titre de la catégorie (français et défaut si pas de titleen)
+#         titleen: Big Sponsors # titre de la catégorie en anglais
+#         size: big # taille des images
+#         orgs: #organisations dans cette catégorie
+#          # JUSTE UN PLACEHOLDER: On n'est bien évidemment pas sponsorisé par google et on n'a pas de sponsors avec ce montant
+#         - name: Google # nom de l'organisation 
+#           logo: google.png # logo de l'organisation (à partir de la racine des images d'organisation: /sponsors/)
+#           ammount: 1 500 000€ #optional: montant donné par l'organisation, pas nécessaire de le mettre
+#       - title: Sponsors 
+#         size: middle
+#         orgs:
+#         - name: SKF
+#           logo: skf.png
+#           ammount: 1000€
+#         - name: Schneider Electric
+#           logo: schneider.png
+#           ammount: 2000€
+#       - title: Supporters
+#         size: little
+#         orgs:
+#         - name: Boulangerie
+#           logo: boulangerie.png
+#           ammount: 100€
+#         - name: Delbard
+#           logo: delbard.png
+#           ammount: 100€
