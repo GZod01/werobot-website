@@ -2,7 +2,7 @@
 
 ## Comment installer
 
-- git clone https://forge.gzod01.fr/werobot/website.git website
+- git clone https://forge.cybergamma.group/werobot/website.git website
 - cd website
 
 ## Comment développer

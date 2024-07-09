@@ -2,7 +2,7 @@
 /*ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);*/
-$url = $_GET["code"] ?? $_GET["path"] ?? $_GET["url"] ?? $argv[1] ?? "https://beta.gzod01.fr/images/logo.png";
+$url = $_GET["code"] ?? $_GET["path"] ?? $_GET["url"] ?? $argv[1] ?? "https://beta.cybergamma.group/images/logo.png";
 
 function urlIsAvailable($url){
     $ch = curl_init();
