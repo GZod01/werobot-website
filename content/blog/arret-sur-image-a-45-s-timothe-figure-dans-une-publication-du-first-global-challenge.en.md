@@ -1,7 +1,7 @@
 ---
 title: "Freeze at 45 s : Timothé featured in a FIRST Global Challenge publication !"
-date: "2024-05-10 20:48:06"
-lastupdate: "2024-05-10 20:48:06"
+date: "2024-05-10 18:48:06"
+lastupdate: "2024-05-10 18:48:06"
 banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
 slug: "freeze-at-45-s-timothe-featured-in-a-first-global-challenge-publication"
 description: " 
@@ -21,5 +21,5 @@ In any case, it's a source of immense pride for our team to appear in an officia
 The video with our superstar is available here : 
 
 
-<iframe class="youtube-player" width="1060" height="597" src="https://www.youtube.com/embed/Ljup-TK_tZY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<iframe class="youtube-player" width="1060" height="597" src="https://www.youtube.com/embed/Ljup-TK_tZY?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
     
