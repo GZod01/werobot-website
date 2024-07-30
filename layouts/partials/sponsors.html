@@ -1,5 +1,6 @@
 <div id="sponsors"></div>
 <h2>{{ .Site.Params.partner_per_compet }}</h2>
+{{ $showammount:= false }}
 <ul class=sponsors-per-event-list>
     <li class=event>
 	{{ $pagelanguage := .Page.Lang }}
@@ -8,9 +9,10 @@
 	<div class=supporters>
 	{{ range .levels }}
 	<h4 class=title>{{ if (and .titleen (eq $pagelanguage "en")) }}{{ .titleen }}{{ else }}{{ .title }}{{ end }}</h4>	
+	{{ $nameonly := (and (.type) (eq .type "nameonly")) }}
 	<div class="supporters-list level-{{ .size }}">
 	    {{ range .orgs }}
-	    <a href="{{ .url | safeURL }}" title="{{ .name }}{{ if .ammount }} avec un montant de {{ .ammount }}{{ end }}"><img src="{{ .logo | safeURL }}"></a> 
+	    <a href="{{ .url | safeURL }}" title="{{ .name }}{{ if (and $showammount .ammount) }} avec un montant de {{ .ammount }}{{ end }}">{{ if (not $nameonly) }}<img src="{{ .logo | safeURL }}">{{ else }}{{ .name }}&nbsp;{{ end }}</a> 
 	    {{ end }}
 	</div>
 	{{ end }}

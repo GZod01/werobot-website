@@ -4,14 +4,14 @@ compet:
       - title: Gros Sponsors
         size: big
         orgs:
-        - name: Altair
-          ammount: 5000€
-          url: https://altair.com/
-          logo: https://www.nafems.org/images/logos/altair-2020.pagespeed.1588268967.png 
         - name: Crédit Agricole
           url: https://www.credit-agricole.fr/
           logo: https://storage.googleapis.com/endurance-apps-liip/media/cache/credit-agricole-2021_no_filter_grid_fs/5a6609398d543f584e0c970e
-          ammount: 2500€ #5000€
+          ammount: 5000€
+            #- name: Altair
+            #  ammount: 5000€
+            #  url: https://altair.com/
+            #  logo: https://www.nafems.org/images/logos/altair-2020.pagespeed.1588268967.png 
       - title: Sponsors 
         size: middle
         orgs:
@@ -32,10 +32,16 @@ compet:
           ammount: 1000€
       - title: Supporters
         size: little
+        type: nameonly
         orgs:
-        - name: Boulangerie
-          logo: boulangerie.png
+        - name: Boulangerie Vanille et Chocolat
+          url: https://www.facebook.com/p/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon-100077801287091/
           ammount: 100€
         - name: Delbard
-          logo: delbard.png
+          logo: https://www.delbard.fr/wp-content/uploads/2019/02/logo-delbard2019.png
+          url: https://www.delbard.fr
           ammount: 100€
+        - name: Le temps pour soi
+          url: https://www.facebook.com/LeTempsPourSoi 
+        - name: La Marina
+          url: https://www.facebook.com/p/Restaurant-La-Marina-Gaillon-100057871380841/
