@@ -1,5 +1,5 @@
 <?php
-$lastdate = strtotime("2024-05-28 23:00:00");
+$lastdate = strtotime("2024-07-05 23:00:00");
 $v = json_decode(file_get_contents("https://api.werobot.fr/post"),true);
 $nv = array_filter($v["data"]["posts"], function($a){global $lastdate;$res = strtotime($a["created_at"])>$lastdate; return $res;});
 foreach($nv as $p){

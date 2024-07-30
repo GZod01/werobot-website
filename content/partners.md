@@ -2,4 +2,4 @@
 title: "Ils nous soutiennent"
 ---
 {{<partners>}}
-{{<compet_supporters>}}
+{{<sponsors>}}

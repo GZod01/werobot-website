@@ -1,7 +1,7 @@
 ---
 title: "Feeding The Future : explication du jeu"
-date: "2024-06-24 10:55:02"
-lastupdate: "2024-06-24 10:55:02"
+date: "2024-06-23 06:55:02"
+lastupdate: "2024-06-23 06:55:02"
 banner: "https://static.werobot.fr/blog/bob-ross/667e5cb905068/50.png"
 slug: "feeding-the-future-explication-du-jeu"
 description: " 
@@ -22,6 +22,7 @@ Le terrain de jeu de 7 m sur 7 m est surélevé d'environ 70 cm par rapport au s
 <center>
 <figure>
 <img src="https://static.werobot.fr/blog/bob-ross/667e63c102178/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e2e03847f8/50.png">
 <figcaption>PLAYING FIELD (terrain de jeu)</figcaption>
 </figure>
 </center>
@@ -43,6 +44,8 @@ Les différentes zones du terrain en fonction des alliances rouges et bleues
 <center>
 <figure>
 <img src="https://static.werobot.fr/blog/bob-ross/6682b3c98579f/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e2cd1ce15d/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e2b8f14efa/50.png">
 <figcaption>NEXUS GOALS (boîtes nexus)</figcaption>
 </figure>
 </center>
@@ -58,29 +61,24 @@ PRODUCE (production) : le résultat de la conservation réussie d'une eau (WATER
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682b50c41883/50.png">
-<figcaption>RESERVOIR (réservoir)</figcaption>
-</figure>
-</center>
-
-<li>
-RESERVOIR (réservoir) : des espaces rectangulaires colorés en rouge et en bleu pour chaque alliance régionale (REGIONAL ALLIANCE), avec des périmètres surélevés, situés entre les deux séries de boîtes nexus (NEXUS GOALS) et sous l'entrepôt de nourriture (FOOD WAREHOUSE).
-</li>
-
-<center>
-<figure>
 <img src="https://static.werobot.fr/blog/bob-ross/6682b82709840/50.png">
-<figcaption>FOOD WAREHOUSE(entrepôt de nourriture)</figcaption>
+<img src="https://static.werobot.fr/blog/bob-ross/6682b50c41883/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e328293bb2/50.png">
+<figcaption>FOOD WAREHOUSE(entrepôt de nourriture) et RESERVOIR (réservoir)</figcaption>
 </figure>
 </center>
 
 <li>
 FOOD WAREHOUSE (entrepôt de nourriture) : structure en aluminium qui s'étend sur la largeur du terrain de jeu (PLAYING FIELD) et se trouve au-dessus du réservoir (RESERVOIR) et de deux séries de boîtes nexus (NEXUS GOALS). Elle est ouverte sur le dessus et les bords extérieurs recouvrent les stations d'alliance (ALLIANCE STATIONS).
 </li>
+<li>
+RESERVOIR (réservoir) : des espaces rectangulaires colorés en rouge et en bleu pour chaque alliance régionale (REGIONAL ALLIANCE), avec des périmètres surélevés, situés entre les deux séries de boîtes nexus (NEXUS GOALS) et sous l'entrepôt de nourriture (FOOD WAREHOUSE).
+</li>
 
 <center>
 <figure>
 <img src="https://static.werobot.fr/blog/bob-ross/6683111a347bd/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e33e1722bd/50.png">
 <figcaption>FORKS (fourches)</figcaption>
 </figure>
 </center>
@@ -92,7 +90,9 @@ FORK (fourche) : c'est un outil fourni aux joueurs humains pour les aider à sé
 <center>
 <figure>
 <img src="https://static.werobot.fr/blog/bob-ross/6682bc6c9137f/50.png">
-<figcaption>RAMP and PLATFORM (rampe et plateforme)</figcaption>
+<img src="https://static.werobot.fr/blog/bob-ross/668e352691f4f/50.png">
+<img src="https://static.werobot.fr/blog/bob-ross/668e352d31793/50.png">
+<figcaption>RAMP (rampe) et PLATFORM (plateforme)</figcaption>
 </figure>
 </center>
 
@@ -137,7 +137,8 @@ APRILTAGS : système de balises visuelles (APRILTAGS) qui peuvent être utilisé
 <center>
 <figure>
 <img src="https://static.werobot.fr/blog/bob-ross/6682cbfccb7fe/50.png">
-<figcaption>WATER (eau), ENERGY (énergie), and FOOD (nourriture)</figcaption>
+<img src="https://static.werobot.fr/blog/bob-ross/668e36b2c84f1/50.png">
+<figcaption>WATER (eau), ENERGY (énergie), et FOOD (nourriture)</figcaption>
 </figure>
 </center>
 
@@ -236,7 +237,7 @@ La liste officielle des composants autorisés est indiquée dans la nomenclature
 </li>
 
 <li>
-Les robots peuvent également être construits à l'aide des pièces supplémentaires suivantes, qui ne relèvent pas de la robotique VR :
+Les robots peuvent également être construits à l'aide des pièces supplémentaires suivantes, qui ne relèvent pas des pièces REV Robotics :
  	<ul>
 	<li>
 	Toutes les vis M3 disponibles dans le commerce (jusqu'à 50 mm de long) et tous les écrous et/ou rondelles disponibles dans le commerce qui sont de la même taille que ceux inclus dans le kit de pièces du FIRST Global REV Robotics 2024. Ces pièces supplémentaires doivent être utilisées en remplacement et ne peuvent pas être utilisées pour augmenter la quantité incluse dans le ROBOT final. 
@@ -271,7 +272,7 @@ Les robots peuvent également être construits à l'aide des pièces supplément
 </li>
 </ul>
 <li>
-Les robots ne peuvent utiliser qu'un seul système de contrôle. Cela signifie un concentrateur de contrôle, un concentrateur d'expansion et une batterie de 12 volts.
+Les robots ne peuvent utiliser qu'un seul système de contrôle. Cela signifie un Control Hub, un Expansion Hub, et une batterie de 12 volts.
 </li>
 
 <li>
@@ -298,5 +299,27 @@ Le système d'exploitation du Control Hub doit être mis à jour à la version 1
 Le système d'exploitation du Driver Hub doit être mis à jour à la version 1.2.0 et l'application Driver Station doit être mise à jour à la version 9.1.
 </li>
 </ul>
+<br>
+
+### Le terrain de jeu (PLAYING FIELD) en 3D :
+
+<div style="
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	padding-top: 100%;
+	"> 
+  <iframe src="https://myhub.autodesk360.com/ue2fbc357/g/shares/SH286ddQT78850c0d8a46106c88c0d6b2e8d" style="
+	position: absolute;
+	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	width: 75%;
+  	height: 75%;
+  	border: none;
+	">
+</iframe>
+</div>
 
     

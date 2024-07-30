@@ -21,6 +21,7 @@ languageCode='en'
 languageName="English"
 [languages.en.params]
 nextlang="fr"
+partner_per_compet="Our partners per tournament"
 keywords = ["Gaillon", "Robotic", "We Robot", "France", "Association", "Local"]
 slogan = "Robotic, together"
 description = """
@@ -127,6 +128,7 @@ description= "This page doesn't exist"
 changefreq = 'weekly'
 
 [params]
+partner_per_compet="Nos partenaires par compétition"
 mainSections= "blog"
 error404message = "Page non trouvée"
 dateFmt = "02.01.2006 15:04"

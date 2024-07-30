@@ -1,0 +1,20 @@
+<div id="sponsors"></div>
+<h2>{{ .Site.Params.partner_per_compet }}</h2>
+<ul class=sponsors-per-event-list>
+    <li class=event>
+	{{ $pagelanguage := .Page.Lang }}
+	{{range .Site.Data.supporters.compet}}
+	<h3>{{.name}}</h3>
+	<div class=supporters>
+	{{ range .levels }}
+	<h4 class=title>{{ if (and .titleen (eq $pagelanguage "en")) }}{{ .titleen }}{{ else }}{{ .title }}{{ end }}</h4>	
+	<div class="level-{{ .size }}">
+	    {{ range .orgs }}
+	    <a href="{{ .url | safeURL }}" title="{{ .name }}{{ if .ammount }} avec un montant de {{ .ammount }}{{ end }}"><img src="{{ .logo | safeURL }}"></a> 
+	    {{ end }}
+	</div>
+	{{ end }}
+
+	{{ end }}
+    </li>
+</ul>
