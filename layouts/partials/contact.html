@@ -3,41 +3,17 @@
       <div class="container mx-auto">
         <h2>{{ (index site.Params "contact-us").president.title }}</h2>
         <div class="pt-1 d-flex justify-center">
-          <contact-card
-            :phone="['KzMzNjE2', 'NjE3OTQ1']"
-            avatarUrl="/proxyPhotos?code=/profiles/franck.jpg"
-            name="Franck GITON"
-            email="werobot.fr@gmail.com"
-          />
+	{{ partial "contact-card.html"
+	(dict "phone" "0616617945"
+            "avatarUrl" "/proxyPhotos?code=/profiles/franck.jpg"
+            "name" "Franck GITON"
+            "email" "werobot.fr@gmail.com")
+	    }}
         </div>
         <h2>{{ (index site.Params "contact-us").form.title }}</h2>
         <p class="mb-3">{{ (index site.Params "contact-us").form.description }}</p>
-        <transition name="main-transition">
-          <div v-if="success">
-            <div
-              role="alert"
-              class="w-100 bg-teal-lightest border-t-4 border-teal rounded-b text-teal-darkest px-4 py-3 shadow-md mb-4">
-              <div class="flex justify-between">
-                <div class="flex">
-                  <div class="px-5">
-                    <i class="fa fas fa-check-circle"></i>
-                  </div>
-                  <div>
-                    <p class="font-bold">
-                      {{ (index site.Params "contact-us").form.success }}
-                    </p>
-                  </div>
-                </div>
-                <div
-                  style="cursor:pointer"
-                  @click="success=false">
-                  <i class="fa fas fa-times-circle"></i>
-                </div>
-              </div>
-            </div>
-          </div>
-        </transition>
         <form
+		action="mailto:contact@werobot.fr"
           class="w-full">
           <div class="flex flex-wrap -mx-3">
             <div class="w-full md:w-1/2 px-3">
@@ -48,7 +24,6 @@
               </label>
               <input
                 id="name"
-                v-model="name"
 		placeholder="{{ (index site.Params "contact-us").form.name_placeholder }}"
                 class="appearance-none block w-full bg-grey-lighter text-grey-darker border rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
                 type="text">
@@ -61,10 +36,9 @@
               </label>
               <input
                 id="email"
-                v-model="email"
                 placeholder="{{ (index site.Params "contact-us").form.email_placeholder }}"
                 class="appearance-none block w-full bg-grey-lighter text-grey-darker border rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-grey"
-                type="text">
+                type="email">
             </div>
           </div>
           <div class="flex flex-wrap -mx-3">
@@ -76,7 +50,6 @@
               </label>
               <input
                 id="subject"
-                v-model="subject"
                 placeholder="{{ (index site.Params "contact-us").form.subject_placeholder }}"
                 class="appearance-none block w-full bg-grey-lighter text-grey-darker border rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-grey"
                 type="text">
@@ -91,7 +64,6 @@
               </label>
               <textarea
                 id="content"
-                v-model="content"
                 placeholder="{{ (index site.Params "contact-us").form.content_placeholder }}"
                 class="appearance-none block w-full bg-grey-lighter text-grey-darker border rounded py-3 px-4 mb-2 leading-tight focus:outline-none focus:bg-white focus:border-grey"
                 style="height: 12em">
@@ -99,21 +71,16 @@
             </div>
           </div>
           <div class="flex flex-wrap justify-end">
-            <div class="button button-primary">
+            <button type=submit class="button button-primary">
               <div class="button-icon">
                 <i
-                  v-if="loading"
-                  class="fa fas fa-sync fa-spin"></i>
-                <i
-                  v-else
                   class="fa fas fa-check-circle"></i>
               </div>
               <div
-                class="button-text"
-                @click="submit">
+		      class="button-text">
                 {{ (index site.Params "contact-us").form.submit }}
               </div>
-            </div>
+            </button>
           </div>
         </form>
       </div>

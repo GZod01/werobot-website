@@ -8,7 +8,7 @@
 	<div class=supporters>
 	{{ range .levels }}
 	<h4 class=title>{{ if (and .titleen (eq $pagelanguage "en")) }}{{ .titleen }}{{ else }}{{ .title }}{{ end }}</h4>	
-	<div class="level-{{ .size }}">
+	<div class="supporters-list level-{{ .size }}">
 	    {{ range .orgs }}
 	    <a href="{{ .url | safeURL }}" title="{{ .name }}{{ if .ammount }} avec un montant de {{ .ammount }}{{ end }}"><img src="{{ .logo | safeURL }}"></a> 
 	    {{ end }}

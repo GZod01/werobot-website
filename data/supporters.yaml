@@ -1,24 +1,35 @@
 compet:
   - name: First Global Challenge 2024
     levels: # différents niveaux de sponsoring
-      - title: Gros Sponsors # titre de la catégorie (français et défaut si pas de titleen)
-        titleen: Big Sponsors # titre de la catégorie en anglais
-        size: big # taille des images
-        orgs: #organisations dans cette catégorie
-         # JUSTE UN PLACEHOLDER: On n'est bien évidemment pas sponsorisé par google et on n'a pas de sponsors avec ce montant
-        - name: Google # nom de l'organisation 
-          logo: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png # logo de l'organisation (à partir de la racine des images d'organisation: /sponsors/)
-          ammount: 1 500 000€ #optional: montant donné par l'organisation, pas nécessaire de le mettre
-          url: https://google.com
+      - title: Gros Sponsors
+        size: big
+        orgs:
+        - name: Altair
+          ammount: 5000€
+          url: https://altair.com/
+          logo: https://www.nafems.org/images/logos/altair-2020.pagespeed.1588268967.png 
+        - name: Crédit Agricole
+          url: https://www.credit-agricole.fr/
+          logo: https://storage.googleapis.com/endurance-apps-liip/media/cache/credit-agricole-2021_no_filter_grid_fs/5a6609398d543f584e0c970e
+          ammount: 2500€ #5000€
       - title: Sponsors 
         size: middle
         orgs:
-        - name: SKF
-          logo: skf.png
-          ammount: 1000€
         - name: Schneider Electric
-          logo: schneider.png
+          logo: https://www.se.com/ww/en/assets/wiztopic/615aeb0184d20b323d58575e/Schneider-Electric-logo-jpg-_original.jpg
           ammount: 2000€
+          url: https://www.se.com/fr/fr/
+        - name: All Inclusive!
+          ammount: 2000€
+          url: https://www.beallinclusive.com/
+          logo: https://image.jimcdn.com/app/cms/image/transf/dimension=200x10000:format=png/path/s2d1929a3611d71fe/image/i97611d2560e8d183/version/1459075465/image.png
+        - name: SKF
+          logo: https://evolution.skf.com/wp-content/uploads/sites/5/2022/05/logos.jpg
+          ammount: 1000€
+          url: https://skf.com/fr
+        - name: Maritech SAS
+          logo: https://media.licdn.com/dms/image/C4D0BAQEfGX0tdRWr7A/company-logo_200_200/0/1641198190668/maritech_sas_logo?e=2147483647&v=beta&t=bQL0Bx9RYHwjADKUB0jWuthfGJQgO62vA8Lrd2vcGBA
+          ammount: 1000€
       - title: Supporters
         size: little
         orgs:

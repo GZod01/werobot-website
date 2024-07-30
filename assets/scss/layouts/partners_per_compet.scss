@@ -1,3 +1,34 @@
 ul.sponsors-per-event-list{
     list-style-type: none;
+    li.event{
+	div.supporters{
+	    div.supporters-list{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+
+		a{
+		    img{
+			width:100%;
+			height:100%;
+		    }
+		}
+		&.level-big{
+		    flex-direction:column;
+		    a{
+			width:100%;
+		    }
+		}
+		&.level-middle{
+		    a{
+			width:33%;
+		    }
+		}
+	    }
+	}
+    }
+	
 }
+

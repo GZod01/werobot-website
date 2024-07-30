@@ -1,37 +1,34 @@
-<dl class="card contact-card">
-    <dt>
-        Nom
-    </dt>
-    <dd>
-        {{ site.Data.contact.name }}
-    </dd>
-
-    <dt>Téléphone</dt>
-    <dd>
-        <a href="tel:{{ site.Data.contact.phone }}">{{ site.Data.contact.phone }}</a>
-    </dd>
-
-    <dt>Adresse électronique</dt>
-    <dd>
-        <a href="mailto:{{ site.Data.contact.email }}">{{ site.Data.contact.email }}</a>
-    </dd>
-
-    <dt>Facebook</dt>
-    <dd>
-        <a href="{{ site.Data.contact.facebook.url }}">{{ site.Data.contact.facebook.name }}</a>
-    </dd>
-
-    <dt>Adresse</dt>
-    <dd>
-        {{ site.Data.contact.address.house_number }}
-        {{ site.Data.contact.address.street_name }}<br>
-        {{ site.Data.contact.address.postal_code }}
-        {{ site.Data.contact.address.quarter }}
-        {{ site.Data.contact.address.city }}
-    </dd>
-
-    <dt>SIRET</dt>
-    <dd>
-        {{ site.Data.contact.siret }}
-    </dd>
-</dl>
+<div class="contact-card">
+    <div
+	    style="background-image: url({{.avatarUrl}})"
+	    class="contact-card-left"
+	    >
+    </div>
+	<div class="contact-card-right">
+	    <div class="contact-card-title">{{ .name }}</div>
+	    <ul class="contact-methods">
+		<li class="contact-method">
+		    <div class="contact-method-icon">
+			<i class="fa fas fa-phone"></i>
+		    </div>
+		    <no-ssr>
+			<div class="contact-method-description">
+			    <a href="telto:{{ .phone }}">
+				{{ .phone }}
+			    </a>
+			</div>
+		    </no-ssr>
+		</li>
+		<li class="contact-method">
+		    <div class="contact-method-icon">
+			<i class="fa fas fa-at"></i>
+		    </div>
+		    <div class="contact-method-description">
+			<a href="mailto:{{.email}}">
+			    {{ .email }}
+			</a>
+		    </div>
+		</li>
+	    </ul>
+	</div>
+</div>
