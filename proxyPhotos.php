@@ -18,7 +18,7 @@ function urlIsAvailable($url){
 }
 
 function getImage($url){
-    $alternativeurl = "./hellowrld/".str_replace("/","-",$url);
+    $alternativeurl = "./hellowrld/".str_replace([":","/"],"-",$url);
     if(file_exists($alternativeurl)){
 	header('Content-Type: '.mime_content_type($alternativeurl));
 	die(file_get_contents($alternativeurl));
