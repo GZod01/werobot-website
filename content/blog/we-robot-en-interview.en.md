@@ -2,7 +2,7 @@
 title: "WeRobot in interview "
 date: "2024-07-02 03:03:42"
 lastupdate: "2024-07-02 03:03:42"
-banner: "https://static.werobot.fr/blog/bob-ross/66842febe2ba4/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 slug: "werobot-in-interview"
 description: " 
 On June 10, 2024, 3 members of our team were lucky enough to be interviewed and put on the radio ! 
@@ -13,7 +13,7 @@ On June 10, 2024, 3 members of our team were lucky enough to be interviewed and 
 Our appearance was part of the radio station's "Association of the Week" section, so we were able to raise awareness of We Robot and its future projects, such as the First Global Challenge 2024 in Athens.
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/66842febe2ba4/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg">
 </center>
 
 This interview was an opportunity to learn a little more about the association, its history and to explain in more detail the competitions in which we were able to take part.

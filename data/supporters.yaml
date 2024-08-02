@@ -34,7 +34,7 @@ compet:
         size: little
         type: nameonly
         orgs:
-        - name: Boulangerie Vanille et Chocolat
+        - name: Boulangerie Vanille ou Chocolat
           url: https://www.facebook.com/p/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon-100077801287091/
           ammount: 100€
         - name: Delbard

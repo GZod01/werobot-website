@@ -2,7 +2,7 @@
 title: "FIRST Global TEAM FRANCE à Athènes : We Robot se lance dans la compétition ! "
 date: "2024-05-02 03:15:13"
 lastupdate: "2024-05-02 03:15:13"
-banner: "https://static.werobot.fr/blog/bob-ross/6634ff59aab60/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/6634ff59aab60/50.jpg"
 slug: "first-global-team-france-a-athenes-we-robot-se-lance-dans-la-competition"
 description: " 
 Nous sommes officiellement sélectionnés pour représenter la France aux 8ème « Jeux Olympiques » de la robotique du FIRST Global Challenge à Athènes du 26 au 29 septembre 2024
@@ -20,7 +20,7 @@ Ce nouveau défi est une belle opportunité pour notre équipe de monter en comp
 <center>
 <table>
     <tr>
-        <td><img src="https://static.werobot.fr/blog/bob-ross/6642731b3e2eb/50.png" alt="Bob Ross"></td>
+        <td><img src="/proxyPhotos?code=/blog/bob-ross/6642731b3e2eb/50.png" alt="Bob Ross"></td>
     </tr>
 </table>
 </center>
@@ -35,7 +35,7 @@ Faire un don à WE ROBOT (helloasso.com)
 
 <center>
 <div style="width: 100%">
-<img src="https://static.werobot.fr/blog/bob-ross/6509b99fa50d9/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6509b99fa50d9/50.jpg">
 </div>
 </center>
 

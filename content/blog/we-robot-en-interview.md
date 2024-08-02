@@ -2,7 +2,7 @@
 title: "We Robot en interview "
 date: "2024-07-02 09:03:42"
 lastupdate: "2024-07-02 09:03:42"
-banner: "https://static.werobot.fr/blog/bob-ross/66842febe2ba4/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 slug: "we-robot-en-interview"
 description: " 
 Le 10 juin 2024, 3 membres de notre équipe ont eu la chance de pouvoir être interviewée.es et de pouvoir passer à la radio ! 
@@ -14,7 +14,7 @@ Notre passage s’inscrit dans la rubrique « Association de la semaine » de 
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/66842febe2ba4/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg">
 </center>
 
 

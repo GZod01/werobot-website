@@ -2,7 +2,7 @@
 title: "PushBot"
 date: "2017-04-21 03:21:55"
 lastupdate: "2017-04-21 03:21:55"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46c68058c/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46c68058c/original.jpg"
 slug: "pushbot"
 description: " 
 Mathis a construit la deuxième partie du PushBot en y ajoutant un bras et une pince.
@@ -11,11 +11,11 @@ Mathis a construit la deuxième partie du PushBot en y ajoutant un bras et une p
 ---
 Mathis a construit la deuxième partie du PushBot en y ajoutant un bras et une pince.
 
-![pushbot complet](https://static.werobot.fr/blog/bob-ross/5c3e46c71568b/50.jpg)
+![pushbot complet](/proxyPhotos?code=/blog/bob-ross/5c3e46c71568b/50.jpg)
 
 Il a ensuite essayé de le programmer après que je lui ai expliqué comment utiliser les variables RightStickX et LeftStickX.
 
-![Mathis programme](https://static.werobot.fr/blog/bob-ross/5c3e46c78e479/50.jpg)
+![Mathis programme](/proxyPhotos?code=/blog/bob-ross/5c3e46c78e479/50.jpg)
 
 Et voilà le résultat :
 

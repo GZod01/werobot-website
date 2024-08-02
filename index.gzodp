@@ -1,6 +1,6 @@
 <?php
 $medias = [];
-if(!isset($_SESSION["medias"])){
+//if(!isset($_SESSION["medias"])){
 $opts = [
     "http" => [
 	"method" => "GET",
@@ -12,6 +12,7 @@ $raw = [];
 if(intval(file_get_contents("import.insta.time"))<(time()-(3600*12))){
     $u = "https://www.instagram.com/graphql/query/?query_hash=e769aa130647d2354c40ea6a439bfc08&variables=%7B%22id%22%3A%225408546825%22,%20%22first%22%3A%2250%22,%20%22after%22%3A%20%22%22%7D";
     $json = file_get_contents($u, false, $context);
+    die(print_r($json,true));
     $data = json_decode($json, true);
     $raw = $data['data']['user']['edge_owner_to_timeline_media']['edges'];
     file_put_contents("import.insta.json",json_encode($raw, JSON_PRETTY_PRINT));
@@ -40,7 +41,7 @@ foreach ($raw as $rawMedia) {
     ];
 }
 $_SESSION["medias"]=json_encode($medias);
-}
+//}
 $medias = json_decode($_SESSION["medias"],true);
 if(isset($_GET["id"])){
     $newarr = [];
@@ -53,6 +54,7 @@ if(isset($_GET["id"])){
     header('Content-Type: image/png');
     die( file_get_contents($newarr[$_GET["id"]]["thumbnail"]));
 }
+$supclass="";
 if(isset($_GET["limit"])){
     $limit = intval($_GET["limit"]);
     $medias = array_slice($medias, 0, $limit);

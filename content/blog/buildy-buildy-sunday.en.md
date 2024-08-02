@@ -11,11 +11,11 @@ Yes, another robotic afternoon.
 Yes, another robotic afternoon.
 We'll soon have something working (at least rolling and maybe lifting !)
 
-![François working](https://static.werobot.fr/blog/bob-ross/5bf19943784df.jpg "François working")
+![François working](/proxyPhotos?code=/blog/bob-ross/5bf19943784df.jpg "François working")
 
-![Mathieu takes a photo of Mathis](https://static.werobot.fr/blog/bob-ross/5bf1988c4ea27.jpg "Mathieu takes a photo of Mathis")
+![Mathieu takes a photo of Mathis](/proxyPhotos?code=/blog/bob-ross/5bf1988c4ea27.jpg "Mathieu takes a photo of Mathis")
 
-![Mathieu takes a photo of Quentin](https://static.werobot.fr/blog/bob-ross/5bf19914b1400.jpg "Mathieu takes a photo of Quentin")
+![Mathieu takes a photo of Quentin](/proxyPhotos?code=/blog/bob-ross/5bf19914b1400.jpg "Mathieu takes a photo of Quentin")
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8R3owSsPnFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     

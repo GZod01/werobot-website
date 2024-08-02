@@ -2,7 +2,7 @@
 title: "We Robot is moving ! "
 date: "2023-12-02 19:00:00"
 lastupdate: "2023-12-02 19:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/656b9e558bb2b/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/656b9e558bb2b/50.jpg"
 slug: "we-robot-is-moving"
 description: " 
 We're leaving Les Douaires and relocating to the ground floor of the CCAS Gaillon's senior residence to enhance our association's living environment.
@@ -16,11 +16,11 @@ Indeed, We Robot association moved on November 25, 2023, to the Flamants-Cygnes 
 
 We want to thank all the volunteers (parents and children alike) who mobilized to complete the move in just one morning! It was a friendly and enjoyable moment to share together.
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/656ba1617c2ec/50.jpg" alt="View of a parking lot with several cars or vans and volunteers around before loading tables onto them.">
+<img src="/proxyPhotos?code=/blog/bob-ross/656ba1617c2ec/50.jpg" alt="View of a parking lot with several cars or vans and volunteers around before loading tables onto them.">
 <figcaption>Photo of part of the logistics setup...</figcaption>
 </figure>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/656ba15e22633/50.jpg" alt="View from below of two people moving a sofa during a move in a narrow staircase.">
+<img src="/proxyPhotos?code=/blog/bob-ross/656ba15e22633/50.jpg" alt="View from below of two people moving a sofa during a move in a narrow staircase.">
 <figcaption>Some furniture like the sofa required extra effort from our volunteers.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Additionally, our presence on the ground floor avoids the need for climbing stai
 
 Finally, the premises provided by the Gaillon municipality are in much better sanitary and functional condition than those at Les Douaires.
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/656ba4c5a2530/50.jpg" alt='Moving a table, passing through the door of the CCAS residence. It says "RIP Les Douaires"'>
+<img src="/proxyPhotos?code=/blog/bob-ross/656ba4c5a2530/50.jpg" alt='Moving a table, passing through the door of the CCAS residence. It says "RIP Les Douaires"'>
 <figcaption>RIP Les Douaires!</figcaption>
 </figure>
 

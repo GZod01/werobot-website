@@ -2,7 +2,7 @@
 title: "Revealing Video"
 date: "2017-06-22 10:16:02"
 lastupdate: "2017-06-22 10:16:02"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e467966b49/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e467966b49/original.jpg"
 slug: "revealing-video"
 description: " 
 Here we are, our robot is at last finalized.
@@ -20,9 +20,9 @@ So we are very proud to show you how it works :
 
 Moreover, we tried to set up an interesting interface on the tablet with some informations and menus :
 
-![Mode infos](https://static.werobot.fr/blog/bob-ross/5c3e467966b49/50.jpg "Mode infos")
+![Mode infos](/proxyPhotos?code=/blog/bob-ross/5c3e467966b49/50.jpg "Mode infos")
 
-![Menu](https://static.werobot.fr/blog/bob-ross/5c3e467a46248/50.jpg "Menu")
+![Menu](/proxyPhotos?code=/blog/bob-ross/5c3e467a46248/50.jpg "Menu")
 
 Mathis, our skilled driver, must now train a lot and tell us what coding improvements he needs.
     

@@ -2,7 +2,7 @@
 title: "Introducing Mathieu"
 date: "2017-05-08 22:00:00"
 lastupdate: "2017-05-08 22:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e46a912c95/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e46a912c95/original.jpg"
 slug: "introducing-mathieu"
 description: " 
 We talked about Mathieu in our last post but i never introduced him.

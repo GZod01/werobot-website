@@ -2,7 +2,7 @@
 title: "The Kitchen Staff is in Full Swing "
 date: "2022-12-08 23:00:00"
 lastupdate: "2022-12-08 23:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/6392eeca3913a/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/6392eeca3913a/50.jpg"
 slug: "the-kitchen-staff-is-in-full-swing"
 description: " 
 Even by 3°C ,up here it is burning hot ! 

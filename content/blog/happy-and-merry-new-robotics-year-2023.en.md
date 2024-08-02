@@ -2,7 +2,7 @@
 title: "## Happy and Merry New Robotics Year 2023 !"
 date: "2023-01-07 23:00:00"
 lastupdate: "2023-01-07 23:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/63bf029e7b9f8/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/63bf029e7b9f8/50.png"
 slug: "happy-and-merry-new-robotics-year-2023"
 description: " 
 Big year ahead ...
@@ -12,6 +12,6 @@ Big year ahead ...
 
 We wish the best to all the 2023 teams and,icing on the cake,as much fun and enjoyment as we have here makingup our robot.
 
-![coupe de france robotique](https://static.werobot.fr/blog/bob-ross/63bf02b475509/75.png)
+![coupe de france robotique](/proxyPhotos?code=/blog/bob-ross/63bf02b475509/75.png)
 
     

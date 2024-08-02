@@ -2,7 +2,7 @@
 title: "Monter un dossier partagé du NAS Synology vers un dossier du Raspberry PI 4 en NFS"
 date: "2024-01-18 00:00:00"
 lastupdate: "2024-01-18 00:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/65b04b1d03f30/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/65b04b1d03f30/50.png"
 slug: "monter-un-dossier-partage-du-nas-synology-vers-un-dossier-du-raspberry-pi-4-en-nfs"
 description: " 
 Le dossier partagé est synchronisé avec Google Drive grâce à l'application Cloud Sync du NAS Synology et permet ainsi de synchroniser Google Drive avec le RPI
@@ -27,7 +27,7 @@ Le dossier partagé est synchronisé avec Google Drive grâce à l'application C
 
 <table>
     <tr>
-        <td><img src="https://static.werobot.fr/blog/bob-ross/65b2ca62c795d/50.png" alt="Bob Ross"></td>
+        <td><img src="/proxyPhotos?code=/blog/bob-ross/65b2ca62c795d/50.png" alt="Bob Ross"></td>
     </tr>
 </table>
 

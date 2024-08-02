@@ -2,7 +2,7 @@
 title: "Tempête sous un aspirateur! "
 date: "2022-10-21 10:00:00"
 lastupdate: "2022-10-21 10:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/6353b74974f75/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/6353b74974f75/50.jpg"
 slug: "tempete-sous-un-aspirateur"
 description: " 
 
@@ -14,7 +14,7 @@ Mission du jour : Après discussion sur la meilleure stratégie pour scorer le p
 Sous la supervision de Matthieu et avec la collaboration inconditionelle de Damien et François, Aurélien a mis au point un super programme et... voici ... (roulement de tambours) l'aspirateur à cerises 2.0. 
 Ils ont testé et CA MARCHE!
 
-![ordinateur](https://static.werobot.fr/blog/bob-ross/6353b74974f75/50.jpg)
+![ordinateur](/proxyPhotos?code=/blog/bob-ross/6353b74974f75/50.jpg)
 
 
 ## Storm under their skulls.

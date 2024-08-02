@@ -2,7 +2,7 @@
 title: "Freeze at 45 s : Timothé featured in a FIRST Global Challenge publication !"
 date: "2024-05-10 18:48:06"
 lastupdate: "2024-05-10 18:48:06"
-banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg"
 slug: "freeze-at-45-s-timothe-featured-in-a-first-global-challenge-publication"
 description: " 
 Timothé, a member of our team, recently appeared in one of the latest FIRST Global Challenge videos, which aims to have robotics recognized as an official sport. 
@@ -12,7 +12,7 @@ Timothé, a member of our team, recently appeared in one of the latest FIRST Glo
  
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg">
 </center>
 
  A sign for our next participation in the <i>FIRST</i> Global Challenge, which will take place from September 26 to 29, 2024 in Athens? We hope so ! 

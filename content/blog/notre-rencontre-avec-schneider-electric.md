@@ -2,7 +2,7 @@
 title: "Notre rencontre avec Schneider Electric"
 date: "2024-06-18 15:38:41"
 lastupdate: "2024-06-18 15:38:41"
-banner: "https://static.werobot.fr/blog/bob-ross/66718e3a99bb1/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
 slug: "notre-rencontre-avec-schneider-electric"
 description: " 
 
@@ -16,7 +16,7 @@ Ce lundi 10 mai nous avons eu l’honneur  d’être accueillis par Schneider El
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/66718e3a99bb1/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg">
 </center>
 
 Dans un premier temps, nous avons fait sur le site la rencontre de deux salariés, Christophe Ernis et Elyes Koeu, respectivement gestionnaire des opérations et chef de projet transformation industrielle. En distanciel, nous avons rencontré Virginie Rigaudeau, cheffe de projet transformation durable ainsi que le directeur du site Emmanuel Morice, qui ont pu assister à notre présentation en visioconférence.
@@ -25,7 +25,7 @@ Dans un premier temps, nous avons fait sur le site la rencontre de deux salarié
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/66719018c5a62/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/66719018c5a62/50.png">
 </center>
 
 
@@ -38,7 +38,7 @@ Suite à cette présentation vient le second temps de notre venue, celui d'évoq
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/6671a8f1c7484/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg">
 </center>
 
 Nous sommes aussi fiers de dire que notre équipe We Robot a su représenter ses couleurs en faisant découvrir l'association et le projet avec enthousiasme et énergie, ce qui a d’ailleurs été félicité par les salarié.es. :) !

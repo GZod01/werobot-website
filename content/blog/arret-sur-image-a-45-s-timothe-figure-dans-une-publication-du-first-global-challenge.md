@@ -2,7 +2,7 @@
 title: "Arrêt sur image à 45 s : Timothé figure dans une publication du FIRST Global Challenge !"
 date: "2024-05-10 12:48:06"
 lastupdate: "2024-05-10 12:48:06"
-banner: "https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg"
 slug: "arret-sur-image-a-45-s-timothe-figure-dans-une-publication-du-first-global-challenge"
 description: " 
 
@@ -12,7 +12,7 @@ Timothé, un membre de notre équipe est très récemment apparu dans l’une de
 ## Timothé, un membre de notre équipe, est très récemment apparu dans l’une des dernières vidéos du <i>FIRST</i> Global Challenge visant à faire reconnaître la robotique comme étant un sport officiel. Les images ont été prises lors d’une interview de Timothé qui a eu lieu à Singapour lors de l’édition 2023 du concours.
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/663f81637c708/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/663f81637c708/50.jpg">
 </center>
 
 

@@ -2,7 +2,7 @@
 title: "Jour 3 - La compétition commence"
 date: "2017-07-17 01:02:14"
 lastupdate: "2017-07-17 01:02:14"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4646dc735/original.jpg"
 slug: "jour-3-la-competition-commence"
 description: " 
 La compétition commence aujourd'hui avec les trois premiers tours.
@@ -22,19 +22,19 @@ Mais l'équipe a réparé le robot, l'a un peu amélioré et ensuite c'est allé
 
 De plus, nos jeunes ont été interviewé par une radio américaine :
 
-![Antoine répond aux journalistes](https://static.werobot.fr/blog/bob-ross/5c3e4646dc735/50.jpg "Antoine répond aux journalistes")
+![Antoine répond aux journalistes](/proxyPhotos?code=/blog/bob-ross/5c3e4646dc735/50.jpg "Antoine répond aux journalistes")
 
 Ils ont été remercié par un diplomate de Gambie pour le soutien qu'ils ont apporté à l'équipe de son pays.
 
-![Le diplomate de Gambie remercie l'équipe de France](https://static.werobot.fr/blog/bob-ross/5c3e4647815e5/50.jpg "Le diplomate de Gambie remercie l'équipe de France")
+![Le diplomate de Gambie remercie l'équipe de France](/proxyPhotos?code=/blog/bob-ross/5c3e4647815e5/50.jpg "Le diplomate de Gambie remercie l'équipe de France")
 
 Nos jeunes est aussi allé encourager et regarder les autres équipes.
 
-![Mathis, Antoine et Quentin dans les gradins](https://static.werobot.fr/blog/bob-ross/5c3e4648150f3/50.jpg "Mathis, Antoine et Quentin dans les gradins")
+![Mathis, Antoine et Quentin dans les gradins](/proxyPhotos?code=/blog/bob-ross/5c3e4648150f3/50.jpg "Mathis, Antoine et Quentin dans les gradins")
 
-![Avec Émile de Belgique](https://static.werobot.fr/blog/bob-ross/5c3e4648aa802/50.jpg "Avec Émile de Belgique")
+![Avec Émile de Belgique](/proxyPhotos?code=/blog/bob-ross/5c3e4648aa802/50.jpg "Avec Émile de Belgique")
 
 Et en plus ils ont réussi à prendre une photo avec Dean Kamen !!
 
-![Avec Dean Kamen](https://static.werobot.fr/blog/bob-ross/5c3e46494e323/50.jpg "Avec Dean Kamen")
+![Avec Dean Kamen](/proxyPhotos?code=/blog/bob-ross/5c3e46494e323/50.jpg "Avec Dean Kamen")
     

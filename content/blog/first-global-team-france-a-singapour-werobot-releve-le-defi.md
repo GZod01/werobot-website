@@ -2,7 +2,7 @@
 title: "FIRST GLOBAL TEAM FRANCE A SINGAPOUR  : WeRobot releve le défi"
 date: "2023-09-17 00:00:00"
 lastupdate: "2023-09-17 00:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/650851940aed6/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"
 slug: "first-global-team-france-a-singapour-werobot-releve-le-defi"
 description: " 
 WeRobot représentera la France au First Global Challenge Singapore 2023
@@ -20,8 +20,8 @@ Notre équipe est soudée et motivée à faire de son mieux afin d'atteindre nos
 <center>
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/650851940aed6/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/650851948987c/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/650851948987c/50.jpg"></td>
 </tr>
 </table>
 </center>
@@ -30,13 +30,13 @@ Antoine, un ancien du club, qui a participé à la compétition de Washington, n
 
 <center>
 <div style="width: 60%; max-width: 300px;">
-<img src="https://static.werobot.fr/blog/bob-ross/6508747ab39c3/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6508747ab39c3/50.jpg">
 </div>
 </center>
 
 <center>
 <div style="width: 200px">
-<img src="https://static.werobot.fr/blog/bob-ross/6509b99fa50d9/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6509b99fa50d9/50.jpg">
 </div>
 </center>
     

@@ -2,7 +2,7 @@
 title: "Nos avancées sur les robots de la coupe de robotique 2019"
 date: "2019-02-14 14:06:21"
 lastupdate: "2019-02-14 14:06:21"
-banner: "https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/75.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c654b5f2ec4e/75.jpg"
 slug: "nos-avancees-sur-les-robots-de-la-coupe-de-robotique-2019"
 description: " 
 La coupe de la robotique 2019 (tdr2019) arrive très vite et nous avançons lentement mais sûrement vers notre but, deux équipes travaillent sur deux buts distincts
@@ -13,7 +13,7 @@ La coupe de la robotique 2019 (tdr2019) arrive très vite et nous avançons lent
 
 En ce début d’année nous avons maintenant à disposition une réplique à la bonne échelle du plateau de jeu. Cependant nous n’avons que la moitié du plateau par manque de place mais cela nous convient tout de même. Comme dit dans un article précédent cela nous permet de vraiment réaliser la mécanique du jeu dans la vrai vie.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b6f91c08/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b6f91c08/50.jpg)
 
 Montage du plateau en cours avec Mohamed et François...
 
@@ -25,18 +25,18 @@ Nous avons notamment avancé sur le bras articulé du robot principal qui sera e
 
 Cela nous permettra d’enregistrer des mouvements par avance et de réaliser tout une gamme de mouvement. Nous pensons tenir ici un système intéressant et nous allons continuer à tester ses capacités par la suite.
 
-![](https://static.werobot.fr/blog/bob-ross/5c56bace48ad9/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c56bace48ad9/50.jpg)
 Le robot principal en place sur le plateau
 
 En parallèle, l’autre équipe composée de Matthieu et d’Antoine travaille sur le robot autonome avec la réalisation d’un système de navigation inertiel. Nous avons conçu deux prototype et chacun travaille sur son propre système de son côté. Nous utilisons tous les deux un gyroscope et une souris optique monté sur une structure comprenant un arduino pour gérer les moteurs et un raspberry pi qui centralise l’information et contrôle le tout.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b5f2ec4e/50.jpg)
 Contruction des deux prototype, de gauche à droite : Antoine, Matthieu
 
 Nous avons aussi depuis longtemps terminé l’électron construit de façon très simple à partir de composants legos et qui sera activé par commande infrarouge depuis le robot autonome.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b3b6800c/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b3b6800c/50.jpg)
 
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b29cc8ed/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b29cc8ed/50.jpg)
     

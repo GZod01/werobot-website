@@ -1,4 +1,4 @@
-partners:
+old:
   - name: "Groupement Interprofessionnel De Gaillon - Les Andelys"
     id: "giga"
     url: "https://giga-27.fr/"
@@ -20,18 +20,26 @@ partners:
     class: "w-full md:w-1/3 md:pt-4"
     img: "arianegroup.png"
     description: "Ariane Group Vernon a participé à l'achat de l'imprimante 3D de notre association en février 2019."
-  - name: "Ville de Gaillon"
-    id: "gaillon"
-    url: "https://www.gaillon.fr"
-    img: "logoVilleGaillon.jpg"
-    description: "En début de saison 2017-2018, la mairie de Gaillon nous a accordé une petite subvention.
-      Depuis avril 2019, elle nous prête de grands locaux pour toutes nos activités et se montre très à l'écoute de nos besoins."
   - name: "SKF"
     id: "skf"
     url: "https://www.skf.com"
     class: "w-full md:w-1/3"
     img: "skf.png"
     description: "SKF Vernon a participé à l'achat de l'imprimante 3D de notre association en février 2019."
+  - name: "Agglo Seine Eure"
+    id: "seineeure"
+    realimg: "https://www.agglo-seine-eure.fr/wp-content/themes/agglo/images/logos/logo.png"
+    description: "En octobre 2023, l'agglomération Seine-Eure nous a accordé une subvention de 2500€ pour notre participation au FGC 2023."
+    url: "https://www.agglo-seine-eure.fr"
+
+
+partners:
+  - name: "Ville de Gaillon"
+    id: "gaillon"
+    url: "https://www.gaillon.fr"
+    img: "logoVilleGaillon.jpg"
+    description: "En début de saison 2017-2018, la mairie de Gaillon nous a accordé une petite subvention.
+      Depuis avril 2019, elle nous prête de grands locaux pour toutes nos activités et se montre très à l'écoute de nos besoins."
   - name: "Atis computer"
     id: "atis"
     url: "https://www.atiscomputer.com/"
@@ -39,9 +47,3 @@ partners:
     img: "atisComputer.jpg"
     description: "Nous soutient depuis avril 2019. Nous a déjà fourni 2 
       <a href=\"https://www.raspberrypi.org/\">Raspberry Pi</a> 3B+"
-  - name: "Agglo Seine Eure"
-    id: "seineeure"
-    realimg: "https://www.agglo-seine-eure.fr/wp-content/themes/agglo/images/logos/logo.png"
-    description: "En octobre 2023, l'agglomération Seine-Eure nous a accordé une subvention de 2500€ pour notre participation au FGC 2023."
-    url: "https://www.agglo-seine-eure.fr"
-

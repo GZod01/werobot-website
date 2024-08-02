@@ -2,7 +2,7 @@
 title: "Les valeurs de la TEAM FRANCE"
 date: "2024-05-07 12:00:00"
 lastupdate: "2024-05-07 12:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/663b5d1e8d3b1/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 slug: "les-valeurs-de-la-team-france"
 description: " 
 La TEAM FRANCE partage les objectifs portés par Dean Kamen et sa fondation FIRST depuis 1989 
@@ -19,7 +19,7 @@ La TEAM FRANCE partage les objectifs portés par Dean Kamen et sa fondation FIRS
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: right;"><img src="https://static.werobot.fr/blog/bob-ross/663bc0653f908/50.jpg" width="200" height="200" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="width: 50%; text-align: right;"><img src="/proxyPhotos?code=/blog/bob-ross/663bc0653f908/50.jpg" width="200" height="200" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 <td style="width: 50%;">
 <h2><strong>Dean Kamen</strong></h2>
 <p>Cr&eacute;ateur de la fondation <i>FIRST<br /></i>Inventeur du gyropode Segway</p>

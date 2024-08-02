@@ -2,7 +2,7 @@
 title: "We Robot at SKF"
 date: "2024-05-20 04:47:38"
 lastupdate: "2024-05-20 04:47:38"
-banner: "https://static.werobot.fr/blog/bob-ross/664cf50fe8714/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/664cf50fe8714/50.png"
 slug: "we-robot-at-skf"
 description: " 
 On Wednesday May 15, 2024, we were lucky enough to be able to visit the SKF Magnetic Mechatronics site located in Saint-Marcel (27).
@@ -14,7 +14,7 @@ On Wednesday May 15, 2024, we were lucky enough to be able to visit the SKF Magn
 The aim of our visit was to visit the site and also to demonstrate our robot in preparation for our participation in the <i>FIRST</i> Global Challenge 2024 in Athens. We were first welcomed by Pierre Bouculat, Sales Director at SKF Magnetic Mechatronics.
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/664d9724ba7e2/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/664d9724ba7e2/50.jpg">
 </center>
 
 The first stage of our visit took place in the The first stage of our visit took place in the meeting room. 
@@ -23,8 +23,8 @@ This division of SKF is a world leader in the design, manufacture and marketing 
 <center>
     <table>
         <tr>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d8fdc837dd/50.jpg"></td>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d8fdb85fa8/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d8fdc837dd/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d8fdb85fa8/50.jpg"></td>
 	</tr>
     </table>
 </center>
@@ -36,7 +36,7 @@ Another essential point, Pierre also explained to us the importance and value of
 SKF. Given that most of the young people on our team are destined for scientific studies, we found this part all the more interesting ! 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/664d929e096c3/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/664d929e096c3/50.jpg">
 </center>
 
 We then headed for the workshop, complete with safety equipment, for a tour of the production production tour (Very confidential). 
@@ -45,8 +45,8 @@ Then it was We Robot's turn to show SKF its potential! Timothé gave a presentat
 <center>
     <table>
         <tr>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d91bf776e4/50.jpg"></td>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d9339defab/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d91bf776e4/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d9339defab/50.jpg"></td>
 	</tr>
     </table>
 </center>
@@ -56,8 +56,8 @@ With Elina and Quentin at the controls, our robot brilliantly performed the same
 <center>
     <table>
         <tr>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d9a58e3f64/50.jpg"></td>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/664d961a0e4e9/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d9a58e3f64/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/664d961a0e4e9/50.jpg"></td>
 	</tr>
     </table>
 </center>
@@ -65,7 +65,7 @@ With Elina and Quentin at the controls, our robot brilliantly performed the same
 The last part of our visit ended with an exchange between the team and the employees present, who told us more about their careers. SKF's Saint Marcel site is very open to the world, with over 22 nationalities represented. Having employees from all over the world enables SKF and its employees to discover other ways of working and designing, and thus to promote rich exchanges between teams to produce innovative, quality results. Passion, determination and perseverance are the keys to blossoming and excelling in this field.
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/664d9986eabb2/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/664d9986eabb2/50.jpg">
 </center>
 
 Thanks to SKF and Pierre for taking time out of his busy schedule to show us around the Vernon site and introduce us to their business. 

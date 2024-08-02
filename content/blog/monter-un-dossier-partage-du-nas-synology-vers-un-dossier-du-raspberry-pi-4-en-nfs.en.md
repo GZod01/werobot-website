@@ -2,7 +2,7 @@
 title: "Mount a Synology NAS shared folder to a Raspberry PI 4 folder with NFS"
 date: "2024-01-18 09:00:00"
 lastupdate: "2024-01-18 09:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/65b04b1d03f30/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/65b04b1d03f30/50.png"
 slug: "mount-a-synology-nas-shared-folder-to-a-raspberry-pi-4-folder-with-nfs"
 description: " 
 The shared folder is synchronized with Google Drive using the Cloud Sync application of the Synology NAS and thus allows Google Drive to be synchronized with the RPI
@@ -27,7 +27,7 @@ The shared folder is synchronized with Google Drive using the Cloud Sync applica
 
 <table>
     <tr>
-        <td><img src="https://static.werobot.fr/blog/bob-ross/65b2ca62c795d/50.png" alt="Bob Ross"></td>
+        <td><img src="/proxyPhotos?code=/blog/bob-ross/65b2ca62c795d/50.png" alt="Bob Ross"></td>
     </tr>
 </table>
 

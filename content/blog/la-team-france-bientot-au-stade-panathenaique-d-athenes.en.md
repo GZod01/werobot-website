@@ -2,7 +2,7 @@
 title: "Team France soon at the Panathenaic Stadium in Athens"
 date: "2024-05-28 12:00:00"
 lastupdate: "2024-05-28 12:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/6656d29126229/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/6656d29126229/50.jpg"
 slug: "team-france-soon-at-the-panathenaic-stadium-in-athens"
 description: " 
 The opening ceremony of the FIRST Global Challenge Junior Olympic Games will take place at the Panathenaic Stadium in Athens.
@@ -16,7 +16,7 @@ The stadium was rebuilt for the first Olympic Games of the modern era in 1896. R
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6656d28f87bca/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6656d28f87bca/50.jpg">
 <figcaption>Athens Panathenaic Stadium at the 1896 Olympic Games</figcaption>
 </figure>
 </center>
@@ -28,8 +28,8 @@ As an Olympic venue with a rich history of international cooperation and achieve
 <center>
     <table>
         <tr>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/6656d29035a59/50.jpg"></td>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/6656d290d45bc/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/6656d29035a59/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/6656d290d45bc/50.jpg"></td>
 	</tr>
     </table>
 </center>

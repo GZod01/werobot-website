@@ -2,7 +2,7 @@
 title: "TR2018 - Qualifications régionales"
 date: "2018-03-31 03:59:31"
 lastupdate: "2018-03-31 03:59:31"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e460ce9c47/50.jpg"
 slug: "tr2018-qualifications-regionales"
 description: " 
 Arrivés à l'UFR des sciences de la fac de Rouen on constate qu'ils ne sont pas vraiment au point :
@@ -16,13 +16,13 @@ Les tables ne sont pas encore finie, ils n'ont pas installé les rampes pour les
 
 Nous passons l'inspection sans aucun problème.
 
-![Attente](https://static.werobot.fr/blog/bob-ross/5c3e4610181c4/50.jpg "Attente")
+![Attente](/proxyPhotos?code=/blog/bob-ross/5c3e4610181c4/50.jpg "Attente")
 
-![Inspection](https://static.werobot.fr/blog/bob-ross/5c3e4612af1c6/50.jpg "Inspection")
+![Inspection](/proxyPhotos?code=/blog/bob-ross/5c3e4612af1c6/50.jpg "Inspection")
 
 En revanche le premier match est décevant, on rate complètement notre prise de balles ce qui fait qu'on en met pas une seule dans le récupérateur. On fini néanmoins avec 119 points ce qui limite carrément les dégâts.
 
-![Table de jeu](https://static.werobot.fr/blog/bob-ross/5c3e461983b0d/50.jpg "Table de jeu")
+![Table de jeu](/proxyPhotos?code=/blog/bob-ross/5c3e461983b0d/50.jpg "Table de jeu")
 
 Le deuxième match n'est pas mieux, on rate encore notre prise de balles : 112 points.
 
@@ -43,7 +43,7 @@ Malheureusement nous perdons également le dernier 166 à 192.
 
 Nous sommes donc deuxième aux championnat de Normandie.
 
-![La récompense](https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg "La récompense")
+![La récompense](/proxyPhotos?code=/blog/bob-ross/5c3e460ce9c47/50.jpg "La récompense")
 
 
 

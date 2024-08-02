@@ -2,7 +2,7 @@
 title: "Meanwhile in the I.T workshop..."
 date: "2022-11-18 16:00:00"
 lastupdate: "2022-11-18 16:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/636fc81126555/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/636fc81126555/50.jpg"
 slug: "meanwhile-in-the-i-t-workshop"
 description: " 
 
@@ -21,7 +21,7 @@ well-known among the potential contestants for the world I.T olympics.
 
 ## Nathanaël, Alexandre & Constantin are so engrossed they don’t even notice my spying over their shoulders.They are focused on using a Block language on already built-up robot to learn 
 3D-modelling.
-![](https://static.werobot.fr/blog/bob-ross/636fc7a5c9b55/75.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/636fc7a5c9b55/75.jpg)
 
 
 ## As for Zeineb and Vivian, they are racking their brains on Block programming.

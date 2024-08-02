@@ -18,5 +18,5 @@ But, where is the battery ?
 
 Fortunatly, First Global sent us back the missing battery lightning fast !
 
-![equipe déballe](https://static.werobot.fr/blog/bob-ross/5bf18ca127c5d.gif)
+![equipe déballe](/proxyPhotos?code=/blog/bob-ross/5bf18ca127c5d.gif)
     

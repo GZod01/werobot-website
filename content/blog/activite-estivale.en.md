@@ -2,7 +2,7 @@
 title: "Summer fun "
 date: "2019-08-05 23:08:46"
 lastupdate: "2019-08-05 23:08:46"
-banner: "https://static.werobot.fr/blog/bob-ross/5d48815ab4448/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5d48815ab4448/50.jpg"
 slug: "summer-fun"
 description: " 
 Mohamed and Matthieu were particularly motivated during July.
@@ -16,12 +16,12 @@ features needed for the competition which rules are unknown at the moment.
 After a first CAD model, printed then built the robot :
 
 <div class="image-mosaic">
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48816023b1b/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48810450b2e/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48810172895/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d4881242e9ee/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48814559d8d/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d4881315d0df/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48816023b1b/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48810450b2e/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48810172895/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d4881242e9ee/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48814559d8d/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d4881315d0df/50.jpg" />
 </div>
 
 We then had to code it :
@@ -32,12 +32,12 @@ We then had to code it :
 We brainstormed the theory about it all together :
 
 <div class="flex">
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48815ab4448/50.jpg" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48b59b6747e/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48815ab4448/50.jpg" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48b59b6747e/50.jpg" />
 </div>
 <div class="flex mt-1"> 
-  <img src="https://static.werobot.fr/blog/bob-ross/5d48815e32ff4/50.jpg" style="width: auto !important; height: 60vh;" />
-  <img src="https://static.werobot.fr/blog/bob-ross/5d488162e9f8f/50.jpg" style="width: auto !important; height: 60vh;" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d48815e32ff4/50.jpg" style="width: auto !important; height: 60vh;" />
+  <img src="/proxyPhotos?code=/blog/bob-ross/5d488162e9f8f/50.jpg" style="width: auto !important; height: 60vh;" />
 </div>
 
 And then, Matthieu and Mohamed took the robot home ang worked on it on their own.
@@ -60,7 +60,7 @@ Nevertheless, the robot always knows where it is and where it goes !
 
 Then the guys went on. Mohamed wrote a first code to allow the robot to compute itself its path knowing where the road blocks are.
 
-<img src="https://static.werobot.fr/blog/bob-ross/5d4881644bb9c/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/5d4881644bb9c/50.jpg">
 
 During our last meeting in August, we brainstormed about the final design and the guys created a CAD model of it :
 

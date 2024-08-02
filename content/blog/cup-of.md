@@ -2,7 +2,7 @@
 title: "Cup of ..."
 date: "2017-07-04 09:27:54"
 lastupdate: "2017-07-04 09:27:54"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e4674b96fd/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4674b96fd/50.jpg"
 slug: "cup-of"
 description: " 
 Salut tout le monde,

@@ -2,7 +2,7 @@
 title: "Merci ! "
 date: "2024-07-10 13:34:05"
 lastupdate: "2024-07-10 13:34:05"
-banner: "https://static.werobot.fr/blog/bob-ross/668e9a2fedb0e/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
 slug: "merci"
 description: " 
 Merci de nous soutenir !
@@ -12,7 +12,7 @@ Suite à notre visite le 15 mai 2024 du site <a href="https://www.skf.com/fr"> S
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/668e9d37e85d8/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg">
 </center>
 
 
@@ -23,7 +23,7 @@ Nous tenons également à remercier <a href="https://www.maritech.fr/">Maritech 
 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/668e9dd66427c/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9dd66427c/50.jpg">
 </center>
 
 Ces généreux soutiens participent pleinement au développement et à la réussite de We Robot dans ses futurs projets, à l’instar du <i>FIRST</i> Global Challenge qui se déroulera du 26 au 29 septembre 2024 à Athènes ; compétition durant laquelle nous nous chargerons de faire rayonner nos sponsors au niveau international ! 
@@ -33,7 +33,7 @@ Ces généreux soutiens participent pleinement au développement et à la réuss
 De plus, nous rencontrons toujours des entreprises, à l’image de Schneider Electric et le Crédit Agricole  qui sont prêtes à nous soutenir. 
 
 <center>
-<img src="https://static.werobot.fr/blog/bob-ross/668e9dc68a3b0/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9dc68a3b0/50.jpg">
 </center>
 
 Nous sommes très reconnaissants envers nos commerces locaux qui ont participé au financement de nos projets :

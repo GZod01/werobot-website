@@ -2,7 +2,7 @@
 title: "Préparation TR 2018"
 date: "2018-03-30 03:35:38"
 lastupdate: "2018-03-30 03:35:38"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e4631038aa/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e4631038aa/50.jpg"
 slug: "preparation-tr-2018"
 description: " 
 Après des mois de préparation et à la veille des qualification régionale, voici le temps de faire un petit bilan de nos réalisations.

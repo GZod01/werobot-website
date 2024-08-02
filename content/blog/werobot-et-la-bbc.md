@@ -2,7 +2,7 @@
 title: "##WeRobot et la BBC … ? "
 date: "2018-07-28 22:00:00"
 lastupdate: "2018-07-28 22:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/63cbb5dc070e6/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/63cbb5dc070e6/50.jpg"
 slug: "werobot-et-la-bbc"
 description: " 
 Nous connaissons les missions informatives de la BBC . Mais ce qui est moins connu , c’est l’engagement de la BBC pour l’éducation.

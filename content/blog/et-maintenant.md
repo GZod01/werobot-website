@@ -2,7 +2,7 @@
 title: "Et maintenant ?"
 date: "2019-06-04 12:51:41"
 lastupdate: "2019-06-04 12:51:41"
-banner: "https://static.werobot.fr/blog/bob-ross/5cf663248e6e6/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5cf663248e6e6/50.jpg"
 slug: "et-maintenant"
 description: " 
 Nos concours de cette année sont terminés mais ce n'est pas le cas de nos projets.
@@ -20,17 +20,17 @@ L'atelier d'initiation à la robotique au centre social Condorcet va également 
 
 Par ailleurs, nous allons essayer de mettre en chantier la nouveauté de l'année prochaine. En effet, à partir de la prochaine rentrée scolaire, l'association envisage de proposer une activité hebdomadaire d'initiation à la programmation pour les jeunes dans nos nouveaux locaux.
 
-![](https://static.werobot.fr/blog/bob-ross/5cf663d9d4c5c/50.png)
+![](/proxyPhotos?code=/blog/bob-ross/5cf663d9d4c5c/50.png)
 
 Pour cela nous allons avoir besoin d'au moins un nouveau bénévole et si nous dénichons la perle rare nous lancerons une campagne de financement afin de pouvoir aménager notre salle d'accueil.
 <table>
 <tr> 
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cf6677bda3e0/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cf6683cac42b/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cf6677bda3e0/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cf6683cac42b/50.jpg"></td>
 </tr>
 <tr> 
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cf6669538a84/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cf6689ddbaf2/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cf6669538a84/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cf6689ddbaf2/50.jpg"></td>
 </tr>
 </table>
 

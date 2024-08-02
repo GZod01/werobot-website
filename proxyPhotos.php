@@ -2,7 +2,7 @@
 /*ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);*/
-$url = $_GET["code"] ?? $_GET["path"] ?? $_GET["url"] ?? $argv[1] ?? "https://beta.cybergamma.group/images/logo.png";
+$url = $_GET["code"] ?? $_GET["path"] ?? $_GET["url"] ?? $argv[1] ?? "https://werobot.fr/images/logo.png";
 
 function urlIsAvailable($url){
     $ch = curl_init();
@@ -31,12 +31,13 @@ function getImage($url){
     $response = curl_exec($ch);
     $res = !(curl_errno($ch) or curl_getinfo($ch, CURLINFO_HTTP_CODE)!==200);
     if($res){
-/*	$f = file_get_contents("alldomains");
+	$f = file_get_contents("alldomains");
 	if(!str_contains($f,$url)){
 	    $f.="\n".$url;
 	    file_put_contents("alldomains",$f);
-	}*/
+	}
 	header('Content-Type: '.curl_getinfo($ch, CURLINFO_CONTENT_TYPE));
+	file_put_contents($alternativeurl,$response);
 	die($response);
     }
     else{
@@ -47,5 +48,6 @@ function getImage($url){
 }
 if(isset($_GET["code"])){
     $url = "https://s.werobot.fr/".$_GET["code"];
+
 }
 getImage($url);

@@ -2,7 +2,7 @@
 title: "Our work on our robotic cup 2019 robots"
 date: "2019-02-15 13:10:36"
 lastupdate: "2019-02-15 13:10:36"
-banner: "https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c654b5f2ec4e/50.jpg"
 slug: "our-work-on-our-robotic-cup-2019-robots"
 description: " 
 The french robotic cup 2019 (tdr 2019) and we are moving slowly but surely to our goal, the two teams work on two distincts goals.
@@ -12,7 +12,7 @@ The french robotic cup 2019 (tdr 2019) and we are moving slowly but surely to ou
 
 At the beginning of this year we now have a replica at the right scale of the game board. However, we only have half of the plateau due to lack of space, but that still suits us. As said in a previous article, this allows us to really realize the mechanics of the game in real life.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b6f91c08/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b6f91c08/50.jpg)
 
 Assembly of the stage in progress with Mohamed and François...
 
@@ -26,22 +26,22 @@ In particular, we have made progress on the articulated arm of the main robot, w
 
 This will allow us to record movements in advance and achieve a wide range of movements. We think we have an interesting system here and we will continue to test its capabilities afterwards.
 
-![](https://static.werobot.fr/blog/bob-ross/5c56bace48ad9/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c56bace48ad9/50.jpg)
 The main robot in place on the platform.
 
 In parallel, the other team composed of Matthieu and Antoine is working on the autonomous robot with the realization of an inertial navigation system. We have designed two prototypes and each one is working on its own system on its own. We both use a gyroscope and an optical mouse mounted on a structure that includes an arduino to manage the engines and a raspberry pi that centralizes information and controls everything.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b5f2ec4e/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b5f2ec4e/50.jpg)
 Construction of the two prototypes, from left to right: Antoine, Matthieu
 
 We have also long since finished the electron built in a very simple way from lego components and which will be activated by infrared control from the autonomous robot.
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b3b6800c/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b3b6800c/50.jpg)
 
-![](https://static.werobot.fr/blog/bob-ross/5c654b29cc8ed/50.jpg)
+![](/proxyPhotos?code=/blog/bob-ross/5c654b29cc8ed/50.jpg)
 
 !#gallery(
-	https://static.werobot.fr/blog/bob-ross/5c654b29cc8ed/50.jpg,
-	https://static.werobot.fr/blog/bob-ross/5c654b29cc8ed/50.jpg
+	/proxyPhotos?code=/blog/bob-ross/5c654b29cc8ed/50.jpg,
+	/proxyPhotos?code=/blog/bob-ross/5c654b29cc8ed/50.jpg
 )#!
     

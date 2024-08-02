@@ -2,7 +2,7 @@
 title: "La Team France bientôt au stade panathénaïque d'Athènes"
 date: "2024-05-28 14:00:00"
 lastupdate: "2024-05-28 14:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/6656d29126229/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/6656d29126229/50.jpg"
 slug: "la-team-france-bientot-au-stade-panathenaique-d-athenes"
 description: " 
 La cérémonie d'ouverture des Jeux Olympiques junior du FIRST Global Challenge se déroulera au stade panathénaïque d'Athènes.
@@ -15,7 +15,7 @@ La seconde reconstruction du stade s'est faite pour les premiers Jeux olympiques
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6656d28f87bca/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6656d28f87bca/50.jpg">
 <figcaption>Stade panathénaïque d'Athènes au JO de 1896</figcaption>
 </figure>
 </center>
@@ -25,8 +25,8 @@ En tant que site olympique avec une riche histoire de coopération et de réalis
 <center>
     <table>
         <tr>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/6656d29035a59/50.jpg"></td>
-            <td><img src="https://static.werobot.fr/blog/bob-ross/6656d290d45bc/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/6656d29035a59/50.jpg"></td>
+            <td><img src="/proxyPhotos?code=/blog/bob-ross/6656d290d45bc/50.jpg"></td>
 	</tr>
     </table>
 </center>

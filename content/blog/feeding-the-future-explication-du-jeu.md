@@ -2,7 +2,7 @@
 title: "Feeding The Future : explication du jeu"
 date: "2024-06-23 06:55:02"
 lastupdate: "2024-06-23 06:55:02"
-banner: "https://static.werobot.fr/blog/bob-ross/667e5cb905068/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/667e5cb905068/50.png"
 slug: "feeding-the-future-explication-du-jeu"
 description: " 
 Les règles du jeu du First Global Challenge Athens 2024
@@ -21,8 +21,8 @@ Le terrain de jeu de 7 m sur 7 m est surélevé d'environ 70 cm par rapport au s
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/667e63c102178/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e2e03847f8/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/667e63c102178/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e2e03847f8/50.png">
 <figcaption>PLAYING FIELD (terrain de jeu)</figcaption>
 </figure>
 </center>
@@ -33,7 +33,7 @@ Les différentes zones du terrain en fonction des alliances rouges et bleues
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/667e68f35f5a6/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/667e68f35f5a6/50.png">
 <figcaption>PLAYING FIELD Layout (Aménagement du terrain de jeu)</figcaption>
 </figure>
 </center>
@@ -43,9 +43,9 @@ Les différentes zones du terrain en fonction des alliances rouges et bleues
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682b3c98579f/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e2cd1ce15d/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e2b8f14efa/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682b3c98579f/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e2cd1ce15d/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e2b8f14efa/50.png">
 <figcaption>NEXUS GOALS (boîtes nexus)</figcaption>
 </figure>
 </center>
@@ -61,9 +61,9 @@ PRODUCE (production) : le résultat de la conservation réussie d'une eau (WATER
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682b82709840/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/6682b50c41883/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e328293bb2/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682b82709840/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682b50c41883/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e328293bb2/50.png">
 <figcaption>FOOD WAREHOUSE(entrepôt de nourriture) et RESERVOIR (réservoir)</figcaption>
 </figure>
 </center>
@@ -77,8 +77,8 @@ RESERVOIR (réservoir) : des espaces rectangulaires colorés en rouge et en bleu
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6683111a347bd/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e33e1722bd/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6683111a347bd/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e33e1722bd/50.png">
 <figcaption>FORKS (fourches)</figcaption>
 </figure>
 </center>
@@ -89,9 +89,9 @@ FORK (fourche) : c'est un outil fourni aux joueurs humains pour les aider à sé
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682bc6c9137f/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e352691f4f/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e352d31793/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682bc6c9137f/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e352691f4f/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e352d31793/50.png">
 <figcaption>RAMP (rampe) et PLATFORM (plateforme)</figcaption>
 </figure>
 </center>
@@ -118,7 +118,7 @@ COOPERTITION BONUS (bonus de coopération) : des points supplémentaires sont at
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682dc55e5487/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682dc55e5487/50.png">
 <figcaption>APRILTAGS (balises visuelles)</figcaption>
 </figure>
 </center>
@@ -136,8 +136,8 @@ APRILTAGS : système de balises visuelles (APRILTAGS) qui peuvent être utilisé
 
 <center>
 <figure>
-<img src="https://static.werobot.fr/blog/bob-ross/6682cbfccb7fe/50.png">
-<img src="https://static.werobot.fr/blog/bob-ross/668e36b2c84f1/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/6682cbfccb7fe/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e36b2c84f1/50.png">
 <figcaption>WATER (eau), ENERGY (énergie), et FOOD (nourriture)</figcaption>
 </figure>
 </center>

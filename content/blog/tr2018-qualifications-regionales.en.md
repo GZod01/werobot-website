@@ -2,7 +2,7 @@
 title: "TR2018 - Normandie Championship"
 date: "2018-03-31 03:59:31"
 lastupdate: "2018-03-31 03:59:31"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e460ce9c47/50.jpg"
 slug: "tr2018-normandie-championship"
 description: " 
 Whe we arrive at the sciences university of Rouen, we can note they're not ready :
@@ -16,13 +16,13 @@ It looks like haste and lack of organization. This is really a pityt for all the
 
 We pass the inspection without any problem.
 
-![Queue](https://static.werobot.fr/blog/bob-ross/5c3e4610181c4/50.jpg "Queue")
+![Queue](/proxyPhotos?code=/blog/bob-ross/5c3e4610181c4/50.jpg "Queue")
 
-![Inspection](https://static.werobot.fr/blog/bob-ross/5c3e4612af1c6/50.jpg "Inspection")
+![Inspection](/proxyPhotos?code=/blog/bob-ross/5c3e4612af1c6/50.jpg "Inspection")
 
 But the first match is really disapointing. We fail collecting the balls, so we didn't put any in the container. Nevertheless we scored 119 points which is not that bad.
 
-![Playground](https://static.werobot.fr/blog/bob-ross/5c3e461983b0d/50.jpg "Playground")
+![Playground](/proxyPhotos?code=/blog/bob-ross/5c3e461983b0d/50.jpg "Playground")
 
 The second match is even worth, we fail once again to collect the balls : 112 points.
 
@@ -42,5 +42,5 @@ Unfortunately we also lose the last one 166 vs 192.
 
 So we make it second at the Normandie championship.
 
-![The award](https://static.werobot.fr/blog/bob-ross/5c3e460ce9c47/50.jpg "The award")
+![The award](/proxyPhotos?code=/blog/bob-ross/5c3e460ce9c47/50.jpg "The award")
     

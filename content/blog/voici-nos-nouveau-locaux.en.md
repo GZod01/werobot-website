@@ -2,7 +2,7 @@
 title: "Our new facilities"
 date: "2019-04-13 20:46:36"
 lastupdate: "2019-04-13 20:46:36"
-banner: "https://static.werobot.fr/blog/bob-ross/5cb1d5fce540c/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5cb1d5fce540c/50.jpg"
 slug: "our-new-facilities"
 description: " 
 From today, the Gaillon municipality lends us a 100 m² facility split into two rooms.
@@ -24,12 +24,12 @@ Some more pictures :
 
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb245b1302ff/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2469208278/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb245b1302ff/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2469208278/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2462712d83/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cb2456f45796/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2462712d83/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cb2456f45796/50.jpg"></td>
 </tr>
 </table>
     

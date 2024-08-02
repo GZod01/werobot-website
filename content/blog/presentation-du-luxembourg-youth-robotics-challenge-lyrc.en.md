@@ -2,7 +2,7 @@
 title: "Introducing the Luxembourg Youth Robotics Challenge (LYRC)"
 date: "2019-04-20 20:30:05"
 lastupdate: "2019-04-20 20:30:05"
-banner: "https://static.werobot.fr/blog/bob-ross/5cbb5239cbb7b/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5cbb5239cbb7b/50.jpg"
 slug: "introducing-the-luxembourg-youth-robotics-challenge-lyrc"
 description: " 
 For the first time  Make It from Luxembourg organize a national robotic competition in which they provide a robot kit.
@@ -18,8 +18,8 @@ Mathis and Mohamed designed the robot, they even have made a 3Dmodel of it, and 
 
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb527fa0352/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb5273c1b55/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb527fa0352/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb5273c1b55/50.jpg"></td>
 </tr>
 </table>
 
@@ -28,11 +28,11 @@ For now we have some issues with the bluetooth module.
 
 <table>
 <tr>
-<td colspan="2"><img src="https://static.werobot.fr/blog/bob-ross/5cbb524c52a7e/50.jpg"></td>
+<td colspan="2"><img src="/proxyPhotos?code=/blog/bob-ross/5cbb524c52a7e/50.jpg"></td>
 </tr>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb520745ef4/50.jpg"></td>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5cbb51cfdf030/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb520745ef4/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5cbb51cfdf030/50.jpg"></td>
 </tr>
 </table>
 

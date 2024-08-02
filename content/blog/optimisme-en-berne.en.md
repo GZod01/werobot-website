@@ -2,7 +2,7 @@
 title: " Lower optimism"
 date: "2017-06-13 07:45:52"
 lastupdate: "2017-06-13 07:45:52"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e468698f38/original.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e468698f38/original.jpg"
 slug: "lower-optimism"
 description: " 
 Today our last try to lift our robot has failed again. We begin to be pessimistic about our success.
@@ -18,15 +18,15 @@ We first tried to move them with a motor and two sprockets linked by a chain.
 
 The arms were attached to the long axle with an hex pillow
 
-![First try](https://static.werobot.fr/blog/bob-ross/5c3e468698f38/50.jpg "First try")
+![First try](/proxyPhotos?code=/blog/bob-ross/5c3e468698f38/50.jpg "First try")
 
 This structure was too weak to lift our robot (which weights 6.5 kg ), indeed it : 
 
 bent the axle, made the axle nearly turn freely in the hex pillow and finaly seemed to damage our motor which sounds weird now !
 
-![bent axle](https://static.werobot.fr/blog/bob-ross/5c3e4687632d3/50.jpg "bent axle")
+![bent axle](/proxyPhotos?code=/blog/bob-ross/5c3e4687632d3/50.jpg "bent axle")
 
-![damaged hex pillow](https://static.werobot.fr/blog/bob-ross/5c3e4687e60a7/50.jpg "damaged hex pillow")
+![damaged hex pillow](/proxyPhotos?code=/blog/bob-ross/5c3e4687e60a7/50.jpg "damaged hex pillow")
 
 So we decided to go serious :
 
@@ -38,9 +38,9 @@ We have to gear them up.
 
 So did we :
 
-![Quentin playing with gears](https://static.werobot.fr/blog/bob-ross/5c3e46885f164/50.jpg "Quentin playing with gears")
+![Quentin playing with gears](/proxyPhotos?code=/blog/bob-ross/5c3e46885f164/50.jpg "Quentin playing with gears")
 
-![Antoine and François mounting](https://static.werobot.fr/blog/bob-ross/5c3e4688ca3be/50.jpg "Antoine and François mounting")
+![Antoine and François mounting](/proxyPhotos?code=/blog/bob-ross/5c3e4688ca3be/50.jpg "Antoine and François mounting")
 
 With a total multiplicator of 12 (with gears and sprockets) we had 16*12 = 192 N  (theoretically)  
 
@@ -50,17 +50,17 @@ So we tried to strengthen the structure by adding some hex hub adapter but the h
 
 But this time, the gears in the mechanism cannot handle the weight.
 
-![side view](https://static.werobot.fr/blog/bob-ross/5c3e46895998b/50.jpg "side view")
+![side view](/proxyPhotos?code=/blog/bob-ross/5c3e46895998b/50.jpg "side view")
 
-![front view](https://static.werobot.fr/blog/bob-ross/5c3e4689cabfb/50.jpg "front view")
+![front view](/proxyPhotos?code=/blog/bob-ross/5c3e4689cabfb/50.jpg "front view")
 
-![gear detail](https://static.werobot.fr/blog/bob-ross/5c3e468a4b79e/50.jpg "gear detail")
+![gear detail](/proxyPhotos?code=/blog/bob-ross/5c3e468a4b79e/50.jpg "gear detail")
 
 We've decided to give up this structure but we haven't found any other ideas. We will probably try a while to copy the mechanism of Team Oceania (Hi Sue ;) ) but only until friday then we'll have to concentrate on the rest of the robot and coding and will have to escape from flow by going on the bridge.
 
 Btw, Quentin set up a snapchat account for our team : We_Robot
 
-![snapchat](https://static.werobot.fr/blog/bob-ross/5c3e468abc04a/50.jpg)
+![snapchat](/proxyPhotos?code=/blog/bob-ross/5c3e468abc04a/50.jpg)
 
 Be sure to add us :-D
     

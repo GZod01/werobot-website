@@ -2,7 +2,7 @@
 title: "Back to robots at the comunity center"
 date: "2019-09-15 09:04:02"
 lastupdate: "2019-09-15 09:04:02"
-banner: "https://static.werobot.fr/blog/bob-ross/5d7df8d745ab6/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5d7df8d745ab6/50.jpg"
 slug: "back-to-robots-at-the-comunity-center"
 description: " 
 The association has resumed its collaboration with the social center Condorcet at the comunity center \"les jardins de bas\".
@@ -18,5 +18,5 @@ This first session was dedicated to the assembly of the robot. It's a manual ses
 This year, we decided to allow 4 young volunteers, who participated in the workshop the previous year, to come and help the new ones. We hope to develop knowledge-sharing and mutual aid.
 
 
-![mentoring](https://static.werobot.fr/blog/bob-ross/5d7df8df0fe21/50.jpg)
+![mentoring](/proxyPhotos?code=/blog/bob-ross/5d7df8df0fe21/50.jpg)
     

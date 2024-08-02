@@ -2,7 +2,7 @@
 title: "Salon du GIRV"
 date: "2018-11-22 08:16:56"
 lastupdate: "2018-11-22 08:16:56"
-banner: "https://static.werobot.fr/blog/bob-ross/5c3e3b966d544/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/5c3e3b966d544/50.jpg"
 slug: "salon-du-girv"
 description: " 
 Nous avons été conviés au salon du GIRV afin de faire connaître notre association aux membres de ce groupe.
@@ -12,17 +12,17 @@ Nous avons été conviés au <a href="https://salondugirv.com"> salon du GIRV</a
 
 Pour l'occasion, les jeunes avaient préparé des cartes de visite ainsi qu'un superbe poster de présentation de l'association.
 
-![Notre stand](https://static.werobot.fr/blog/bob-ross/5c3e3b9c79383/50.jpg "Notre stand")
+![Notre stand](/proxyPhotos?code=/blog/bob-ross/5c3e3b9c79383/50.jpg "Notre stand")
 
 L'expérience a vraiment été très enrichissante. Nous avons rencontré des entrepreneurs de divers horizons. Beaucoup d'entre eux se sont intéressés à notre association et certains pensent à nous apporter leur soutien.
 
-![Les jeunes bossent sur le stand](https://static.werobot.fr/blog/bob-ross/5c3e3b9eaa4e2/50.jpg "Les jeunes bossent sur le stand")
+![Les jeunes bossent sur le stand](/proxyPhotos?code=/blog/bob-ross/5c3e3b9eaa4e2/50.jpg "Les jeunes bossent sur le stand")
 
-![Contact et explications](https://static.werobot.fr/blog/bob-ross/5c3e3ba1278a6/50.jpg "Contact et explications")
+![Contact et explications](/proxyPhotos?code=/blog/bob-ross/5c3e3ba1278a6/50.jpg "Contact et explications")
 
-![Tout le monde s'en mêle](https://static.werobot.fr/blog/bob-ross/5c3e44cbf359c/50.jpg "Tout le monde s'en mêle")
+![Tout le monde s'en mêle](/proxyPhotos?code=/blog/bob-ross/5c3e44cbf359c/50.jpg "Tout le monde s'en mêle")
 
-![ArianeGroup et SKF](https://static.werobot.fr/blog/bob-ross/5c3e44cea3a0b/50.jpg "ArianeGroup et SKF")
+![ArianeGroup et SKF](/proxyPhotos?code=/blog/bob-ross/5c3e44cea3a0b/50.jpg "ArianeGroup et SKF")
 
 
 En effet, l'objectif de ce premier contact avec les membres du GIRV est, outre la découverte du monde professionnel par nos jeunes, la recherche d'aide financière, technique ou logistique.

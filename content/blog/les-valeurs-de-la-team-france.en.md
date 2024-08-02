@@ -2,7 +2,7 @@
 title: "The values of TEAM FRANCE"
 date: "2024-05-07 06:00:00"
 lastupdate: "2024-05-07 06:00:00"
-banner: "https://static.werobot.fr/blog/bob-ross/663b5d1e8d3b1/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 slug: "the-values-of-team-france"
 description: " 
 <iframe class=\"youtube-player\" width=\"1060\" height=\"597\" src=\"https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showi
@@ -19,7 +19,7 @@ description: "
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: right;"><img src="https://static.werobot.fr/blog/bob-ross/663bc0653f908/50.jpg" width="200" height="200" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="width: 50%; text-align: right;"><img src="/proxyPhotos?code=/blog/bob-ross/663bc0653f908/50.jpg" width="200" height="200" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></td>
 <td style="width: 50%;">
 <h2><strong>Dean Kamen</strong></h2>
 <p>Founder of the <i>FIRST</i> foundation<br /></i>Inventor of the Segway self-balancing scooter</p>

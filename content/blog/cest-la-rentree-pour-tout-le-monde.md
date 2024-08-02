@@ -2,7 +2,7 @@
 title: "C'est la rentrée pour tout le monde"
 date: "2020-09-05 09:30:28"
 lastupdate: "2020-09-05 09:30:28"
-banner: "https://static.werobot.fr/blog/bob-ross/5f537405a7bdc/50.png"
+banner: "/proxyPhotos?code=/blog/bob-ross/5f537405a7bdc/50.png"
 slug: "cest-la-rentree-pour-tout-le-monde"
 description: " 
 Matthieu a réalisé le forum virtuel des associations
@@ -15,7 +15,7 @@ Nouveauté 2020 : atelier hebdomadaire d'initiation au numérique
 Matthieu a réalisé le <a href="https://associations.espacecondorcet.org/">forum virtuel des associations</a> pour l'Espace Condorcet.
 Celui-ci vise dans un premier temps à palier à l'absence du traditionnel forum des association due à la crise sanitaire mais a aussi vocation à devenir un annuaire à jour permanent des associations locales.
 
-![](https://static.werobot.fr/blog/bob-ross/5f537405a7bdc/50.png)
+![](/proxyPhotos?code=/blog/bob-ross/5f537405a7bdc/50.png)
 
 
 ## **NOUVEAU** : L'atelier hebdomadaire numérique
@@ -31,11 +31,11 @@ Celui-ci aura lieu dans nos locaux situés aux Douaires, tous les samedi en pér
 
 <table>
 <tr>
-<td><img src="https://static.werobot.fr/blog/bob-ross/5f5372b496950/50.jpg"></td> 
-<td><img src="https://static.werobot.fr/blog/bob-ross/5f5372bb1f4f4/50.jpg"></td>
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5372b496950/50.jpg"></td> 
+<td><img src="/proxyPhotos?code=/blog/bob-ross/5f5372bb1f4f4/50.jpg"></td>
 </tr>
 <tr> 
-<td colspan=2><img src="https://static.werobot.fr/blog/bob-ross/5f5372c182b4a/50.jpg"></td>
+<td colspan=2><img src="/proxyPhotos?code=/blog/bob-ross/5f5372c182b4a/50.jpg"></td>
 </tr>
 </table>
 
