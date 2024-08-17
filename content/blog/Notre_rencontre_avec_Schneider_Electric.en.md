@@ -1,8 +1,8 @@
 ---
 title: "Our meeting with Schneider Electric"
-date: "2024-08-17T01:56:20+02:00"
-lastmod: "2024-08-17T16:01:52+02:00"
-lastupdate: "2024-08-17T16:01:52+02:00"
+date: "2024-08-16T23:56:20+02:00"
+lastmod: "2024-08-17T16:04:03+02:00"
+lastupdate: "2024-08-17T16:04:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -45,7 +45,7 @@ Following this presentation came the second part of our visit, that of discussin
 
 <br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg" width="33%">
+<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg">
 </center>
 <br><br>
 
@@ -59,6 +59,7 @@ We'd like to thank Schneider Electric for their warm welcome, and Christophe Ern
 <img src="/posts/Schneider-Electric.png" width="33%">
 </center>
 <br><br>
+
 
 
 
