@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-07T13:34:05+02:00"
-lastmod: "2024-08-17T09:33:38+02:00"
-lastupdate: "2024-08-17T09:33:38+02:00"
+date: "2024-07-07T11:34:05+02:00"
+lastmod: "2024-08-17T09:35:30+02:00"
+lastupdate: "2024-08-17T09:35:30+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -48,6 +48,7 @@ Nous sommes très reconnaissants envers nos commerces locaux qui ont participé 
 <br><br>
 
 Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre association, et vous pouvez faire de même en cliquant sur le lien HelloAsso suivant (les dons sont défiscalisables à 65 %) 
+
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
 
     
