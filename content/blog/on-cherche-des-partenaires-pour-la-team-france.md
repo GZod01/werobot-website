@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE"
-date: "2024-05-10T01:55:06+02:00"
-lastmod: "2024-08-17T17:54:36+02:00"
-lastupdate: "2024-08-17T17:54:36+02:00"
+date: "2024-05-09T23:55:06+02:00"
+lastmod: "2024-08-17T17:59:41+02:00"
+lastupdate: "2024-08-17T17:59:41+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -16,18 +16,19 @@ banner: "/proxyPhotos?code=/blog/bob-ross/663e5b8473cc2/50.png"
 draft: false
 ---
 <p style="text-align: center;"><span style="font-size:20px;"><tt><big><small><span style="color:#0432FA;"><strong>La grande nouvelle est tombée le dimanche 4 avril 2024</strong></span></small></big></tt></span></p>
+<br><br>
 
-<br>
-
-<p style="text-align: center;"><span style="font-size:16px;"><tt><small><big><span style="color:#0432FA;">Nous sommes officiellement sélectionnés pour représenter la France aux 8ème « Jeux Olympiques » de la robotique du FIRST Global Challenge à Athènes du 26 au 29 septembre 2024.<br />
-« Ce sera notre troisième participation à ce challenge international et La TEAM FRANCE
+<p style="text-align: center;"><span style="font-size:16px;"><tt><small><big><span style="color:#0432FA;">Nous sommes officiellement sélectionnés pour représenter la France aux 8ème « Jeux Olympiques » de la robotique du FIRST Global Challenge à Athènes du 26 au 29 septembre 2024.<br />
+« Ce sera notre troisième participation à ce challenge international et La TEAM FRANCE
 présentée par We Robot est fière et heureuse d’avoir été sélectionnée avec 190 autres équipes de tous les continents de la planète. Nous nous engageons à donner le meilleur de nous même en faisant fructifier notre expérience »
 </span></big></small></tt></span></p>
 
-<br>
-
+<br><br>
 <iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview" width="640" height="936" allow="autoplay"></iframe>
+<br><br>
 
 <embed height="700" src="/posts/Dossier_Partenariat_générique.pdf" type="application/pdf" width="100%"></embed>
+
+<iframe src="/posts/Dossier_Partenariat_générique.pdf" width="100%" height="300px"></iframe>
     
 
