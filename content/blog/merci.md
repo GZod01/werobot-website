@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-10T09:34:05+02:00"
-lastmod: "2024-08-17T08:12:18+02:00"
-lastupdate: "2024-08-17T08:12:18+02:00"
+date: "2024-07-10T05:34:05+02:00"
+lastmod: "2024-08-17T08:14:01+02:00"
+lastupdate: "2024-08-17T08:14:01+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -56,4 +56,5 @@ Faire un don à WE ROBOT (helloasso.com)
 </a>
 
     
+
 
