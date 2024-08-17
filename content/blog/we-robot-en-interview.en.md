@@ -1,12 +1,19 @@
 ---
 title: "WeRobot in interview "
-date: "2024-07-02 03:03:42"
-lastupdate: "2024-07-02 03:03:42"
+date: "2024-07-02T03:03:42+02:00"
+lastmod: "2024-08-17T11:14:52+02:00"
+lastupdate: "2024-08-17T11:14:52+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  On June 10, 2024, 3 members of our team were lucky enough to be interviewed and put on the radio !  "
+baneer: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
-slug: "werobot-in-interview"
-description: " 
-On June 10, 2024, 3 members of our team were lucky enough to be interviewed and put on the radio ! 
-"
+draft: false
 ---
 On June 10, 2024, 3 members of our team were lucky enough to be interviewed and put on the radio ! Louise, Timothé and Franck travelled to Vernon to the premises of radio bpm, where the interview took place.
 
@@ -23,7 +30,7 @@ But we won't tell you any more, as you can listen to our interview below !
 
 <center>
 <figure>
-  	<audio controls src="https://bpmlaradio.com/wp-content/uploads/2024/06/ASSO-DE-LA-SEMAINE-We-robot.mp3"></audio>
+  	<audio controls src="/posts/ASSO-DE-LA-SEMAINE-We-robot.mp3"></audio>
 	<figcaption>Interview We Robot (bpmlaradio.com)</figcaption>
 </figure>
 </center>

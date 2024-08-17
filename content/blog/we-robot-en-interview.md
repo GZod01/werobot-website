@@ -1,12 +1,19 @@
 ---
 title: "We Robot en interview "
-date: "2024-07-02 09:03:42"
-lastupdate: "2024-07-02 09:03:42"
+date: "2024-07-02T09:03:42+02:00"
+lastmod: "2024-08-17T11:14:24+02:00"
+lastupdate: "2024-08-17T11:14:24+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  Le 10 juin 2024, 3 membres de notre équipe ont eu la chance de pouvoir être interviewée.es et de pouvoir passer à la radio !  "
+baneer: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
-slug: "we-robot-en-interview"
-description: " 
-Le 10 juin 2024, 3 membres de notre équipe ont eu la chance de pouvoir être interviewée.es et de pouvoir passer à la radio ! 
-"
+draft: false
 ---
 Le 10 juin 2024, 3 membres de notre équipe ont eu la chance de pouvoir être interviewée.es et de pouvoir passer à la radio !  Louise, Timothé et Franck se sont rendus à Vernon dans les locaux de radio bpm où s’est déroulée l’interview. 
 
@@ -25,7 +32,7 @@ Mais on ne vous en dit pas plus, car vous pouvez écouter notre interview ci-des
 
 <center>
 <figure>
-  	<audio controls src="https://bpmlaradio.com/wp-content/uploads/2024/06/ASSO-DE-LA-SEMAINE-We-robot.mp3"></audio>
+  	<audio controls src="/posts/ASSO-DE-LA-SEMAINE-We-robot.mp3"></audio>
 	<figcaption>Interview We Robot (bpmlaradio.com)</figcaption>
 </figure>
 </center>
