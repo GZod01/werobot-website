@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-10T11:34:05+02:00"
-lastmod: "2024-08-17T07:59:48+02:00"
-lastupdate: "2024-08-17T07:59:48+02:00"
+date: "2024-07-10T09:34:05+02:00"
+lastmod: "2024-08-17T08:12:18+02:00"
+lastupdate: "2024-08-17T08:12:18+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,7 +10,7 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "  Merci de nous soutenir ! "
+description: "  Merci de nous soutenir !"
 baneer: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
 draft: false
