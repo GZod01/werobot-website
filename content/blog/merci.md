@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-07T15:34:05+02:00"
-lastmod: "2024-08-17T09:31:35+02:00"
-lastupdate: "2024-08-17T09:31:35+02:00"
+date: "2024-07-07T13:34:05+02:00"
+lastmod: "2024-08-17T09:33:38+02:00"
+lastupdate: "2024-08-17T09:33:38+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -19,29 +19,29 @@ draft: false
 
 Suite à notre visite le 15 mai 2024 du site [SKF Mechatronics](https://www.skf.com/fr) à Saint-Marcel (27) que vous pouvez retrouver sur cet [article](https://werobot.fr/blog/2023/we-robot-chez-skf), c’est avec grand plaisir que nous vous annonçons que SKF Group est devenu le premier sponsor officiel de We Robot ! Nous sommes ravis de ce partenariat d’autant plus que SKF nous avait déjà soutenu en 2019 en participant à l’achat de notre imprimante 3D.
 
-<br>
+<br><br>
 <center>
 <img src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg" alt="" width="33%">
 </center>
-<br>
+<br><br>
 
 Nous tenons également à remercier [Maritech SAS](https://www.maritech.fr/), entreprise spécialisée dans l’instrumentation océanographique et hydrographique qui s’est elle aussi engagée dans un partenariat avec notre association !
 
-<br>
+<br><br>
 <center>
 <img src="/proxyPhotos?code=/blog/bob-ross/668e9dd66427c/50.jpg" alt="" width="33%">
 </center>
-<br>
+<br><br>
 
 Ces généreux soutiens participent pleinement au développement et à la réussite de We Robot dans ses futurs projets, à l’instar du <i>FIRST</i> Global Challenge qui se déroulera du 26 au 29 septembre 2024 à Athènes ; compétition durant laquelle nous nous chargerons de faire rayonner nos sponsors au niveau international !
 
 De plus, nous rencontrons toujours des entreprises, à l’image de Schneider Electric et le Crédit Agricole  qui sont prêtes à nous soutenir. 
 
-<br>
+<br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/668e9dc68a3b0/50.jpg" alt="" width="50%">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9dc68a3b0/50.jpg" alt="" width="33%">
 </center>
-<br>
+<br><br>
 
 Nous sommes très reconnaissants envers nos commerces locaux qui ont participé au financement de nos projets :
 [la jardinerie Delbard d’Aubevoye](https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/) et [la Boulangerie du Château à Gaillon](https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/).
