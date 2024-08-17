@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-08T21:34:05+02:00"
-lastmod: "2024-08-17T08:35:41+02:00"
-lastupdate: "2024-08-17T08:35:41+02:00"
+date: "2024-07-08T19:34:05+02:00"
+lastmod: "2024-08-17T08:41:16+02:00"
+lastupdate: "2024-08-17T08:41:16+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -16,7 +16,6 @@ banner: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
 draft: false
 ---
 	Suite à notre visite le 15 mai 2024 du site [SKF Mechatronics](https://www.skf.com/fr)</a> à Saint-Marcel (27) que vous pouvez retrouver sur cet <a href="https://werobot.fr/blog/2023/we-robot-chez-skf"> article </a>, c’est avec grand plaisir que nous vous annonçons que SKF Group est devenu le premier sponsor officiel de We Robot ! Nous sommes ravis de ce partenariat d’autant plus que SKF nous avait déjà soutenu en 2019 en participant à l’achat de notre imprimante 3D.
-
 
 <center>
 <img src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg">
