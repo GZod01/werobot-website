@@ -1,8 +1,8 @@
 ---
 title: "Merci infiniment à tous nos sponsors ! "
-date: "2024-07-07T09:34:05+02:00"
-lastmod: "2024-08-17T09:40:40+02:00"
-lastupdate: "2024-08-17T09:40:40+02:00"
+date: "2024-07-07T07:34:05+02:00"
+lastmod: "2024-08-17T09:53:53+02:00"
+lastupdate: "2024-08-17T09:53:53+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -44,7 +44,7 @@ De plus, nous rencontrons toujours des entreprises, à l’image de Schneider El
 <br><br>
 
 Nous sommes très reconnaissants envers nos commerces locaux qui ont participé au financement de nos projets :
-[la jardinerie Delbard d’Aubevoye](https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/) et [la Boulangerie du Château à Gaillon](https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/).
+[la jardinerie Delbard à Aubevoye](https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/) et [la Boulangerie du Château à Gaillon](https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/).
 <br><br>
 
 Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre association, et vous pouvez faire de même en cliquant sur le lien HelloAsso suivant (les dons sont défiscalisables à 65 %) 
@@ -52,6 +52,7 @@ Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
 
     
+
 
 
 

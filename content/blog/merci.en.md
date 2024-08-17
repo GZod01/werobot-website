@@ -1,8 +1,8 @@
 ---
 title: "Many thanks to all our sponsors !"
-date: "2024-08-17T03:48:44+02:00"
-lastmod: "2024-08-17T09:51:56+02:00"
-lastupdate: "2024-08-17T09:51:56+02:00"
+date: "2024-08-16T23:48:44+02:00"
+lastmod: "2024-08-17T09:54:56+02:00"
+lastupdate: "2024-08-17T09:54:56+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -42,13 +42,14 @@ What's more, we're always coming across companies like Schneider Electric and Cr
 </center>
 <br><br>
 
-We are very grateful to our local businesses for helping to fund our projects:
+We are very grateful to our local businesses for helping to fund our projects :
 [Delbard garden centre in Aubevoye](https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/) and [Boulangerie du Château in Gaillon](https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/).
 <br><br>
 
 We would also like to thank all the individuals who have made a donation to our association, and you can do the same by clicking on the following HelloAsso link (donations are 65% tax deductible. 
 
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
+
 
 
 
