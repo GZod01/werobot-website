@@ -1,8 +1,8 @@
 ---
 title: "Our meeting with Schneider Electric"
-date: "2024-08-16T17:56:20+02:00"
-lastmod: "2024-08-17T16:08:46+02:00"
-lastupdate: "2024-08-17T16:08:46+02:00"
+date: "2024-08-16T15:56:20+02:00"
+lastmod: "2024-08-17T16:12:20+02:00"
+lastupdate: "2024-08-17T16:12:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -59,6 +59,7 @@ We'd like to thank Schneider Electric for their warm welcome, and Christophe Ern
 <img src="/posts/Schneider-Electric.png" width="33%">
 </center>
 <br><br>
+
 
 
 
