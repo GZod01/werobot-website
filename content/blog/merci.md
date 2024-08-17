@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-07T17:34:05+02:00"
-lastmod: "2024-08-17T09:30:07+02:00"
-lastupdate: "2024-08-17T09:30:07+02:00"
+date: "2024-07-07T15:34:05+02:00"
+lastmod: "2024-08-17T09:31:35+02:00"
+lastupdate: "2024-08-17T09:31:35+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -21,7 +21,7 @@ Suite à notre visite le 15 mai 2024 du site [SKF Mechatronics](https://www.skf.
 
 <br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg" alt="" width="33%">
 </center>
 <br>
 
@@ -39,7 +39,7 @@ De plus, nous rencontrons toujours des entreprises, à l’image de Schneider El
 
 <br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/668e9dc68a3b0/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9dc68a3b0/50.jpg" alt="" width="50%">
 </center>
 <br>
 
