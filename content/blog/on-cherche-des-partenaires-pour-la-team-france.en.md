@@ -1,12 +1,19 @@
 ---
 title: "We're looking for partners for TEAM FRANCE"
-date: "2024-05-09 21:55:06"
-lastupdate: "2024-05-09 21:55:06"
+date: "2024-05-09T21:55:06+02:00"
+lastmod: "2024-08-17T18:19:33+02:00"
+lastupdate: "2024-08-17T18:19:33+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  The TEAM FRANCE presented by We Robot is officially selected for the FIRST Global Challenge ATHENS 2024, the Junior Olympic Games of Robotics "
+baneer: "/proxyPhotos?code=/blog/bob-ross/663e5b8473cc2/50.png"
 banner: "/proxyPhotos?code=/blog/bob-ross/663e5b8473cc2/50.png"
-slug: "we-re-looking-for-partners-for-team-france"
-description: " 
-The TEAM FRANCE presented by We Robot is officially selected for the FIRST Global Challenge ATHENS 2024, the Junior Olympic Games of Robotics
-"
+draft: false
 ---
 <p style="text-align: center;"><span style="font-size:20px;"><tt><big><small><span style="color:#0432FA;"><strong>The big news came on Sunday, April 4, 2024</strong></span></small></big></tt></span></p>
 
@@ -18,5 +25,5 @@ The TEAM FRANCE presented by We Robot is officially selected for the FIRST Globa
 
 <br>
 
-<iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview" width="640" height="936" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview"></iframe>
     
