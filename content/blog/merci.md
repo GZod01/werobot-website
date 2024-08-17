@@ -1,8 +1,8 @@
 ---
 title: "Merci ! "
-date: "2024-07-07T19:34:05+02:00"
-lastmod: "2024-08-17T09:28:53+02:00"
-lastupdate: "2024-08-17T09:28:53+02:00"
+date: "2024-07-07T17:34:05+02:00"
+lastmod: "2024-08-17T09:30:07+02:00"
+lastupdate: "2024-08-17T09:30:07+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -29,7 +29,7 @@ Nous tenons également à remercier [Maritech SAS](https://www.maritech.fr/), en
 
 <br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/668e9dd66427c/50.jpg" alt="" width="500">
+<img src="/proxyPhotos?code=/blog/bob-ross/668e9dd66427c/50.jpg" alt="" width="33%">
 </center>
 <br>
 
@@ -51,5 +51,6 @@ Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
 
     
+
 
 
