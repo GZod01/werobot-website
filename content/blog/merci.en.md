@@ -1,8 +1,8 @@
 ---
 title: "Many thanks to all our sponsors !"
-date: "2024-08-16T13:48:44+02:00"
-lastmod: "2024-08-17T10:06:33+02:00"
-lastupdate: "2024-08-17T10:06:33+02:00"
+date: "2024-08-16T11:48:44+02:00"
+lastmod: "2024-08-17T10:11:27+02:00"
+lastupdate: "2024-08-17T10:11:27+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -48,6 +48,7 @@ We are very grateful to our local businesses for helping to fund our projects : 
 We would also like to thank all the individuals who have made a donation to our association, and you can do the same by clicking on the following HelloAsso link (donations are 65% tax deductible). 
 
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
+
 
 
 
