@@ -1,10 +1,10 @@
 ---
 title: "Merci ! "
-date: "2024-07-08T17:34:05+02:00"
-lastmod: "2024-08-17T08:44:30+02:00"
-lastupdate: "2024-08-17T08:44:30+02:00"
-author: "coach.francois"
-authors: ["coach.francois"]
+date: "2024-07-08T15:34:05+02:00"
+lastmod: "2024-08-17T08:52:55+02:00"
+lastupdate: "2024-08-17T08:52:55+02:00"
+author: "GZod01"
+authors: ["coach.francois","GZod01"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -55,6 +55,7 @@ Faire un don à WE ROBOT (helloasso.com)
 </a>
 
     
+
 
 
 
