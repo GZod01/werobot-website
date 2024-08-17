@@ -1,8 +1,8 @@
 ---
 title: "Notre rencontre avec Schneider Electric"
-date: "2024-08-17T11:52:35+02:00"
-lastmod: "2024-08-17T13:53:57+02:00"
-lastupdate: "2024-08-17T13:53:57+02:00"
+date: "2024-08-17T07:52:35+02:00"
+lastmod: "2024-08-17T14:04:11+02:00"
+lastupdate: "2024-08-17T14:04:11+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -49,3 +49,10 @@ Nous sommes aussi fiers de dire que notre équipe We Robot a su représenter ses
 <br><br>
 
 Nous remercions donc Schneider Electric pour leur accueil et Christophe Ernis de nous avoir gentiment reçus. Nous tenons également à remercier les salarié.es présent.es d’avoir pris le temps de nous écouter et d'échanger avec notre équipe sur le projet. Nous attendons avec impatience cette future collaboration !
+
+<br><br>
+<center>
+<img src="/posts/Schneider-Electric.png">
+</center>
+<br><br>
+
