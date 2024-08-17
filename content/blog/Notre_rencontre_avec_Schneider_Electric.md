@@ -1,8 +1,8 @@
 ---
 title: "Notre rencontre avec Schneider Electric"
-date: "2024-08-17T07:52:35+02:00"
-lastmod: "2024-08-17T14:04:11+02:00"
-lastupdate: "2024-08-17T14:04:11+02:00"
+date: "2024-08-17T05:52:35+02:00"
+lastmod: "2024-08-17T14:07:30+02:00"
+lastupdate: "2024-08-17T14:07:30+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,7 +22,7 @@ Ce lundi 10 mai nous avons eu l’honneur  d’être accueillis par Schneider El
 
 <br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg" width="66%">
 </center>
 <br><br>
 
@@ -30,7 +30,7 @@ Dans un premier temps, nous avons fait sur le site la rencontre de deux salarié
 
 <br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/66719018c5a62/50.png">
+<img src="/proxyPhotos?code=/blog/bob-ross/66719018c5a62/50.png" width="66%">
 </center>
 <br><br>
 
@@ -41,7 +41,7 @@ Suite à cette présentation vient le second temps de notre venue, celui d'évoq
 
 <br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg" width="66%">
 </center>
 <br><br>
 
@@ -52,7 +52,7 @@ Nous remercions donc Schneider Electric pour leur accueil et Christophe Ernis de
 
 <br><br>
 <center>
-<img src="/posts/Schneider-Electric.png">
+<img src="/posts/Schneider-Electric.png" width="33%">
 </center>
 <br><br>
 
