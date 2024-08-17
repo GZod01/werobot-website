@@ -1,8 +1,8 @@
 ---
 title: "Le DEUX SEPT rend visite au club We Robot"
-date: "2024-08-16T20:51:28+02:00"
-lastmod: "2024-08-17T13:17:40+02:00"
-lastupdate: "2024-08-17T13:17:40+02:00"
+date: "2024-08-16T18:51:28+02:00"
+lastmod: "2024-08-17T13:31:31+02:00"
+lastupdate: "2024-08-17T13:31:31+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -16,7 +16,7 @@ banner: "https://werobot.fr/posts/DeuxSept_werobot.jpg"
 draft: false
 ---
 ## Le Deux Sept nous rend visite
-Le nouveau média de l'Eure veut en savoir plus sur cette équipe de jeunes qui va représenter la France à Athènes au Jeux Olympiques junior de la robotique du *First* Global Challenge parmi 190 pays de toute la planète.
+Le [Deux Sept](https://www.deux-sept.media/), nouveau média de l'Eure, veut en savoir plus sur cette surprenante équipe de jeunes qui va représenter la France à Athènes au Jeux Olympiques junior de la robotique du [*First* Global Challenge](https://first.global/fr/) parmi 190 pays de toute la planète.
 
 <br><br>
 <center>
