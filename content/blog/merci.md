@@ -1,8 +1,8 @@
 ---
 title: "Merci infiniment à tous nos sponsors ! "
-date: "2024-07-07T05:34:05+02:00"
-lastmod: "2024-08-17T11:08:34+02:00"
-lastupdate: "2024-08-17T11:08:34+02:00"
+date: "2024-07-07T03:34:05+02:00"
+lastmod: "2024-08-17T11:09:44+02:00"
+lastupdate: "2024-08-17T11:09:44+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -18,8 +18,6 @@ draft: false
 ## Nous remercions infiniment tous nos sponsors !
 
 Suite à notre visite le 15 mai 2024 du site [SKF Mechatronics](https://www.skf.com/fr) à Saint-Marcel (27) que vous pouvez retrouver sur cet [article](https://werobot.fr/blog/2023/we-robot-chez-skf), c’est avec grand plaisir que nous vous annonçons que SKF Group est devenu le premier sponsor officiel de We Robot ! Nous sommes ravis de ce partenariat d’autant plus que SKF nous avait déjà soutenu en 2019 en participant à l’achat de notre imprimante 3D.
-
-{{<image  src="/proxyPhotos?code=/blog/bob-ross/668e9d37e85d8/50.jpg" caption="" custom-width="33%">}}
 
 <br><br>
 <center>
@@ -54,6 +52,7 @@ Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
 
     
+
 
 
 
