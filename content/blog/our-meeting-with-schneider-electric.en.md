@@ -1,12 +1,19 @@
 ---
 title: "Our meeting with Schneider Electric"
-date: "2024-06-18 15:53:24"
-lastupdate: "2024-06-18 15:53:24"
+date: "2024-06-18T15:53:24+02:00"
+lastmod: "2024-08-17T13:39:32+02:00"
+lastupdate: "2024-08-17T13:39:32+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  On Monday May 10, we were honored to be welcomed by Schneider Electric at their Advanced Smart Factory 4.0 in Le Vaudreuil, France, to present our project to take part in the FIRST Global Challenge 2024.  "
+baneer: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
-slug: "our-meeting-with-schneider-electric"
-description: " 
-On Monday May 10, we were honored to be welcomed by Schneider Electric at their Advanced Smart Factory 4.0 in Le Vaudreuil, France, to present our project to take part in the FIRST Global Challenge 2024. 
-"
+draft: false
 ---
 Our meeting with Schneider Electric on Monday, May 10, 2024 at Le Vaudreuil (27)
 

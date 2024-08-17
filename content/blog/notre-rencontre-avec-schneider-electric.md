@@ -1,13 +1,20 @@
 ---
 title: "Notre rencontre avec Schneider Electric"
-date: "2024-06-18 15:38:41"
-lastupdate: "2024-06-18 15:38:41"
-banner: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
-slug: "notre-rencontre-avec-schneider-electric"
+date: "2024-06-18T15:38:41+02:00"
+lastmod: "2024-08-17T13:38:45+02:00"
+lastupdate: "2024-08-17T13:38:45+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
 description: " 
-
-Ce lundi 10 mai nous avons eu l’honneur  d’être accueillis par Schneider Electric dans leur usine 4.0 « Advanced Smart Factory » au Vaudreuil afin de présenter notre projet de participation au FIRST Global Challenge 2024 
-"
+Ce lundi 10 mai nous avons eu l’honneur  d’être accueillis par Schneider Electric dans leur usine 4.0 « Advanced Smart Factory » au Vaudreuil afin de présenter notre projet de participation au FIRST Global Challenge 2024  "
+baneer: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/66718e3a99bb1/50.jpg"
+draft: false
 ---
 Notre rencontre avec Schneider Electric ce lundi 10 mai 2024 au Vaudreuil (27)
 
