@@ -1,8 +1,8 @@
 ---
-title: "Merci ! "
-date: "2024-07-07T11:34:05+02:00"
-lastmod: "2024-08-17T09:35:30+02:00"
-lastupdate: "2024-08-17T09:35:30+02:00"
+title: "Merci infiniment à tous nos sponsors ! "
+date: "2024-07-07T09:34:05+02:00"
+lastmod: "2024-08-17T09:40:40+02:00"
+lastupdate: "2024-08-17T09:40:40+02:00"
 author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -52,6 +52,7 @@ Nous remercions aussi tous les particuliers qui ont effectué un don  pour notre
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
 
     
+
 
 
 
