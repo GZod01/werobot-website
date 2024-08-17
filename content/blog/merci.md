@@ -1,9 +1,9 @@
 ---
 title: "Merci ! "
-date: "2024-07-08T15:34:05+02:00"
-lastmod: "2024-08-17T08:52:55+02:00"
-lastupdate: "2024-08-17T08:52:55+02:00"
-author: "GZod01"
+date: "2024-07-08T11:34:05+02:00"
+lastmod: "2024-08-17T08:55:16+02:00"
+lastupdate: "2024-08-17T08:55:16+02:00"
+author: "coach.francois"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
 facebook_site: "false"
@@ -24,7 +24,7 @@ draft: false
 
 
 
-Nous tenons également à remercier <a href="https://www.maritech.fr/">Maritech SAS </a>, entreprise spécialisée dans l’instrumentation océanographique et hydrographique qui s’est elle aussi engagée dans un partenariat avec notre association !
+Nous tenons également à remercier [Maritech SAS](https://www.maritech.fr/), entreprise spécialisée dans l’instrumentation océanographique et hydrographique qui s’est elle aussi engagée dans un partenariat avec notre association !
 
 
 
@@ -43,7 +43,7 @@ De plus, nous rencontrons toujours des entreprises, à l’image de Schneider El
 </center>
 
 Nous sommes très reconnaissants envers nos commerces locaux qui ont participé au financement de nos projets :
-<a href="https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/"> la jardinerie Delbard d’Aubevoye</a> et <a href="https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/">  la Boulangerie du Château à Gaillon.</a>
+[la jardinerie Delbard d’Aubevoye](https://www.delbard.fr/magasins/jardinerie-delbard-aubevoye/) et [la Boulangerie du Château à Gaillon](https://www.facebook.com/people/Vanille-ou-chocolat-Boulangerie-du-ch%C3%A2teau-Gaillon/100077801287091/).
 
 
 
@@ -55,7 +55,6 @@ Faire un don à WE ROBOT (helloasso.com)
 </a>
 
     
-
 
 
 
