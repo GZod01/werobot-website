@@ -1,8 +1,8 @@
 ---
 title: "Le DEUX SEPT rend visite au club We Robot"
-date: "2024-08-16T18:51:28+02:00"
-lastmod: "2024-08-17T13:31:31+02:00"
-lastupdate: "2024-08-17T13:31:31+02:00"
+date: "2024-08-16T16:51:28+02:00"
+lastmod: "2024-08-17T13:34:49+02:00"
+lastupdate: "2024-08-17T13:34:49+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -25,6 +25,7 @@ Le [Deux Sept](https://www.deux-sept.media/), nouveau média de l'Eure, veut en 
 </video>
 </center>
 <br><br>
+
 
 
 
