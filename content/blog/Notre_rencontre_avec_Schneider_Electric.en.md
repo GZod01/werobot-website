@@ -1,8 +1,8 @@
 ---
 title: "Our meeting with Schneider Electric"
-date: "2024-08-17T13:56:20+02:00"
-lastmod: "2024-08-17T13:56:20+02:00"
-lastupdate: "2024-08-17T13:56:20+02:00"
+date: "2024-08-16T15:56:20+02:00"
+lastmod: "2024-08-17T16:12:20+02:00"
+lastupdate: "2024-08-17T16:12:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -48,3 +48,24 @@ Following this presentation came the second part of our visit, that of discussin
 <img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg">
 </center>
 <br><br>
+
+We're also proud to say that our We Robot team was able to represent its colors by promoting the association and the project with enthusiasm and energy, a feat praised by the employees. :) !
+
+We'd like to thank Schneider Electric for their warm welcome, and Christophe Ernis for kindly receiving us. We'd also like to thank the employees present for taking the time to listen to us and discuss the project with our team. We look forward to future collaboration !
+
+
+<br><br>
+<center>
+<img src="/posts/Schneider-Electric.png" width="33%">
+</center>
+<br><br>
+
+
+
+
+
+
+
+
+
+
