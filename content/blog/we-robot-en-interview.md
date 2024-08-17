@@ -1,8 +1,8 @@
 ---
 title: "We Robot en interview "
-date: "2024-07-02T07:03:42+02:00"
-lastmod: "2024-08-17T11:16:46+02:00"
-lastupdate: "2024-08-17T11:16:46+02:00"
+date: "2024-07-02T05:03:42+02:00"
+lastmod: "2024-08-17T11:17:52+02:00"
+lastupdate: "2024-08-17T11:17:52+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -47,4 +47,5 @@ Merci à bpm radio pour leur accueil et de nous avoir consacré une interview !
 
 
     
+
 
