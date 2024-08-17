@@ -1,8 +1,8 @@
 ---
 title: "WeRobot in interview "
-date: "2024-07-02T01:03:42+02:00"
-lastmod: "2024-08-17T11:20:13+02:00"
-lastupdate: "2024-08-17T11:20:13+02:00"
+date: "2024-07-01T23:03:42+02:00"
+lastmod: "2024-08-17T11:32:09+02:00"
+lastupdate: "2024-08-17T11:32:09+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -15,6 +15,8 @@ baneer: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/66842febe2ba4/50.jpg"
 draft: false
 ---
+## Our interview on bpmlaradio
+
 On June 10, 2024, 3 members of our team were lucky enough to be interviewed and put on the radio ! Louise, Timothé and Franck travelled to Vernon to the premises of radio bpm, where the interview took place.
 
 Our appearance was part of the radio station's "Association of the Week" section, so we were able to raise awareness of We Robot and its future projects, such as the First Global Challenge 2024 in Athens.
