@@ -1,8 +1,8 @@
 ---
-title: "Merci !  (TO TRANSLATE)"
-date: "2024-08-17T09:48:44+02:00"
-lastmod: "2024-08-17T09:48:44+02:00"
-lastupdate: "2024-08-17T09:48:44+02:00"
+title: "Many thanks to all our sponsors !"
+date: "2024-08-17T03:48:44+02:00"
+lastmod: "2024-08-17T09:51:56+02:00"
+lastupdate: "2024-08-17T09:51:56+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,9 +10,9 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: ""
-baneer: "false"
-banner: "false"
+description: "Thank you for your support!"
+baneer: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
+banner: "/proxyPhotos?code=/blog/bob-ross/668e9a2fedb0e/50.jpg"
 draft: false
 ---
 ## We would like to thank all our sponsors !
@@ -49,3 +49,6 @@ We are very grateful to our local businesses for helping to fund our projects:
 We would also like to thank all the individuals who have made a donation to our association, and you can do the same by clicking on the following HelloAsso link (donations are 65% tax deductible. 
 
 [Faire un don à WE ROBOT (helloasso.com)](https://www.helloasso.com/associations/we-robot/formulaires/1)
+
+
+
