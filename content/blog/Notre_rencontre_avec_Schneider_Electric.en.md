@@ -1,8 +1,8 @@
 ---
 title: "Our meeting with Schneider Electric"
-date: "2024-08-17T13:56:20+02:00"
-lastmod: "2024-08-17T13:56:20+02:00"
-lastupdate: "2024-08-17T13:56:20+02:00"
+date: "2024-08-17T09:56:20+02:00"
+lastmod: "2024-08-17T14:11:16+02:00"
+lastupdate: "2024-08-17T14:11:16+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -45,6 +45,8 @@ Following this presentation came the second part of our visit, that of discussin
 
 <br><br>
 <center>
-<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg">
+<img src="/proxyPhotos?code=/blog/bob-ross/6671a8f1c7484/50.jpg" width="33%">
 </center>
 <br><br>
+
+
