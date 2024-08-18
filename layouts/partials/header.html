@@ -42,7 +42,7 @@
 {{ end }}
       <div class="header-nav-item">
         <a
-		href="{{ relLangUrl .URL }}"
+		href="{{ $menu_item_url }}"
 		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }} {{ $active }}">
 	    {{ $title := .Title }}
 	    {{ with (index site.Params .Identifier) }}
