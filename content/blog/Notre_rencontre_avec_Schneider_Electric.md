@@ -1,8 +1,8 @@
 ---
 title: "Notre rencontre avec Schneider Electric"
-date: "1970-01-01T00:33:44+02:00"
-lastmod: "2024-08-18T13:10:29+02:00"
-lastupdate: "2024-08-18T13:10:29+02:00"
+date: "2024-06-02T22:33:44+02:00"
+lastmod: "2024-08-18T13:14:28+02:00"
+lastupdate: "2024-08-18T13:14:28+02:00"
 author: "GZod01"
 authors: ["coach.francois","GZod01"]
 facebook_author: "false"
@@ -55,6 +55,7 @@ Nous remercions donc Schneider Electric pour leur accueil et Christophe Ernis de
 <img src="/posts/Schneider-Electric.png" width="33%">
 </center>
 <br><br>
+
 
 
 
