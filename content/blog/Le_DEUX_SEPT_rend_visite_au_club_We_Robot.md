@@ -1,8 +1,8 @@
 ---
 title: "Le DEUX SEPT rend visite au club We Robot"
-date: "2024-08-16T06:51:28+02:00"
-lastmod: "2024-08-18T13:41:20+02:00"
-lastupdate: "2024-08-18T13:41:20+02:00"
+date: "2024-08-16T04:51:28+02:00"
+lastmod: "2024-08-18T13:46:51+02:00"
+lastupdate: "2024-08-18T13:46:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,6 +23,9 @@ Le [Deux Sept](https://www.deux-sept.media/), nouveau média de l'Eure, veut en 
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=1&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br>
 
+
+
+<iframe width="1420" height="799" src="https://youtu.be/Cr0xr7QdABI?si=uWNy0FjS--8FgZ4d&hl=us&cc_lang_pref=us" title="We Robot Gaillon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
