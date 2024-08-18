@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE"
-date: "2024-05-08T21:55:06+02:00"
-lastmod: "2024-08-18T15:52:07+02:00"
-lastupdate: "2024-08-18T15:52:07+02:00"
+date: "2024-05-08T19:55:06+02:00"
+lastmod: "2024-08-18T15:54:24+02:00"
+lastupdate: "2024-08-18T15:54:24+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -25,10 +25,11 @@ présentée par We Robot est fière et heureuse d’avoir été sélectionnée a
 
 <br><br>
 <center>
-<iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview" allowfullscreen="true"></iframe>
 </center>
 <br><br>
     
+
 
 
 
