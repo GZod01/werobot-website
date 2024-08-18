@@ -28,6 +28,7 @@ description = """
 Created in 2017, local association of robotic for youth, based in Gaillon, France. We participate to international and national competitions, winner of First Global Contest in Washington DC in 2017 and of World Adolescent Robotic Contest in Guyiang, China in 2018.
 """
 home = "Home"
+partners="Our partners"
 previous = "Previous"
 next = "Next"
 about = "About"
@@ -307,6 +308,12 @@ weight=3
 identifier="about"
 url="/about"
 title="A Propos"
+
+[[menus.main]]
+weight=4
+identifier="partners"
+url="/partners"
+title="Nos partenaires"
 
 [[menus.main]]
 weight=4
