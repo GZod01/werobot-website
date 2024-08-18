@@ -1,12 +1,19 @@
 ---
 title: "Feeding The Future : game explanation"
-date: "2024-06-24 02:55:02"
-lastupdate: "2024-06-24 02:55:02"
+date: "2024-06-24T02:55:02+02:00"
+lastmod: "2024-08-18T15:37:24+02:00"
+lastupdate: "2024-08-18T15:37:24+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  Game explanation of the FIRST Global Challenge Athens 2024 "
+baneer: "/proxyPhotos?code=/blog/bob-ross/667e5cb905068/50.png"
 banner: "/proxyPhotos?code=/blog/bob-ross/667e5cb905068/50.png"
-slug: "feeding-the-future-game-explanation"
-description: " 
-Game explanation of the FIRST Global Challenge Athens 2024
-"
+draft: false
 ---
 ## The game explanation of the <i>FIRST</i> Global Challenge Athens 2024
 

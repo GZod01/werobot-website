@@ -1,14 +1,21 @@
 ---
 title: "The values of TEAM FRANCE"
-date: "2024-05-07 06:00:00"
-lastupdate: "2024-05-07 06:00:00"
+date: "2024-05-07T06:00:00+02:00"
+lastmod: "2024-08-18T15:38:43+02:00"
+lastupdate: "2024-08-18T15:38:43+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  <iframe class=\"youtube-player\" width=\"1060\" height=\"597\" src=\"https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showi "
+baneer: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
-slug: "the-values-of-team-france"
-description: " 
-<iframe class=\"youtube-player\" width=\"1060\" height=\"597\" src=\"https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showi
-"
+draft: false
 ---
-<iframe class="youtube-player" width="1060" height="597" src="https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 
 <p>The TEAM FRANCE shares the goals advocated by Dean Kamen and his foundation <i>FIRST</i> since 1989 :</p>
 <ul>
