@@ -1,10 +1,10 @@
 ---
-title: "WeRobot in interview "
-date: "2024-07-01T23:03:42+02:00"
-lastmod: "2024-08-17T11:32:09+02:00"
-lastupdate: "2024-08-17T11:32:09+02:00"
-author: "coach.francois"
-authors: ["coach.francois"]
+title: "We Robot in interview "
+date: "2024-07-01T21:03:42+02:00"
+lastmod: "2024-08-18T14:34:59+02:00"
+lastupdate: "2024-08-18T14:34:59+02:00"
+author: "Franck"
+authors: ["coach.francois","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -44,4 +44,5 @@ Thank you to bpm radio for welcoming us and giving us an interview !
    title="interview We Robot"></a>-->
 
     
+
 

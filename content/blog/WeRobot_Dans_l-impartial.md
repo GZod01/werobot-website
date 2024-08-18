@@ -1,10 +1,10 @@
 ---
-title: "WeRobot Dans l'impartial"
-date: "2024-08-01T05:01:39+02:00"
-lastmod: "2024-08-18T13:15:29+02:00"
-lastupdate: "2024-08-18T13:15:29+02:00"
-author: "GZod01"
-authors: ["GZod01"]
+title: "We Robot Dans l'impartial"
+date: "2024-08-01T03:01:39+02:00"
+lastmod: "2024-08-18T14:35:11+02:00"
+lastupdate: "2024-08-18T14:35:11+02:00"
+author: "Franck"
+authors: ["GZod01","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -13,7 +13,6 @@ keywords: [""]
 description: ""
 baneer: "false"
 banner: "false"
-draft: true
+draft: false
 ---
-
 
