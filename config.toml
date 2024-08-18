@@ -384,7 +384,7 @@ url="/legals"
 
 
 [permalinks]
-    blog = "/blog/:year/:slugorfilename/"
+    blog = "/blog/:slugorfilename/"
 
 [markup]
 [markup.goldmark]
