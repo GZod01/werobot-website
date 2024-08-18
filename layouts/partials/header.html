@@ -31,18 +31,18 @@
 	{{ $current := . }}
 	{{ range .Site.Menus.main.ByWeight }}
 {{ $active := "" }}
-{{ $menu_item_url := .URL | relLangURL }}
+{{ $menu_item_url := (.URL | relLangURL) }}
 {{ $page_url:= $current.RelPermalink | relLangURL }}
 
 {{ if eq $menu_item_url $page_url }}
 {{ $active = "active" }}
 {{ end }}
-{{ if (and (hasPrefix $page_url $menu_item_url)  (not (eq $menu_item_url "/"))) }}
+{{ if (and (hasPrefix $page_url $menu_item_url)  (not (eq $menu_item_url ("/" | relLangURL)))) }}
 {{ $active = "active" }}
 {{ end }}
       <div class="header-nav-item">
         <a
-		href="{{ .URL }}"
+		href="{{ relLangUrl .URL }}"
 		class="link{{ if .Params.customClass }} {{ .Params.customClass }}{{ end }} {{ $active }}">
 	    {{ $title := .Title }}
 	    {{ with (index site.Params .Identifier) }}
