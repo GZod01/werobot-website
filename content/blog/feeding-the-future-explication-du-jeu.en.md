@@ -1,8 +1,8 @@
 ---
 title: "Feeding The Future : game explanation"
-date: "2024-06-24T00:55:02+02:00"
-lastmod: "2024-08-18T15:41:59+02:00"
-lastupdate: "2024-08-18T15:41:59+02:00"
+date: "2024-06-23T22:55:02+02:00"
+lastmod: "2024-08-18T15:45:53+02:00"
+lastupdate: "2024-08-18T15:45:53+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -20,7 +20,7 @@ draft: false
 In the "Feeding the Future" game, teams maneuver their robot through a simulated world that focuses on the complex, interdependent relationship between water, energy and food systems, while carefully managing and balancing the world's resources to support a sustainable food system.
 <br><br>
 
-<iframe class="youtube-player" width="1060" height="597" src="https://www.youtube.com/embed/VoT_eVi7vQ0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/VoT_eVi7vQ0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
 The 7 m x 7 m playing field is raised approximately 70 cm above the ground and is bordered by a system of kerbs at least 20 cm high. It is covered with a low-pile carpet similar to those found in many public or commercial buildings. Any low-pile carpet can be used for training, and will react in the same way to play pieces and robots.
@@ -327,4 +327,5 @@ The Driver Hub OS must be updated to version 1.2.0 and the Driver Station applic
 
 
     
+
 
