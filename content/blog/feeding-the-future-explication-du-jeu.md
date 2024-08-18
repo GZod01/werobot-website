@@ -1,8 +1,8 @@
 ---
 title: "Feeding The Future : explication du jeu"
-date: "2024-06-23T04:55:02+02:00"
-lastmod: "2024-08-18T15:41:27+02:00"
-lastupdate: "2024-08-18T15:41:27+02:00"
+date: "2024-06-23T02:55:02+02:00"
+lastmod: "2024-08-18T15:44:06+02:00"
+lastupdate: "2024-08-18T15:44:06+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -330,4 +330,5 @@ Le système d'exploitation du Driver Hub doit être mis à jour à la version 1.
 </div>
 
     
+
 
