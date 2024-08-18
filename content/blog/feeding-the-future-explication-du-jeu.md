@@ -1,8 +1,8 @@
 ---
 title: "Feeding The Future : explication du jeu"
-date: "2024-06-23T06:55:02+02:00"
-lastmod: "2024-08-18T15:28:32+02:00"
-lastupdate: "2024-08-18T15:28:32+02:00"
+date: "2024-06-23T04:55:02+02:00"
+lastmod: "2024-08-18T15:41:27+02:00"
+lastupdate: "2024-08-18T15:41:27+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -20,7 +20,7 @@ draft: false
 Dans le jeu « Feeding the Future », les équipes manœuvrent leur robot dans un monde simulé qui met l'accent sur la relation complexe et interdépendante entre l'eau, l'énergie et les systèmes alimentaires tout en gérant et en équilibrant soigneusement les ressources mondiales pour soutenir un système alimentaire durable.
 <br><br>
 
-<iframe class="youtube-player" width="1060" height="597" src="https://www.youtube.com/embed/VoT_eVi7vQ0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/VoT_eVi7vQ0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
 Le terrain de jeu de 7 m sur 7 m est surélevé d'environ 70 cm par rapport au sol et est délimité par un système de bordures d'au moins 20 cm de haut. Il est recouvert d'une moquette à poils ras semblable à celles que l'on trouve dans de nombreux bâtiments publics ou commerciaux. N'importe quel tapis à poils ras peut être utilisé pour l'entraînement et réagira de la même manière pour les pièces de jeu et les robots.
@@ -322,7 +322,7 @@ Le système d'exploitation du Driver Hub doit être mis à jour à la version 1.
   	left: 0;
   	bottom: 0;
   	right: 0;
-  	width: 75%;
+  	width: 100%;
   	height: 75%;
   	border: none;
 	">
@@ -330,3 +330,4 @@ Le système d'exploitation du Driver Hub doit être mis à jour à la version 1.
 </div>
 
     
+

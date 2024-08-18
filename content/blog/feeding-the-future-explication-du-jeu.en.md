@@ -1,8 +1,8 @@
 ---
 title: "Feeding The Future : game explanation"
-date: "2024-06-24T02:55:02+02:00"
-lastmod: "2024-08-18T15:37:24+02:00"
-lastupdate: "2024-08-18T15:37:24+02:00"
+date: "2024-06-24T00:55:02+02:00"
+lastmod: "2024-08-18T15:41:59+02:00"
+lastupdate: "2024-08-18T15:41:59+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -318,7 +318,7 @@ The Driver Hub OS must be updated to version 1.2.0 and the Driver Station applic
   	left: 0;
   	bottom: 0;
   	right: 0;
-  	width: 75%;
+  	width: 100%;
   	height: 75%;
   	border: none;
 	">
@@ -327,3 +327,4 @@ The Driver Hub OS must be updated to version 1.2.0 and the Driver Station applic
 
 
     
+
