@@ -28,7 +28,6 @@ description = """
 Created in 2017, local association of robotic for youth, based in Gaillon, France. We participate to international and national competitions, winner of First Global Contest in Washington DC in 2017 and of World Adolescent Robotic Contest in Guyiang, China in 2018.
 """
 home = "Home"
-partners="Our partners"
 previous = "Previous"
 next = "Next"
 about = "About"
@@ -113,6 +112,7 @@ title = "Build, Test, Learn, Deploy"
     content_placeholder = "Mineralis de fortis abaculus, imperium glos est fidelis gemna, cesaris."
 
   [languages.en.params.partners]
+  title="Our partners"
   support-us = "They support us"
 
 [[languages.en.params.errors]]
@@ -270,6 +270,7 @@ src = "cover/cover.png"
     content_placeholder = "Mineralis de fortis abaculus, imperium glos est fidelis gemna, cesaris."
 
   [params.partners]
+  title="Nos partenaires"
   support-us = "Ils nous soutiennent"
 
 
