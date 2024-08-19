@@ -1,10 +1,10 @@
 ---
-title: "DEUX SEPT visits WE Robot"
-date: "2024-08-19T13:30:30+02:00"
-lastmod: "2024-08-19T13:33:15+02:00"
-lastupdate: "2024-08-19T13:33:15+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+title: "DEUX SEPT visits We Robot"
+date: "2024-08-19T11:30:30+02:00"
+lastmod: "2024-08-19T22:41:34+02:00"
+lastupdate: "2024-08-19T22:41:34+02:00"
+author: "Franck"
+authors: ["Lucy","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -74,3 +74,4 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
   
 
 We Robot thanks *Deux Sept* for coming to meet it and for creating a great report about it !
+
