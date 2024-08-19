@@ -1,8 +1,8 @@
 ---
 title: "Le DEUX SEPT rend visite au club We Robot"
-date: "2024-08-15T14:51:28+02:00"
-lastmod: "2024-08-19T12:09:14+02:00"
-lastupdate: "2024-08-19T12:09:14+02:00"
+date: "2024-08-15T12:51:28+02:00"
+lastmod: "2024-08-19T12:12:31+02:00"
+lastupdate: "2024-08-19T12:12:31+02:00"
 author: "Lucy"
 authors: ["coach.francois","Lucy"]
 facebook_author: "false"
@@ -10,7 +10,7 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: ""
+description: "Le Deux Sept nous rend visite !"
 baneer: "https://werobot.fr/posts/DeuxSept_werobot.jpg"
 banner: "https://werobot.fr/posts/DeuxSept_werobot.jpg"
 draft: false
@@ -48,6 +48,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 
 We Robot remercie le Deux Sept d'être venu à sa rencontre et d'avoir créé un super reportage à son sujet !
+
 
 
 
