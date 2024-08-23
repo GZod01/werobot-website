@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{  $showDatesList := false }}
 <div>
     <div class="cover">
       <div class="cover-back"></div>
@@ -13,54 +12,11 @@
     </div>
     <div class="content">
       <div class="container mx-auto">
-	{{ if $showDatesList }}
-          <div
-            class="sort-by-dates-container"
-          >
-            <h3 class="ml-2">{{ (index site.Params.articles "sort-by-years").title }}</h3>
-            <ul class="dates-mosaic">
-              <li>
-                <a
-                  class="link link-primary"
-                  @click="filterYear(null)">{{ site.Params.articles.all }}</a>
-              </li>
-	      
-	      {{ range (.Pages.GroupByDate "2006") }}
-              <li>
-                <a
-                  class="link link-primary"
-		  href="/blog/{{ .Key }}">{{ .Key }}</a> : {{(len .Pages)}} {{ (index site.Params.articles "sort-by-years").posts }}
-              </li>
-	      {{ end }}
-            </ul>
-          </div>
-	  {{ end }}
         <div class="blog-title-container py-2">
           <h2 class="index-icon-title blog-title">
             <i class="fa fas fa-newspaper"></i>
             {{ site.Params.articles.all }}
           </h2>
-          <div class="sort">
-            <div
-              class="link button button-primary"
-              @click="fetchDates">
-              <div class="button-icon">
-		  {{ if $showDatesList }}
-                <i
-                  class="fa fas fa-calendar"></i>
-		{{ else }}
-                <i class="fa fas fa-times"></i>
-			{{end}}
-              </div>
-	      {{ if not $showDatesList }}
-              <div
-                class="button-text">{{ (index site.Params.articles "sort-by-years").title }}</div>
-	      {{ else }}
-              <div
-                class="button-text">{{ (index site.Params.articles "sort-by-years").close }}</div>
-	      {{ end }}
-            </div>
-          </div>
         </div>
 
         <div class="mt-4">
