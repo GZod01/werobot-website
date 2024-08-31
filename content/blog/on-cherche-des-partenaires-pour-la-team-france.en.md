@@ -1,8 +1,8 @@
 ---
 title: "We're looking for partners for TEAM FRANCE"
-date: "2024-05-09T19:55:06+02:00"
-lastmod: "2024-08-18T16:06:21+02:00"
-lastupdate: "2024-08-18T16:06:21+02:00"
+date: "2024-05-09T17:55:06+02:00"
+lastmod: "2024-08-31T15:11:36+02:00"
+lastupdate: "2024-08-31T15:11:36+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -27,8 +27,9 @@ draft: false
 
 <br><br>
 <center>
-<iframe src="https://drive.google.com/file/d/19hX-_XkJvoIrtbp3XJ20zgZGFvKw-2-v/preview" width="100%" height="1164" ></iframe>
+<iframe src="https://drive.google.com/file/d/1O9x3RAVsomVR6Oa6oGA5JdALwfbRn8EF/preview" width="100%" height="1164" ></iframe>
 </center>
 <br><br>
     
+
 
