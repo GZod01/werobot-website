@@ -1,9 +1,9 @@
 ---
 title: "À la découverte de notre kit de robotique !"
-date: "2024-08-31T04:51:29+02:00"
-lastmod: "2024-08-31T16:02:12+02:00"
-lastupdate: "2024-08-31T16:02:12+02:00"
-author: "Lucy"
+date: "2024-08-31T02:51:29+02:00"
+lastmod: "2024-08-31T18:56:04+02:00"
+lastupdate: "2024-08-31T18:56:04+02:00"
+author: "coach.francois"
 authors: ["coach.francois","Lucy"]
 facebook_author: "false"
 facebook_site: "false"
@@ -25,11 +25,12 @@ C’est donc avec beaucoup d’impatience et de curiosité que nous avons effect
 
 <br><br>
 <center>
-<video controls>
+<video width="75%" controls>
 <source src="https://werobot.fr/posts/unboxing_athens_2024_youtube.mp4" type="video/mp4"/>
 </video>
 </center>
 <br><br>
 
 Merci FIRST !
+
 
