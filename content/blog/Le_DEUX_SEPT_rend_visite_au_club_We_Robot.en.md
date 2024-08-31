@@ -1,8 +1,8 @@
 ---
 title: "DEUX SEPT visits We Robot"
-date: "2024-08-18T23:30:30+02:00"
-lastmod: "2024-08-31T19:50:27+02:00"
-lastupdate: "2024-08-31T19:50:27+02:00"
+date: "2024-08-18T21:30:30+02:00"
+lastmod: "2024-08-31T19:51:46+02:00"
+lastupdate: "2024-08-31T19:51:46+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -32,7 +32,7 @@ This is the very first video report for We Robot, but not enough to intimidate o
 </center>
 <br><br>
 
-This very comprehensive video covers several points, from the history of We Robot to the different aspects of the *FIRST* Global Challenge competition, which awaits us in September 2024 in Athens!
+This very comprehensive video covers several points, from the history of We Robot to the different aspects of the *FIRST* Global Challenge competition, which awaits us in September 2024 in Athens !
 
 But we don’t tell you more and let you discover our report with *Deux Sept* !
 
@@ -47,6 +47,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 We Robot would like to thank Le Deux Sept for coming to meet us and creating a great report about us !
+
 
 
 
