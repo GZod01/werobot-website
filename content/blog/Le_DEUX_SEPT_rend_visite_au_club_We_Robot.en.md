@@ -1,8 +1,8 @@
 ---
 title: "DEUX SEPT visits We Robot"
-date: "2024-08-19T05:30:30+02:00"
-lastmod: "2024-08-31T19:46:32+02:00"
-lastupdate: "2024-08-31T19:46:32+02:00"
+date: "2024-08-19T03:30:30+02:00"
+lastmod: "2024-08-31T19:47:55+02:00"
+lastupdate: "2024-08-31T19:47:55+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -42,11 +42,12 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 <center>
-<img src="https://werobot.fr/posts/robotique_eure_impressionne_monde_UK.png">
+<img src="https://werobot.fr/posts/robotique_eure_impressionne_monde_UK.png" width="100%">
 </center>
 <br><br>
 
 We Robot remercie le Deux Sept d'être venu à sa rencontre et d'avoir créé un super reportage à son sujet !
+
 
 
 
