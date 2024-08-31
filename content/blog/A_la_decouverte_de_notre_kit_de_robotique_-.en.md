@@ -1,10 +1,10 @@
 ---
 title: "Let's discover our robotics kit !"
-date: "2024-08-31T16:06:43+02:00"
-lastmod: "2024-08-31T16:10:11+02:00"
-lastupdate: "2024-08-31T16:10:11+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+date: "2024-08-31T14:06:43+02:00"
+lastmod: "2024-08-31T18:58:46+02:00"
+lastupdate: "2024-08-31T18:58:46+02:00"
+author: "coach.francois"
+authors: ["Lucy","coach.francois"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -25,10 +25,11 @@ So it was with great anticipation and curiosity that we unpacked it :)  And it's
 
 <br><br>
 <center>
-<video controls>
+<video width="75%"controls>
 <source src="https://werobot.fr/posts/unboxing_athens_2024_youtube.mp4" type="video/mp4"/>
 </video>
 </center>
 <br><br>
 
 Thank you FIRST !
+
