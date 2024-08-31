@@ -1,8 +1,8 @@
 ---
 title: "DEUX SEPT visits We Robot"
-date: "2024-08-19T01:30:30+02:00"
-lastmod: "2024-08-31T19:49:09+02:00"
-lastupdate: "2024-08-31T19:49:09+02:00"
+date: "2024-08-18T23:30:30+02:00"
+lastmod: "2024-08-31T19:50:27+02:00"
+lastupdate: "2024-08-31T19:50:27+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -46,7 +46,8 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 </center>
 <br><br>
 
-We Robot remercie le Deux Sept d'être venu à sa rencontre et d'avoir créé un super reportage à son sujet !
+We Robot would like to thank Le Deux Sept for coming to meet us and creating a great report about us !
+
 
 
 
