@@ -1,8 +1,8 @@
 ---
 title: "DEUX SEPT visits We Robot"
-date: "2024-08-19T07:30:30+02:00"
-lastmod: "2024-08-31T19:44:44+02:00"
-lastupdate: "2024-08-31T19:44:44+02:00"
+date: "2024-08-19T05:30:30+02:00"
+lastmod: "2024-08-31T19:46:32+02:00"
+lastupdate: "2024-08-31T19:46:32+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -28,7 +28,7 @@ This is the very first video report for We Robot, but not enough to intimidate o
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/27_1.jpg">
+<img src="https://werobot.fr/posts/27_1.jpg" width="100">
 </center>
 <br><br>
 
@@ -47,6 +47,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 We Robot remercie le Deux Sept d'être venu à sa rencontre et d'avoir créé un super reportage à son sujet !
+
 
 
 
