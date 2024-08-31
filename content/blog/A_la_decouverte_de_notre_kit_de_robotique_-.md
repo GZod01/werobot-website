@@ -1,8 +1,8 @@
 ---
 title: "À la découverte de notre kit de robotique !"
-date: "2024-08-31T06:51:29+02:00"
-lastmod: "2024-08-31T16:01:03+02:00"
-lastupdate: "2024-08-31T16:01:03+02:00"
+date: "2024-08-31T04:51:29+02:00"
+lastmod: "2024-08-31T16:02:12+02:00"
+lastupdate: "2024-08-31T16:02:12+02:00"
 author: "Lucy"
 authors: ["coach.francois","Lucy"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: "Découvrez notre kit de robotique !"
 baneer: "https://werobot.fr/posts/unboxingcover.jpg"
 banner: "https://werobot.fr/posts/unboxingcover.jpg"
-draft: true
+draft: false
 ---
 Nous vous proposons aujourd’hui de découvrir le contenu du kit de robotique du ***FIRST* Global Challenge**, compétition de robotique junior internationale qui se déroulera du 26 au 29 septembre 2024 à Athènes !
 
@@ -32,3 +32,4 @@ C’est donc avec beaucoup d’impatience et de curiosité que nous avons effect
 <br><br>
 
 Merci FIRST !
+
