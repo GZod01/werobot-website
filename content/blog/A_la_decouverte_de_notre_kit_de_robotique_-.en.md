@@ -1,8 +1,8 @@
 ---
 title: "Let's discover our robotics kit !"
-date: "2024-08-31T14:06:43+02:00"
-lastmod: "2024-08-31T18:58:46+02:00"
-lastupdate: "2024-08-31T18:58:46+02:00"
+date: "2024-08-31T12:06:43+02:00"
+lastmod: "2024-09-01T10:17:47+02:00"
+lastupdate: "2024-09-01T10:17:47+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -32,4 +32,3 @@ So it was with great anticipation and curiosity that we unpacked it :)  And it's
 <br><br>
 
 Thank you FIRST !
-
