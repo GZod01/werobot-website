@@ -1,8 +1,8 @@
 ---
 title: "Lumière, caméra, action !"
-date: "2024-08-19T22:19:19+02:00"
-lastmod: "2024-08-31T15:29:06+02:00"
-lastupdate: "2024-08-31T15:29:06+02:00"
+date: "2024-08-19T18:19:19+02:00"
+lastmod: "2024-09-05T09:07:11+02:00"
+lastupdate: "2024-09-05T09:07:11+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -38,6 +38,15 @@ La vidéo de la Team France pour ce défi est disponible juste ici !
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/OVZCUkU1EyY?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
+
+
+Le montage vidéo final de First Global : bravo à Lucy qui y figure en bonne place pour représenter notre équipe !
+
+<br><br>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/Eq8memzlpM4?
+version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+
+
 
 
 
