@@ -1,8 +1,8 @@
 ---
 title: "Lights, camera, action !"
-date: "2024-08-20T08:33:43+02:00"
-lastmod: "2024-08-23T10:47:52+02:00"
-lastupdate: "2024-08-23T10:47:52+02:00"
+date: "2024-08-20T06:33:43+02:00"
+lastmod: "2024-09-05T09:10:17+02:00"
+lastupdate: "2024-09-05T09:10:17+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -35,8 +35,16 @@ This multicultural video is very symbolic, as it will be broadcast during the op
 
 The video of Team France for this challenge is available right here !
 
-<br><br>
+<br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/OVZCUkU1EyY?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
+
+First Global's final video montage: well done to Lucy, who features prominently (second 35) to represent our team !
+
+<br>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/Eq8memzlpM4?
+version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+
+
 
