@@ -20,8 +20,9 @@
     display:block;
     width:100%;
     height:597px;
-    &.static::after{
-	position:absolute;
+    &.static{
+	&::after{
+	position:relative;
 	left:50%;
 	top:50%;
 	transform: translate(-50% -50%);
@@ -29,6 +30,11 @@
 	height:20px;
 	content:"Play";
 	background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1024px-YouTube_social_white_circle_%282017%29.svg.png);
+	}
+	img{
+	    width:100%!important;
+	    height:100%!important;
+	}
     }
 }
 </style>
