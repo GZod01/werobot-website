@@ -41,7 +41,6 @@ members:
       name: "Louise"
       post: "Communication"
     - img: "leane"
-      imgpng: true
       name: "Léane"
       post: "Communication"
     - img: "quentin"
