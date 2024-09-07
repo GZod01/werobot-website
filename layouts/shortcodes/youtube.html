@@ -23,17 +23,16 @@
     height:597px;
     &.static{
 	&::after{
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
 	    position:absolute;
-	    display:block;
 	    left:50%;
 	    top:50%;
 	    transform: translate(-50%, -50%);
 	    width:80px;
 	    height:80px;
 	    content:"Play on youtube";
-	    line-height:80px;
-	    text-align:center;
-	    vertical-align:middle;
 	    background: url(/youtube.svg);
 	    background-size:cover;
 	}
