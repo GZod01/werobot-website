@@ -7,17 +7,24 @@
 {{ end }}
 {{ if (.Get "iframemode") }}
 <center>
-    <iframe class=youtubelink src="https://youtube.com/embed/{{ $code }}?cc_load_policy=1&cc_lang_pref=fr&hl=fr-FR&autohide=2&wmode=transparent" allowfullscreen="true"></iframe>
+    <iframe class="youtubelink" src="https://youtube.com/embed/{{ $code }}?cc_load_policy=1&cc_lang_pref=fr&hl=fr-FR&autohide=2&wmode=transparent" allowfullscreen="true"></iframe>
 </center>
 </center>
 {{ else }}
 <center>
-<a class=youtubelink href="https://youtu.be/{{ $code }}"><img src="http://i3.ytimg.com/vi/{{ $code }}/hqdefault.jpg"/></a>
+<a class="youtubelink static" href="https://youtu.be/{{ $code }}"><img src="http://i3.ytimg.com/vi/{{ $code }}/hqdefault.jpg"/></a>
 </center>
 {{ end }}
 <style>
 .youtubelink{
     width:100%;
     height:597;
+    &.static::after{
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50% -50%);
+	background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/1024px-YouTube_social_white_circle_%282017%29.svg.png);
+    }
 }
 </style>
