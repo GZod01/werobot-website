@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-08T11:16:14+02:00"
-lastmod: "2024-09-08T16:37:13+02:00"
-lastupdate: "2024-09-08T16:37:13+02:00"
+date: "2024-09-08T09:16:14+02:00"
+lastmod: "2024-09-08T16:37:41+02:00"
+lastupdate: "2024-09-08T16:37:41+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -11,11 +11,10 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "
-
 Mercredi 4 septembre 2024 a été une date toute particulière pour notre équipe puisque nous nous sommes rendus à l’Afpa d’Évreux (27)  pour enfin présenter notre robot à nos sponsors !"
 baneer: "https://werobot.fr/posts/unboxingcover.jpg"
 banner: "https://werobot.fr/posts/unboxingcover.jpg"
-draft: false
+draft: true
 ---
 Mercredi 4 septembre 2024 a été une date toute particulière pour notre équipe puisque nous nous sommes rendus à l’Afpa d’Évreux (27) pour enfin présenter notre robot à nos sponsors !
 
@@ -128,6 +127,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
