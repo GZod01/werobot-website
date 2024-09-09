@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-07T01:16:14+02:00"
-lastmod: "2024-09-09T22:06:30+02:00"
-lastupdate: "2024-09-09T22:06:30+02:00"
+date: "2024-09-06T23:16:14+02:00"
+lastmod: "2024-09-09T22:11:11+02:00"
+lastupdate: "2024-09-09T22:11:11+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -42,7 +42,7 @@ Toujours dans cette optique, des stagiaires de l’Afpa ont réalisé un module 
 <center>
     <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/module1.jpg" width="33%"></td>
+            <td><img src="https://werobot.fr/posts/module1.jpg" width="33%" style="float:left"></td>
             <td><img src="https://werobot.fr/posts/module2.jpg" width="33%"></td>
 	</tr>
     </table>
@@ -110,6 +110,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
