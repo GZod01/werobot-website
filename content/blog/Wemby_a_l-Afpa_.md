@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-07T19:16:14+02:00"
-lastmod: "2024-09-09T21:22:03+02:00"
-lastupdate: "2024-09-09T21:22:03+02:00"
+date: "2024-09-07T15:16:14+02:00"
+lastmod: "2024-09-09T21:39:29+02:00"
+lastupdate: "2024-09-09T21:39:29+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -56,11 +56,9 @@ Cet évènement a également constitué la première apparition publique de notr
 C’est donc avec beaucoup d’enthousiasme que nous avons dévoilé notre robot au public, nommé Wemby, en référence à l’icône française du basket Victor Wembanyama, puisque notre robot peut lui aussi être très grand !
 
 <br><br>
-<center>
-<video width="100%" controls>
-<source src="" type="video/mp4"/>
+<video width="50%" controls>
+<source src="https://werobot.fr/posts/grand_moment.mp4" type="video/mp4"/>
 </video>
-</center>
 <br><br>
 
 D’ailleurs, on ne vous en dit pas plus sur Wemby, puisque nous avons directement effectué devant notre public une simulation de match après avoir visionné les règles du jeu !
@@ -110,6 +108,8 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
+
 
 
 
