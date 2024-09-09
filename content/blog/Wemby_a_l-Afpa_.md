@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-06T13:16:14+02:00"
-lastmod: "2024-09-09T22:20:41+02:00"
-lastupdate: "2024-09-09T22:20:41+02:00"
+date: "2024-09-06T11:16:14+02:00"
+lastmod: "2024-09-09T22:21:39+02:00"
+lastupdate: "2024-09-09T22:21:39+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -69,7 +69,7 @@ Nous avons également pu découvrir pour la première fois un exemplaire des mé
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/médaille.jpg" width="66%">
+<img src="https://werobot.fr/posts/médaille.jpg" width="33%">
 </center>
 <br><br>
 
@@ -110,6 +110,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
