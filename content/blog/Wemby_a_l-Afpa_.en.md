@@ -1,8 +1,8 @@
 ---
 title: "Wemby at Afpa"
-date: "2024-09-09T06:56:05+02:00"
-lastmod: "2024-09-09T22:37:50+02:00"
-lastupdate: "2024-09-09T22:37:50+02:00"
+date: "2024-09-09T04:56:05+02:00"
+lastmod: "2024-09-09T22:39:23+02:00"
+lastupdate: "2024-09-09T22:39:23+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -64,7 +64,7 @@ So it was with great enthusiasm that we unveiled our robot to the public, named 
 <br><br>
 By the way, we won't tell you any more about Wemby, as we performed a simulated match directly in front of our audience after viewing the game rules !
 
-We were also able to see for the first time a copy of the 3d-printed medals we'll be distributing to young people around the world in Athens! This production of medals in very large quantities (1000!) was made possible thanks to NAE (Normandie AeroEspace), whom we would like to thank warmly for their support and hard work !
+We were also able to see for the first time a copy of the 3d-printed medals we'll be distributing to young people around the world in Athens! This production of medals in very large quantities (1000 !) was made possible thanks to NAE (Normandie AeroEspace), whom we would like to thank warmly for their support and hard work !
 
 <br><br>
 <center>
@@ -108,6 +108,7 @@ Last but not least, Afpa gave each of the youngsters a tote bag with little gift
 <br><br>
 
 Thank you very much !!!
+
 
 
 
