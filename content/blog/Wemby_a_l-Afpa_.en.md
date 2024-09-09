@@ -1,8 +1,8 @@
 ---
 title: "Wemby at Afpa"
-date: "2024-09-09T00:56:05+02:00"
-lastmod: "2024-09-09T22:52:11+02:00"
-lastupdate: "2024-09-09T22:52:11+02:00"
+date: "2024-09-08T22:56:05+02:00"
+lastmod: "2024-09-09T23:00:29+02:00"
+lastupdate: "2024-09-09T23:00:29+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,7 +22,7 @@ Afpa (Association pour la formation professionnelle des adultes) is an organizat
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/afpa.jpg" width="90%">
+<img src="https://werobot.fr/posts/afpa.jpg" width="100%">
 </center>
 <br><br>
 
@@ -32,7 +32,7 @@ Once we arrived at the venue, we immediately took the necessary steps to recreat
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/préparatifs.jpg" width="90%">
+<img src="https://werobot.fr/posts/préparatifs.jpg" width="100%">
 </center>
 <br><br>
 
@@ -40,7 +40,7 @@ With this in mind, Afpa trainees created a module similar to the one that will b
 
 <br><br>
 <center>
-    <table width="90%">
+    <table width="60%">
         <tr>
             <td align="right"><img src="https://werobot.fr/posts/module1.jpg"></td>
             <td align="left"><img src="https://werobot.fr/posts/module2.jpg"></td>
@@ -57,7 +57,7 @@ So it was with great enthusiasm that we unveiled our robot to the public, named 
 
 <br><br>
 <center>
-<video width="45%" controls>
+<video width="40%" controls>
 <source src="https://werobot.fr/posts/gd_moment.mp4" type="video/mp4"/>
 </video>
 </center>
@@ -68,7 +68,7 @@ We were also able to see for the first time a copy of the 3d-printed medals we'l
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/médaille.jpg" width="45%">
+<img src="https://werobot.fr/posts/médaille.jpg" width="40%">
 </center>
 <br><br>
 
@@ -77,7 +77,7 @@ We were also able to see for the first time a copy of the 3d-printed medals we'l
 Our audience was very varied: of course, we were joined by representatives of our corporate sponsors such as SKF, NAE and Credit Agricole Normandie-Seine. The Gaillon establishments that have also lent us their support were also present: the Le Temps Pour Soi beauty salon and the La Marina restaurant! The municipality of Gaillon, the birthplace of our association, was also on hand, represented by the mayor and her deputy! Last but not least, we'd like to thank Vernon's BPM radio station once again for its media coverage of our team and our projects !
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/foto.jpg" width="90%">
+<img src="https://werobot.fr/posts/foto.jpg" width="100%">
 </center>
 <br><br>
 
@@ -85,7 +85,7 @@ Last but not least, we would like to thank Afpa for lending us their premises, a
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supporters2.jpg" width="90%">
+<img src="https://werobot.fr/posts/supporters2.jpg" width="100%">
 </center>
 <br><br>
 
@@ -93,7 +93,7 @@ We then had the pleasure of carrying out a ***FIRST* Global Challenge** social n
 
 <br><br>
 <center>
-<video width="90%" controls>
+<video width="100%" controls>
 <source src="https://werobot.fr/posts/videosupporters.mp4" type="video/mp4"/>
 </video>
 </center>
@@ -103,11 +103,12 @@ Last but not least, Afpa gave each of the youngsters a tote bag with little gift
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/totebag.jpg" width="90%">
+<img src="https://werobot.fr/posts/totebag.jpg" width="100%">
 </center>
 <br><br>
 
 Thank you very much !!!
+
 
 
 
