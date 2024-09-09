@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-07T21:16:14+02:00"
-lastmod: "2024-09-09T21:20:12+02:00"
-lastupdate: "2024-09-09T21:20:12+02:00"
+date: "2024-09-07T19:16:14+02:00"
+lastmod: "2024-09-09T21:22:03+02:00"
+lastupdate: "2024-09-09T21:22:03+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -38,6 +38,7 @@ Une fois arrivés dans la salle, nous avons immédiatement pris les mesures néc
 
 Toujours dans cette optique, des stagiaires de l’Afpa ont réalisé un module similaire à celui qui sera présent sur le terrain de jeu à Athènes permettant de récupérer les balles, nous garantissant donc un entraînement dans les vraies conditions de la compétition ! De plus, cette élaboration du module a bien évidemment été bénéfique aux stagiaires puisque ce travail a demandé beaucoup de travail d’équipe !
 
+<br><br>
 <center>
     <table>
         <tr>
@@ -46,6 +47,7 @@ Toujours dans cette optique, des stagiaires de l’Afpa ont réalisé un module 
 	</tr>
     </table>
 </center>
+<br><br>
 
 **Le dévoilement de notre robot et la découverte de notre médaille**
 
@@ -108,6 +110,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
