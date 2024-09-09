@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-06T03:16:14+02:00"
-lastmod: "2024-09-09T22:51:13+02:00"
-lastupdate: "2024-09-09T22:51:13+02:00"
+date: "2024-09-06T01:16:14+02:00"
+lastmod: "2024-09-09T22:54:52+02:00"
+lastupdate: "2024-09-09T22:54:52+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -22,7 +22,7 @@ L’Afpa (Association pour la formation professionnelle des adultes) est un orga
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/afpa.jpg" width="90%">
+<img src="https://werobot.fr/posts/afpa.jpg" width="100%">
 </center>
 <br><br>
 
@@ -32,7 +32,7 @@ Une fois arrivés dans la salle, nous avons immédiatement pris les mesures néc
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/préparatifs.jpg" width="90%">
+<img src="https://werobot.fr/posts/préparatifs.jpg" width="100%">
 </center>
 <br><br>
 
@@ -40,7 +40,7 @@ Toujours dans cette optique, des stagiaires de l’Afpa ont réalisé un module 
 
 <br><br>
 <center>
-    <table width="90%">
+    <table width="80%">
         <tr>
             <td align="right"><img src="https://werobot.fr/posts/module1.jpg"></td>
             <td align="left"><img src="https://werobot.fr/posts/module2.jpg"></td>
@@ -57,7 +57,7 @@ C’est donc avec beaucoup d’enthousiasme que nous avons dévoilé notre robot
 
 <br><br>
 <center>
-<video width="45%" controls>
+<video width="40%" controls>
 <source src="https://werobot.fr/posts/gd_moment.mp4" type="video/mp4"/>
 </video>
 </center>
@@ -69,7 +69,7 @@ Nous avons également pu découvrir pour la première fois un exemplaire des mé
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/médaille.jpg" width="45%">
+<img src="https://werobot.fr/posts/médaille.jpg" width="40%">
 </center>
 <br><br>
 
@@ -79,7 +79,7 @@ Notre public était très varié : Nous avons évidemment retrouvé des représe
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/foto.jpg" width="90%">
+<img src="https://werobot.fr/posts/foto.jpg" width="100%">
 </center>
 <br><br>
 
@@ -87,7 +87,7 @@ Enfin, nous remercions l’Afpa de nous avoir prêté ses locaux, de même que s
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supporters2.jpg" width="45%">
+<img src="https://werobot.fr/posts/supporters2.jpg" width="40%">
 </center>
 <br><br>
 
@@ -95,7 +95,7 @@ Nous avons ensuite eu le plaisir de réaliser un challenge « réseaux sociaux �
 
 <br><br>
 <center>
-<video width="90%" controls>
+<video width="100%" controls>
 <source src="https://werobot.fr/posts/videosupporters.mp4" type="video/mp4"/>
 </video>
 </center>
@@ -105,11 +105,12 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/totebag.jpg" width="90%">
+<img src="https://werobot.fr/posts/totebag.jpg" width="100%">
 </center>
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
