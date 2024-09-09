@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-05T17:16:14+02:00"
-lastmod: "2024-09-09T22:59:34+02:00"
-lastupdate: "2024-09-09T22:59:34+02:00"
+date: "2024-09-05T15:16:14+02:00"
+lastmod: "2024-09-09T23:01:29+02:00"
+lastupdate: "2024-09-09T23:01:29+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -87,7 +87,7 @@ Enfin, nous remercions l’Afpa de nous avoir prêté ses locaux, de même que s
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supporters2.jpg" width="40%">
+<img src="https://werobot.fr/posts/supporters2.jpg" width="100%">
 </center>
 <br><br>
 
@@ -110,6 +110,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
