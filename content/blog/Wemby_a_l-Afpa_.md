@@ -1,8 +1,8 @@
 ---
 title: "Wemby à l'Afpa "
-date: "2024-09-05T23:16:14+02:00"
-lastmod: "2024-09-09T22:56:20+02:00"
-lastupdate: "2024-09-09T22:56:20+02:00"
+date: "2024-09-05T21:16:14+02:00"
+lastmod: "2024-09-09T22:57:17+02:00"
+lastupdate: "2024-09-09T22:57:17+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois"]
 facebook_author: "false"
@@ -57,7 +57,7 @@ C’est donc avec beaucoup d’enthousiasme que nous avons dévoilé notre robot
 
 <br><br>
 <center>
-<video width="40%" controls>
+<video width="30%" controls>
 <source src="https://werobot.fr/posts/gd_moment.mp4" type="video/mp4"/>
 </video>
 </center>
@@ -110,6 +110,7 @@ Enfin, l’Afpa a offert à chacun des jeunes un tote bag avec des petits cadeau
 <br><br>
 
 Merci beaucoup !!!
+
 
 
 
