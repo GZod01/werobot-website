@@ -1,8 +1,8 @@
 ---
 title: "Wemby at Afpa"
-date: "2024-09-08T20:56:05+02:00"
-lastmod: "2024-09-09T23:01:40+02:00"
-lastupdate: "2024-09-09T23:01:40+02:00"
+date: "2024-09-08T18:56:05+02:00"
+lastmod: "2024-09-09T23:03:03+02:00"
+lastupdate: "2024-09-09T23:03:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,7 +22,7 @@ Afpa (Association pour la formation professionnelle des adultes) is an organizat
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/afpa.jpg" width="100%">
+<img src="https://werobot.fr/posts/afpa.jpg" width="60%">
 </center>
 <br><br>
 
@@ -108,6 +108,7 @@ Last but not least, Afpa gave each of the youngsters a tote bag with little gift
 <br><br>
 
 Thank you very much !!!
+
 
 
 
