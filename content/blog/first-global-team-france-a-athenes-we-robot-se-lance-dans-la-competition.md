@@ -1,8 +1,8 @@
 ---
 title: "FIRST Global TEAM FRANCE à Athènes : We Robot se lance dans la compétition ! "
-date: "2024-05-02T03:15:13+02:00"
-lastmod: "2024-08-18T15:39:14+02:00"
-lastupdate: "2024-08-18T15:39:14+02:00"
+date: "2024-05-02T01:15:13+02:00"
+lastmod: "2024-09-10T12:01:03+02:00"
+lastupdate: "2024-09-10T12:01:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -27,7 +27,7 @@ Ce nouveau défi est une belle opportunité pour notre équipe de monter en comp
 <center>
 <table>
     <tr>
-        <td><img src="/proxyPhotos?code=/blog/bob-ross/6642731b3e2eb/50.png" alt="Bob Ross"></td>
+        <td><img src="https://werobot.fr/posts/Trombinoscope.png"></td>
     </tr>
 </table>
 </center>
@@ -47,3 +47,4 @@ Faire un don à WE ROBOT (helloasso.com)
 </center>
 
     
+
