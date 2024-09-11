@@ -7,7 +7,7 @@ old:
   - name: "Menuiserie SLB"
     id: "papavoine"
     url: "https://www.instagram.com/slb.menuiserie/"
-    img: "papavoine.jpg"
+    img: "slb_menuiserie.png"
     description: "Pour la saison 2018-2019, la menuiserie Papavoine nous à aider à réaliser les éléments de la table de jeu des Trophées de robotique. En 2014, cette société devient la menuiserie SLB reprise par M Steve Le Bervet qui nous aide à découper les panneaux de notre nouvelle Flight case."
   - name: "Groupement Interprofessionnel de la Région de Vernon"
     id: "girv"
