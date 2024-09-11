@@ -1,8 +1,8 @@
 ---
 title: "15 juin 2024, WeRobot association de la semaine  sur Radio BPM Vernon"
-date: "2024-09-10T12:52:24+02:00"
-lastmod: "2024-09-11T09:29:30+02:00"
-lastupdate: "2024-09-11T09:29:30+02:00"
+date: "2024-09-10T10:52:24+02:00"
+lastmod: "2024-09-11T12:22:25+02:00"
+lastupdate: "2024-09-11T12:22:25+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -13,13 +13,16 @@ keywords: [""]
 description: "Interview par BPM Vernon à l'AFPA d'Evreux"
 baneer: "false"
 banner: "false"
-draft: true
+draft: false
 ---
 ## Interview par BPM Vernon à l'AFPA d'Evreux
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/BPM.png" width="60%">
+<figure>
+<img src="https://werobot.fr/posts/team france afpa.JPG">
+<figcaption>TEAM FRANCE à l'Afpa</figcaption>
+</figure>
 </center>
 <br><br>
 
@@ -30,6 +33,7 @@ We robot permet de faire apprendre à des collégiens et lycéens de manière lu
 
 <br><br>
 <iframe width="100%" height="597"src="https://www.youtube.com/embed/VZNkaO2lQJE?cc_load_policy=1&cc_lang_pref=fr&hl=fr-FR&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0"></iframe>
+
 
 
 
