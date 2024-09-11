@@ -1,8 +1,8 @@
 ---
 title: "15 juin 2024, WeRobot association de la semaine  sur Radio BPM Vernon"
-date: "2024-09-10T08:52:24+02:00"
-lastmod: "2024-09-11T12:23:52+02:00"
-lastupdate: "2024-09-11T12:23:52+02:00"
+date: "2024-09-10T06:52:24+02:00"
+lastmod: "2024-09-11T12:24:51+02:00"
+lastupdate: "2024-09-11T12:24:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -24,7 +24,7 @@ draft: false
 <figcaption>TEAM FRANCE à l'Afpa</figcaption>
 </figure>
 </center>
-<br><br>
+<br>
 
 Interview par BPM Vernon à l'AFPA d'Evreux : notre Président présente notre association et notre préparation en tant que TEAM FRANCE aux jeux olympiques junior du First Global Challenge à Athènes.
 <br>
@@ -33,6 +33,7 @@ We robot permet de faire apprendre à des collégiens et lycéens de manière lu
 
 <br><br>
 <iframe width="100%" height="597"src="https://www.youtube.com/embed/VZNkaO2lQJE?cc_load_policy=1&cc_lang_pref=fr&hl=fr-FR&autohide=2&wmode=transparent" allowfullscreen="true" style="border:0"></iframe>
+
 
 
 
