@@ -1,8 +1,8 @@
 ---
 title: "Un robot nommé Wemby"
-date: "2024-09-12T03:43:43+02:00"
-lastmod: "2024-09-12T14:06:29+02:00"
-lastupdate: "2024-09-12T14:06:29+02:00"
+date: "2024-09-12T01:43:43+02:00"
+lastmod: "2024-09-12T14:07:39+02:00"
+lastupdate: "2024-09-12T14:07:39+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -25,13 +25,14 @@ Pour la compétition du First Global Challenge Athens 2024, La Team France à ba
     <table width="60%">
         <tr>
             <td align="right"><img src="https://werobot.fr/posts/wemby_robot.png"></td>
-            <td align="left"><https://werobot.fr/posts/wemby_basketeur.png"></td>
+            <td align="left"><img src="https://werobot.fr/posts/wemby_basketeur.png"></td>
 	</tr>
     </table>
 </center>
 <br><br>
 
 Victor Wembanyama, né le 4 janvier 2004 au Chesnay (Yvelines), est un joueur international français de basket-ball évoluant aux postes d'ailier fort et de pivot pour les Spurs de San Antonio en National Basketball Association (NBA). Mesurant 2,24 mètres, il est l'un des joueurs les plus grands évoluant en NBA en compagnie de Boban Marjanović. En juin 2023, Wembanyama est sélectionné comme choix numéro un de la draft NBA, une première pour un Français. Au terme de sa première saison, où il finit notamment meilleur contreur de la ligue, il obtient de façon unanime la distinction de Rookie of the Year.
+
 
 
 
