@@ -1,8 +1,8 @@
 ---
 title: "Vidéo de révélation de Wemby"
-date: "2024-09-15T15:48:29+02:00"
-lastmod: "2024-09-15T22:11:47+02:00"
-lastupdate: "2024-09-15T22:11:47+02:00"
+date: "2024-09-15T13:48:29+02:00"
+lastmod: "2024-09-15T22:18:52+02:00"
+lastupdate: "2024-09-15T22:18:52+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Vidéo officielle de la révélation de notre robot Wemby"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/pierrick_reveal.jpg"
+banner: "https://werobot.fr/posts/pierrick_reveal.jpg"
 draft: false
 ---
 ## Vidéo officielle de la révélation de notre robot Wemby
@@ -26,4 +26,5 @@ Comme chaque équipe du FIRST Global Challenge Athens 2024 la TEAM FRANCE révè
 </video>
 </center>
 <br><br>
+
 
