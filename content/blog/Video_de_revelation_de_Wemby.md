@@ -1,8 +1,8 @@
 ---
 title: "Vidéo de révélation de Wemby"
-date: "2024-09-15T11:48:29+02:00"
-lastmod: "2024-09-15T22:24:47+02:00"
-lastupdate: "2024-09-15T22:24:47+02:00"
+date: "2024-09-15T09:48:29+02:00"
+lastmod: "2024-09-23T20:50:34+02:00"
+lastupdate: "2024-09-23T20:50:34+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,10 +22,11 @@ Comme chaque équipe du FIRST Global Challenge Athens 2024 la TEAM FRANCE révè
 <br><br>
 <center>
 <video width="33%" controls>
-<source src="https://werobot.fr/posts/reveal.mp4"/>
+<source src="https://werobot.fr/posts/wemby_reveal.mp4"/>
 </video>
 </center>
 <br><br>
+
 
 
 
