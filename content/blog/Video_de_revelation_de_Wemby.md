@@ -1,8 +1,8 @@
 ---
 title: "Vidéo de révélation de Wemby"
-date: "2024-09-15T09:48:29+02:00"
-lastmod: "2024-09-23T20:50:34+02:00"
-lastupdate: "2024-09-23T20:50:34+02:00"
+date: "2024-09-15T07:48:29+02:00"
+lastmod: "2024-09-23T20:55:38+02:00"
+lastupdate: "2024-09-23T20:55:38+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -26,6 +26,7 @@ Comme chaque équipe du FIRST Global Challenge Athens 2024 la TEAM FRANCE révè
 </video>
 </center>
 <br><br>
+
 
 
 
