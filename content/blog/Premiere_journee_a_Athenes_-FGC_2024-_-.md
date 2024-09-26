@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-26T03:46:13+02:00"
-lastmod: "2024-09-26T08:14:23+02:00"
-lastupdate: "2024-09-26T08:14:23+02:00"
+date: "2024-09-25T23:46:13+02:00"
+lastmod: "2024-09-26T08:16:47+02:00"
+lastupdate: "2024-09-26T08:16:47+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Suivez l'équipe durant sa première journée à Athènes !"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/unboxingcover.jpg"
+banner: "https://werobot.fr/posts/unboxingcover.jpg"
 draft: false
 ---
 La compétition du ***FIRST*** **Global Challenge** édition 2024 se déroule du 26 au 29 septembre au Stade de la Paix et de l'Amitié, un lieu symbolique qui représente parfaitement les valeurs portées par l'organisation de la compétition !
@@ -136,3 +136,5 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
+
