@@ -1,10 +1,10 @@
 ---
 title: "We Robot arrive à Athènes !"
-date: "2024-09-26T03:43:47+02:00"
-lastmod: "2024-09-27T10:44:37+02:00"
-lastupdate: "2024-09-27T10:44:37+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+date: "2024-09-26T01:43:47+02:00"
+lastmod: "2024-09-27T10:49:08+02:00"
+lastupdate: "2024-09-27T10:49:08+02:00"
+author: "GZod01"
+authors: ["Lucy","GZod01"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -140,3 +140,4 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
