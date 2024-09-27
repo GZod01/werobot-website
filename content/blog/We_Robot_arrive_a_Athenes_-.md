@@ -1,8 +1,8 @@
 ---
 title: "We Robot arrive à Athènes !"
-date: "2024-09-26T01:43:47+02:00"
-lastmod: "2024-09-27T10:49:08+02:00"
-lastupdate: "2024-09-27T10:49:08+02:00"
+date: "2024-09-25T23:43:47+02:00"
+lastmod: "2024-09-27T12:03:18+02:00"
+lastupdate: "2024-09-27T12:03:18+02:00"
 author: "GZod01"
 authors: ["Lucy","GZod01"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: ""
 baneer: "false"
 banner: "false"
-draft: false
+draft: true
 ---
 La compétition du ***FIRST*** **Global Challenge** édition 2024 se déroule du 26 au 29 septembre au Stade de la Paix et de l'Amitié, un lieu symbolique qui représente parfaitement les valeurs portées par l'organisation de la compétition !
 
@@ -140,4 +140,5 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
