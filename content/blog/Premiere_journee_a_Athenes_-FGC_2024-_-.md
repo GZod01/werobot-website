@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T23:46:13+02:00"
-lastmod: "2024-09-26T08:16:47+02:00"
-lastupdate: "2024-09-26T08:16:47+02:00"
+date: "2024-09-25T21:46:13+02:00"
+lastmod: "2024-09-27T10:53:46+02:00"
+lastupdate: "2024-09-27T10:53:46+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Suivez l'équipe durant sa première journée à Athènes !"
-baneer: "https://werobot.fr/posts/unboxingcover.jpg"
-banner: "https://werobot.fr/posts/unboxingcover.jpg"
+baneer: "https://werobot.fr/posts/acropolis.jpg"
+banner: "https://werobot.fr/posts/acropolis.jpg"
 draft: false
 ---
 La compétition du ***FIRST*** **Global Challenge** édition 2024 se déroule du 26 au 29 septembre au Stade de la Paix et de l'Amitié, un lieu symbolique qui représente parfaitement les valeurs portées par l'organisation de la compétition !
@@ -47,15 +47,14 @@ Nous découvrons ensuite notre stand, que nous nous empressons de décorer pour 
 Nous partons ensuite à la découverte de toutes les autres équipes déjà présentes dans le hangar. Nous avons rencontré pratiquement toutes les equipes durant ce premier jour, l'occasion parfaite de se découvrir, et pour cela rien de mieux que d'échanger des cadeaux ! C'est donc avec énormément de plaisir que nous avons offert à tous les membres d'équipes nos superbes médailles imprimées en 3d par NAE (Normandie AeroEspace) !
 
 
-
+<br><br>
 <center>
-    <table>
-        <tr>
-            <td><img src="https://werobot.fr/posts/medal.jpg"></td>
-            <td><img src="https://werobot.fr/posts/pierremed.jpg"></td>
-	</tr>
-    </table>
+<div style="width: 50%">
+<img src="https://werobot.fr/posts/pierremed.jpg">
+</div>
 </center>
+<br><br>
+
 
 <br><br>
 <center>
@@ -74,7 +73,7 @@ La certification est évidemment passée sans problème pour le robot tricolore 
 
 <br><br>
 <center>
-<div style="width: 100%">
+<div style="width: 50%">
 <img src="https://werobot.fr/posts/inspectionj.jpg">
 </div>
 </center>
@@ -86,7 +85,7 @@ Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe 
 
 <br><br>
 <center>
-<div style="width: 100%">
+<div style="width: 50%">
 <img src="https://werobot.fr/posts/couloir.jpg">
 </div>
 </center>
@@ -95,7 +94,7 @@ Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe 
 
 <br><br>
 <center>
-<div style="width: 100%">
+<div style="width: 50%">
 <img src="https://werobot.fr/posts/terrain.jpg">
 </div>
 </center>
@@ -107,7 +106,7 @@ Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heure
 
 <br><br>
 <center>
-<div style="width: 100%">
+<div style="width: 50%">
 <img src="https://werobot.fr/posts/reparation.jpg">
 </div>
 </center>
@@ -116,14 +115,25 @@ Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heure
 Après cette première journée très riche en émotions, nous nous dirigeons vers la plage du port du Pirée, a quelques dizaines de mètres du stade, avec de belles photos !
 
 
+<br><br>
 <center>
-    <table>
-        <tr>
-            <td><img src="https://werobot.fr/posts/sea.jpg"></td>
-            <td><img src="https://werobot.fr/posts/seagrp.jpg"></td>
-	</tr>
-    </table>
+<div style="width: 50%">
+<img src="https://werobot.fr/posts/seagrp.jpg">
+</div>
 </center>
+<br><br>
+
+
+<br><br>
+<center>
+<div style="width: 50%">
+<img src="https://werobot.fr/posts/sea.jpg">
+</div>
+</center>
+<br><br>
+
+
+
 
 Notre journée se finit par un point de passage incontournable et mythique d'Athènes, qui est bien sûr le site de l'Acropole ! De cette colline, une vue imprenable sur Athènes de nuit se dessine, de quoi nous couper le souffle !!!
 
