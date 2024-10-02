@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-29T08:58:36+02:00"
-lastmod: "2024-10-02T08:42:31+02:00"
-lastupdate: "2024-10-02T08:42:31+02:00"
+date: "2024-09-29T06:58:36+02:00"
+lastmod: "2024-10-02T08:46:20+02:00"
+lastupdate: "2024-10-02T08:46:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -26,7 +26,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 
 ### Le terrain de jeu (PLAYING FIELD) en 3D :
 
-<br><br>
+<br>
 <div style="
 	position: relative;
 	width: 100%;
@@ -45,6 +45,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
