@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-28T18:58:36+02:00"
-lastmod: "2024-10-07T15:21:42+02:00"
-lastupdate: "2024-10-07T15:21:42+02:00"
+date: "2024-09-28T16:58:36+02:00"
+lastmod: "2024-10-07T15:22:27+02:00"
+lastupdate: "2024-10-07T15:22:27+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -30,7 +30,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 2. En configuration de jeu il n'y a pas de limite verticale <br>
 3. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm <br>
 3. Il n'y a pas de limite pour la masse du robot
-<br>
+<br><br>
 
 ### Le terrain de jeu (PLAYING FIELD) en 3D :
 <br>
@@ -53,6 +53,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
