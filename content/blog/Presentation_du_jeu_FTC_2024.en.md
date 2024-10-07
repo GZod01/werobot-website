@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-01T22:42:38+02:00"
-lastmod: "2024-10-07T22:03:25+02:00"
-lastupdate: "2024-10-07T22:03:25+02:00"
+date: "2024-10-01T20:42:38+02:00"
+lastmod: "2024-10-07T22:04:41+02:00"
+lastupdate: "2024-10-07T22:04:41+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -57,6 +57,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	">
 </iframe>
 </div>
+
 
 
 
