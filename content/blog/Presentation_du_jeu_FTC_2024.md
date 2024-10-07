@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-27T22:58:36+02:00"
-lastmod: "2024-10-07T17:04:23+02:00"
-lastupdate: "2024-10-07T17:04:23+02:00"
+date: "2024-09-27T20:58:36+02:00"
+lastmod: "2024-10-07T21:34:01+02:00"
+lastupdate: "2024-10-07T21:34:01+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -26,9 +26,9 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 <br><br>
 
 ### Les contraintes
-1. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm, <br>
+1. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm (18' x 18'), <br>
 2. En configuration de jeu il n'y a pas de limite verticale, <br>
-3. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm, <br>
+3. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm (20' x 42'), <br>
 3. Il n'y a pas de limite pour la masse du robot, <br>
 4. Le robot ne peut manipuler qu'un seul élément de jeu, SAMPLE (échantillon) ou SPECIMEN (spécimen) à la fois dans toutes les phases du jeu. 
 <br><br>
@@ -54,6 +54,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
