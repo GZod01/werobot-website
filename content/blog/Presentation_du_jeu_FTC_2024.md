@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-28T12:58:36+02:00"
-lastmod: "2024-10-07T15:24:26+02:00"
-lastupdate: "2024-10-07T15:24:26+02:00"
+date: "2024-09-28T10:58:36+02:00"
+lastmod: "2024-10-07T15:25:51+02:00"
+lastupdate: "2024-10-07T15:25:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,18 +23,18 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 
 <br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/ewlDPvRK4U4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
-<br><br>
 
+<br>
 ### Les contraintes
 1. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm <br>
 2. En configuration de jeu il n'y a pas de limite verticale <br>
 3. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm <br>
 3. Il n'y a pas de limite pour la masse du robot
-<br><br>
 
-### Le terrain de jeu (PLAYING FIELD) en 3D :
 <br>
+### Le terrain de jeu (PLAYING FIELD) en 3D :
 
+<br>
 <div style="
 	position: relative;
 	width: 100%;
@@ -53,6 +53,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
