@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-02T02:42:38+02:00"
-lastmod: "2024-10-07T21:31:59+02:00"
-lastupdate: "2024-10-07T21:31:59+02:00"
+date: "2024-10-02T00:42:38+02:00"
+lastmod: "2024-10-07T21:58:56+02:00"
+lastupdate: "2024-10-07T21:58:56+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -29,8 +29,8 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 1. Starting configuration Robot volume must not exceed 18' x 18' x 18' (45.7 cm x 45.7 cm x 45.7 cm), <br>
 2. In game configuration, there is no vertical limit, <br>
 3. In game configuration, the horizontal size limit is 20' x 42' (50.8 cm x 106.7 cm), <br>
-3. There's no limit to the robot's mass, <br>
-4. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game.
+4. There's no limit to the robot's mass, <br>
+5. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game.
 <br><br>
 
 
@@ -55,6 +55,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	">
 </iframe>
 </div>
+
 
 
 
