@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-02T00:42:38+02:00"
-lastmod: "2024-10-07T21:58:56+02:00"
-lastupdate: "2024-10-07T21:58:56+02:00"
+date: "2024-10-01T22:42:38+02:00"
+lastmod: "2024-10-07T22:03:25+02:00"
+lastupdate: "2024-10-07T22:03:25+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -30,7 +30,9 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 2. In game configuration, there is no vertical limit, <br>
 3. In game configuration, the horizontal size limit is 20' x 42' (50.8 cm x 106.7 cm), <br>
 4. There's no limit to the robot's mass, <br>
-5. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game.
+5. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game, <br>
+6. The height of the SPECIMENS hanging bars : the LOW CHAMBER is 33 cm (13') and the HIGH CHAMBER is 66 cm (26'), <br>
+7. The height of the robot's rungs : LOW RUNG is 20' (50.8 cm) and HIGH RUNG is 36' (91.4 cm).
 <br><br>
 
 
@@ -55,6 +57,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	">
 </iframe>
 </div>
+
 
 
 
