@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-01T04:42:38+02:00"
-lastmod: "2024-10-08T12:56:41+02:00"
-lastupdate: "2024-10-08T12:56:41+02:00"
+date: "2024-10-01T02:42:38+02:00"
+lastmod: "2024-10-08T14:25:32+02:00"
+lastupdate: "2024-10-08T14:25:32+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -40,8 +40,8 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 12. An ASCENT ZONE is an area reserved for robots of the same alliance during the last 30 seconds of the game, <br>
 13. Basket pouring height : LOW BASKET is 25.75" (65.4 cm) and HIGH BASKET is 43" (109.2 cm), <br>
 14. ROBOTS must be outside the SUBMERSIBLE ZONE when they begin their ASCENSION, <br>
-15. A main power switch (type REV-31-1387) must control all power supplied by the robot's battery, <br>
-16. The switch must be easily accessible to all and marked with a nearby label measuring at least 2.5" x 1" (6.4 cm x 2.5 cm).
+15. A main power switch (type [REV-31-1387](https://www.revrobotics.com/rev-31-1387/)) must control all power supplied by the robot's battery, <br>
+16. The switch must be easily accessible to all and marked with a nearby [label](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/power-button-labels.pdf) measuring at least 2.5" x 1" (6.4 cm x 2.5 cm).
 <br><br>
 
 
