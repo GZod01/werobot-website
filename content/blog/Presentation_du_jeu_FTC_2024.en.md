@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-01T00:42:38+02:00"
-lastmod: "2024-10-08T14:36:06+02:00"
-lastupdate: "2024-10-08T14:36:06+02:00"
+date: "2024-09-30T22:42:38+02:00"
+lastmod: "2024-10-08T14:52:06+02:00"
+lastupdate: "2024-10-08T14:52:06+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -38,7 +38,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 10. The diameter of the robot's attachment bars is 1" (2.5 cm), <br>
 11. The height of the barriers (weirs) is 2" (5.1 cm), <br>
 12. An ASCENT ZONE is an area reserved for robots of the same alliance during the last 30 seconds of the game, <br>
-13. Basket pouring height : LOW BASKET is 25.75" (65.4 cm) and HIGH BASKET is 43" (109.2 cm), <br>
+13. Basket pouring height : LOW [BASKET](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDgvMjIvMTEvMjAvMzYvYWZlYmJhZWYtYjMxYi00ZDI0LWI4YzItYWIxZWQyMGJjYzUzL2FtLTMwMTUgQmFza2V0LlBERiJdXQ/am-3015%20Basket.PDF?sha=858d2efda12ae755) is 25.75" (65.4 cm) and HIGH [BASKET](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDgvMjIvMTEvMjAvMzYvYWZlYmJhZWYtYjMxYi00ZDI0LWI4YzItYWIxZWQyMGJjYzUzL2FtLTMwMTUgQmFza2V0LlBERiJdXQ/am-3015%20Basket.PDF?sha=858d2efda12ae755) is 43" (109.2 cm), <br>
 14. ROBOTS must be outside the SUBMERSIBLE ZONE when they begin their ASCENSION, <br>
 15. A main power switch (type [REV-31-1387](https://www.revrobotics.com/rev-31-1387/)) must control all power supplied by the robot's battery, <br>
 16. The switch must be easily accessible to all and marked with a nearby [label](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/power-button-labels.pdf) measuring at least 2.5" x 1" (6.4 cm x 2.5 cm).
