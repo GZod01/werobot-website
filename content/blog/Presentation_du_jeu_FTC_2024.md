@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-26T02:58:36+02:00"
-lastmod: "2024-10-08T12:54:16+02:00"
-lastupdate: "2024-10-08T12:54:16+02:00"
+date: "2024-09-26T00:58:36+02:00"
+lastmod: "2024-10-08T13:09:35+02:00"
+lastupdate: "2024-10-08T13:09:35+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -41,7 +41,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 13. Hauteur de versement des paniers : le LOW BASKET (panier bas) est à 65,4 cm (25,75") et le HIGH BASKET (panier haut) est de 109,2 cm (43"), <br>
 14. Les ROBOTS doivent être en dehors de la SUBMERSIBLE ZONE (zone submersible) lorsqu'ils commencent leur ASCENSION, <br>
 15. Un interrupteur d'alimentation principal (type REV-31-1387) doit contrôler toute l'alimentation fournie par la batterie du robot, <br>
-16. L'interrupteur doit être facilement accessible à tous et signalé par une étiquette à proximité d'au moins 6,4 cm x 2,5 cm (1" x2,5").
+16. L'interrupteur doit être facilement accessible à tous et signalé par une étiquette à proximité d'au moins 6,4 cm x 2,5 cm (1" x 2,5").
 
 <br><br>
 
@@ -66,6 +66,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
