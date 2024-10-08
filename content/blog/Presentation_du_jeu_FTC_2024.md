@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-25T10:58:36+02:00"
-lastmod: "2024-10-08T14:49:48+02:00"
-lastupdate: "2024-10-08T14:49:48+02:00"
+date: "2024-09-25T08:58:36+02:00"
+lastmod: "2024-10-08T14:54:25+02:00"
+lastupdate: "2024-10-08T14:54:25+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -31,7 +31,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 03. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm (20" x 42"), <br>
 04. Il n'y a pas de limite pour la masse du robot, <br>
 05. Le volume des [SAMPLES](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDcvMTEvMzcvMTQvYzM3NmYyMzgtZmU4Yy00OWZlLTg5YzItOWMzODViOWQ0N2ZhL2FtLTU0MDEgU2FtcGxlLnBkZiJdXQ/am-5401%20Sample.pdf?sha=6a19804bcc7eb28f) (échantillons) est de 8,9 cm x 3,8 cm x 3,8 cm (3,5" x 1,5" x 1,5"), <br>
-06. Le robot ne peut manipuler qu'un seul élément de jeu, SAMPLE (échantillon) ou SPECIMEN (spécimen) à la fois dans toutes les phases du jeu, <br>
+06. Le robot ne peut manipuler qu'un seul élément de jeu, [SAMPLE](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDcvMTEvMzcvMTQvYzM3NmYyMzgtZmU4Yy00OWZlLTg5YzItOWMzODViOWQ0N2ZhL2FtLTU0MDEgU2FtcGxlLnBkZiJdXQ/am-5401%20Sample.pdf?sha=6a19804bcc7eb28f) (échantillon) ou SPECIMEN (spécimen) à la fois dans toutes les phases du jeu, <br>
 07. Hauteur des barres d'accroche en plastique des SPECIMENS (spécimens) : le LOW CHAMBER (réservoir bas) est à 33 cm (13") et le HIGH CHAMBER (réservoir haut) est à 66 cm (26"), <br>
 08. Le diamètre des barres d'accroche des SPECIMENS (spécimens) est de 2,7 cm (1,05"), <br>
 09. Hauteur des barres d'accroche en aluminium du robot : le LOW RUNG (échelon bas) est à 50,8 cm (20") et le HIGH RUNG (échelon haut) est à 91,4 cm (36"), <br>

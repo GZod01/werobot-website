@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-09-30T22:42:38+02:00"
-lastmod: "2024-10-08T14:52:06+02:00"
-lastupdate: "2024-10-08T14:52:06+02:00"
+date: "2024-09-30T20:42:38+02:00"
+lastmod: "2024-10-08T14:54:59+02:00"
+lastupdate: "2024-10-08T14:54:59+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -30,8 +30,8 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 02. In game configuration, there is no vertical limit, <br>
 03. In game configuration, the horizontal size limit is 20" x 42" (50.8 cm x 106.7 cm), <br>
 04. There's no limit to the robot's mass, <br>
-05. The volume of the SAMPLES is 3.5" x 1.5" x 1.5" (8.9 cm x 3.8 cm x 3.8 cm), <br>
-06. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game, <br>
+05. The volume of the [SAMPLES](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDcvMTEvMzcvMTQvYzM3NmYyMzgtZmU4Yy00OWZlLTg5YzItOWMzODViOWQ0N2ZhL2FtLTU0MDEgU2FtcGxlLnBkZiJdXQ/am-5401%20Sample.pdf?sha=6a19804bcc7eb28f) is 3.5" x 1.5" x 1.5" (8.9 cm x 3.8 cm x 3.8 cm), <br>
+06. The robot can only handle one game element, [SAMPLE](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDcvMTEvMzcvMTQvYzM3NmYyMzgtZmU4Yy00OWZlLTg5YzItOWMzODViOWQ0N2ZhL2FtLTU0MDEgU2FtcGxlLnBkZiJdXQ/am-5401%20Sample.pdf?sha=6a19804bcc7eb28f) or SPECIMEN, at a time in all phases of the game, <br>
 07. Height of plastic SPECIMENS hanging bars : LOW CHAMBER is 13" (33 cm) and HIGH CHAMBER is 26" (66 cm), <br>
 08. The diameter of the hanging bars for SPECIMENS is 1.05" (2.7 cm), <br>
 09. Height of robot's aluminum grab bars : LOW RUNG is 20" (50.8 cm) and HIGH RUNG is 36" (91.4 cm), <br>
