@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-27T08:58:36+02:00"
-lastmod: "2024-10-08T09:35:11+02:00"
-lastupdate: "2024-10-08T09:35:11+02:00"
+date: "2024-09-27T02:58:36+02:00"
+lastmod: "2024-10-08T11:46:27+02:00"
+lastupdate: "2024-10-08T11:46:27+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -26,15 +26,19 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 <br><br>
 
 ### Les contraintes
-1. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm (18' x 18'), <br>
-2. En configuration de jeu il n'y a pas de limite verticale, <br>
-3. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm (20' x 42'), <br>
-4. Il n'y a pas de limite pour la masse du robot, <br>
-5. Le volume des SAMPLES (échantillons) est de 8,9 cm x 3,8 cm x 3,8 cm (3,5' x 1,5' x 1,5'), <br>
-6. Le robot ne peut manipuler qu'un seul élément de jeu, SAMPLE (échantillon) ou SPECIMEN (spécimen) à la fois dans toutes les phases du jeu, <br>
-7. La hauteur des barreaux d'accroche des SPECIMENS (spécimens) : le LOW CHAMBER (réservoir bas) est à 33 cm (13') et le HIGH CHAMBER (réservoir haut) est à 66 cm (26'), <br>
-8. La hauteur des barreaux d'accroche du robot : le LOW RUNG (échelon bas) est à 50,8 cm (20') et le HIGH RUNG (échelon haut) est à 91,4 cm (36').
-9. Une ASCENT ZONE (zone d'ascension) est une zone réservée aux robots d'une même alliance pendant les 30 dernières secondes du jeu.
+01. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm (18" x 18"), <br>
+02. En configuration de jeu il n'y a pas de limite verticale, <br>
+03. En configuration de jeu la limite de taille horizontale est de 50,8 cm x 106,7 cm (20" x 42"), <br>
+04. Il n'y a pas de limite pour la masse du robot, <br>
+05. Le volume des SAMPLES (échantillons) est de 8,9 cm x 3,8 cm x 3,8 cm (3,5" x 1,5" x 1,5"), <br>
+06. Le robot ne peut manipuler qu'un seul élément de jeu, SAMPLE (échantillon) ou SPECIMEN (spécimen) à la fois dans toutes les phases du jeu, <br>
+07. La hauteur des barreaux d'accroche en plastique des SPECIMENS (spécimens) : le LOW CHAMBER (réservoir bas) est à 33 cm (13") et le HIGH CHAMBER (réservoir haut) est à 66 cm (26"), <br>
+08. Le diamètre des barreaux d'accroche en plastique des SPECIMENS (spécimens) est de 1,05" (2,7 cm); <br>
+09. La hauteur des barreaux d'accroche en aluminium du robot : le LOW RUNG (échelon bas) est à 50,8 cm (20") et le HIGH RUNG (échelon haut) est à 91,4 cm (36"), <br>
+10. Le diamètre des barreaux d'accroche en aluminium du robot est de 1" (2,5 cm), <br>
+11. La hauteur des barriers (barrage de seuil) est de 5,1 cm (2"), <br>
+12. Une ASCENT ZONE (zone d'ascension) est une zone réservée aux robots d'une même alliance pendant les 30 dernières secondes du jeu, <br>
+13. La hauteur de versement des paniers : le LOW BASKET (panier bas) est à 65,4 cm (25,75") et le HIGH BASKET (panier haut) est de 109,2 cm (43").
 
  
 <br><br>
@@ -60,6 +64,9 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
+
+
 
 
 
