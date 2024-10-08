@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-10-01T14:42:38+02:00"
-lastmod: "2024-10-08T08:25:50+02:00"
-lastupdate: "2024-10-08T08:25:50+02:00"
+date: "2024-10-01T12:42:38+02:00"
+lastmod: "2024-10-08T09:33:22+02:00"
+lastupdate: "2024-10-08T09:33:22+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -33,7 +33,8 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 5. The volume of the SAMPLES is 3.5' x 1.5' x 1.5' (8.9 cm x 3.8 cm x 3.8 cm), <br>
 6. The robot can only handle one game element, SAMPLE or SPECIMEN, at a time in all phases of the game, <br>
 7. The height of the SPECIMENS hanging bars : the LOW CHAMBER is 33 cm (13') and the HIGH CHAMBER is 66 cm (26'), <br>
-8. The height of the robot's rungs : LOW RUNG is 20' (50.8 cm) and HIGH RUNG is 36' (91.4 cm).
+8. The height of the robot's rungs : LOW RUNG is 20' (50.8 cm) and HIGH RUNG is 36' (91.4 cm), <br>
+9. An ASCENT ZONE is an area reserved for robots from the same alliance during the last 30 seconds of the game.
  
 <br><br>
 
@@ -59,6 +60,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	">
 </iframe>
 </div>
+
 
 
 
