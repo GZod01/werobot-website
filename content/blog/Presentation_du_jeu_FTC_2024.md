@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-26T16:58:36+02:00"
-lastmod: "2024-10-08T12:07:22+02:00"
-lastupdate: "2024-10-08T12:07:22+02:00"
+date: "2024-09-26T10:58:36+02:00"
+lastmod: "2024-10-08T12:32:08+02:00"
+lastupdate: "2024-10-08T12:32:08+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -38,9 +38,8 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 10. Le diamètre des barres d'accroche du robot est de 2,5 cm (1"), <br>
 11. La hauteur des barriers (barrages de seuil) est de 5,1 cm (2"), <br>
 12. Une ASCENT ZONE (zone d'ascension) est une zone réservée aux robots d'une même alliance pendant les 30 dernières secondes du jeu, <br>
-13. Hauteur de versement des paniers : le LOW BASKET (panier bas) est à 65,4 cm (25,75") et le HIGH BASKET (panier haut) est de 109,2 cm (43").
-
- 
+13. Hauteur de versement des paniers : le LOW BASKET (panier bas) est à 65,4 cm (25,75") et le HIGH BASKET (panier haut) est de 109,2 cm (43"), <br>
+14. Les ROBOTS doivent être en dehors de la SUBMERSIBLE ZONE (zone submersible) lorsqu'ils commencent leur ASCENSION.
 <br><br>
 
 ### Le terrain de jeu (PLAYING FIELD) en 3D :
@@ -64,6 +63,9 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
+
+
 
 
 
