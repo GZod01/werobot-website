@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-25T22:58:36+02:00"
-lastmod: "2024-10-08T14:24:24+02:00"
-lastupdate: "2024-10-08T14:24:24+02:00"
+date: "2024-09-25T20:58:36+02:00"
+lastmod: "2024-10-08T14:31:05+02:00"
+lastupdate: "2024-10-08T14:31:05+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -40,8 +40,8 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 12. Une ASCENT ZONE (zone d'ascension) est une zone réservée aux robots d'une même alliance pendant les 30 dernières secondes du jeu, <br>
 13. Hauteur de versement des paniers : le LOW BASKET (panier bas) est à 65,4 cm (25,75") et le HIGH BASKET (panier haut) est de 109,2 cm (43"), <br>
 14. Les ROBOTS doivent être en dehors de la SUBMERSIBLE ZONE (zone submersible) lorsqu'ils commencent leur ASCENSION, <br>
-15. Un interrupteur d'alimentation principal (type [REV-31-1387](https://www.revrobotics.com/rev-31-1387/)) doit contrôler toute l'alimentation fournie par la batterie du robot, <br>
-16. L'interrupteur doit être facilement accessible à tous et signalé par une [étiquette](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/power-button-labels.pdf) à proximité d'au moins 6,4 cm x 2,5 cm (1" x 2,5").
+15. Un interrupteur d'alimentation principal (type [REV-31-1387](https://external.ink?to=/www.revrobotics.com/rev-31-1387/)) doit contrôler toute l'alimentation fournie par la batterie du robot, <br>
+16. L'interrupteur doit être facilement accessible à tous et signalé par une étiquette à proximité d'au moins 6,4 cm x 2,5 cm (1" x 2,5").
 
 <br><br>
 
@@ -66,70 +66,3 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
