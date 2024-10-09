@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-10-09T15:55:13+02:00"
-lastmod: "2024-10-09T19:37:55+02:00"
-lastupdate: "2024-10-09T19:37:55+02:00"
+date: "2024-10-09T13:55:13+02:00"
+lastmod: "2024-10-09T19:48:27+02:00"
+lastupdate: "2024-10-09T19:48:27+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: "Suivez-nous dans la suite de la compétition à Athènes !"
 baneer: "https://werobot.fr/posts/photogroupe.jpg"
 banner: "https://werobot.fr/posts/photogroupe.jpg"
-draft: false
+draft: true
 ---
 ## Jour 2
 
@@ -51,19 +51,20 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 
 <br><br>
 <center>
+<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="50%">
+</center>
+<br><br>
+
+
+<br><br>
+<center>
 <img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="50%">
 </center>
 <br><br>
 
 
 
-<br><br>
-<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/v=VPQx71GzCk0?
-version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
-<br><br>
 
-
-https://www.youtube.com/watch?v=MAF51J53uoE
 
 
 
@@ -132,6 +133,11 @@ Les quatre matches effectués au cours de la journée ont démontré la fiabilit
 
  Dans le stade, nous avons aussi l'occasion de croiser Dean Kamen , le fondateur de la compétition ! 
 
+<br><br>
+<center>
+<img src="https://werobot.fr/posts/dean kamen.jpg" alt="" width="50%">
+</center>
+<br><br>
  
 Notre troisième journée se termine par une soirée de gala au centre culturel de la Fondation Stavros Niarchos d’Athènes où nous avons eu le plaisir de retrouver toutes les équipes de la compétition.
 
@@ -156,7 +162,11 @@ Pour cette quatrième journée, l’objectif était de conforter notre position 
 
 En coulisses, l’équipe de Communication fait une rencontre incroyable, celle de Kyriakos Mitsotakis. Il s’agit du premier ministre grec venu spécialement au stade pour encourager les équipes du First Global Challenge.
 
-(photo)
+<br><br>
+<center>
+<img src="https://werobot.fr/posts/pm.jpg" alt="" width="50%">
+</center>
+<br><br>
 
 
 ## Journée 5 : Fin des qualifications et playoffs
@@ -171,7 +181,7 @@ Pour jouer les playoffs, nous nous retrouvons dans une alliance composée de 2 d
 
 <br><br>
 <center>
-<img src="" alt="" width="50%">
+<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="50%">
 </center>
 <br><br>
 
@@ -202,7 +212,7 @@ Suite à un problème d’obtention de visa, seule une étudiante et un mentor �
 
 <br><br>
 <center>
-<img src="" alt="" width="50%">
+<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="50%">
 </center>
 <br><br>
 
