@@ -1,10 +1,10 @@
 ---
 title: "First day in Athens !"
-date: "2024-09-28T06:46:03+02:00"
-lastmod: "2024-09-28T06:54:20+02:00"
-lastupdate: "2024-09-28T06:54:20+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+date: "2024-09-28T04:46:03+02:00"
+lastmod: "2024-10-09T07:33:50+02:00"
+lastupdate: "2024-10-09T07:33:50+02:00"
+author: "Franck"
+authors: ["Lucy","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -48,7 +48,7 @@ We then discover our stand, which we hasten to decorate to best represent the co
 
 
 
-We then set off to meet all the other teams already in the hangar. We met almost all the teams on this first day, the perfect opportunity to get to know each other, and there's nothing better than exchanging gifts! So it was with great pleasure that we presented all team members with our superb medals, 3d printed by NAE (Normandie AeroEspace) !
+We then set off to meet all the other teams already in the stadium. We met almost all the teams on this first day, the perfect opportunity to get to know each other, and there's nothing better than exchanging gifts! So it was with great pleasure that we presented all team members with our superb medals, 3d printed by NAE (Normandie AeroEspace) and FAN (Fabrication Additive en Normandie) !
 
 
 <br><br>
@@ -70,7 +70,7 @@ We then set off to meet all the other teams already in the hangar. We met almost
 
 
 
-Next, our Wemby robot is inspected by the First team, specialists in the field, to check that it complies with the rules imposed on robots.
+Next, our Wemby robot is inspected by the <i>FIRST</i> Global team to check that it complies with the rules imposed on robots.
 It goes without saying that the French robot passed certification without a hitch ! 
 
 
@@ -146,6 +146,7 @@ Our day ends with a mythical Athens landmark, the Acropolis! From this hill, a b
 <br><br>
 
 Team France has already made many wonderful memories on this first day !
+
 
 
 

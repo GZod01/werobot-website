@@ -1,10 +1,10 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T21:46:13+02:00"
-lastmod: "2024-09-27T10:53:46+02:00"
-lastupdate: "2024-09-27T10:53:46+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+date: "2024-09-25T19:46:13+02:00"
+lastmod: "2024-10-09T07:31:24+02:00"
+lastupdate: "2024-10-09T07:31:24+02:00"
+author: "Franck"
+authors: ["Lucy","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -44,7 +44,7 @@ Nous découvrons ensuite notre stand, que nous nous empressons de décorer pour 
 
 
 
-Nous partons ensuite à la découverte de toutes les autres équipes déjà présentes dans le hangar. Nous avons rencontré pratiquement toutes les equipes durant ce premier jour, l'occasion parfaite de se découvrir, et pour cela rien de mieux que d'échanger des cadeaux ! C'est donc avec énormément de plaisir que nous avons offert à tous les membres d'équipes nos superbes médailles imprimées en 3d par NAE (Normandie AeroEspace) !
+Nous partons ensuite à la découverte de toutes les autres équipes déjà présentes dans le stade. Nous avons rencontré pratiquement toutes les équipes durant ce premier jour, l'occasion parfaite de se découvrir, et pour cela rien de mieux que d'échanger des cadeaux ! C'est donc avec énormément de plaisir que nous avons offert à tous les membres d'équipes nos superbes médailles imprimées en 3d par NAE (Normandie AeroEspace) et FAN (Fabrication Additive en Normandie) !
 
 
 <br><br>
@@ -67,7 +67,7 @@ Nous partons ensuite à la découverte de toutes les autres équipes déjà pré
 
 
 
-Ensuite, notre robot Wemby est inspecté par l'équipe First, spécialisée sur le sujet, afin de vérifier que Wemby respecte les règles imposées aux robots.
+Ensuite, notre robot Wemby est inspecté par l'équipe <i>FIRST</i> Global, spécialisée sur le sujet, afin de vérifier que Wemby respecte les règles imposées aux robots.
 La certification est évidemment passée sans problème pour le robot tricolore ! 
 
 
@@ -81,7 +81,7 @@ La certification est évidemment passée sans problème pour le robot tricolore 
 
 
 
-Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe s'est dirigée vers la zone d'entraînement des robots, qui nous permettent de tester en conditions réelles le jeu, et d'également perfectionner notre robot si besoin ! 
+Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe s'est dirigée vers la zone d'entraînement des robots, qui nous permet de tester en conditions réelles le jeu, et d'également perfectionner notre robot si besoin ! 
 
 <br><br>
 <center>
@@ -101,7 +101,7 @@ Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe 
 <br><br>
 
 
-Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heureusement vite réparé par notre super équipe de roboticienn(es) !
+Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heureusement vite réparé par notre super équipe de roboticien(ne)s !
 
 
 <br><br>
@@ -146,5 +146,6 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
