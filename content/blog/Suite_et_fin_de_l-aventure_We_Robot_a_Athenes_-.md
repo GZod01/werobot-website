@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-10-09T13:55:13+02:00"
-lastmod: "2024-10-09T19:48:27+02:00"
-lastupdate: "2024-10-09T19:48:27+02:00"
+date: "2024-10-09T11:55:13+02:00"
+lastmod: "2024-10-09T19:48:49+02:00"
+lastupdate: "2024-10-09T19:48:49+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: "Suivez-nous dans la suite de la compétition à Athènes !"
 baneer: "https://werobot.fr/posts/photogroupe.jpg"
 banner: "https://werobot.fr/posts/photogroupe.jpg"
-draft: true
+draft: false
 ---
 ## Jour 2
 
@@ -257,3 +257,4 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="50%">
 </center>
 <br><br>
+
