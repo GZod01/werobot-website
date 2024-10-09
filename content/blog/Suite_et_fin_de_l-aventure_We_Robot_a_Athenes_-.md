@@ -1,10 +1,10 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-10-09T11:55:13+02:00"
-lastmod: "2024-10-09T19:48:49+02:00"
-lastupdate: "2024-10-09T19:48:49+02:00"
-author: "Lucy"
-authors: ["Lucy"]
+date: "2024-10-09T09:55:13+02:00"
+lastmod: "2024-10-09T20:16:55+02:00"
+lastupdate: "2024-10-09T20:16:55+02:00"
+author: "coach.francois"
+authors: ["Lucy","coach.francois"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -44,7 +44,7 @@ Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacité
 <br><br>
 
 
-Mais le succès de Wemby n'aurait pas été possible sans notre formidable équipe de toboticien(nes) qui ont brillé le soir du 26 septembre 2024 !
+Mais le succès de Wemby n'aurait pas été possible sans notre formidable équipe de roboticien(nes) qui ont brillé le soir du 26 septembre 2024 !
 
 En effet, la cérémonie d'ouverture de la compétition s'est déroulée le même jour, dans le très célèbre stade panathénaique d'Athènes, lieu emblématique où se sont déroulés les premiers Jeux Olympiques modernes en 1896.
 
@@ -257,4 +257,5 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="50%">
 </center>
 <br><br>
+
 
