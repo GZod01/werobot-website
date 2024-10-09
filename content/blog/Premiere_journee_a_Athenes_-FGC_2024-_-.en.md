@@ -1,8 +1,8 @@
 ---
 title: "First day in Athens !"
-date: "2024-09-28T04:46:03+02:00"
-lastmod: "2024-10-09T07:33:50+02:00"
-lastupdate: "2024-10-09T07:33:50+02:00"
+date: "2024-09-25T02:46:03+02:00"
+lastmod: "2024-10-09T07:34:22+02:00"
+lastupdate: "2024-10-09T07:34:22+02:00"
 author: "Franck"
 authors: ["Lucy","Franck"]
 facebook_author: "false"
@@ -146,6 +146,7 @@ Our day ends with a mythical Athens landmark, the Acropolis! From this hill, a b
 <br><br>
 
 Team France has already made many wonderful memories on this first day !
+
 
 
 
