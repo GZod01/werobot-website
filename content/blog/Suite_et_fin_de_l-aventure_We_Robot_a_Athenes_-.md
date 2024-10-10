@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T07:55:13+02:00"
-lastmod: "2024-10-10T22:23:21+02:00"
-lastupdate: "2024-10-10T22:23:21+02:00"
+date: "2024-09-28T05:55:13+02:00"
+lastmod: "2024-10-10T22:24:24+02:00"
+lastupdate: "2024-10-10T22:24:24+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -112,7 +112,7 @@ La technique de Pierrick de charger Wemby de 4 balles à la fois a elle aussi é
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 700px;">
+<div style="width: 100%; max-width: 400px;">
 <img src="https://werobot.fr/posts/pierrick4.png" alt="">
 </div>
 </center>
@@ -250,6 +250,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
