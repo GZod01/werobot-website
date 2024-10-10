@@ -1,10 +1,10 @@
 ---
 title: "The We Robot adventure in Athens continues !"
-date: "2024-10-09T19:10:57+02:00"
-lastmod: "2024-10-10T08:09:56+02:00"
-lastupdate: "2024-10-10T08:09:56+02:00"
-author: "coach.francois"
-authors: ["Lucy","coach.francois"]
+date: "2024-09-30T17:10:57+02:00"
+lastmod: "2024-10-10T16:57:08+02:00"
+lastupdate: "2024-10-10T16:57:08+02:00"
+author: "Franck"
+authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -27,11 +27,6 @@ So we headed for what we call the “driving range”, an area reserved exclusiv
 </center>
 <br><br>
 
-<br><br>
-<center>
-<img src="" alt="" width="50%">
-</center>
-<br><br>
 
 
 These training matches are the ideal opportunity for teams to project their strategies, but also to discover the level of some of the teams we play with, since these matches now count points.
@@ -41,7 +36,7 @@ And it's with great enthusiasm that we unveil the superb skills of Wemby, who is
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/scorepractice.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/scorepractice.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -54,28 +49,16 @@ Indeed, the opening ceremony of the competition took place on the same day, in t
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="75%">
 </center>
 <br><br>
 
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="75%">
 </center>
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 The ceremony took place in several stages: first a DJ came to set the mood, before attending the key moment of the evening, the parade, during which each country tried to represent its culture to the best of its ability! 
@@ -91,7 +74,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -100,7 +83,7 @@ To round off the ceremony in style, what better way than to attend a concert by 
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -122,9 +105,10 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 
 Pierrick's technique of loading Wemby with 4 balls at a time was also praised.
+
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrick4.png" alt="" width="66%">
+<img src="https://werobot.fr/posts/pierrick4.png" alt="" width="75%">
 </center>
 <br><br>
 
@@ -150,13 +134,13 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/gala.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/gala.jpg" alt="" width="75%">
 </center>
 <br><br>
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/gala2.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/gala2.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -166,7 +150,7 @@ For this fourth day, the aim was to consolidate our position in the top 10 of th
 Behind the scenes, the Communication team had an incredible encounter with Kyriakos Mitsotakis, the Greek Prime Minister, had come specially to the stadium to cheer on the First Global Challenge teams.
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pm.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/pm.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -183,7 +167,7 @@ To play in the playoffs, we found ourselves in an alliance made up of 2 of the 2
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -213,7 +197,7 @@ Due to visa problems, only one student and one mentor were present for the compe
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -255,9 +239,10 @@ Until the next FIRST !
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="66%">
+<img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
