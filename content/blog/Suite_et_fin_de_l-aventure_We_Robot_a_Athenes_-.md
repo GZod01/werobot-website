@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T05:55:13+02:00"
-lastmod: "2024-10-10T22:24:24+02:00"
-lastupdate: "2024-10-10T22:24:24+02:00"
+date: "2024-09-28T03:55:13+02:00"
+lastmod: "2024-10-10T22:30:34+02:00"
+lastupdate: "2024-10-10T22:30:34+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -140,14 +140,16 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/gala.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/gala.jpg" alt="">
+</div>
 </center>
 <br><br>
 
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/gala2.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/gala2.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -156,8 +158,9 @@ Pour cette quatrième journée, l’objectif était de conforter notre position 
 En coulisses, l’équipe de Communication fait une rencontre incroyable, celle de Kyriakos Mitsotakis. Il s’agit du premier ministre grec venu spécialement au stade pour encourager les équipes du First Global Challenge.
 
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/pm.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/pm.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -173,8 +176,9 @@ Pour jouer les playoffs, nous nous retrouvons dans une alliance composée de 2 d
 
 
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/stratégie.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -204,8 +208,9 @@ Suite à un problème d’obtention de visa, seule une étudiante et un mentor �
 
 
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -221,7 +226,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <center>
 <table>
 <tr>
-<td><img src="https://werobot.fr/posts/goldprincipal.jpg"></td>
+<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldprincipal.jpg"></td>
 <td><img src="https://werobot.fr/posts/goldteam.jpg"></td>
 </tr>
 </table>
@@ -236,20 +241,19 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 </table>
 </center>
 
-
-
 Nous avons également reçu un prix pour notre investissement sur les réseaux sociaux notamment avec la réalisation des challenges proposés par FIRST.
 
 Et c'est ainsi que s'achève notre belle aventure à Athènes, nous revenons en France fiers et la tête remplie de formidables souvenirs !
 Un énorme merci pour tous nos soutiens lors de cette compétition et à nos mentors qui nous ont accompagnés tout au long de l'aventure !
 A la prochaine FIRST !
 
-
 <br><br>
-<center>
-<img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
+</div>
 </center>
 <br><br>
+
 
 
 
