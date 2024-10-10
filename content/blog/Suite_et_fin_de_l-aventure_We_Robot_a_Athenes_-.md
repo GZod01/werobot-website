@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T17:55:13+02:00"
-lastmod: "2024-10-10T22:13:33+02:00"
-lastupdate: "2024-10-10T22:13:33+02:00"
+date: "2024-09-28T15:55:13+02:00"
+lastmod: "2024-10-10T22:17:11+02:00"
+lastupdate: "2024-10-10T22:17:11+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -29,17 +29,15 @@ Nous nous sommes donc dirigés vers ce que nous appelons le "practice", un espac
 </center>
 <br><br>
 
-
-
 Ces matches d'entraînement sont l'occasion idéale pour les équipes de se projeter dans des stratégies, mais également de découvrir le niveau de certaines équipes avec lesquelles nous jouons, puisque ces matches comptent désormais les points.
 
 Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacités de Wemby, qui est déjà une petite star dans la compétition grâce à son score de 79 points pour une première partie, de quoi annoncer une suite prestigieuse pour la France dans la compétition !!
 
 <br><br>
-<br><br>
 <center>
 <div style="width: 100%; max-width: 900px;">
-<img src="https://werobot.fr/posts/scorepractice.jpg" alt=""></div>
+<img src="https://werobot.fr/posts/scorepractice.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -51,14 +49,18 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 900px;">
+<img src="https://werobot.fr/posts/supportceremony.jpg" alt="">
+</div>
 </center>
 <br><br>
 
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 900px;">
+<img src="https://werobot.fr/posts/stadepa.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -257,6 +259,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
