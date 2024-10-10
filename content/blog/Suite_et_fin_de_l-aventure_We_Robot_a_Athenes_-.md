@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-29T23:55:13+02:00"
-lastmod: "2024-10-10T21:40:45+02:00"
-lastupdate: "2024-10-10T21:40:45+02:00"
+date: "2024-09-29T21:55:13+02:00"
+lastmod: "2024-10-10T21:41:42+02:00"
+lastupdate: "2024-10-10T21:41:42+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -25,7 +25,7 @@ Nous nous sommes donc dirigés vers ce que nous appelons le "practice", un espac
 <div style="
     img {
         width: 100%;
-        max-width: 500px;
+        max-width: 500px;"
         }
 >
 <center>
@@ -260,6 +260,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
