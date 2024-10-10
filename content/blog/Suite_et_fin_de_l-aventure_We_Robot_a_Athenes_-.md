@@ -1,10 +1,10 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-10-09T09:55:13+02:00"
-lastmod: "2024-10-09T20:16:55+02:00"
-lastupdate: "2024-10-09T20:16:55+02:00"
-author: "coach.francois"
-authors: ["Lucy","coach.francois"]
+date: "2024-09-29T07:55:13+02:00"
+lastmod: "2024-10-10T16:53:24+02:00"
+lastupdate: "2024-10-10T16:53:24+02:00"
+author: "Franck"
+authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -23,15 +23,10 @@ Nous nous sommes donc dirigés vers ce que nous appelons le "practice", un espac
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/practice.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/practice.jpg" alt="" width="75%">
 </center>
 <br><br>
 
-<br><br>
-<center>
-<img src="" alt="" width="50%">
-</center>
-<br><br>
 
 Ces matches d'entraînement sont l'occasion idéale pour les équipes de se projeter dans des stratégies, mais également de découvrir le niveau de certaines équipes avec lesquelles nous jouons, puisque ces matches comptent désormais les points.
 
@@ -39,7 +34,7 @@ Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacité
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/scorepractice.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/scorepractice.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -51,14 +46,14 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/supportceremony.jpg" alt="" width="75%">
 </center>
 <br><br>
 
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/stadepa.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -87,7 +82,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -98,7 +93,7 @@ Pour clôturer en beauté cette cérémonie, rien de mieux que d’assister à u
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -123,7 +118,7 @@ La technique de Pierrick de charger Wemby de 4 balles à la fois a elle aussi é
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrick4.png" alt="" width="50%">
+<img src="https://werobot.fr/posts/pierrick4.png" alt="" width="75%">
 </center>
 <br><br>
 
@@ -135,7 +130,7 @@ Les quatre matches effectués au cours de la journée ont démontré la fiabilit
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/dean kamen.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/dean kamen.jpg" alt="" width="75%">
 </center>
 <br><br>
  
@@ -148,13 +143,13 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/gala.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/gala.jpg" alt="" width="75%">
 </center>
 <br><br>
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/gala2.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/gala2.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -164,7 +159,7 @@ En coulisses, l’équipe de Communication fait une rencontre incroyable, celle 
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pm.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/pm.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -181,7 +176,7 @@ Pour jouer les playoffs, nous nous retrouvons dans une alliance composée de 2 d
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/stratégie.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -212,7 +207,7 @@ Suite à un problème d’obtention de visa, seule une étudiante et un mentor �
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/nigeriavf.jpg" alt="" width="75%">
 </center>
 <br><br>
 
@@ -254,7 +249,7 @@ A la prochaine FIRST !
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="50%">
+<img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
 
