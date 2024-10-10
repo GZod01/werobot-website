@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-26T05:55:13+02:00"
-lastmod: "2024-10-10T23:37:37+02:00"
-lastupdate: "2024-10-10T23:37:37+02:00"
+date: "2024-09-26T03:55:13+02:00"
+lastmod: "2024-10-10T23:38:56+02:00"
+lastupdate: "2024-10-10T23:38:56+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -223,6 +223,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <img src="https://werobot.fr/posts/goldmentor.jpg" alt="">
 </div>
 </center>
+<br><br>
 
 Nous avons également reçu un prix pour notre investissement sur les réseaux sociaux notamment avec la réalisation des challenges proposés par FIRST.
 
@@ -236,4 +237,5 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
+
 
