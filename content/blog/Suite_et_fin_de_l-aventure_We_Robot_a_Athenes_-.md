@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T13:55:13+02:00"
-lastmod: "2024-10-10T22:18:11+02:00"
-lastupdate: "2024-10-10T22:18:11+02:00"
+date: "2024-09-28T11:55:13+02:00"
+lastmod: "2024-10-10T22:19:17+02:00"
+lastupdate: "2024-10-10T22:19:17+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -23,7 +23,7 @@ Nous nous sommes donc dirigés vers ce que nous appelons le "practice", un espac
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 600px;">
+<div style="width: 100%; max-width: 500px;">
 <img src="https://werobot.fr/posts/practice.jpg" alt="">
 </div>
 </center>
@@ -35,7 +35,7 @@ Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacité
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 800px;">
+<div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/scorepractice.jpg" alt="">
 </div>
 </center>
@@ -49,7 +49,7 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 800px;">
+<div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/supportceremony.jpg" alt="">
 </div>
 </center>
@@ -58,7 +58,7 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 800px;">
+<div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/stadepa.jpg" alt="">
 </div>
 </center>
@@ -259,6 +259,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
