@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T09:55:13+02:00"
-lastmod: "2024-10-10T22:19:55+02:00"
-lastupdate: "2024-10-10T22:19:55+02:00"
+date: "2024-09-28T07:55:13+02:00"
+lastmod: "2024-10-10T22:23:21+02:00"
+lastupdate: "2024-10-10T22:23:21+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -64,43 +64,30 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 </center>
 <br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
 La cérémonie se déroule en plusieurs étapes : d’abord un DJ est venu mettre l’ambiance, avant d’assister au moment clé de la soirée, le défilé, durant lequel chaque pays tente de représenter au mieux sa culture ! 
 
 Pour la France, nous avons choisi de défiler avec la phryge olympique et notre baguette traditionnelle française !
-
 
 <br><br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/VPQx71GzCk0?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
-
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="">
+</div>
 </center>
 <br><br>
-
-
-
 
 Pour clôturer en beauté cette cérémonie, rien de mieux que d’assister à un concert des Black Eyed Peas qui ont assuré le show et qui ont enflammé le stade, après que Pierrick ait même eu l'occasion de faire savoir la présence tricolore au micro du groupe  !!!
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="">
+</div>
 </center>
 <br><br>
 
@@ -125,7 +112,9 @@ La technique de Pierrick de charger Wemby de 4 balles à la fois a elle aussi é
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/pierrick4.png" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/pierrick4.png" alt="">
+</div>
 </center>
 <br><br>
 
@@ -137,7 +126,9 @@ Les quatre matches effectués au cours de la journée ont démontré la fiabilit
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/dean kamen.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/dean kamen.jpg" alt="">
+</div>
 </center>
 <br><br>
  
@@ -259,6 +250,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
