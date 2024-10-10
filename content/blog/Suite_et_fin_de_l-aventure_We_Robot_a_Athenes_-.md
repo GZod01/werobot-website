@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T01:55:13+02:00"
-lastmod: "2024-10-10T22:33:12+02:00"
-lastupdate: "2024-10-10T22:33:12+02:00"
+date: "2024-09-27T23:55:13+02:00"
+lastmod: "2024-10-10T22:36:23+02:00"
+lastupdate: "2024-10-10T22:36:23+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -231,8 +231,8 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <center>
 <table>
 <tr>
-<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldprincipal.jpg"></td>
-<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldteam.jpg"></td>
+<td><img src="https://werobot.fr/posts/goldprincipal.jpg"></td>
+<td><img src="https://werobot.fr/posts/goldteam.jpg"></td>
 </tr>
 </table>
 </center>
@@ -240,8 +240,8 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <center>
 <table>
 <tr>
-<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/award.jpg"></td>
-<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldmentor.jpg"></td>
+<td><img src="https://werobot.fr/posts/award.jpg"></td>
+<td><img src="https://werobot.fr/posts/goldmentor.jpg"></td>
 </tr>
 </table>
 </center>
@@ -253,11 +253,13 @@ Un énorme merci pour tous nos soutiens lors de cette compétition et à nos men
 A la prochaine FIRST !
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
 <br><br>
+
 
 
 
