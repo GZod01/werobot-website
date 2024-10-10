@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-29T21:55:13+02:00"
-lastmod: "2024-10-10T21:41:42+02:00"
-lastupdate: "2024-10-10T21:41:42+02:00"
+date: "2024-09-29T19:55:13+02:00"
+lastmod: "2024-10-10T21:44:54+02:00"
+lastupdate: "2024-10-10T21:44:54+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -22,12 +22,7 @@ Notre deuxième journée à Athènes s'est focalisée sur l'entraînement de Wem
 Nous nous sommes donc dirigés vers ce que nous appelons le "practice", un espace réservé exclusivement à l'entraînement des robots sur les terrains de jeu recréés dans les dimensions de la compétition et avec tous les équipements requis.
 
 <br><br>
-<div style="
-    img {
-        width: 100%;
-        max-width: 500px;"
-        }
->
+<div style="width: 100%; max-width: 100px;">
 <center>
 <img src="https://werobot.fr/posts/practice.jpg" alt="">
 </center>
@@ -260,6 +255,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
