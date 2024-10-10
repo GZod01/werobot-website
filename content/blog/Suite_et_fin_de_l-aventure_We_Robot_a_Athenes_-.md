@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T19:55:13+02:00"
-lastmod: "2024-10-10T22:12:38+02:00"
-lastupdate: "2024-10-10T22:12:38+02:00"
+date: "2024-09-28T17:55:13+02:00"
+lastmod: "2024-10-10T22:13:33+02:00"
+lastupdate: "2024-10-10T22:13:33+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -38,7 +38,7 @@ Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacité
 <br><br>
 <br><br>
 <center>
-<div style="width: 100%; max-width: 800px;">
+<div style="width: 100%; max-width: 900px;">
 <img src="https://werobot.fr/posts/scorepractice.jpg" alt=""></div>
 </center>
 <br><br>
@@ -257,6 +257,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
