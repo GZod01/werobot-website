@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-26T15:55:13+02:00"
-lastmod: "2024-10-10T23:23:56+02:00"
-lastupdate: "2024-10-10T23:23:56+02:00"
+date: "2024-09-26T09:55:13+02:00"
+lastmod: "2024-10-10T23:34:30+02:00"
+lastupdate: "2024-10-10T23:34:30+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -225,9 +225,8 @@ Pour ces gestes d’entraide, nous avons agréablement été surpris en recevant
 <br><br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/HjYwBKP35HA?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+
 <br><br>
-
-
 <center>
 <table style="width: 100%;">
 <tr>
@@ -236,16 +235,27 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 </tr>
 <tr>
 <td><img src="https://werobot.fr/posts/award.jpg"></td>
-<td><img src="https://werobot.fr/posts/goldmentor.jpg" height="100px"></td>
+<td><img src="https://werobot.fr/posts/goldmentor.jpg"></td>
 </tr>
 </table>
 </center>
+<br><br>
 
-Nous avons également reçu un prix pour notre investissement sur les réseaux sociaux notamment avec la réalisation des challenges proposés par FIRST.
-
-Et c'est ainsi que s'achève notre belle aventure à Athènes, nous revenons en France fiers et la tête remplie de formidables souvenirs !
-Un énorme merci pour tous nos soutiens lors de cette compétition et à nos mentors qui nous ont accompagnés tout au long de l'aventure !
-A la prochaine FIRST !
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/goldprincipal.jpg" alt="">
+</div>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/goldteam.jpg" alt="">
+</div>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/award.jpg" alt="">
+</div>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/goldmentor.jpg" alt="">
+</div>
+</center>
 
 <br><br>
 <center>
@@ -253,7 +263,23 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
-<br><br>
+
+
+
+
+
+
+
+
+Nous avons également reçu un prix pour notre investissement sur les réseaux sociaux notamment avec la réalisation des challenges proposés par FIRST.
+
+Et c'est ainsi que s'achève notre belle aventure à Athènes, nous revenons en France fiers et la tête remplie de formidables souvenirs !
+Un énorme merci pour tous nos soutiens lors de cette compétition et à nos mentors qui nous ont accompagnés tout au long de l'aventure !
+A la prochaine FIRST !
+
+
+
+
 
 
 
