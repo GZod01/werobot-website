@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T03:55:13+02:00"
-lastmod: "2024-10-10T22:30:34+02:00"
-lastupdate: "2024-10-10T22:30:34+02:00"
+date: "2024-09-28T01:55:13+02:00"
+lastmod: "2024-10-10T22:33:12+02:00"
+lastupdate: "2024-10-10T22:33:12+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -140,6 +140,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/gala.jpg" alt="">
 </div>
@@ -147,6 +148,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <br><br>
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/gala2.jpg" alt="">
 </div>
@@ -158,6 +160,7 @@ Pour cette quatrième journée, l’objectif était de conforter notre position 
 En coulisses, l’équipe de Communication fait une rencontre incroyable, celle de Kyriakos Mitsotakis. Il s’agit du premier ministre grec venu spécialement au stade pour encourager les équipes du First Global Challenge.
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/pm.jpg" alt="">
 </div>
@@ -176,6 +179,7 @@ Pour jouer les playoffs, nous nous retrouvons dans une alliance composée de 2 d
 
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/stratégie.jpg" alt="">
 </div>
@@ -208,6 +212,7 @@ Suite à un problème d’obtention de visa, seule une étudiante et un mentor �
 
 
 <br><br>
+<center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/nigeriavf.jpg" alt="">
 </div>
@@ -227,7 +232,7 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <table>
 <tr>
 <td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldprincipal.jpg"></td>
-<td><img src="https://werobot.fr/posts/goldteam.jpg"></td>
+<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldteam.jpg"></td>
 </tr>
 </table>
 </center>
@@ -235,8 +240,8 @@ version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=
 <center>
 <table>
 <tr>
-<td><img src="https://werobot.fr/posts/award.jpg"></td>
-<td><img src="https://werobot.fr/posts/goldmentor.jpg"></td>
+<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/award.jpg"></td>
+<td style="width: 50%; max-width: 350px;"><img src="https://werobot.fr/posts/goldmentor.jpg"></td>
 </tr>
 </table>
 </center>
@@ -253,6 +258,7 @@ A la prochaine FIRST !
 </div>
 </center>
 <br><br>
+
 
 
 
