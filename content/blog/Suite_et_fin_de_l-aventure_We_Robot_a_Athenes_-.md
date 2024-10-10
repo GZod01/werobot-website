@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-28T21:55:13+02:00"
-lastmod: "2024-10-10T22:09:15+02:00"
-lastupdate: "2024-10-10T22:09:15+02:00"
+date: "2024-09-28T19:55:13+02:00"
+lastmod: "2024-10-10T22:12:38+02:00"
+lastupdate: "2024-10-10T22:12:38+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -36,8 +36,10 @@ Ces matches d'entraînement sont l'occasion idéale pour les équipes de se proj
 Et c'est avec beaucoup d'enthousiasme que nous dévoilons les superbes capacités de Wemby, qui est déjà une petite star dans la compétition grâce à son score de 79 points pour une première partie, de quoi annoncer une suite prestigieuse pour la France dans la compétition !!
 
 <br><br>
+<br><br>
 <center>
-<img src="https://werobot.fr/posts/scorepractice.jpg" alt="" width="75%">
+<div style="width: 100%; max-width: 800px;">
+<img src="https://werobot.fr/posts/scorepractice.jpg" alt=""></div>
 </center>
 <br><br>
 
@@ -255,6 +257,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="" width="75%">
 </center>
 <br><br>
+
 
 
 
