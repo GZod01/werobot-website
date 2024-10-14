@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T15:52:17+02:00"
-lastmod: "2024-10-14T12:08:29+02:00"
-lastupdate: "2024-10-14T12:08:29+02:00"
+date: "2024-10-13T13:52:17+02:00"
+lastmod: "2024-10-14T12:11:09+02:00"
+lastupdate: "2024-10-14T12:11:09+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -89,6 +89,16 @@ Running all four wheels in the same direction at the same speed will result in a
 <center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/Mecanum_avant_arriere.png">
+</div>
+</center>
+<br><br>
+
+When both wheels on one side of the drivetrain are moving in one direction while the other side is moving in the opposite direction results in stationary rotation of the drivetrain. The transverse vectors cancel out but the longitudinal vectors combine to generate rotation around the central vertical axis of the drivetrain, as shown below.‌
+
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/Mecanum_rotations.png">
 </div>
 </center>
 <br><br>
