@@ -1,8 +1,8 @@
 ---
 title: "Configuration et comportement d'une roue Mecanum"
-date: "2024-10-14T02:05:32+02:00"
-lastmod: "2024-10-14T14:36:20+02:00"
-lastupdate: "2024-10-14T14:36:20+02:00"
+date: "2024-10-14T00:05:32+02:00"
+lastmod: "2024-10-14T16:17:54+02:00"
+lastupdate: "2024-10-14T16:17:54+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Les roues Mecanum permettent un mouvement omnidirectionnel de la base roulante du robot"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/Mecanum_blog.png"
+banner: "https://werobot.fr/posts/Mecanum_blog.png"
 draft: false
 ---
 ## Les roues Mecanum permettent un mouvement omnidirectionnel de la base roulante du robot
@@ -84,6 +84,7 @@ L'utilisation des concepts ci-dessus en tandem, en faisant varier la puissance d
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
+
 
 
 
