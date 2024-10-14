@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T09:46:13+02:00"
-lastmod: "2024-10-14T06:09:00+02:00"
-lastupdate: "2024-10-14T06:09:00+02:00"
+date: "2024-09-25T07:46:13+02:00"
+lastmod: "2024-10-14T06:12:17+02:00"
+lastupdate: "2024-10-14T06:12:17+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -50,7 +50,7 @@ Nous partons ensuite à la découverte de toutes les autres équipes déjà pré
 <img src="https://werobot.fr/posts/pierremed.jpg" alt="">
 </div>
 </center>
-<br><br>
+<br>
 
 <center>
 <div style="width: 100%; max-width: 700px;">
@@ -79,7 +79,7 @@ Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe 
 </div>
 </div>
 </center>
-<br><br>
+<br>
 
 <center>
 <div style="width: 100%; max-width: 700px;">
@@ -93,34 +93,28 @@ Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heure
 
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/reparation.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/reparation.jpg" alt="">
 </div>
 </center>
 <br><br>
 
 Après cette première journée très riche en émotions, nous nous dirigeons vers la plage du port du Pirée, a quelques dizaines de mètres du stade, avec de belles photos !
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/seagrp.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/seagrp.jpg" alt="">
+</div>
+</center>
+<br>
+
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/sea.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
-<br><br>
-<center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/sea.jpg">
-</div>
-</center>
-<br><br>
-
-
-
 
 Notre journée se finit par un point de passage incontournable et mythique d'Athènes, qui est bien sûr le site de l'Acropole ! De cette colline, une vue imprenable sur Athènes de nuit se dessine, de quoi nous couper le souffle !!!
 
@@ -133,6 +127,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
