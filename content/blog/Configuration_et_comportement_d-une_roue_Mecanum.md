@@ -1,8 +1,8 @@
 ---
 title: "Configuration et comportement d'une roue Mecanum"
-date: "2024-10-13T22:05:32+02:00"
-lastmod: "2024-10-14T16:31:57+02:00"
-lastupdate: "2024-10-14T16:31:57+02:00"
+date: "2024-10-13T20:05:32+02:00"
+lastmod: "2024-10-14T16:33:24+02:00"
+lastupdate: "2024-10-14T16:33:24+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -84,6 +84,7 @@ L'utilisation des concepts ci-dessus en tandem, en faisant varier la puissance d
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
+<br>
 
 ## Liens vers des exemples de programmation Java à disposition des néophytes
 
@@ -97,6 +98,7 @@ Lien : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanu
 Exemple de programmation Java en mode autonome :
 
 Lien : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
