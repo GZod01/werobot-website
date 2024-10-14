@@ -1,8 +1,8 @@
 ---
-title: "Mecanum Wheel Setup and Behavior"
-date: "2024-10-13T00:24:45+02:00"
-lastmod: "2024-10-14T16:38:48+02:00"
-lastupdate: "2024-10-14T16:38:48+02:00"
+title: "Mecanum wheel configuration, behavior and programming"
+date: "2024-10-12T22:24:45+02:00"
+lastmod: "2024-10-14T16:41:38+02:00"
+lastupdate: "2024-10-14T16:41:38+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -98,6 +98,7 @@ Link : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanu
 Example of Java programming in stand-alone mode :
 
 Link : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
