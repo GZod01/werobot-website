@@ -1,8 +1,8 @@
 ---
 title: "Mecanum Wheel Setup and Behavior"
-date: "2024-10-14T10:24:45+02:00"
-lastmod: "2024-10-14T14:29:09+02:00"
-lastupdate: "2024-10-14T14:29:09+02:00"
+date: "2024-10-14T08:24:45+02:00"
+lastmod: "2024-10-14T16:18:27+02:00"
+lastupdate: "2024-10-14T16:18:27+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Mecanum wheels allow omnidirectional movement of the robot's rolling base"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/Mecanum_blog.png"
+banner: "https://werobot.fr/posts/Mecanum_blog.png"
 draft: false
 ---
 ## Mecanum wheels allow omnidirectional movement of the robot's rolling base
@@ -83,4 +83,5 @@ Using the above concepts in tandem, by varying the motor power for each type of 
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
+
 
