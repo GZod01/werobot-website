@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-13T12:30:06+02:00"
-lastmod: "2024-10-14T07:23:28+02:00"
-lastupdate: "2024-10-14T07:23:28+02:00"
+date: "2024-10-13T10:30:06+02:00"
+lastmod: "2024-10-14T07:24:24+02:00"
+lastupdate: "2024-10-14T07:24:24+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,7 +23,7 @@ Les pôles Software et Hardware se mettent aussitot au travail.
 
 <br><br>
 <center>
-<div style="width: 100%"; max-width: 700px;">
+<div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
             <td><img src="https://werobot.fr/posts/macanum 01.jpg" alt=""></td>
@@ -33,6 +33,7 @@ Les pôles Software et Hardware se mettent aussitot au travail.
 </div>
 </center>
 <br><br>
+
 
 
 
