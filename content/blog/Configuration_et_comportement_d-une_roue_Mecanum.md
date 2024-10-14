@@ -1,8 +1,8 @@
 ---
 title: "Configuration et comportement d'une roue Mecanum"
-date: "2024-10-14T08:05:32+02:00"
-lastmod: "2024-10-14T14:23:34+02:00"
-lastupdate: "2024-10-14T14:23:34+02:00"
+date: "2024-10-14T02:05:32+02:00"
+lastmod: "2024-10-14T14:36:20+02:00"
+lastupdate: "2024-10-14T14:36:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -84,6 +84,7 @@ L'utilisation des concepts ci-dessus en tandem, en faisant varier la puissance d
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
+
 
 
 
