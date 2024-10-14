@@ -1,10 +1,10 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T19:46:13+02:00"
-lastmod: "2024-10-09T07:31:24+02:00"
-lastupdate: "2024-10-09T07:31:24+02:00"
-author: "Franck"
-authors: ["Lucy","Franck"]
+date: "2024-09-25T17:46:13+02:00"
+lastmod: "2024-10-14T05:58:01+02:00"
+lastupdate: "2024-10-14T05:58:01+02:00"
+author: "coach.francois"
+authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -19,7 +19,9 @@ La compétition du ***FIRST*** **Global Challenge** édition 2024 se déroule du
 
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stadium.jpg">
+<div style="width: 100%; max-width: 400px;">
+<img src="https://werobot.fr/posts/stadium.jpg"alt="">
+</div>
 </center>
 <br><br>
 
@@ -146,6 +148,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
