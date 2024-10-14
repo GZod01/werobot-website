@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-11T20:30:06+02:00"
-lastmod: "2024-10-14T08:03:00+02:00"
-lastupdate: "2024-10-14T08:03:00+02:00"
+date: "2024-10-11T18:30:06+02:00"
+lastmod: "2024-10-14T12:02:07+02:00"
+lastupdate: "2024-10-14T12:02:07+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -24,15 +24,15 @@ Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fai
 <div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/macanum 01.jpg" alt=""></td>
-            <td><img src="https://werobot.fr/posts/macanum 00.jpg" alt=""></td>
+            <td><img src="https://werobot.fr/posts/macanum 01.jpg"></td>
+            <td><img src="https://werobot.fr/posts/macanum 00.jpg"></td>
 	</tr>
     </table>
 </div>
 </center>
 <center>
 <div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/macanum1.jpg" alt="">
+<img src="https://werobot.fr/posts/macanum1.jpg">
 </div>
 </center>
 <center>
@@ -47,9 +47,10 @@ Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauch
 <br><br>
 <center>
 <div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/macanum3.jpg" alt="">
+<img src="https://werobot.fr/posts/macanum3.jpg">
 </div>
 </center>
+
 
 
 
