@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T13:52:17+02:00"
-lastmod: "2024-10-14T12:11:09+02:00"
-lastupdate: "2024-10-14T12:11:09+02:00"
+date: "2024-10-13T11:52:17+02:00"
+lastmod: "2024-10-14T12:14:03+02:00"
+lastupdate: "2024-10-14T12:14:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -102,6 +102,27 @@ When both wheels on one side of the drivetrain are moving in one direction while
 </div>
 </center>
 <br><br>
+
+When the right mecanum wheels run in one direction while the left mecanum wheels run in the opposite direction allows for a strafing movement, as the transverse vectors add up but the longitudinal vectors cancel out.‌
+
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/Mecanum_gauche_droite.png">
+</div>
+</center>
+<br><br>
+
+Using the above concepts in tandem through varying motor power to each wheel type allows for the drivetrain to move in different, angled vectors.
+
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
+</div>
+</center>
+<br><br>
+
 
 
 
