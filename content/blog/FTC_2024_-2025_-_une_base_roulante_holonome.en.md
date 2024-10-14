@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T21:52:17+02:00"
-lastmod: "2024-10-14T11:58:16+02:00"
-lastupdate: "2024-10-14T11:58:16+02:00"
+date: "2024-10-13T19:52:17+02:00"
+lastmod: "2024-10-14T12:01:40+02:00"
+lastupdate: "2024-10-14T12:01:40+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -75,6 +75,7 @@ Each side of the chassis needs one left and one right wheel. Mecanum Chassis als
 <img src="https://werobot.fr/posts/Macanum_position_roues.png">
 </div>
 </center>
+
 
 
 
