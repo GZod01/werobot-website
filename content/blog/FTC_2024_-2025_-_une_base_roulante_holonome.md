@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-12T08:30:06+02:00"
-lastmod: "2024-10-14T07:42:16+02:00"
-lastupdate: "2024-10-14T07:42:16+02:00"
+date: "2024-10-12T06:30:06+02:00"
+lastmod: "2024-10-14T07:43:03+02:00"
+lastupdate: "2024-10-14T07:43:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -21,7 +21,7 @@ Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fai
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 400px;">
+<div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
             <td><img src="https://werobot.fr/posts/macanum 01.jpg" alt=""></td>
@@ -55,6 +55,7 @@ Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauch
 </div>
 </center>
 <br><br>
+
 
 
 
