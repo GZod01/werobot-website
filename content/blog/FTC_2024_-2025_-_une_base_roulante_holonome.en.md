@@ -1,8 +1,8 @@
 ---
-title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-12T00:30:06+02:00"
-lastmod: "2024-10-14T07:48:22+02:00"
-lastupdate: "2024-10-14T07:48:22+02:00"
+title: "FTC 2024 -2025 : an omnidirectional rolling base"
+date: "2024-10-14T07:52:17+02:00"
+lastmod: "2024-10-14T07:53:02+02:00"
+lastupdate: "2024-10-14T07:53:02+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,14 +10,15 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "Choix d'une base roulante avec des roues Mecanum"
+description: "Choosing a rolling base with Mecanum wheels
+"
 baneer: "https://werobot.fr/posts/macanum2.jpg"
 banner: "https://werobot.fr/posts/macanum2.jpg"
 draft: false
 ---
-## Choix d'une base roulante avec des roues Mecanum
+## Choosing a rolling base with Mecanum wheels
 
-Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fait le choix d'une base avec des roues Mecanum permettant un déplacement fluide du robot dans toutes les directions. Le faible espace autour de la SUBMERSIBLE ZONE et la précision pour le dépôt des SAMPLES ou l'accrochage des SPECIMENS nécessitant un robot précis dans ses mouvements. Les pôles Software et Hardware se mettent aussitot au travail.
+After analyzing the rules of the “Into The Deep” game, Team WeRobot chose a base with Mecanum wheels, enabling the robot to move smoothly in all directions. The small space around the SUBMERSIBLE ZONE and the precision required for depositing SAMPLES or attaching SPECIMENS call for a robot that is precise in its movements. The Software and Hardware divisions get to work straight away.
 
 <br><br>
 <center>
@@ -42,7 +43,7 @@ Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fai
 </center>
 <br><br>
 
-Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauche de programme Java sera testée la semaine prochaine.
+After 4 hours of investment, the Mecanum basic prototype is ready and a draft Java program will be tested next week.
 
 <br><br>
 <center>
@@ -51,28 +52,3 @@ Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauch
 </div>
 </center>
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
