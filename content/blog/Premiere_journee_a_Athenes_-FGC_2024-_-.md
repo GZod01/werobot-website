@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T07:46:13+02:00"
-lastmod: "2024-10-14T06:12:17+02:00"
-lastupdate: "2024-10-14T06:12:17+02:00"
+date: "2024-09-25T05:46:13+02:00"
+lastmod: "2024-10-14T06:13:15+02:00"
+lastupdate: "2024-10-14T06:13:15+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -85,7 +85,6 @@ Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe 
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/terrain.jpg" alt="">
 </div>
-</div>
 </center>
 <br><br>
 
@@ -127,6 +126,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
