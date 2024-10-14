@@ -1,8 +1,8 @@
 ---
 title: "Mecanum Wheel Setup and Behavior"
-date: "2024-10-14T08:24:45+02:00"
-lastmod: "2024-10-14T16:18:27+02:00"
-lastupdate: "2024-10-14T16:18:27+02:00"
+date: "2024-10-13T06:24:45+02:00"
+lastmod: "2024-10-14T16:20:18+02:00"
+lastupdate: "2024-10-14T16:20:18+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -83,5 +83,6 @@ Using the above concepts in tandem, by varying the motor power for each type of 
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
+
 
 
