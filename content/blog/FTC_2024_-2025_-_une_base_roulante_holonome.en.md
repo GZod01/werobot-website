@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-14T01:52:17+02:00"
-lastmod: "2024-10-14T11:51:51+02:00"
-lastupdate: "2024-10-14T11:51:51+02:00"
+date: "2024-10-13T23:52:17+02:00"
+lastmod: "2024-10-14T11:54:24+02:00"
+lastupdate: "2024-10-14T11:54:24+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -24,8 +24,8 @@ After analyzing the rules of the “Into The Deep” game, Team WeRobot chose a 
 <div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/macanum 01.jpg" alt=""></td>
-            <td><img src="https://werobot.fr/posts/macanum 00.jpg" alt=""></td>
+            <td><img src="https://werobot.fr/posts/macanum 01.jpg" alt=""> <figcaption>Left wheel</figcaption></td>
+            <td><img src="https://werobot.fr/posts/macanum 00.jpg" alt=""> <figcaption>Right wheel</figcaption></td>
 	</tr>
     </table>
 </div>
@@ -67,6 +67,7 @@ Mecanum wheels, when properly set up on a drivetrain, allow for omni-directional
 </div>
 </center>
 <br><br>
+
 
 
 
