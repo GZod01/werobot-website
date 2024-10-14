@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-13T22:30:06+02:00"
-lastmod: "2024-10-14T07:15:43+02:00"
-lastupdate: "2024-10-14T07:15:43+02:00"
+date: "2024-10-13T20:30:06+02:00"
+lastmod: "2024-10-14T07:16:23+02:00"
+lastupdate: "2024-10-14T07:16:23+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -33,6 +33,7 @@ Les pôles Software et Hardware se mettent aussitot au travail.
 </div>
 </center>
 <br><br>
+
 
 
 
