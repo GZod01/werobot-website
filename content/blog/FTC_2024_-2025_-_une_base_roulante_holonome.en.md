@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T05:52:17+02:00"
-lastmod: "2024-10-14T13:51:33+02:00"
-lastupdate: "2024-10-14T13:51:33+02:00"
+date: "2024-10-13T03:52:17+02:00"
+lastmod: "2024-10-14T13:52:56+02:00"
+lastupdate: "2024-10-14T13:52:56+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -51,3 +51,4 @@ After 4 hours of investment, the Mecanum basic prototype is ready and a draft Ja
 </div>
 </center>
 <br>
+
