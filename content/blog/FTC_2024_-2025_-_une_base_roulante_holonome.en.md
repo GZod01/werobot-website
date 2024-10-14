@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T23:52:17+02:00"
-lastmod: "2024-10-14T11:54:24+02:00"
-lastupdate: "2024-10-14T11:54:24+02:00"
+date: "2024-10-13T21:52:17+02:00"
+lastmod: "2024-10-14T11:58:16+02:00"
+lastupdate: "2024-10-14T11:58:16+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -60,13 +60,24 @@ Mecanum wheels, when properly set up on a drivetrain, allow for omni-directional
 <div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/Mecanum_left.png" alt="left"></td>
-            <td><img src="https://werobot.fr/posts/Mecanum_right.png" alt="right"></td>
+            <td><img src="https://werobot.fr/posts/Mecanum_left.png"></td>
+            <td><img src="https://werobot.fr/posts/Mecanum_right.png"></td>
 	</tr>
     </table>
 </div>
 </center>
 <br><br>
+
+Each side of the chassis needs one left and one right wheel. Mecanum Chassis also require four motors for operation.‌
+
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/Macanum_position_roues.png">
+</div>
+</center>
+
+
+
 
 
 
