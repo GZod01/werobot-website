@@ -1,10 +1,10 @@
 ---
 title: "First day in Athens !"
-date: "2024-09-25T02:46:03+02:00"
-lastmod: "2024-10-09T07:34:22+02:00"
-lastupdate: "2024-10-09T07:34:22+02:00"
-author: "Franck"
-authors: ["Lucy","Franck"]
+date: "2024-09-25T00:46:03+02:00"
+lastmod: "2024-10-14T06:25:13+02:00"
+lastupdate: "2024-10-14T06:25:13+02:00"
+author: "coach.francois"
+authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -17,135 +17,116 @@ draft: false
 ---
 The ***FIRST*** **Global Challenge** 2024 edition takes place from September 26 to 29 at the Stade de la Paix et de l'Amitié, a symbolic venue that perfectly represents the values promoted by the competition organization !
 
-
 <br><br>
 <center>
-<img src="https://werobot.fr/posts/stadium.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/stadium.jpg"alt="">
+</div>
 </center>
 <br><br>
 
-
-
 By the time the team arrives, a festive atmosphere can already be felt among all the other teams from all over the world, as demonstrated by our musical encounter with the Venezuelan team !
-
 
 <br>
 <iframe class="youtube-player" width="100%" height="597" src="https://youtube.com/embed/NVu7DVMlx-o?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
-
-
+<br><br>
 
 We then discover our stand, which we hasten to decorate to best represent the colors of France :
 
-
 <br><br>
 <center>
-<div style="width: 100%">
-<img src="https://werobot.fr/posts/stand.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/stand.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
 
 We then set off to meet all the other teams already in the stadium. We met almost all the teams on this first day, the perfect opportunity to get to know each other, and there's nothing better than exchanging gifts! So it was with great pleasure that we presented all team members with our superb medals, 3d printed by NAE (Normandie AeroEspace) and FAN (Fabrication Additive en Normandie) !
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/pierremed.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/pierremed.jpg" alt="">
+</div>
+</center>
+<br>
+
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/switzerland.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
-<br><br>
-<center>
-<div style="width: 100%">
-<img src="https://werobot.fr/posts/switzerland.jpg">
-</div>
-</center>
-<br><br>
-
-
 
 Next, our Wemby robot is inspected by the <i>FIRST</i> Global team to check that it complies with the rules imposed on robots.
 It goes without saying that the French robot passed certification without a hitch ! 
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/inspectionj.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/inspectionj.jpg" alt="">
 </div>
 </center>
 <br><br>
-
 
 After lunch, it was Wemby's turn to play! Our team headed off to the robot training area, where we could test the game in real-life conditions, and perfect our robot if necessary !
 
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/couloir.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/couloir.jpg" alt="">
+</div>
 </div>
 </center>
-<br><br>
+<br>
 
-
-<br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/terrain.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/terrain.jpg" alt="">
 </div>
 </center>
 <br><br>
 
 During its first test match, Wemby encountered a mechanical problem, which was fortunately quickly repaired by our super-team of roboticists !
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/reparation.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/reparation.jpg" alt="">
 </div>
 </center>
 <br><br>
-
 
 After this very emotional first day, we headed for the beach at the port of Piraeus, just a few dozen metres from the stadium, with some great photos !
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/seagrp.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/seagrp.jpg" alt="">
+</div>
+</center>
+<br>
+
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/sea.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
-<br><br>
-<center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/sea.jpg">
-</div>
-</center>
-<br><br>
-
 
 Our day ends with a mythical Athens landmark, the Acropolis! From this hill, a breathtaking view of Athens by night is visible !
 
 <br><br>
 <center>
-<div style="width: 100%">
-<img src="https://werobot.fr/posts/acropolis.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/acropolis.jpg" alt="">
 </div>
 </center>
 <br><br>
 
 Team France has already made many wonderful memories on this first day !
+
 
 
 
