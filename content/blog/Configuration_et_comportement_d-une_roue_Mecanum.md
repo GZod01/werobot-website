@@ -1,8 +1,8 @@
 ---
-title: "Configuration et comportement d'une roue Mecanum"
-date: "2024-10-13T16:05:32+02:00"
-lastmod: "2024-10-14T16:38:36+02:00"
-lastupdate: "2024-10-14T16:38:36+02:00"
+title: "Configuration, comportement et programmation d'une roue Mecanum"
+date: "2024-10-13T14:05:32+02:00"
+lastmod: "2024-10-14T16:40:14+02:00"
+lastupdate: "2024-10-14T16:40:14+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -99,6 +99,7 @@ Lien : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanu
 Exemple de programmation Java en mode autonome :
 
 Lien : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
