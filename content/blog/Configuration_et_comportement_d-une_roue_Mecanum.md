@@ -1,8 +1,8 @@
 ---
 title: "Configuration et comportement d'une roue Mecanum"
-date: "2024-10-14T10:05:32+02:00"
-lastmod: "2024-10-14T14:21:54+02:00"
-lastupdate: "2024-10-14T14:21:54+02:00"
+date: "2024-10-14T08:05:32+02:00"
+lastmod: "2024-10-14T14:23:34+02:00"
+lastupdate: "2024-10-14T14:23:34+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -84,7 +84,6 @@ L'utilisation des concepts ci-dessus en tandem, en faisant varier la puissance d
 <img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
 </div>
 </center>
-<br><br>
 
 
 
@@ -93,73 +92,4 @@ L'utilisation des concepts ci-dessus en tandem, en faisant varier la puissance d
 
 
 
-## Mecanum Wheel Setup and Behavior
 
-Mecanum wheels, when properly set up on a drivetrain, allow for omni-directional movement. Each Mecanum Wheel Set (REV-45-1655) comes with a two right (REV-41-1656) and two left (REV-41-1657) mecanum wheels. This is determined by the direction of the leading edge of the rollers. If the rollers point left it is a left wheel and if they point right it is a right wheel. 
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-    <table>
-        <tr>
-            <td><img src="https://werobot.fr/posts/Mecanum_left.png"></td>
-            <td><img src="https://werobot.fr/posts/Mecanum_right.png"></td>
-	</tr>
-    </table>
-</div>
-</center>
-<br><br>
-
-Each side of the chassis needs one left and one right wheel. Mecanum Chassis also require four motors for operation.‌
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/Macanum_position_roues.png">
-</div>
-</center>
-<br><br>
-
-To know if your Mecanum Wheels are properly configured look from the top down on the drivetrain. Following diagonal lines created from the angle of the rollers should form an "X" as shown above.‌
-
-## Mecanum Wheel Drivetrain Behavior
-
-Running all four wheels in the same direction at the same speed will result in a forward/backward movement, as the longitudinal force vectors add up but the transverse vectors cancel each other out, as shown below.‌
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/Mecanum_avant_arriere.png">
-</div>
-</center>
-<br><br>
-
-When both wheels on one side of the drivetrain are moving in one direction while the other side is moving in the opposite direction results in stationary rotation of the drivetrain. The transverse vectors cancel out but the longitudinal vectors combine to generate rotation around the central vertical axis of the drivetrain, as shown below.‌
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/Mecanum_rotations.png">
-</div>
-</center>
-<br><br>
-
-When the right mecanum wheels run in one direction while the left mecanum wheels run in the opposite direction allows for a strafing movement, as the transverse vectors add up but the longitudinal vectors cancel out.‌
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/Mecanum_gauche_droite.png">
-</div>
-</center>
-<br><br>
-
-Using the above concepts in tandem through varying motor power to each wheel type allows for the drivetrain to move in different, angled vectors.
-
-<br><br>
-<center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/Mecanum_lateral_avant_arriere.png">
-</div>
-</center>
-<br><br>
