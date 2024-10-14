@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-25T23:55:13+02:00"
-lastmod: "2024-10-14T05:30:45+02:00"
-lastupdate: "2024-10-14T05:30:45+02:00"
+date: "2024-09-25T21:55:13+02:00"
+lastmod: "2024-10-14T05:32:04+02:00"
+lastupdate: "2024-10-14T05:32:04+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -51,7 +51,6 @@ En effet, la cérémonie d'ouverture de la compétition s'est déroulée le mêm
 <img src="https://werobot.fr/posts/supportceremony.jpg" alt="">
 </div>
 </center>
-<br><br>
 
 <br><br>
 <center>
@@ -70,7 +69,6 @@ Pour la France, nous avons choisi de défiler avec la phryge olympique et notre 
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
-<br><br>
 <center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/teamfrdefile.jpg" alt="">
@@ -130,7 +128,6 @@ Notre troisième journée se termine par une soirée de gala au centre culturel 
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
-<br><br>
 <center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/gala.jpg" alt="">
@@ -233,6 +230,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
+
 
 
 
