@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T13:46:13+02:00"
-lastmod: "2024-10-14T06:02:20+02:00"
-lastupdate: "2024-10-14T06:02:20+02:00"
+date: "2024-09-25T11:46:13+02:00"
+lastmod: "2024-10-14T06:06:33+02:00"
+lastupdate: "2024-10-14T06:06:33+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -44,26 +44,20 @@ Nous découvrons ensuite notre stand, que nous nous empressons de décorer pour 
 
 Nous partons ensuite à la découverte de toutes les autres équipes déjà présentes dans le stade. Nous avons rencontré pratiquement toutes les équipes durant ce premier jour, l'occasion parfaite de se découvrir, et pour cela rien de mieux que d'échanger des cadeaux ! C'est donc avec énormément de plaisir que nous avons offert à tous les membres d'équipes nos superbes médailles imprimées en 3d par NAE (Normandie AeroEspace) et FAN (Fabrication Additive en Normandie) !
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/pierremed.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/pierremed.jpg" alt="">
 </div>
 </center>
 <br><br>
 
-
-<br><br>
 <center>
-<div style="width: 100%">
-<img src="https://werobot.fr/posts/switzerland.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/switzerland.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
-
 
 Ensuite, notre robot Wemby est inspecté par l'équipe <i>FIRST</i> Global, spécialisée sur le sujet, afin de vérifier que Wemby respecte les règles imposées aux robots.
 La certification est évidemment passée sans problème pour le robot tricolore ! 
@@ -144,6 +138,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
