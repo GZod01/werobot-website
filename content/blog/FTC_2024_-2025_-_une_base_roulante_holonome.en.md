@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T17:52:17+02:00"
-lastmod: "2024-10-14T12:06:17+02:00"
-lastupdate: "2024-10-14T12:06:17+02:00"
+date: "2024-10-13T15:52:17+02:00"
+lastmod: "2024-10-14T12:08:29+02:00"
+lastupdate: "2024-10-14T12:08:29+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -50,6 +50,7 @@ After 4 hours of investment, the Mecanum basic prototype is ready and a draft Ja
 <img src="https://werobot.fr/posts/macanum3.jpg" alt="">
 </div>
 </center>
+<br>
 
 ## Mecanum Wheel Setup and Behavior
 
@@ -81,6 +82,19 @@ Each side of the chassis needs one left and one right wheel. Mecanum Chassis als
 To know if your Mecanum Wheels are properly configured look from the top down on the drivetrain. Following diagonal lines created from the angle of the rollers should form an "X" as shown above.‌
 
 ## Mecanum Wheel Drivetrain Behavior
+
+Running all four wheels in the same direction at the same speed will result in a forward/backward movement, as the longitudinal force vectors add up but the transverse vectors cancel each other out, as shown below.‌
+
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/Mecanum_avant_arriere.png">
+</div>
+</center>
+<br><br>
+
+
+
 
 
 
