@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-13T11:52:17+02:00"
-lastmod: "2024-10-14T12:14:03+02:00"
-lastupdate: "2024-10-14T12:14:03+02:00"
+date: "2024-10-13T09:52:17+02:00"
+lastmod: "2024-10-14T12:14:46+02:00"
+lastupdate: "2024-10-14T12:14:46+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -122,6 +122,7 @@ Using the above concepts in tandem through varying motor power to each wheel typ
 </div>
 </center>
 <br><br>
+
 
 
 
