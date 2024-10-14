@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-14T03:52:17+02:00"
-lastmod: "2024-10-14T08:03:15+02:00"
-lastupdate: "2024-10-14T08:03:15+02:00"
+date: "2024-10-14T01:52:17+02:00"
+lastmod: "2024-10-14T11:51:51+02:00"
+lastupdate: "2024-10-14T11:51:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -50,5 +50,23 @@ After 4 hours of investment, the Mecanum basic prototype is ready and a draft Ja
 <img src="https://werobot.fr/posts/macanum3.jpg" alt="">
 </div>
 </center>
+
+## Mecanum Wheel Setup and Behavior
+
+Mecanum wheels, when properly set up on a drivetrain, allow for omni-directional movement. Each Mecanum Wheel Set (REV-45-1655) comes with a two right (REV-41-1656) and two left (REV-41-1657) mecanum wheels. This is determined by the direction of the leading edge of the rollers. If the rollers point left it is a left wheel and if they point right it is a right wheel. 
+
+<br><br>
+<center>
+<div style="width: 100%; max-width: 700px;">
+    <table>
+        <tr>
+            <td><img src="https://werobot.fr/posts/Mecanum_left.png" alt="left"></td>
+            <td><img src="https://werobot.fr/posts/Mecanum_right.png" alt="right"></td>
+	</tr>
+    </table>
+</div>
+</center>
+<br><br>
+
 
 
