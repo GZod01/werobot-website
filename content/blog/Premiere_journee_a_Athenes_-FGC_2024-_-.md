@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T11:46:13+02:00"
-lastmod: "2024-10-14T06:06:33+02:00"
-lastupdate: "2024-10-14T06:06:33+02:00"
+date: "2024-09-25T09:46:13+02:00"
+lastmod: "2024-10-14T06:09:00+02:00"
+lastupdate: "2024-10-14T06:09:00+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -62,39 +62,34 @@ Nous partons ensuite à la découverte de toutes les autres équipes déjà pré
 Ensuite, notre robot Wemby est inspecté par l'équipe <i>FIRST</i> Global, spécialisée sur le sujet, afin de vérifier que Wemby respecte les règles imposées aux robots.
 La certification est évidemment passée sans problème pour le robot tricolore ! 
 
-
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/inspectionj.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/inspectionj.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
 
 Après la pause déjeuner, c'était à Wemby de jouer ! En effet, notre équipe s'est dirigée vers la zone d'entraînement des robots, qui nous permet de tester en conditions réelles le jeu, et d'également perfectionner notre robot si besoin ! 
 
 <br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/couloir.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/couloir.jpg" alt="">
+</div>
 </div>
 </center>
 <br><br>
 
-
-<br><br>
 <center>
-<div style="width: 50%">
-<img src="https://werobot.fr/posts/terrain.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/terrain.jpg" alt="">
+</div>
 </div>
 </center>
 <br><br>
-
 
 Pendant son premier match-test, Wemby a rencontré un souci de mécanique, heureusement vite réparé par notre super équipe de roboticien(ne)s !
-
 
 <br><br>
 <center>
@@ -138,6 +133,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
