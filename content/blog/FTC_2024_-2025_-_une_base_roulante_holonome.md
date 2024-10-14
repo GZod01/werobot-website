@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-13T00:30:06+02:00"
-lastmod: "2024-10-14T07:30:07+02:00"
-lastupdate: "2024-10-14T07:30:07+02:00"
+date: "2024-10-12T22:30:06+02:00"
+lastmod: "2024-10-14T07:31:17+02:00"
+lastupdate: "2024-10-14T07:31:17+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -33,7 +33,7 @@ Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fai
 <br>
 
 <center>
-<div style="width: 100%; max-width: 700px;">
+<div style="width: 100%; max-width: 900px;">
     <table>
         <tr>
             <td><img src="https://werobot.fr/posts/macanum1.jpg" alt=""></td>
@@ -43,6 +43,7 @@ Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fai
 </div>
 </center>
 <br><br>
+
 
 
 
