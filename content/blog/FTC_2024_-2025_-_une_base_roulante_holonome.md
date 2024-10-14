@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-13T18:30:06+02:00"
-lastmod: "2024-10-14T07:17:09+02:00"
-lastupdate: "2024-10-14T07:17:09+02:00"
+date: "2024-10-13T16:30:06+02:00"
+lastmod: "2024-10-14T07:19:08+02:00"
+lastupdate: "2024-10-14T07:19:08+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
