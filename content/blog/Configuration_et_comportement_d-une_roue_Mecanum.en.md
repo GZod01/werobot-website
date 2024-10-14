@@ -1,8 +1,8 @@
 ---
 title: "Mecanum Wheel Setup and Behavior"
-date: "2024-10-13T04:24:45+02:00"
-lastmod: "2024-10-14T16:35:40+02:00"
-lastupdate: "2024-10-14T16:35:40+02:00"
+date: "2024-10-13T02:24:45+02:00"
+lastmod: "2024-10-14T16:36:55+02:00"
+lastupdate: "2024-10-14T16:36:55+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -93,10 +93,12 @@ There are two possible operator control modes:
 2. Field-centric” mode, where the joystick controls the robot's direction in relation to the operator's field of vision.
 
 Link : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html)
+<br>
 
 Example of Java programming in stand-alone mode :
 
 Link : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
