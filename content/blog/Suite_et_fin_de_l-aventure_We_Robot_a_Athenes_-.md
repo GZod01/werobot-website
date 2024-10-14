@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-26T01:55:13+02:00"
-lastmod: "2024-10-10T23:41:24+02:00"
-lastupdate: "2024-10-10T23:41:24+02:00"
+date: "2024-09-25T23:55:13+02:00"
+lastmod: "2024-10-14T05:30:45+02:00"
+lastupdate: "2024-10-14T05:30:45+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -86,7 +86,6 @@ Pour clôturer en beauté cette cérémonie, rien de mieux que d’assister à u
 <img src="https://werobot.fr/posts/pierrickfrance.jpg" alt="">
 </div>
 </center>
-<br><br>
 
 <br><br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/l6GHmuBctvs?
@@ -234,6 +233,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
+
 
 
 
