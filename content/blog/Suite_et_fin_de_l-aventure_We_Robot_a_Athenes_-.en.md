@@ -1,8 +1,8 @@
 ---
 title: "The We Robot adventure in Athens continues !"
-date: "2024-09-30T15:10:57+02:00"
-lastmod: "2024-10-14T05:51:55+02:00"
-lastupdate: "2024-10-14T05:51:55+02:00"
+date: "2024-09-30T13:10:57+02:00"
+lastmod: "2024-10-14T05:53:47+02:00"
+lastupdate: "2024-10-14T05:53:47+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
