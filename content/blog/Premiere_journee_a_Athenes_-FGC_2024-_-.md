@@ -1,8 +1,8 @@
 ---
 title: "Première journée à Athènes (FGC 2024) !"
-date: "2024-09-25T15:46:13+02:00"
-lastmod: "2024-10-14T05:58:38+02:00"
-lastupdate: "2024-10-14T05:58:38+02:00"
+date: "2024-09-25T13:46:13+02:00"
+lastmod: "2024-10-14T06:02:20+02:00"
+lastupdate: "2024-10-14T06:02:20+02:00"
 author: "coach.francois"
 authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
@@ -27,24 +27,20 @@ La compétition du ***FIRST*** **Global Challenge** édition 2024 se déroule du
 
 A l'arrivée de l'équipe, une ambiance festive se fait déjà ressentir parmi toutes les autres équipes du monde entier, comme le montre notre rencontre musicale avec l'équipe du Venezuela !
 
-<br>
+<br><br>
 <iframe class="youtube-player" width="100%" height="597" src="https://youtube.com/embed/NVu7DVMlx-o?
 version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
-
+<br><br>
 
 Nous découvrons ensuite notre stand, que nous nous empressons de décorer pour représenter au mieux les couleurs de la France : 
 
-
 <br><br>
 <center>
-<div style="width: 100%">
-<img src="https://werobot.fr/posts/stand.jpg">
+<div style="width: 100%; max-width: 700px;">
+<img src="https://werobot.fr/posts/stand.jpg" alt="">
 </div>
 </center>
 <br><br>
-
-
-
 
 Nous partons ensuite à la découverte de toutes les autres équipes déjà présentes dans le stade. Nous avons rencontré pratiquement toutes les équipes durant ce premier jour, l'occasion parfaite de se découvrir, et pour cela rien de mieux que d'échanger des cadeaux ! C'est donc avec énormément de plaisir que nous avons offert à tous les membres d'équipes nos superbes médailles imprimées en 3d par NAE (Normandie AeroEspace) et FAN (Fabrication Additive en Normandie) !
 
@@ -148,6 +144,7 @@ Notre journée se finit par un point de passage incontournable et mythique d'Ath
 <br><br>
 
 Déjà beaucoup de très beaux souvenirs pour la Team France durant cette première journée !
+
 
 
 
