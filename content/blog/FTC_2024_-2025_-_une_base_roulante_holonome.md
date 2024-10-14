@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-12T06:30:06+02:00"
-lastmod: "2024-10-14T07:43:03+02:00"
-lastupdate: "2024-10-14T07:43:03+02:00"
+date: "2024-10-12T04:30:06+02:00"
+lastmod: "2024-10-14T07:44:30+02:00"
+lastupdate: "2024-10-14T07:44:30+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Choix d'une base roulante avec des roues Mecanum"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/macanum2.jpg"
+banner: "https://werobot.fr/posts/macanum2.jpg"
 draft: false
 ---
 ## Choix d'une base roulante avec des roues Mecanum
@@ -55,6 +55,7 @@ Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauch
 </div>
 </center>
 <br><br>
+
 
 
 
