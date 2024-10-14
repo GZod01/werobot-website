@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : an omnidirectional rolling base"
-date: "2024-10-14T07:52:17+02:00"
-lastmod: "2024-10-14T07:53:02+02:00"
-lastupdate: "2024-10-14T07:53:02+02:00"
+date: "2024-10-14T05:52:17+02:00"
+lastmod: "2024-10-14T07:57:18+02:00"
+lastupdate: "2024-10-14T07:57:18+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,8 +10,7 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "Choosing a rolling base with Mecanum wheels
-"
+description: "Choosing a rolling base with Mecanum wheels "
 baneer: "https://werobot.fr/posts/macanum2.jpg"
 banner: "https://werobot.fr/posts/macanum2.jpg"
 draft: false
@@ -47,8 +46,9 @@ After 4 hours of investment, the Mecanum basic prototype is ready and a draft Ja
 
 <br><br>
 <center>
-<div style="width: 100%; max-width: 500px;">
+<div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/macanum3.jpg" alt="">
 </div>
 </center>
 <br><br>
+
