@@ -1,8 +1,8 @@
 ---
 title: "Configuration, comportement et programmation d'une roue Mecanum"
-date: "2024-10-13T06:05:32+02:00"
-lastmod: "2024-10-15T09:00:51+02:00"
-lastupdate: "2024-10-15T09:00:51+02:00"
+date: "2024-10-13T04:05:32+02:00"
+lastmod: "2024-10-15T09:22:10+02:00"
+lastupdate: "2024-10-15T09:22:10+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -93,12 +93,13 @@ Il y a deux modes de contrôle opérateur possibles  :
 1. Le mode "Robot-Centric" centré sur le robot où le joystick contrôle la direction du robot par rapport au châssis du robot.
 2. Le mode "Field-Centric" centré sur le terrain " où le joystick contrôle la direction du robot par rapport au champ de vision de l'opérateur.
 
-Lien : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html)
+Lien : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html target="_blank")
 <br><br>
 
 Exemple de programmation Java en mode autonome :
 
 Lien : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
