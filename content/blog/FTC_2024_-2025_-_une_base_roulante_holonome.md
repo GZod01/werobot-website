@@ -1,8 +1,8 @@
 ---
 title: "FTC 2024 -2025 : une base roulante omnidirectionnelle"
-date: "2024-10-14T06:30:06+02:00"
-lastmod: "2024-10-15T09:12:26+02:00"
-lastupdate: "2024-10-15T09:12:26+02:00"
+date: "2024-10-14T04:30:06+02:00"
+lastmod: "2024-10-15T11:00:50+02:00"
+lastupdate: "2024-10-15T11:00:50+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -17,7 +17,7 @@ draft: false
 ---
 ## Choix d'une base roulante avec des roues Mecanum
 
-Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fait le choix d'une base avec des roues Mecanum permettant un déplacement fluide du robot dans toutes les directions. Le faible espace autour de la SUBMERSIBLE ZONE et la précision pour le dépôt des SAMPLES ou l'accrochage des SPECIMENS nécessitant un robot précis dans ses mouvements. Les pôles Software et Hardware se mettent aussitot au travail.
+Après avoir analysé la règle du jeu de "Into The Deep", la Team WeRobot a fait le choix d'une base avec des roues Mecanum permettant un déplacement fluide du robot dans toutes les directions. Le faible espace autour de la SUBMERSIBLE ZONE et la précision pour le dépôt des SAMPLES ou l'accrochage des SPECIMENS nécessitant un robot précis dans ses mouvements. Les pôles Software et Hardware se mettent aussitôt au travail.
 
 <br><br>
 <center>
@@ -50,6 +50,7 @@ Après 4H d'investissement le prototype de base Mecanum est prêt et une ébauch
 <img src="https://werobot.fr/posts/macanum3.jpg">
 </div>
 </center>
+
 
 
 
