@@ -1,8 +1,8 @@
 ---
 title: "Mecanum wheel configuration, behavior and programming"
-date: "2024-10-12T22:24:45+02:00"
-lastmod: "2024-10-14T16:41:38+02:00"
-lastupdate: "2024-10-14T16:41:38+02:00"
+date: "2024-10-12T20:24:45+02:00"
+lastmod: "2024-10-15T09:00:01+02:00"
+lastupdate: "2024-10-15T09:00:01+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -24,8 +24,8 @@ Each set of Mecanum wheels ([REV-45-1655](https://www.revrobotics.com/rev-45-165
 <div style="width: 100%; max-width: 700px;">
     <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/Mecanum_left.png"></td>
-            <td><img src="https://werobot.fr/posts/Mecanum_right.png"></td>
+            <td align="center"><img src="https://werobot.fr/posts/Mecanum_left.png"><figcaption>Left wheel</figcaption></td>
+            <td align="center"><img src="https://werobot.fr/posts/Mecanum_right.png"><figcaption>Wright wheel</figcaption></td>
 	</tr>
     </table>
 </div>
@@ -98,6 +98,7 @@ Link : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanu
 Example of Java programming in stand-alone mode :
 
 Link : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
