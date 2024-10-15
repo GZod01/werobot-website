@@ -1,8 +1,8 @@
 ---
 title: "Suite et fin de l'aventure We Robot à Athènes !"
-date: "2024-09-25T19:55:13+02:00"
-lastmod: "2024-10-14T05:34:40+02:00"
-lastupdate: "2024-10-14T05:34:40+02:00"
+date: "2024-09-25T17:55:13+02:00"
+lastmod: "2024-10-15T09:25:33+02:00"
+lastupdate: "2024-10-15T09:25:33+02:00"
 author: "coach.francois"
 authors: ["Lucy","coach.francois","Franck"]
 facebook_author: "false"
@@ -234,6 +234,7 @@ A la prochaine FIRST !
 <img src="https://werobot.fr/posts/photogroupe.jpg" alt="">
 </div>
 </center>
+
 
 
 
