@@ -1,8 +1,8 @@
 ---
 title: "Configuration, comportement et programmation d'une roue Mecanum"
-date: "2024-10-13T10:05:32+02:00"
-lastmod: "2024-10-15T08:57:54+02:00"
-lastupdate: "2024-10-15T08:57:54+02:00"
+date: "2024-10-13T08:05:32+02:00"
+lastmod: "2024-10-15T08:58:59+02:00"
+lastupdate: "2024-10-15T08:58:59+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,10 +22,10 @@ Chaque jeu de roues Mecanum ([REV-45-1655](https://www.revrobotics.com/rev-45-16
 <br><br>
 <center>
 <div style="width: 100%; max-width: 700px;">
-    <table align="center">
+    <table>
         <tr>
-            <td><img src="https://werobot.fr/posts/Mecanum_left.png"><figcaption>Left wheel</figcaption></td>
-            <td><img src="https://werobot.fr/posts/Mecanum_right.png"><figcaption>Wright wheel</figcaption></td>
+            <td align="center"><img src="https://werobot.fr/posts/Mecanum_left.png"><figcaption>Left wheel</figcaption></td>
+            <td align="center"><img src="https://werobot.fr/posts/Mecanum_right.png"><figcaption>Wright wheel</figcaption></td>
 	</tr>
     </table>
 </div>
@@ -99,6 +99,7 @@ Lien : [Mecanum TeleOp](https://gm0.org/en/latest/docs/software/tutorials/mecanu
 Exemple de programmation Java en mode autonome :
 
 Lien : [Drivetrain Control](https://www.ctrlaltftc.com/practical-examples/drivetrain-control)
+
 
 
 
