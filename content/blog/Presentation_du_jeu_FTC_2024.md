@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-25T06:58:36+02:00"
-lastmod: "2024-10-09T13:18:59+02:00"
-lastupdate: "2024-10-09T13:18:59+02:00"
+date: "2024-09-26T04:58:36+02:00"
+lastmod: "2024-10-17T15:38:13+02:00"
+lastupdate: "2024-10-17T15:38:13+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -66,6 +66,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
