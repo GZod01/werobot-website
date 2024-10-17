@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-09-26T03:42:38+02:00"
-lastmod: "2024-10-17T15:38:36+02:00"
-lastupdate: "2024-10-17T15:38:36+02:00"
+date: "2024-09-26T01:42:38+02:00"
+lastmod: "2024-10-17T16:06:58+02:00"
+lastupdate: "2024-10-17T16:06:58+02:00"
 author: "coach.francois"
 authors: ["coach.francois","Franck"]
 facebook_author: "false"
@@ -41,9 +41,10 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 13. Basket pouring height : LOW [BASKET](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDgvMjIvMTEvMjAvMzYvYWZlYmJhZWYtYjMxYi00ZDI0LWI4YzItYWIxZWQyMGJjYzUzL2FtLTMwMTUgQmFza2V0LlBERiJdXQ/am-3015%20Basket.PDF?sha=858d2efda12ae755) is 25.75" (65.4 cm) and HIGH [BASKET](https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDgvMjIvMTEvMjAvMzYvYWZlYmJhZWYtYjMxYi00ZDI0LWI4YzItYWIxZWQyMGJjYzUzL2FtLTMwMTUgQmFza2V0LlBERiJdXQ/am-3015%20Basket.PDF?sha=858d2efda12ae755) is 43" (109.2 cm), <br>
 14. ROBOTS must be outside the SUBMERSIBLE ZONE when they begin their ascent but can tip inside during ascent, <br>
 15. A main power switch (type [REV-31-1387](https://www.revrobotics.com/rev-31-1387/)) must control all power supplied by the robot's battery, <br>
-16. The switch must be easily accessible to all and marked with a nearby [label](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/power-button-labels.pdf) measuring at least 2.5" x 1" (6.4 cm x 2.5 cm).
+16. The switch must be easily accessible to all and marked with a nearby [label](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/power-button-labels.pdf) measuring at least 2.5" x 1" (6.4 cm x 2.5 cm), <br>
+17. For the final ascent, the robot must start climbing from outside the SUBMERSIBLE ZONE, <br>
+18. To be considered hooked to the HIGH RUNG, the robot must be fully supported by the HIGH RUNG and completely above the LOW RUNG at the end of the match.
 <br><br>
-
 
 ### The 3D PLAYING FIELD
 
@@ -66,6 +67,7 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	">
 </iframe>
 </div>
+
 
 
 
