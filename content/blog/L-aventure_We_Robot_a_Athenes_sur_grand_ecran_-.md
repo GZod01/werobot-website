@@ -1,8 +1,8 @@
 ---
 title: "L'aventure We Robot à Athènes sur grand écran !"
-date: "2024-10-20T05:06:26+02:00"
-lastmod: "2024-10-20T09:35:08+02:00"
-lastupdate: "2024-10-20T09:35:08+02:00"
+date: "2024-10-20T03:06:26+02:00"
+lastmod: "2024-10-20T09:37:01+02:00"
+lastupdate: "2024-10-20T09:37:01+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -99,6 +99,10 @@ Après avoir été applaudis suite à la diffusion de notre film, vient le temps
 <center>
 <div style="width: 100%; max-width: 700px;">
 <img src="https://werobot.fr/posts/questionspetits.jpg" alt="">
+</div>
+</center>
+<br><br>
+
 Après les questions, c'est au tour de Wemby de briller encore une fois, cette fois-ci dans les yeux des enfants ! Les petits spectateurs se sont rapprochés de la scène pour voir notre robot qui semble toujours avoir autant de succès ! 
 Wemby se déplace, Pierrick dépose les 4 balles dessus, le système de l'ascenseur se met en marche, les enfants adorent ! 
 L'équipe répond aussi aux éventuelles questions des plus petits curieux, sans oublier de montrer nos belles médailles d'or, avant d'achever notre présentation.
@@ -135,4 +139,5 @@ Ensuite, nous terminons tous la soirée devant la diffusion du film Le Robot Sau
 <br><br>
 
 Nous remercions très chaleureusement le cinéma de Vernon pour son accueil et le temps consacré à la mise en place de notre venue, ainsi que Frédérique Perette, employée du cinéma qui s'occupe de la communication et qui n'a pas hésité à nous filmer et nous poster sur le compte Instagram du cinéma ! De plus, elle nous a aussi accompagnés dans l'organisation de la soirée. Merci beaucoup !
+
 
