@@ -1,8 +1,8 @@
 ---
 title: "L'aventure We Robot à Athènes sur grand écran !"
-date: "2024-10-20T07:06:26+02:00"
-lastmod: "2024-10-20T09:33:05+02:00"
-lastupdate: "2024-10-20T09:33:05+02:00"
+date: "2024-10-20T05:06:26+02:00"
+lastmod: "2024-10-20T09:35:08+02:00"
+lastupdate: "2024-10-20T09:35:08+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -15,8 +15,6 @@ baneer: "https://werobot.fr/posts/filmpodium.jpg"
 banner: "https://werobot.fr/posts/filmpodium.jpg"
 draft: false
 ---
-
-
 Vendredi 18 octobre a été une grande première pour notre équipe ! C'est en effet la première fois que nous étions invités au cinéma pour présenter notre association et nos projets ! 
 
 <br><br>
@@ -26,7 +24,7 @@ Vendredi 18 octobre a été une grande première pour notre équipe ! C'est en e
 </div>
 </center>
 <br><br>
-Quelques semaines avant notre départ à Athènes pour la compétition internationale de robotique du ***FIRST* Global Challenge**, [le cinéma de Vernon](https://www.cinemas-vernon.fr/) nous contacte en nous expliquant que la sortie du film Le Robot Sauvage serait la parfaite occasion pour We Robot de se rendre au cinéma pour se faire découvrir auprès du public dans la salle avant la projection du film !
+Quelques semaines avant notre départ à Athènes pour la compétition internationale de robotique du FIRST Global Challenge, le cinéma de Vernon nous contacte en nous expliquant que la sortie du film Le Robot Sauvage serait la parfaite occasion pour We Robot de se rendre au cinéma pour se faire découvrir auprès du public dans la salle avant la projection du film !
 
 
 <br><br>
@@ -137,3 +135,4 @@ Ensuite, nous terminons tous la soirée devant la diffusion du film Le Robot Sau
 <br><br>
 
 Nous remercions très chaleureusement le cinéma de Vernon pour son accueil et le temps consacré à la mise en place de notre venue, ainsi que Frédérique Perette, employée du cinéma qui s'occupe de la communication et qui n'a pas hésité à nous filmer et nous poster sur le compte Instagram du cinéma ! De plus, elle nous a aussi accompagnés dans l'organisation de la soirée. Merci beaucoup !
+
