@@ -1,8 +1,8 @@
 ---
-title: "L'aventure We Robot à Athènes sur grand écran ! (TO TRANSLATE)"
-date: "2024-10-20T09:51:21+02:00"
-lastmod: "2024-10-20T09:57:58+02:00"
-lastupdate: "2024-10-20T09:57:58+02:00"
+title: "The We Robot adventure in Athens on the big screen !"
+date: "2024-10-20T07:51:21+02:00"
+lastmod: "2024-10-20T09:58:42+02:00"
+lastupdate: "2024-10-20T09:58:42+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -140,6 +140,7 @@ Then we all finish the evening with a screening of the film Le Robot Sauvage !
 <br><br>
 
 We'd like to extend our warmest thanks to the Vernon cinema for its warm welcome and the time it took to organize our visit, as well as to Frédérique Perette, the cinema's communications officer, who didn't hesitate to film us and post us on the cinema's Instagram account! She also helped us organize the evening. Thank you so much !
+
 
 
 
