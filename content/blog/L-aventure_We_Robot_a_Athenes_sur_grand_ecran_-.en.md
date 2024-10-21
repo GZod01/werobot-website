@@ -1,10 +1,10 @@
 ---
 title: "The We Robot adventure in Athens on the big screen !"
-date: "2024-10-20T03:51:21+02:00"
-lastmod: "2024-10-21T16:43:44+02:00"
-lastupdate: "2024-10-21T16:43:44+02:00"
-author: "Franck"
-authors: ["Lucy","Franck"]
+date: "2024-10-20T01:51:21+02:00"
+lastmod: "2024-10-21T21:41:01+02:00"
+lastupdate: "2024-10-21T21:41:01+02:00"
+author: "coach.francois"
+authors: ["Lucy","Franck","coach.francois"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -92,7 +92,7 @@ Don't worry if you weren't at the cinema with us on October 18, you too can watc
 
 <br><br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/QUbmlH5IMCE?si=aGQ0WQtpDOnGdPle?
-version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;cc_lang_pref=en&cc_load_policy=1&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
 After the applause following the showing of our film, it's time for the children's questions, which we answer in a way that's most understandable for the very young.
@@ -140,6 +140,7 @@ Then we all finish the evening with a screening of the film Le Robot Sauvage !
 <br><br>
 
 We'd like to extend our warmest thanks to the Vernon cinema for its warm welcome and the time it took to organize our visit, as well as to Frédérique Perette, the cinema director who also handles communication,didn't hesitate to film us and post us on the cinema's Instagram account! She also helped us organize the evening. Thank you so much !
+
 
 
 
