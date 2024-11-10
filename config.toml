@@ -182,11 +182,11 @@ weight=5
 title="GitHub"
 url="https://github.com/werobot-france"
 
-#[[params.social]]
-#id="tiktok"
-#weight=6
-#title="TikTok"
-#url="https://tiktok.com/"
+[[params.social]]
+id="tiktok"
+weight=6
+title="TikTok"
+url="https://tiktok.com/"
 
 [[params.errors]]
 id="unknown"
