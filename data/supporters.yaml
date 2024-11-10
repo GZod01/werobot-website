@@ -2,6 +2,7 @@ compet:
   - name: First Global Challenge 2024
     levels: # différents niveaux de sponsoring
       - title: Gros Sponsors
+        titleen: Big Sponsors
         size: big
         orgs:
         - name: Crédit Agricole
