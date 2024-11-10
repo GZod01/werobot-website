@@ -1,8 +1,8 @@
 ---
 title: "La robotique, une affaire d'Etat !"
-date: "2024-11-10T10:14:31+02:00"
-lastmod: "2024-11-10T16:29:35+02:00"
-lastupdate: "2024-11-10T16:29:35+02:00"
+date: "2024-11-10T08:14:31+02:00"
+lastmod: "2024-11-10T16:30:32+02:00"
+lastupdate: "2024-11-10T16:30:32+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -37,8 +37,7 @@ Et c’est avec grand plaisir que nous avons reçu une réponse de la part du ch
 </div>
 </center>
 <br><br>
-<br><br>
-<center>
+
 
 
   
@@ -69,4 +68,5 @@ Enfin, après notre retour en France suite à notre belle performance à Athène
 
 
 Thank you !!!
+
 
