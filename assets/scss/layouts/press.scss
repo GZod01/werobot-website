@@ -3,10 +3,11 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-
     .press_article{
+	display:flex;flex-direction:column;
 	.p_a_img{}
 	.p_a_datas{
+	    background:rgba(20,20,20,0.5);
 	    .p_a_title{}
 	    .p_a_infos{}
 	}
