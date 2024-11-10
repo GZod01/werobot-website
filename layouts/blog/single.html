@@ -19,6 +19,7 @@
 
 
 	{{ if .Params.banner }}
+	<b>helloworld</b>
 	{{ $featuredImage := .Resources.GetMatch (.Params.banner | safeURL)  }}
 	{{ $featuredImageCaption := "Bannière représentant l'article" }}
 	{{ if $featuredImage }}
