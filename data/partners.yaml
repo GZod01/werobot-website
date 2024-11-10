@@ -26,11 +26,6 @@ old:
     class: "w-full md:w-1/3"
     img: "skf.png"
     description: "SKF Vernon a participé à l'achat de l'imprimante 3D de notre association en février 2019."
-  - name: "Agglo Seine Eure"
-    id: "seineeure"
-    realimg: "https://www.agglo-seine-eure.fr/wp-content/themes/agglo/images/logos/logo.png"
-    description: "En octobre 2023, l'agglomération Seine-Eure nous a accordé une subvention de 2500€ pour notre participation au FGC 2023."
-    url: "https://www.agglo-seine-eure.fr"
 
 
 partners:
@@ -47,3 +42,8 @@ partners:
     img: "atisComputer.jpg"
     description: "Nous soutient depuis avril 2019. Nous a déjà fourni 2 
       <a href=\"https://www.raspberrypi.org/\">Raspberry Pi</a> 3B+"
+  - name: "Agglo Seine Eure"
+    id: "seineeure"
+    realimg: "https://www.agglo-seine-eure.fr/wp-content/themes/agglo/images/logos/logo.png"
+    description: "En octobre 2023, l'agglomération Seine-Eure nous a accordé une subvention de 2500€ pour notre participation au FGC 2023."
+    url: "https://www.agglo-seine-eure.fr"
