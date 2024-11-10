@@ -20,15 +20,15 @@
 
 	{{ if .Params.banner }}
 	<b>helloworld</b>
-	{{ $featuredImage := .Resources.GetMatch (.Params.banner | safeURL)  }}
+	{{/* $featuredImage := .Resources.GetMatch (.Params.banner | safeURL)  }}
 	{{ $featuredImageCaption := "Bannière représentant l'article" }}
-	{{ if $featuredImage }}
+	{{ if $featuredImage */}}
 	{{ $featuredImage = $featuredImage.Resize "600x" }}
 	<figure>
 	    <img alt="{{ $featuredImageCaption }}" src="{{ $featuredImage.RelPermalink }}" />
 	    <figcaption>{{ $featuredImageCaption }}</figcaption>
 	</figure>
-	{{ end }}
+	{{/* end */}}
 	{{ end }}
 
 	{{ range .Params.tags }}
