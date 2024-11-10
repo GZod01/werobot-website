@@ -6,7 +6,6 @@ title = "We Robot"
 
 summaryLength = 50
 
-# THIS IS UNACCEPTALBE, I REALLY THOUGH THIS WAS THE DEFAULT IN HUGO!!
 assetDir = "assets"
 
 
@@ -57,6 +56,10 @@ title = "Build, Test, Learn, Deploy"
   [languages.en.params.blog]
   title = "Blog"
   description = "The Blog is THE place to find all the news and story from the team."
+  
+  [languages.en.params.press]
+  title= "Press"
+  description ="Press articles that talk of We Robot"
 
   [languages.en.params.legals]
   title = "Legals term"
@@ -215,6 +218,10 @@ src = "cover/cover.png"
   [params.blog]
   title = "Blog"
   description = "Le Blog de We Robot, c'est comme la vie, il y a des haut et des bas."
+  
+  [params.press]
+  title="Presse"
+  description="Les articles de presse qui parlent de WeRobot"
 
   [params.legals]
   title = "Mentions légales"
@@ -303,6 +310,12 @@ weight=2
 identifier="blog"
 url="/blog"
 title="Blog"
+
+[[menus.main]]
+weight=2
+identifier="blog"
+url="/press"
+title="Presse"
 
 [[menus.main]]
 weight=3
