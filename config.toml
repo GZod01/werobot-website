@@ -177,15 +177,21 @@ weight=4
 title="TikTok"
 url="https://www.tiktok.com/@werobot2"
 
+[[params.social]]
+id="linkedin"
+weight=5
+title="Linkedin"
+url="https://www.linkedin.com/company/we-robot"
+
 #[[params.social]]
 #id="youtube"
-#weight=5
+#weight=6
 #title="Youtube"
 #url="https://facebook.com/werobot"
 
 [[params.social]]
 id="github"
-weight=6
+weight=7
 title="GitHub"
 url="https://github.com/werobot-france"
 
