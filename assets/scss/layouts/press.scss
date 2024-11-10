@@ -6,7 +6,9 @@
     .press_article{
 	display:flex;flex-direction:column;position:relative;
 	.p_a_img{}
-	&:has(.p_a_img) .p_a_datas{
+	&:has(.p_a_img) .p_a_datas{opacity:1;}
+	.p_a_datas{
+	    opacity:0;transition: all .5s ease;
 	    backdrop-filter: blur(2px);
 	    background: rgba(20, 20, 20, 0.5);
 	    position: absolute;
