@@ -1,3 +1,9 @@
 ---
-articles: []
+articles:
+- source_journal: Exemple - We Robot
+  source_url: https://werobot.fr
+  source_title: Exemple car We Robot c'est trop cool - Placeholder
+  source_date: "1111-11-11"
+  source_image: /press/100b9693c0e53610274326fb78c3bf06.png
+  id: 100b9693c0e53610274326fb78c3bf06
 ...
