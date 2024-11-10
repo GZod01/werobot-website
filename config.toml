@@ -312,31 +312,31 @@ url="/blog"
 title="Blog"
 
 [[menus.main]]
-weight=2
-identifier="blog"
+weight=3
+identifier="press"
 url="/press"
 title="Presse"
 
 [[menus.main]]
-weight=3
+weight=4
 identifier="about"
 url="/about"
 title="A Propos"
 
 [[menus.main]]
-weight=4
+weight=5
 identifier="partners"
 url="/partners"
 title="Nos partenaires"
 
 [[menus.main]]
-weight=4
+weight=6
 identifier="contact-us"
 url="/contact"
 title="Contact"
 
 [[menus.main]]
-weight=5
+weight=7
 identifier="donate"
 url="https://www.helloasso.com/associations/we-robot/formulaires/1"
 title="Donner"
