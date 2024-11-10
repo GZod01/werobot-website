@@ -132,6 +132,7 @@ description= "This page doesn't exist"
 changefreq = 'weekly'
 
 [params]
+donateurl="https://www.helloasso.com/associations/we-robot/formulaires/1"
 partner_per_compet="Nos partenaires par compétition"
 mainSections= "blog"
 error404message = "Page non trouvée"
