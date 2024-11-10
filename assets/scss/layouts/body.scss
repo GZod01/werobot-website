@@ -98,6 +98,14 @@
       transition: opacity 0.2s;
       text-decoration: none;
     }
+    .blog-pagination{
+	.blog-pagination-next,.blog-pagination-previous{
+	    max-width:50%;
+	}
+	a{
+	    color: white;
+	}
+    }
 
     a:hover {
       text-decoration: none;

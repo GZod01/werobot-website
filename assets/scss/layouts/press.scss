@@ -1,0 +1,15 @@
+.press_articles_list{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+
+    .press_article{
+	.p_a_img{}
+	.p_a_datas{
+	    .p_a_title{}
+	    .p_a_infos{}
+	}
+    }
+}
+

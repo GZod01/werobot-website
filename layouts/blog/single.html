@@ -1,0 +1,78 @@
+{{ define "main" }}
+<div class="cover">
+    <div class="cover-back"></div>
+    <div class="cover-container">
+	<div class="container mx-auto">
+	    <div class="cover-title">
+		<h1>{{ .Title }}</h1>
+	    </div>
+	</div>
+    </div>
+</div>
+
+<main class="container mx-auto content text">
+    <article class="article">
+
+	{{ with .Date }}
+	<div>Publié le <b><time>{{ . | time.Format ":date_full" }}</time></b></div>
+	{{ end }}
+
+
+	{{ if .Params.banner }}
+	{{ $featuredImage := .Resources.GetMatch (.Params.banner | safeURL)  }}
+	{{ $featuredImageCaption := "Bannière représentant l'article" }}
+	{{ if $featuredImage }}
+	{{ $featuredImage = $featuredImage.Resize "600x" }}
+	<figure>
+	    <img alt="{{ $featuredImageCaption }}" src="{{ $featuredImage.RelPermalink }}" />
+	    <figcaption>{{ $featuredImageCaption }}</figcaption>
+	</figure>
+	{{ end }}
+	{{ end }}
+
+	{{ range .Params.tags }}
+	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+	{{ end }}
+	{{ block "previousnextblock" . }}{{ end }}
+	<div>
+	    {{ .Content | safeHTML }}
+	</div>
+	{{ block "previousnextblock" . }}{{ end }}
+    </article>
+</main>
+{{ end }}
+{{ define "previousnextblock"}}
+{{ $pages := .CurrentSection.Pages.ByWeight }}
+{{ $pagesNext := ($pages.Next  .)}}
+{{ $pagesPrev := ($pages.Prev .)}}
+<div class="mt-6 pt-2 blog-pagination">
+    <div class="blog-pagination-previous">
+	<a
+		class="button button-primary mobile-icon {{ if (not $pagesPrev) }}disabled{{end}}"
+		{{ if (not $pagesPrev) }}disabled{{end}}
+		href="{{ if $pagesPrev }}{{$pagesPrev.RelPermalink}}{{ end }}">
+	    <div class="button-icon">
+		<i class="fa fas fa-arrow-left"></i>
+	    </div>
+	    <div class="link button-text">
+		{{ site.Params.previous }} {{ if $pagesPrev}} {{ $pagesPrev.Title }}{{ end }}
+	    </div>
+	</a>
+    </div>
+    <div class="blog-pagination-current">
+    </div>
+    <div class="blog-pagination-next">
+	<a
+		class="button button-primary mobile-icon {{ if (not $pagesNext) }}disabled{{end}}"
+		{{ if (not $pagesNext) }}disabled{{end}}
+		href="{{ if $pagesNext }}{{$pagesNext.RelPermalink }}{{end}}">
+	    <div class="link button-text">
+		{{ site.Params.next }} {{ if $pagesNext}}{{ $pagesNext.Title }}{{ end }}
+	    </div>
+	    <div class="button-icon">
+		<i class="fa fas fa-arrow-right"></i>
+	    </div>
+	</a>
+    </div>
+</div>
+{{ end }}
