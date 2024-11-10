@@ -1,9 +1,3 @@
 ---
-articles:
-- source_journal: New York Times
-  source_url: https://nyc.com/hola
-  source_title: Super association au monde
-  source_date: "1564-05-12"
-  source_image: /press/48058db412044a2f186dd9c9a26ad425.png
-  id: 48058db412044a2f186dd9c9a26ad425
+articles: []
 ...
