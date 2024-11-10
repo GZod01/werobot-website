@@ -1,5 +1,5 @@
 <div class=partners>
-    <h2>Ils nous soutiennent régulièrement:</h2>
+    <h2>{{ if (eq .Lang "en") }}They support us regularly:{{ else }}Ils nous soutiennent régulièrement:{{ end }}</h2>
 {{ range .Site.Data.partners.partners }}
 <div id="{{ .id }}" class="partner flex flex-wrap">
     <a href="{{ .url | safeURL }}" title="{{ .Name }}" class="w-full md:w-1/3 partner-image">
@@ -10,14 +10,14 @@
     </div>
 </div>
 {{ end }}
-<h2>Ils nous ont soutenus:</h2>
+<h2>{{ if (eq .Lang "en") }}They supported us:{{ else }}Ils nous ont soutenus:{{ end }}</h2>
 {{ range .Site.Data.partners.old }}
 <div id="{{ .id }}" class="partner flex flex-wrap">
     <a href="{{ .url | safeURL }}" title="{{ .Name }}" class="w-full md:w-1/3 partner-image">
 	<img src="{{ if .realimg }}{{ .realimg }}{{ else }}/proxyPhotos?code=/{{ .img }}{{ end }}">
     </a>
     <div class="w-full md:w-2/3">
-        {{ if (and .descriptionen (eq .Lang "en")) }}{{ .descriptionen | safeHTML }}{{ else }}{{ .description | safeHTML}}{{ end }}
+        {{ if (and .descriptionen (eq .Lang "en")) }}{{ .descriptionen | safeHTML }}{{ else }}{{ .description | safeHTML}}{{ end }
     </div>
 </div>
 {{ end }}
