@@ -1,9 +1,9 @@
 ---
 articles:
 - source_journal: New York Times
-  source_url: ""
-  source_title: We Robot The best robotic association of the world
-  source_date: "1111-11-11"
-  source_image: /press/ae534122dd1e44f1e83e53b22706ce04.png
-  id: ae534122dd1e44f1e83e53b22706ce04
+  source_url: https://nyc.com/hola
+  source_title: Super association au monde
+  source_date: "1564-05-12"
+  source_image: /press/48058db412044a2f186dd9c9a26ad425.png
+  id: 48058db412044a2f186dd9c9a26ad425
 ...
