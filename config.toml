@@ -8,6 +8,13 @@ summaryLength = 50
 
 assetDir = "assets"
 
+[module]
+[[module.mounts]]
+source="static"
+target="assets"
+[[module.mounts]]
+source="assets"
+target="assets"
 
 [languages]
 [languages.fr]

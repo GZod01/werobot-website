@@ -18,17 +18,22 @@
 	{{ end }}
 
 
-	{{ if .Params.banner }}
+	{{ if (and .Params.banner  false ) }}
 	<b>helloworld</b>
-	{{/* $featuredImage := .Resources.GetMatch (.Params.banner | safeURL)  }}
+	{{ $featuredImagePath := (.Params.banner | safeURL)}}
+	{{ $featuredImageRelPath := (strings.TrimPrefix "https://werobot.fr/" $featuredImagePath )}} 
+	{{ $featuredImage := resources.Get $featuredImageRelPath }}
+	{{ debug.Dump $featuredImage }}
+	{{ debug.Dump $featuredImagePath }}
+	{{ debug.Dump $featuredImageRelPath }}
 	{{ $featuredImageCaption := "Bannière représentant l'article" }}
-	{{ if $featuredImage */}}
+	{{ if $featuredImage }}
 	{{ $featuredImage = $featuredImage.Resize "600x" }}
 	<figure>
 	    <img alt="{{ $featuredImageCaption }}" src="{{ $featuredImage.RelPermalink }}" />
 	    <figcaption>{{ $featuredImageCaption }}</figcaption>
 	</figure>
-	{{/* end */}}
+	{{ end }}
 	{{ end }}
 
 	{{ range .Params.tags }}
