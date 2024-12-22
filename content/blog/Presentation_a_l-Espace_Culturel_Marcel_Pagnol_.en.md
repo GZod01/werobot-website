@@ -1,8 +1,8 @@
 ---
-title: "Presentation at Espace Culturel Marcel Pagnol  "
-date: "2024-12-22T20:29:27+02:00"
-lastmod: "2024-12-22T20:34:42+02:00"
-lastupdate: "2024-12-22T20:34:42+02:00"
+title: "Presentation at cultural center Marcel Pagnol  "
+date: "2024-12-22T18:29:27+02:00"
+lastmod: "2024-12-22T20:35:44+02:00"
+lastupdate: "2024-12-22T20:35:44+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -134,3 +134,4 @@ Then it's time for a snack, during which exchanges between members of the public
 
 
 Our warmest thanks go to the municipality of Val-d'Hazey for allowing us to stage a presentation at the Espace Culturel Marcel Pagnol, and to the staff who helped us set up the equipment. And, of course, we'd like to thank all those who attended our presentation, who provided us with essential support !
+
