@@ -1,8 +1,8 @@
 ---
 title: "We Robot au FTC 2024"
-date: "2025-02-09T14:24:17+02:00"
-lastmod: "2025-02-10T11:46:29+02:00"
-lastupdate: "2025-02-10T11:46:29+02:00"
+date: "2025-02-09T12:24:17+02:00"
+lastmod: "2025-02-10T11:50:07+02:00"
+lastupdate: "2025-02-10T11:50:07+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -15,6 +15,9 @@ baneer: "https://werobot.fr/posts/finalfoto.png"
 banner: "https://werobot.fr/posts/finalfoto.png"
 draft: false
 ---
+
+**Notre aventure au FTC 2024**
+
 Le 1er février 2024, l’équipe We Robot a participé aux qualifications régionales du First Tech Challenge (FTC) à Levallois-Perret (92) !
 
 La journée commence par des sessions d’entraînement afin de se préparer au mieux et dans les conditions réelles pour nos futurs matchs ! 
