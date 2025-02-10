@@ -1,8 +1,8 @@
 ---
 title: "We Robot at FTC 2024 "
-date: "2025-02-10T13:01:45+02:00"
-lastmod: "2025-02-10T13:08:06+02:00"
-lastupdate: "2025-02-10T13:08:06+02:00"
+date: "2025-02-10T11:01:45+02:00"
+lastmod: "2025-02-10T13:51:09+02:00"
+lastupdate: "2025-02-10T13:51:09+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -10,14 +10,14 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "On February 1, 2024, the We Robot team took part in the regional qualifiers for the First Tech Challenge (FTC) in Levallois-Perret (92)!"
+description: "On February 1, 2025, the We Robot team took part in the regional qualifiers for the First Tech Challenge (FTC) in Levallois-Perret (92)!"
 baneer: "https://werobot.fr/posts/finalfoto.png"
 banner: "https://werobot.fr/posts/finalfoto.png"
 draft: false
 ---
 **Our adventure at the FTC 2024**
 
-On February 1, 2024, the We Robot team took part in the regional qualifiers for the First Tech Challenge (FTC) in Levallois-Perret (92)!
+On February 1, 2025, the We Robot team took part in the regional qualifiers for the First Tech Challenge (FTC) in Levallois-Perret (92)!
 
 The day began with training sessions to prepare for our future matches in real-life conditions! 
 
@@ -103,6 +103,7 @@ We'd like to thank all our supporters, Ferdibot and our coaches for a fantastic 
 </div>
 </center>
 <br><br>
+
 
 
 
