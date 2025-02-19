@@ -1,8 +1,8 @@
 ---
 title: "Des débuts prometteurs !"
-date: "2025-02-19T15:21:03+02:00"
-lastmod: "2025-02-19T19:39:09+02:00"
-lastupdate: "2025-02-19T19:39:09+02:00"
+date: "2025-02-19T13:21:03+02:00"
+lastmod: "2025-02-19T19:39:46+02:00"
+lastupdate: "2025-02-19T19:39:46+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: "Le 8 février 2025 fut une journée riche en émotions pour nos collégiens de l’atelier numérique ! En effet, cette journée marquait leur toute première participation à une compétition de robotique, le LYRC 2025 (Luxembourg Youth Robotics Challenge) ! "
 baneer: "https://werobot.fr/posts/bannièreLYRC.jpg"
 banner: "https://werobot.fr/posts/bannièreLYRC.jpg"
-draft: true
+draft: false
 ---
 Le 8 février 2025 fut une journée riche en émotions pour nos collégiens de l’atelier numérique ! En effet, cette journée marquait leur toute première participation à une compétition de robotique, le LYRC 2025 (Luxembourg Youth Robotics Challenge) !
 
@@ -95,3 +95,4 @@ Même si les deux équipes n’ont pas pu aller aussi loin qu’elles le souhait
   
 
 Un immense bravo pour cette première compétition !
+
