@@ -1,8 +1,8 @@
 ---
 title: "Des débuts prometteurs !"
-date: "2025-02-19T17:21:03+02:00"
-lastmod: "2025-02-19T19:28:02+02:00"
-lastupdate: "2025-02-19T19:28:02+02:00"
+date: "2025-02-19T15:21:03+02:00"
+lastmod: "2025-02-19T19:39:09+02:00"
+lastupdate: "2025-02-19T19:39:09+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -10,11 +10,10 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "Le 8 février 2025 fut une journée riche en émotions pour nos collégiens de l’atelier numérique ! En effet, cette journée marquait leur toute première participation à une compétition de robotique, le LYRC 2025 (Luxembourg Youth Robotics Challenge) !
-"
+description: "Le 8 février 2025 fut une journée riche en émotions pour nos collégiens de l’atelier numérique ! En effet, cette journée marquait leur toute première participation à une compétition de robotique, le LYRC 2025 (Luxembourg Youth Robotics Challenge) ! "
 baneer: "https://werobot.fr/posts/bannièreLYRC.jpg"
 banner: "https://werobot.fr/posts/bannièreLYRC.jpg"
-draft: false
+draft: true
 ---
 Le 8 février 2025 fut une journée riche en émotions pour nos collégiens de l’atelier numérique ! En effet, cette journée marquait leur toute première participation à une compétition de robotique, le LYRC 2025 (Luxembourg Youth Robotics Challenge) !
 
@@ -37,7 +36,7 @@ Nos deux équipes, l’une composée des quatrièmes et l’autre des troisième
 
   
 
-Après avoir fait les dernières modifications, il est temps de passer aux choses sérieuses pour nos jeunes compétiteurs : les premiers matchs vont être joués !
+Après avoir fait les dernières modifications au niveau de la programmation, il est temps de passer aux choses sérieuses pour nos jeunes compétiteurs : les premiers matchs vont être joués !
 
   
 
@@ -48,20 +47,44 @@ Au niveau de la structure de la compétition, il y a deux matchs de qualificatio
 C’est parti !
 
   
+<br><br>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/RbRq7b4DFgM?
+si=STpn8ruz9UL30wK_
+version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<br><br>
 
-Pour les deux équipes, les deux premiers matchs sont marqués par de beaux scores, mais qui malheureusement sont devancés par les équipes adverses de quelques points : les quatrième obtiennent 31 points contre 33 et les troisièmes marquent 30 points contre 31. Les résultats sont très serrés, alors les compétiteurs ne lâchent rien pour la suite !
+Pour les deux équipes, les deux premiers matchs sont marqués par de beaux scores, mais qui malheureusement sont devancés par les équipes adverses de quelques points : les quatrièmes obtiennent 31 points contre 33 et les troisièmes marquent 30 points contre 31. Les résultats sont très serrés, alors les compétiteurs ne lâchent rien pour la suite !
 
   
 
 Mais avant ça, une petite pause s’impose entre deux matchs ;) Tout le monde se retrouve à un stand qui propose de fabriquer un petit robot qui avance par vibrations, activité qui a réjouit tout le monde !
 
-  
+
+<center>
+<table>
+<tr>
+<td><img src="https://werobot.fr/posts/atelier1.jpg"></td>
+<td><img src="https://werobot.fr/posts/atelier2.jpg"></td>
+</tr>
+</table>
+</center>
+
+
 
 Après cette parenthèse sympathique, les équipes s’apprêtent à jouer leur dernier match de qualification. Les quatrièmes sont les premiers à reprendre, et leur travail de programmation en amont porte plutôt bien ses fruits : ils gagnent leur premier match d’1 point par rapport à l’équipe adverse, bravo à eux !
 
+
+
 C’est ensuite les troisièmes qui disputent leur deuxième match. Malheureusement, un problème au niveau de la programmation du robot le fait sortir de la zone de jeu, et ne fait gagner aucun point à l’équipe.
 
-  
+<center>
+<table>
+<tr>
+<td><img src="https://werobot.fr/posts/prog1.jpg"></td>
+<td><img src="https://werobot.fr/posts/prog2.jpg"></td>
+</tr>
+</table>
+</center>
 
 Au moment de l’annonce des résultats de chaque équipe concernant la qualification pour les play-off, nos deux équipes ne sont malheureusement pas qualifiées pour la suite, en raison d’un manque de points.
 
