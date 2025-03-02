@@ -1,8 +1,8 @@
 ---
 title: "Notre Coach Communication mise à l’honneur lors de la Journée Internationale des droits de la Femme !"
-date: "2025-03-02T05:28:37+02:00"
-lastmod: "2025-03-02T16:52:53+02:00"
-lastupdate: "2025-03-02T16:52:53+02:00"
+date: "2025-03-02T03:28:37+02:00"
+lastmod: "2025-03-02T16:55:42+02:00"
+lastupdate: "2025-03-02T16:55:42+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Nadège, notre coach communication de l’équipe figure parmi les 30 Euroises sélectionnées sur 140 pour participer à l’événement « Elles »."
-baneer: "https://werobot.fr/posts/nadegefgc.jpg"
-banner: "https://werobot.fr/posts/nadegefgc.jpg"
+baneer: "https://werobot.fr/posts/nadegefgc2.jpg"
+banner: "https://werobot.fr/posts/nadegefgc2.jpg"
 draft: false
 ---
 ## Nadège, notre coach communication de l’équipe figure parmi les 30 Euroises sélectionnées sur 140 pour participer à l’événement « Elles ». 
@@ -61,5 +61,6 @@ L’événement est accessible à tous sur inscription, le 8 mars 2025 de 9 à 1
 Notre association est également fière de véhiculer des valeurs qui rejoignent celles de la journée internationale des droits de la Femme, notamment la recherche de la parité homme-femme dans notre équipe ! 
 
 Venez nombreux pour écouter et encourager Nadège le 8 mars à Évreux, vous pouvez vous inscrire [ici](https://werobot.fr/blog/we_robot_au_luxembourg_/) ! Notre association est très fière de voir Nadège participer à cet événement unique ! Un immense bravo !
+
 
 
