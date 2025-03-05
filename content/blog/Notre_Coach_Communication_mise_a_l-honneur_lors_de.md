@@ -1,8 +1,8 @@
 ---
 title: "Notre Coach Communication mise à l’honneur lors de la Journée Internationale des droits de la Femme !"
-date: "2025-03-01T23:28:37+02:00"
-lastmod: "2025-03-02T16:58:44+02:00"
-lastupdate: "2025-03-02T16:58:44+02:00"
+date: "2025-03-01T21:28:37+02:00"
+lastmod: "2025-03-05T21:27:27+02:00"
+lastupdate: "2025-03-05T21:27:27+02:00"
 author: "Lucy"
 authors: ["Lucy"]
 facebook_author: "false"
@@ -11,15 +11,15 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Nadège, notre coach communication de l’équipe figure parmi les 30 Euroises sélectionnées sur 140 pour participer à l’événement « Elles »."
-baneer: "https://werobot.fr/posts/nadegefgc2.jpg"
-banner: "https://werobot.fr/posts/nadegefgc2.jpg"
+baneer: "https://werobot.fr/posts/portraitNadègeElles.jpg"
+banner: "https://werobot.fr/posts/portraitNadègeElles.jpg"
 draft: false
 ---
 ## Nadège, notre coach communication de l’équipe figure parmi les 30 Euroises sélectionnées sur 140 pour participer à l’événement « Elles ». 
 <br><br>
 <center>
 <div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/NadègeElles.jpg" alt="">
+<img src="https://werobot.fr/posts/portraitNadègeElles.jpg" alt="">
 </div>
 </center>
 <br><br>
@@ -59,6 +59,7 @@ L’événement est accessible à tous sur inscription, le 8 mars 2025 de 9 à 1
 Notre association est également fière de véhiculer des valeurs qui rejoignent celles de la journée internationale des droits de la Femme, notamment la recherche de la parité homme-femme dans notre équipe ! 
 
 Venez nombreux pour écouter et encourager Nadège le 8 mars à Évreux, vous pouvez connaître plus d'informations sur cette journée et  vous inscrire [ici](https://eureennormandie.fr/evenement/femmes-8-mars-eure/) ! Notre association est très fière de voir Nadège participer à cet événement unique ! Un immense bravo !
+
 
 
 
