@@ -1,4 +1,9 @@
-<figure class="post-figure" data-width="{{.Get "width" }}">
-    <img src="{{ .Get "src" }}" alt="{{ .Get "caption" }}">
-    <figcaption>{{ .Get "caption" }}</figcaption>
+{{ if (isset .Get "src") }}
+{{ $imagewidth := cond (isset .Get "width") (.Get "width") "100%" }}
+{{ $imagesrc := (.Get "src") }}
+{{ $imagecaption := cond (isset .Get "caption") (.Get "caption") "No caption" }}
+<figure class="post-figure" data-width="{{$imagewidth}}">
+    <img src="{{$imagesrc}}" alt="{{$imagecaption}}">
+    <figcaption>{{$imagecaption}}</figcaption>
 </figure>
+{{ end }}
