@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-25T02:58:36+02:00"
-lastmod: "2025-04-24T09:22:37+02:00"
-lastupdate: "2025-04-24T09:22:37+02:00"
+date: "2024-09-25T00:58:36+02:00"
+lastmod: "2025-04-24T09:29:14+02:00"
+lastupdate: "2025-04-24T09:29:14+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -24,13 +24,6 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 <br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/ewlDPvRK4U4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
-
-<iframe class="youtube-player" width="100%" height="597" 
-    src="https://www.youtube.com/embed/ewlDPvRK4U4?autoplay=1&amp;cc_load_policy=1&amp;cc_lang_pref=fr&amp;hl=fr&amp;fs=1&amp;rel=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;wmode=transparent" 
-    allowfullscreen="true" 
-    style="border:0;" 
-    sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox">
-</iframe>
 
 ### Les contraintes
 01. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm (18" x 18"), <br>
@@ -74,6 +67,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
