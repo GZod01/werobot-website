@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-21T18:21:45+02:00"
-lastmod: "2025-04-24T16:54:12+02:00"
-lastupdate: "2025-04-24T16:54:12+02:00"
+date: "2025-04-21T16:21:45+02:00"
+lastmod: "2025-04-24T16:56:44+02:00"
+lastupdate: "2025-04-24T16:56:44+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -66,6 +66,7 @@ Dean Kamen a reçu de nombreux prix pour ses efforts :
 
 #### En résumé
 Dean Kamen est un inventeur qui utilise la science pour changer le monde et aider les gens. Il croit que les jeunes comme vous peuvent faire pareil, avec de la curiosité, de l’imagination et de la passion.
+
 
 
 
