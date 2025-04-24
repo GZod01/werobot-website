@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-22T16:21:45+02:00"
-lastmod: "2025-04-24T16:11:56+02:00"
-lastupdate: "2025-04-24T16:11:56+02:00"
+date: "2025-04-22T14:21:45+02:00"
+lastmod: "2025-04-24T16:13:10+02:00"
+lastupdate: "2025-04-24T16:13:10+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -36,14 +36,19 @@ D'autres de ses inventions célèbres incluent :
 - l’iBOT, un fauteuil roulant capable de monter des escaliers,
 - un bras bionique pour les soldats blessés,
 - un purificateur d’eau pour les pays en développement.
+
 #### Entrepreneur et leader technologique
 Après avoir vendu sa première entreprise, il a créé DEKA, une entreprise qui développe des technologies innovantes pour améliorer la vie des gens.
+
 #### Un passionné d’éducation
 Dean Kamen a fondé FIRST, une organisation qui organise des compétitions de robots pour encourager les jeunes à aimer les sciences et la technologie. Son but est de montrer que la science peut être aussi excitante que le sport.
+
 #### Des récompenses prestigieuses
 Dean Kamen a reçu de nombreux prix pour ses efforts. Notamment, il a reçu **la Médaille nationale de la technologie** en 2000. Remise par le président **Bill Clinton**, cette distinction reconnaît ses inventions ayant fait progresser les soins médicaux dans le monde entier, ainsi que son leadership innovant et visionnaire pour avoir su éveiller l’intérêt de l’Amérique pour les sciences et la technologie. Il a été élu membre de la **National Academy of Engineering** en 1997. Il a reçu le **prix Lemelson-MIT** en 2002 et a été intronisé au **National Inventors Hall of Fame** en mai 2005. Il est également membre de l’**American Institute for Medical & Biological Engineering**, ainsi que de nombreuses autres organisations d’ingénierie nationales et internationales.
+
 #### En résumé
 Dean Kamen est un inventeur qui utilise la science pour changer le monde et aider les gens. Il croit que les jeunes comme vous peuvent faire pareil, avec de la curiosité, de l’imagination et de la passion.
+
 
 
 
