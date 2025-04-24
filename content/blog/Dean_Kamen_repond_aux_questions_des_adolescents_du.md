@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-22T00:21:45+02:00"
-lastmod: "2025-04-24T16:42:36+02:00"
-lastupdate: "2025-04-24T16:42:36+02:00"
+date: "2025-04-21T22:21:45+02:00"
+lastmod: "2025-04-24T16:51:03+02:00"
+lastupdate: "2025-04-24T16:51:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,6 +22,16 @@ Dean Kamen, le fondateur de FIRST Global, répond à une question de la Team Fra
 <br>
 <iframe width="100%" height="683" src="https://www.youtube.com/embed/W20iGPFUNRg?si=YNgMHTV9ZOEFUvTZ&amp;start=569&amp;end=624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
+
+<iframe width="100%" height="683"
+    src="https://www.youtube.com/embed/W20iGPFUNRg?start=569&amp;end=624&amp;hl=fr&amp;controls=1&amp;modestbranding=0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
+
 
 <strong>Astuce :</strong> pour activer les sous-titres en <strong>français</strong> :
 - Cliquez sur l'icône ⚙️ dans la vidéo
@@ -66,6 +76,7 @@ Dean Kamen a reçu de nombreux prix pour ses efforts :
 
 #### En résumé
 Dean Kamen est un inventeur qui utilise la science pour changer le monde et aider les gens. Il croit que les jeunes comme vous peuvent faire pareil, avec de la curiosité, de l’imagination et de la passion.
+
 
 
 
