@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-24T10:58:36+02:00"
-lastmod: "2025-04-24T14:08:32+02:00"
-lastupdate: "2025-04-24T14:08:32+02:00"
+date: "2024-09-24T08:58:36+02:00"
+lastmod: "2025-04-24T14:11:28+02:00"
+lastupdate: "2025-04-24T14:11:28+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,7 +22,7 @@ draft: false
 Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de notre planète, pleins de vie et de potentiel pour l'exploration et l'apprentissage, où chaque habitant a un rôle à jouer dans la construction d'un environnement prospère. Cette saison, les équipes du FIRST Tech Challenge plongeront leurs robots dans les profondeurs de l'océan pour explorer l'inconnu et révéler ses merveilles.
 
 <br>
-<iframe class="youtube-player" width="100%" src="https://www.youtube.com/embed/ewlDPvRK4U4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/ewlDPvRK4U4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
 ### Les contraintes
@@ -67,6 +67,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
