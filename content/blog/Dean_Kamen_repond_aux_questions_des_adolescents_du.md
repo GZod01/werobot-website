@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-21T16:21:45+02:00"
-lastmod: "2025-04-24T16:56:44+02:00"
-lastupdate: "2025-04-24T16:56:44+02:00"
+date: "2025-04-21T14:21:45+02:00"
+lastmod: "2025-04-24T17:06:35+02:00"
+lastupdate: "2025-04-24T17:06:35+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -67,6 +67,12 @@ Dean Kamen a reçu de nombreux prix pour ses efforts :
 #### En résumé
 Dean Kamen est un inventeur qui utilise la science pour changer le monde et aider les gens. Il croit que les jeunes comme vous peuvent faire pareil, avec de la curiosité, de l’imagination et de la passion.
 
+
+## Et si tous les enfants disposaient des outils nécessaires pour résoudre les problèmes dans leur communauté ?
+
+FIRST Global est un organisme public de bienfaisance à but non lucratif basé aux États-Unis, créé par le fondateur de FIRST (For Inspiration and Recognition of Science and Technology), Dean Kamen. la mission est d'inspirer le leadership et l'innovation chez les jeunes de toutes les nations en leur donnant les moyens d'agir grâce à l'enseignement des sciences, de la technologie, de l'ingénierie et des mathématiques, également connu sous le nom de STEM (Science, Technology, Engineering, and Mathematics).
+En favorisant la communication et la coopération interculturelles entre les lycéens du monde entier par le biais des STEM, nous leur donnons les moyens de relever collectivement les défis les plus pressants du monde et de proposer des solutions qui améliorent la qualité de vie de tous. Le FIRST Global Challenge est notre mécanisme pour y parvenir. En réunissant ces futurs leaders en matière de STEM dans le cadre d'une compétition engageante et collaborative qui met l'accent sur l'importance, l'enthousiasme et l'applicabilité de l'enseignement des STEM, FIRST Global utilise les robots pour former des enfants qui ont la confiance en eux, les compétences, l'imagination, le courage et la vision pour faire des choses importantes.
+FIRST Global s’efforce également de convaincre les différents gouvernements et organisations du monde entier d’adhérer à l’éducation STEM et de la soutenir en investissant dans leurs jeunes adultes qui commenceront bientôt à faire leur marque dans le monde.
 
 
 
