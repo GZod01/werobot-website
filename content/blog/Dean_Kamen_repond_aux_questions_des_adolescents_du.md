@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-21T10:21:45+02:00"
-lastmod: "2025-04-24T17:10:04+02:00"
-lastupdate: "2025-04-24T17:10:04+02:00"
+date: "2025-04-21T08:21:45+02:00"
+lastmod: "2025-04-24T17:51:19+02:00"
+lastupdate: "2025-04-24T17:51:19+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -40,6 +40,7 @@ Dean Kamen est un inventeur américain très connu, un entrepreneur, et un grand
 Dean Kamen a inventé plus de 1000 objets, surtout dans le domaine médical. Dès ses années d’études, il a créé :
 - une pompe portable pour administrer des médicaments, utilisée par de nombreux hôpitaux.
 -  la première pompe à insuline portable pour les personnes diabétiques.
+
 D'autres de ses inventions célèbres incluent :
  - le Segway, un véhicule électrique sur deux roues,
 - l’iBOT, un fauteuil roulant capable de monter des escaliers,
@@ -77,6 +78,7 @@ En favorisant la communication et la coopération interculturelles entre les lyc
 <br><br>
 
 FIRST Global s’efforce également de convaincre les différents gouvernements et organisations du monde entier d’adhérer à l’éducation STEM et de la soutenir en investissant dans leurs jeunes adultes qui commenceront bientôt à faire leur marque dans le monde.
+
 
 
 
