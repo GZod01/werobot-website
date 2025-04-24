@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-25T10:58:36+02:00"
-lastmod: "2025-04-24T09:02:02+02:00"
-lastupdate: "2025-04-24T09:02:02+02:00"
+date: "2024-09-25T08:58:36+02:00"
+lastmod: "2025-04-24T09:13:48+02:00"
+lastupdate: "2025-04-24T09:13:48+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -25,7 +25,15 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/ewlDPvRK4U4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
-<iframe width="1214" height="683" src="https://www.youtube.com/embed/C81IOjfVa3I?&amp;hl=fr&amp;cc_lang_pref=fr&amp;cc_load_policy=1" title="Eco Equilibrium Theme | FGC2025Panama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/C81IOjfVa3I?cc_load_policy=1&cc_lang_pref=fr" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 ### Les contraintes
 01. En configuration de départ Le volume du robot ne doit pas dépasser 45,7 cm x 45,7 cm  x 45,7 cm (18" x 18"), <br>
@@ -69,6 +77,7 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 	">
 </iframe>
 </div>
+
 
 
 
