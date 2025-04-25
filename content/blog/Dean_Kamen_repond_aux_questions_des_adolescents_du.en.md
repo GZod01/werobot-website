@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen Answers Questions from Teenagers Around the World | FIRST Global"
-date: "2025-04-24T11:12:48+02:00"
-lastmod: "2025-04-24T17:48:42+02:00"
-lastupdate: "2025-04-24T17:48:42+02:00"
+date: "2025-04-24T07:12:48+02:00"
+lastmod: "2025-04-25T08:04:36+02:00"
+lastupdate: "2025-04-25T08:04:36+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -29,44 +29,44 @@ Dean Kamen is a well-known American inventor, entrepreneur, and a passionate adv
 <br><br>
 
 ### A Brilliant Inventor
-Dean Kamen a inventé plus de 1000 objets, surtout dans le domaine médical. Dès ses années d’études, il a créé :
-- une pompe portable pour administrer des médicaments, utilisée par de nombreux hôpitaux.
--  la première pompe à insuline portable pour les personnes diabétiques.
-D'autres de ses inventions célèbres incluent :
- - le Segway, un véhicule électrique sur deux roues,
-- l’iBOT, un fauteuil roulant capable de monter des escaliers,
-- un bras bionique pour les soldats blessés,
-- un purificateur d’eau pour les pays en développement.
+Dean Kamen has invented over 1,000 devices, especially in the medical field. Even during his student years, he created :
+- A portable pump for delivering medication, now used in many hospitals.
+- The first portable insulin pump for people with diabetes.
+
+Some of his other famous inventions include :
+- The Segway, a two-wheeled electric vehicle.
+- The iBOT, a wheelchair capable of climbing stairs.
+- A bionic arm for injured soldiers.
+- A water purifier for developing countries.
 <br><br>
 
-### Entrepreneur et leader technologique
-Après avoir vendu sa première entreprise, il a créé DEKA, une entreprise qui développe des technologies innovantes pour améliorer la vie des gens.
+### Entrepreneur and Technology Leader
+After selling his first company, he founded DEKA, a company that develops innovative technologies to improve people's lives.
 <br><br>
 
-### Un passionné d’éducation
-Dean Kamen a fondé FIRST, une organisation qui organise des compétitions de robots pour encourager les jeunes à aimer les sciences et la technologie. Son but est de montrer que la science peut être aussi excitante que le sport.
+### Passionate About Education
+Dean Kamen founded FIRST, an organization that runs robot competitions to encourage young people to love science and technology. His goal is to show that science can be as exciting as sports.
 <br><br>
 
-### Des récompenses prestigieuses
-Dean Kamen a reçu de nombreux prix pour ses efforts :
-- il a reçu **la Médaille nationale de la technologie** en 2000. Remise par le président **Bill Clinton**, cette distinction reconnaît ses inventions ayant fait progresser les soins médicaux dans le monde entier, ainsi que son leadership innovant et visionnaire pour avoir su éveiller l’intérêt de l’Amérique pour les sciences et la technologie.
--  il a été élu membre de la **National Academy of Engineering** en 1997.
--  il a reçu le **prix Lemelson-MIT** en 2002
--  il a été intronisé au **National Inventors Hall of Fame** en mai 2005.
--  il est également membre de l’**American Institute for Medical & Biological Engineering**, ainsi que de nombreuses autres organisations d’ingénierie nationales et internationales.
+### Prestigious Awards
+Dean Kamen has received many honors for his work :
+- He received the National Medal of Technology in 2000. Awarded by President Bill Clinton, this medal recognizes his inventions that have advanced medical care worldwide and his innovative leadership in inspiring America’s interest in science and technology.
+- He was elected to the National Academy of Engineering in 1997.
+- He received the Lemelson-MIT Prize in 2002.
+- He was inducted into the National Inventors Hall of Fame in May 2005.
+- He is also a member of the American Institute for Medical and Biological Engineering, as well as many other national and international engineering organizations.
 <br><br>
 
-### En résumé
-Dean Kamen est un inventeur qui utilise la science pour changer le monde et aider les gens. Il croit que les jeunes comme vous peuvent faire pareil, avec de la curiosité, de l’imagination et de la passion.
+### In Summary
+Dean Kamen is an inventor who uses science to change the world and help people. He believes that young people like you can do the same—with curiosity, imagination, and passion.
 <br><br>
 
-## Et si tous les enfants disposaient des outils nécessaires pour résoudre les problèmes dans leur communauté ?
+## What if every child had the tools to solve problems in their community ?
 
-FIRST Global est un organisme public de bienfaisance à but non lucratif basé aux États-Unis, créé par le fondateur de FIRST (For Inspiration and Recognition of Science and Technology), Dean Kamen. La mission est d'inspirer le leadership et l'innovation chez les jeunes de toutes les nations en leur donnant les moyens d'agir grâce à l'enseignement des sciences, de la technologie, de l'ingénierie et des mathématiques, également connu sous le nom de STEM (Science, Technology, Engineering, and Mathematics).
+FIRST Global is a U.S.-based nonprofit public charity founded by Dean Kamen, the creator of FIRST (For Inspiration and Recognition of Science and Technology). Its mission is to inspire leadership and innovation in youth from all nations by empowering them through science, technology, engineering, and mathematics (STEM) education.
 <br><br>
 
-En favorisant la communication et la coopération interculturelles entre les lycéens du monde entier par le biais des STEM, nous leur donnons les moyens de relever collectivement les défis les plus pressants du monde et de proposer des solutions qui améliorent la qualité de vie de tous. Le FIRST Global Challenge est notre mécanisme pour y parvenir. En réunissant ces futurs leaders en matière de STEM dans le cadre d'une compétition engageante et collaborative qui met l'accent sur l'importance, l'enthousiasme et l'applicabilité de l'enseignement des STEM, FIRST Global utilise les robots pour former des enfants qui ont la confiance en eux, les compétences, l'imagination, le courage et la vision pour faire des choses importantes.
-<br><br>
+By encouraging intercultural communication and cooperation among high school students around the world through STEM, FIRST Global empowers them to collectively tackle the world's most pressing issues and to propose solutions that improve everyone’s quality of life. The FIRST Global Challenge is the mechanism to achieve this goal. By bringing together these future STEM leaders in an engaging and collaborative competition that emphasizes the importance, excitement, and relevance of STEM education, FIRST Global uses robots to build kids with the confidence, skills, imagination, courage, and vision to do great things.
 
-FIRST Global s’efforce également de convaincre les différents gouvernements et organisations du monde entier d’adhérer à l’éducation STEM et de la soutenir en investissant dans leurs jeunes adultes qui commenceront bientôt à faire leur marque dans le monde.
+FIRST Global also strives to encourage governments and organizations around the world to embrace and invest in STEM education—believing in the potential of their young people, who will soon begin shaping the future of the world.
 
