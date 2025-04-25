@@ -1,8 +1,8 @@
 ---
 title: "SCOOP : la Team France We Robot représentera la France à Panama au FGC 2025 (TO TRANSLATE)"
-date: "2025-04-25T09:38:35+02:00"
-lastmod: "2025-04-25T13:44:58+02:00"
-lastupdate: "2025-04-25T13:44:58+02:00"
+date: "2025-04-25T07:38:35+02:00"
+lastmod: "2025-04-25T13:47:54+02:00"
+lastupdate: "2025-04-25T13:47:54+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -19,6 +19,7 @@ draft: false
 The young people and mentors of our robotics club are proud and happy to announce our selection for the Junior Robotics Olympics to be held this year in Panama City.
 
 Furthermore, our good results in competition, the seriousness of our investment in STEM (Science, Technology, Engineering and Mathematics) and the reliability of our club have enabled us to sign a 3-year commitment to the FGC 2025, FGC2026 and FGC 2027. This will make it easier for us to convince our sponsors, and give us more time to do so.
+<br><br>
 
 ### FGC 2025 venue announcement
 
@@ -47,5 +48,6 @@ FIRST Global is a non-profit educational organization whose mission is to inspir
 <br><br>
 
 Lien : [https://first.global/fr/about/](https://first.global/fr/about/)
+
 
 
