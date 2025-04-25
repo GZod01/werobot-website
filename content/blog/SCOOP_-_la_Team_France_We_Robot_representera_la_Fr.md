@@ -1,8 +1,8 @@
 ---
 title: "SCOOP : la Team France We Robot représentera la France à Panama au FGC 2025"
-date: "2025-04-24T18:47:50+02:00"
-lastmod: "2025-04-25T13:27:42+02:00"
-lastupdate: "2025-04-25T13:27:42+02:00"
+date: "2025-04-24T16:47:50+02:00"
+lastmod: "2025-04-25T13:30:05+02:00"
+lastupdate: "2025-04-25T13:30:05+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -45,6 +45,10 @@ Unissons-nous grâce aux STIM pour sauvegarder les trésors naturels de notre mo
 <br>
 <iframe width="100%" height="683" src="https://www.youtube.com/embed/C81IOjfVa3I" title="Eco Equilibrium Theme | FGC2025Panama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
+
+## FIRST Global
+
+FIRST Global est une organisation éducative à but non lucratif dont la mission est d'inspirer le leadership et l'innovation en matière de science et de technologie chez les jeunes de toutes les nations, afin de leur permettre de travailler ensemble pour résoudre les problèmes les plus urgents du monde.
 
 
 
