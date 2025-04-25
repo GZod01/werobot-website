@@ -1,8 +1,8 @@
 ---
 title: "SCOOP : la Team France We Robot représentera la France à Panama au FGC 2025"
-date: "2025-04-24T10:47:50+02:00"
-lastmod: "2025-04-25T13:46:39+02:00"
-lastupdate: "2025-04-25T13:46:39+02:00"
+date: "2025-04-24T08:47:50+02:00"
+lastmod: "2025-04-25T13:49:30+02:00"
+lastupdate: "2025-04-25T13:49:30+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -19,6 +19,7 @@ draft: false
 Les jeunes et les mentors de notre club de robotique sont fiers et heureux de vous annoncer notre sélection pour les jeux olympiques "junior" de la robotique qui se tiendront cette année à Panama City.
 
 Par ailleurs, nos bons résultats en compétition, le sérieux de notre investissement dans les STEM (Science, Technology, Engineering et Mathematics) et la fiabilité de notre club nous ont permis de signer un engagement de 3 années aux FGC 2025, FGC2026 et FGC 2027. Cela nous permettra de convaincre plus facilement nos sponsors et d'avoir du temps pour le faire.
+<br><br>
 
 ### Annonce du lieu du FGC 2025
 
@@ -36,7 +37,7 @@ Le Panama est un carrefour mondial qui relie les océans et connecte les contine
 - Sélectionnez <strong>« Français »</strong>
 <br><br>
 
-## Le thème de la compétition
+### Le thème de la compétition
 
 Cette année, les équipes s'attaqueront à l'un des défis les plus urgents de la planète, à savoir la protection de l'incroyable diversité de la vie qui nous nourrit tous. Des forêts tropicales aux récifs coralliens, rejoignez-nous au Panama, un haut lieu de la biodiversité mondiale, afin d'innover des solutions pour une planète prospère.
 <br><br>
@@ -46,7 +47,7 @@ Unissons-nous grâce aux STIM pour sauvegarder les trésors naturels de notre mo
 <iframe width="100%" height="683" src="https://www.youtube.com/embed/C81IOjfVa3I" title="Eco Equilibrium Theme | FGC2025Panama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
 
-## Qu'est-ce que FIRST Global ?
+### Qu'est-ce que FIRST Global ?
 
 FIRST Global est une organisation éducative à but non lucratif dont la mission est d'inspirer le leadership et l'innovation en matière de science et de technologie chez les jeunes de toutes les nations, afin de leur permettre de travailler ensemble pour résoudre les problèmes les plus urgents du monde.
 
@@ -55,6 +56,7 @@ FIRST Global est une organisation éducative à but non lucratif dont la mission
 <br><br>
 
 Lien : [https://first.global/fr/about/](https://first.global/fr/about/)
+
 
 
 
