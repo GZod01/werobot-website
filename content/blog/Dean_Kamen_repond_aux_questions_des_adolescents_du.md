@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-21T08:21:45+02:00"
-lastmod: "2025-04-24T17:51:19+02:00"
-lastupdate: "2025-04-24T17:51:19+02:00"
+date: "2025-04-21T06:21:45+02:00"
+lastmod: "2025-04-25T12:43:20+02:00"
+lastupdate: "2025-04-25T12:43:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -38,14 +38,14 @@ Dean Kamen est un inventeur américain très connu, un entrepreneur, et un grand
 
 ### Un inventeur de génie
 Dean Kamen a inventé plus de 1000 objets, surtout dans le domaine médical. Dès ses années d’études, il a créé :
-- une pompe portable pour administrer des médicaments, utilisée par de nombreux hôpitaux.
--  la première pompe à insuline portable pour les personnes diabétiques.
+- Une pompe portable pour administrer des médicaments, utilisée par de nombreux hôpitaux.
+- La première pompe à insuline portable pour les personnes diabétiques.
 
 D'autres de ses inventions célèbres incluent :
- - le Segway, un véhicule électrique sur deux roues,
-- l’iBOT, un fauteuil roulant capable de monter des escaliers,
-- un bras bionique pour les soldats blessés,
-- un purificateur d’eau pour les pays en développement.
+- Le Segway, un véhicule électrique sur deux roues.
+- L’iBOT, un fauteuil roulant capable de monter des escaliers.
+- Un bras bionique pour les soldats blessés.
+- Un purificateur d’eau pour les pays en développement.
 <br><br>
 
 ### Entrepreneur et leader technologique
@@ -58,11 +58,11 @@ Dean Kamen a fondé FIRST, une organisation qui organise des compétitions de ro
 
 ### Des récompenses prestigieuses
 Dean Kamen a reçu de nombreux prix pour ses efforts :
-- il a reçu **la Médaille nationale de la technologie** en 2000. Remise par le président **Bill Clinton**, cette distinction reconnaît ses inventions ayant fait progresser les soins médicaux dans le monde entier, ainsi que son leadership innovant et visionnaire pour avoir su éveiller l’intérêt de l’Amérique pour les sciences et la technologie.
--  il a été élu membre de la **National Academy of Engineering** en 1997.
--  il a reçu le **prix Lemelson-MIT** en 2002
--  il a été intronisé au **National Inventors Hall of Fame** en mai 2005.
--  il est également membre de l’**American Institute for Medical & Biological Engineering**, ainsi que de nombreuses autres organisations d’ingénierie nationales et internationales.
+- Il a reçu **la Médaille nationale de la technologie** en 2000. Remise par le président **Bill Clinton**, cette distinction reconnaît ses inventions ayant fait progresser les soins médicaux dans le monde entier, ainsi que son leadership innovant et visionnaire pour avoir su éveiller l’intérêt de l’Amérique pour les sciences et la technologie.
+- Il a été élu membre de la **National Academy of Engineering** en 1997.
+- Il a reçu le **prix Lemelson-MIT** en 2002
+- Il a été intronisé au **National Inventors Hall of Fame** en mai 2005.
+- Il est également membre de l’**American Institute for Medical & Biological Engineering**, ainsi que de nombreuses autres organisations d’ingénierie nationales et internationales.
 <br><br>
 
 ### En résumé
@@ -78,6 +78,7 @@ En favorisant la communication et la coopération interculturelles entre les lyc
 <br><br>
 
 FIRST Global s’efforce également de convaincre les différents gouvernements et organisations du monde entier d’adhérer à l’éducation STEM et de la soutenir en investissant dans leurs jeunes adultes qui commenceront bientôt à faire leur marque dans le monde.
+
 
 
 
