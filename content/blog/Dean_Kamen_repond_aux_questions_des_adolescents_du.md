@@ -1,8 +1,8 @@
 ---
 title: "Dean Kamen répond aux questions des adolescents du monde entier | FIRST Global"
-date: "2025-04-21T06:21:45+02:00"
-lastmod: "2025-04-25T12:43:20+02:00"
-lastupdate: "2025-04-25T12:43:20+02:00"
+date: "2025-04-21T04:21:45+02:00"
+lastmod: "2025-04-25T13:20:13+02:00"
+lastupdate: "2025-04-25T13:20:13+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -78,6 +78,7 @@ En favorisant la communication et la coopération interculturelles entre les lyc
 <br><br>
 
 FIRST Global s’efforce également de convaincre les différents gouvernements et organisations du monde entier d’adhérer à l’éducation STEM et de la soutenir en investissant dans leurs jeunes adultes qui commenceront bientôt à faire leur marque dans le monde.
+
 
 
 
