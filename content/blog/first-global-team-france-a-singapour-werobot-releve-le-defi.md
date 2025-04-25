@@ -1,12 +1,19 @@
 ---
 title: "FIRST GLOBAL TEAM FRANCE A SINGAPOUR  : WeRobot releve le défi"
-date: "2023-09-17 00:00:00"
-lastupdate: "2023-09-17 00:00:00"
+date: "2023-09-17T00:00:00+02:00"
+lastmod: "2025-04-25T12:46:26+02:00"
+lastupdate: "2025-04-25T12:46:26+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: "  WeRobot représentera la France au First Global Challenge Singapore 2023 "
+baneer: "/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/650851940aed6/50.jpg"
-slug: "first-global-team-france-a-singapour-werobot-releve-le-defi"
-description: " 
-WeRobot représentera la France au First Global Challenge Singapore 2023
-"
+draft: false
 ---
 ## Du 7 au 10 octobre 2023 se déroulera à Singapour une compétition de robotique réunissant des jeunes du monde entier soit plus de 190 nations !
 
