@@ -1,8 +1,8 @@
 ---
 title: "The values of TEAM FRANCE"
-date: "2025-04-20T04:00:00+02:00"
-lastmod: "2025-04-26T08:55:19+02:00"
-lastupdate: "2025-04-26T08:55:19+02:00"
+date: "2025-04-20T02:00:00+02:00"
+lastmod: "2025-04-26T09:13:53+02:00"
+lastupdate: "2025-04-26T09:13:53+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,12 +10,16 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "  <iframe class=\"youtube-player\" width=\"1060\" height=\"597\" src=\"https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showi "
+description: "Team FRANCE shares the goals that Dean Kamen and his FIRST Foundation have been pursuing since 1989. "
 baneer: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 draft: false
 ---
+## Team FRANCE shares the goals that Dean Kamen and his FIRST Foundation have been pursuing since 1989.
+
+<br>
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
+<br><br>
 
 <p>The TEAM FRANCE shares the goals advocated by Dean Kamen and his foundation <i>FIRST</i> since 1989 :</p>
 <ul>
@@ -49,4 +53,5 @@ draft: false
 <li>We love what we do. We share it with others and, in so doing, will not only drive our innovation, but also bring peace through collaboration.</li>
 </ul>
     
+
 
