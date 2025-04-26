@@ -1,8 +1,8 @@
 ---
-title: "SCOOP : la Team France We Robot représentera la France à Panama au FGC 2025"
-date: "2025-04-24T08:47:50+02:00"
-lastmod: "2025-04-25T13:49:30+02:00"
-lastupdate: "2025-04-25T13:49:30+02:00"
+title: "SCOOP : la Team France We Robot représentera la France à Panama City au FGC 2025"
+date: "2025-04-24T06:47:50+02:00"
+lastmod: "2025-04-26T09:08:36+02:00"
+lastupdate: "2025-04-26T09:08:36+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -56,6 +56,7 @@ FIRST Global est une organisation éducative à but non lucratif dont la mission
 <br><br>
 
 Lien : [https://first.global/fr/about/](https://first.global/fr/about/)
+
 
 
 
