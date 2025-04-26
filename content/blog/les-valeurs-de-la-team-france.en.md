@@ -1,8 +1,8 @@
 ---
 title: "The values of TEAM FRANCE"
-date: "2024-05-07T06:00:00+02:00"
-lastmod: "2024-08-18T15:38:43+02:00"
-lastupdate: "2024-08-18T15:38:43+02:00"
+date: "2025-04-20T04:00:00+02:00"
+lastmod: "2025-04-26T08:55:19+02:00"
+lastupdate: "2025-04-26T08:55:19+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -49,3 +49,4 @@ draft: false
 <li>We love what we do. We share it with others and, in so doing, will not only drive our innovation, but also bring peace through collaboration.</li>
 </ul>
     
+

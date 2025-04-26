@@ -1,8 +1,8 @@
 ---
 title: "Les valeurs de la TEAM FRANCE"
-date: "2025-04-20T10:00:00+02:00"
-lastmod: "2025-04-26T08:51:57+02:00"
-lastupdate: "2025-04-26T08:51:57+02:00"
+date: "2025-04-20T08:00:00+02:00"
+lastmod: "2025-04-26T08:54:03+02:00"
+lastupdate: "2025-04-26T08:54:03+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -49,4 +49,5 @@ draft: false
 <li>Nous aimons ce que nous faisons. Nous le partageons avec d'autres et, ce faisant, nous stimulons non seulement notre innovation, mais nous apportons &eacute;galement la paix gr&acirc;ce &agrave; la collaboration.</li>
 </ul>
     
+
 
