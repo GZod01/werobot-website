@@ -1,8 +1,8 @@
 ---
 title: "Les valeurs de la TEAM FRANCE"
-date: "2025-04-20T02:00:00+02:00"
-lastmod: "2025-04-26T09:14:51+02:00"
-lastupdate: "2025-04-26T09:14:51+02:00"
+date: "2025-04-20T00:00:00+02:00"
+lastmod: "2025-04-26T09:15:51+02:00"
+lastupdate: "2025-04-26T09:15:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -21,7 +21,6 @@ draft: false
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br>
 
-<p>La TEAM FRANCE partage les objectifs port&eacute;s par Dean Kamen et sa fondation <i>FIRST</i> depuis 1989 :</p>
 <ul>
 <li>Nous sommes une communaut&eacute; d&eacute;di&eacute;e &agrave; la poursuite coop&eacute;rative d'un monde plus paisible, r&eacute;alis&eacute; en innovant ensemble pour garantir la vie, la libert&eacute;, le succ&egrave;s, l'avancement et le bonheur de tous ceux qui partagent notre plan&egrave;te.</li>
 <li>Nous croyons que toutes les personnes ont des dons sp&eacute;ciaux qui les rendent innovateurs. Les probl&egrave;mes de la plan&egrave;te Terre ne peuvent pas &ecirc;tre r&eacute;solus par un individu ou une nation seul(e). Lorsque nous travaillons ensemble, il n'y a rien que nous ne puissions accomplir et nous pouvons partager les avantages de nos nouvelles inventions avec le monde entier.</li>
@@ -53,6 +52,7 @@ draft: false
 <li>Nous aimons ce que nous faisons. Nous le partageons avec d'autres et, ce faisant, nous stimulons non seulement notre innovation, mais nous apportons &eacute;galement la paix gr&acirc;ce &agrave; la collaboration.</li>
 </ul>
     
+
 
 
 

@@ -1,8 +1,8 @@
 ---
 title: "The values of TEAM FRANCE"
-date: "2025-04-20T02:00:00+02:00"
-lastmod: "2025-04-26T09:13:53+02:00"
-lastupdate: "2025-04-26T09:13:53+02:00"
+date: "2025-04-20T00:00:00+02:00"
+lastmod: "2025-04-26T09:15:37+02:00"
+lastupdate: "2025-04-26T09:15:37+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -21,7 +21,6 @@ draft: false
 <iframe class="youtube-player" width="100%" height="597" src="https://www.youtube.com/embed/HdcyzBC6NDw?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=fr-FR&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe>
 <br><br>
 
-<p>The TEAM FRANCE shares the goals advocated by Dean Kamen and his foundation <i>FIRST</i> since 1989 :</p>
 <ul>
 <li>We are a community dedicated to the cooperative pursuit of a more peaceful world, achieved by innovating together to ensure the life, freedom, success, advancement, and happiness of all who share our planet.</li>
 <li>We believe that every person has special gifts that make them innovators. The problems of planet Earth cannot be solved by an individual or a single nation alone. When we work together, there is nothing we cannot accomplish, and we can share the benefits of our new inventions with the entire world.</li>
@@ -53,5 +52,6 @@ draft: false
 <li>We love what we do. We share it with others and, in so doing, will not only drive our innovation, but also bring peace through collaboration.</li>
 </ul>
     
+
 
 
