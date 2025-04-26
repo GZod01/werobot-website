@@ -1,8 +1,8 @@
 ---
 title: "SCOOP : la Team France We Robot représentera la France à Panama City au FGC 2025"
-date: "2025-04-24T06:47:50+02:00"
-lastmod: "2025-04-26T09:08:36+02:00"
-lastupdate: "2025-04-26T09:08:36+02:00"
+date: "2025-04-24T04:47:50+02:00"
+lastmod: "2025-04-26T09:30:50+02:00"
+lastupdate: "2025-04-26T09:30:50+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -41,7 +41,7 @@ Le Panama est un carrefour mondial qui relie les océans et connecte les contine
 
 Cette année, les équipes s'attaqueront à l'un des défis les plus urgents de la planète, à savoir la protection de l'incroyable diversité de la vie qui nous nourrit tous. Des forêts tropicales aux récifs coralliens, rejoignez-nous au Panama, un haut lieu de la biodiversité mondiale, afin d'innover des solutions pour une planète prospère.
 <br><br>
-Unissons-nous grâce aux STIM pour sauvegarder les trésors naturels de notre monde !
+Unissons-nous grâce aux STEM pour sauvegarder les trésors naturels de notre monde !
 
 <br>
 <iframe width="100%" height="683" src="https://www.youtube.com/embed/C81IOjfVa3I" title="Eco Equilibrium Theme | FGC2025Panama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -56,6 +56,7 @@ FIRST Global est une organisation éducative à but non lucratif dont la mission
 <br><br>
 
 Lien : [https://first.global/fr/about/](https://first.global/fr/about/)
+
 
 
 
