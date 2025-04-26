@@ -1,8 +1,8 @@
 ---
 title: "Les valeurs de la TEAM FRANCE"
-date: "2025-04-20T08:00:00+02:00"
-lastmod: "2025-04-26T08:54:03+02:00"
-lastupdate: "2025-04-26T08:54:03+02:00"
+date: "2025-04-20T06:00:00+02:00"
+lastmod: "2025-04-26T09:10:53+02:00"
+lastupdate: "2025-04-26T09:10:53+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -10,7 +10,7 @@ facebook_site: "false"
 tags: [""]
 categories: [""]
 keywords: [""]
-description: "  La TEAM FRANCE partage les objectifs portés par Dean Kamen et sa fondation FIRST depuis 1989  "
+description: "La TEAM FRANCE partage les objectifs portés par Dean Kamen et sa fondation FIRST depuis 1989  "
 baneer: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 banner: "/proxyPhotos?code=/blog/bob-ross/663b5d1e8d3b1/50.jpg"
 draft: false
@@ -49,5 +49,6 @@ draft: false
 <li>Nous aimons ce que nous faisons. Nous le partageons avec d'autres et, ce faisant, nous stimulons non seulement notre innovation, mais nous apportons &eacute;galement la paix gr&acirc;ce &agrave; la collaboration.</li>
 </ul>
     
+
 
 
