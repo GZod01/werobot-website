@@ -1,8 +1,8 @@
 ---
 title: "Four young students take the leap into the robotics workshop"
-date: "2025-05-05T13:07:57+02:00"
-lastmod: "2025-05-05T15:12:11+02:00"
-lastupdate: "2025-05-05T15:12:11+02:00"
+date: "2025-05-05T11:07:57+02:00"
+lastmod: "2025-05-05T15:15:25+02:00"
+lastupdate: "2025-05-05T15:15:25+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -32,6 +32,7 @@ From left to right: Nathanaël, Alexandre, Léna, (Houda), Zeineb.
 <br>
 
 Right after, the team builds a temporary holonomic base, which will be used by the programming group to learn Java. They plan to finish the base next Sunday. They know that to perform well in the competition, they’ll need to give it their all until the big day.
+
 TEAM FRANCE is eagerly awaiting the announcement of the FGC 2025 challenge so they can start designing a competitive robot.
 
 <br>
@@ -44,4 +45,5 @@ TEAM FRANCE is eagerly awaiting the announcement of the FGC 2025 challenge so th
 </table>
 </center>
 <br>
+
 

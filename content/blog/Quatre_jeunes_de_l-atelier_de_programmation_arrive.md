@@ -1,8 +1,8 @@
 ---
 title: "Quatre jeunes franchissent le pas de l'atelier de robotique"
-date: "2025-05-04T00:13:23+02:00"
-lastmod: "2025-05-05T15:07:50+02:00"
-lastupdate: "2025-05-05T15:07:50+02:00"
+date: "2025-05-03T22:13:23+02:00"
+lastmod: "2025-05-05T15:15:10+02:00"
+lastupdate: "2025-05-05T15:15:10+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -32,6 +32,7 @@ De gauche à droite : Nathanaël, Alexandre, Léna, (Houda), Zeineb.
 <br>
 
 Aussitôt après les jeunes construisent une base holonome provisoire qui servira au pôle programmation pour l'apprentissage du java. Ils finiront la base dimanche prochain. Ils savent que pour performer en compétition il faudra y consacrer toute leur énergie jusqu'au jour J.
+
 La TEAM FRANCE attend avec impatience le descriptif du challenge FGC 2025 pour concevoir un robot compétitif.
 
 <br>
@@ -44,6 +45,7 @@ La TEAM FRANCE attend avec impatience le descriptif du challenge FGC 2025 pour c
 </table>
 </center>
 <br>
+
 
 
 
