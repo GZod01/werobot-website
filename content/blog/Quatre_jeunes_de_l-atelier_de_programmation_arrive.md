@@ -1,8 +1,8 @@
 ---
 title: "Quatre jeunes franchissent le pas de l'atelier de robotique"
-date: "2025-05-04T08:13:23+02:00"
-lastmod: "2025-05-05T14:50:56+02:00"
-lastupdate: "2025-05-05T14:50:56+02:00"
+date: "2025-05-04T06:13:23+02:00"
+lastmod: "2025-05-05T14:51:52+02:00"
+lastupdate: "2025-05-05T14:51:52+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -21,19 +21,11 @@ Comme tous les ans les jeunes qui vont entrer au lycée en septembre franchissen
 
 <br>
 <center>
-<div style="width: 100%; max-width: 700px;">
-<img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png" alt="">
-</div>
-</center>
-<br><br>
-
-<br>
-<center>
-    <table width="60%">
-        <tr>
-            <td align="right"><img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png"></td>
-	</tr>
-    </table>
+<table width="60%">
+<tr>
+<td align="right"><img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png"></td>
+</tr>
+</table>
 </center>
 <br><br>
 
@@ -42,14 +34,15 @@ Aussitôt après les jeunes construisent une base holonome provisoire qui servir
 
 <br>
 <center>
-    <table width="60%">
-        <tr>
-            <td align="right"><img src="https://werobot.fr/posts/zeineb_houda.png"></td>
-            <td align="left"><img src="https://werobot.fr/posts/alexandre_nathanael.jpg"></td>
-	</tr>
-    </table>
+<table width="60%">
+<tr>
+<td align="right"><img src="https://werobot.fr/posts/zeineb_houda.png"></td>
+<td align="left"><img src="https://werobot.fr/posts/alexandre_nathanael.jpg"></td>
+</tr>
+</table>
 </center>
 <br><br>
+
 
 
 
