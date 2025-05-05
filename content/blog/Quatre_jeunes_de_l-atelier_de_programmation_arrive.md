@@ -1,8 +1,8 @@
 ---
 title: "Quatre jeunes franchissent le pas de l'atelier de robotique"
-date: "2025-05-04T10:13:23+02:00"
-lastmod: "2025-05-05T14:49:29+02:00"
-lastupdate: "2025-05-05T14:49:29+02:00"
+date: "2025-05-04T08:13:23+02:00"
+lastmod: "2025-05-05T14:50:56+02:00"
+lastupdate: "2025-05-05T14:50:56+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -27,6 +27,17 @@ Comme tous les ans les jeunes qui vont entrer au lycée en septembre franchissen
 </center>
 <br><br>
 
+<br>
+<center>
+    <table width="60%">
+        <tr>
+            <td align="right"><img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png"></td>
+	</tr>
+    </table>
+</center>
+<br><br>
+
+
 Aussitôt après les jeunes construisent une base holonome provisoire qui servira au pôle programmation pour l'apprentissage du java.
 
 <br>
@@ -39,6 +50,7 @@ Aussitôt après les jeunes construisent une base holonome provisoire qui servir
     </table>
 </center>
 <br><br>
+
 
 
 
