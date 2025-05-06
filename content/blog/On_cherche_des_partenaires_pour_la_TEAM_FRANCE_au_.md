@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE au FGC - Panama 2025"
-date: "2025-05-04T23:11:43+02:00"
-lastmod: "2025-05-06T13:48:37+02:00"
-lastupdate: "2025-05-06T13:48:37+02:00"
+date: "2025-05-04T21:11:43+02:00"
+lastmod: "2025-05-06T13:54:49+02:00"
+lastupdate: "2025-05-06T13:54:49+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "La TEAM FRANCE présentée par We Robot est officiellement sélectionnée pour le FIRST Global Challenge Panama 2025, les « Jeux Olympiques junior de la Robotique »"
-baneer: "https://werobot.fr/posts/logo_team_france.png"
-banner: "https://werobot.fr/posts/logo_team_france.png"
+baneer: "https://werobot.fr/posts/france_flag.png"
+banner: "https://werobot.fr/posts/france_flag.png"
 draft: false
 ---
 ## La TEAM FRANCE présentée par We Robot est officiellement sélectionnée pour le FIRST Global Challenge Panama 2025, les « Jeux Olympiques junior de la Robotique »
@@ -46,6 +46,7 @@ Après Washington (2017), Singapour (2023) et Athènes (2024), ce sera notre qua
 <br><br>
 
 https://drive.google.com/file/d/1K-E-CXgurQvdWSMecTv9FfkFZUHVJRnK/view?usp=sharing
+
 
 
 
