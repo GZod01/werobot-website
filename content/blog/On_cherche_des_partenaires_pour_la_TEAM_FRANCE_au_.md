@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE au FGC - Panama 2025"
-date: "2025-05-05T05:11:43+02:00"
-lastmod: "2025-05-06T13:43:45+02:00"
-lastupdate: "2025-05-06T13:43:45+02:00"
+date: "2025-05-05T03:11:43+02:00"
+lastmod: "2025-05-06T13:45:10+02:00"
+lastupdate: "2025-05-06T13:45:10+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,6 +22,8 @@ draft: false
 Nous sommes officiellement sélectionnés pour représenter la France aux 9ème « Jeux Olympiques » de la robotique du FGC à Panama du 29 octobre au 1 novembre 2025.
 
 Après Washington (2017), Singapour (2023) et Athènes (2024), ce sera notre quatrième participation à ce challenge international et La TEAM FRANCE est fière et heureuse d’avoir été sélectionnée avec 190 autres équipes de tous les continents de la planète. Nous nous engageons à donner le meilleur de nous même en faisant fructifier notre expérience »
+
+### TEAM FRANCE We Robot 2025
 
 <br>
 <center>
@@ -43,6 +45,7 @@ Après Washington (2017), Singapour (2023) et Athènes (2024), ce sera notre qua
 <br><br>
 
 https://drive.google.com/file/d/1K-E-CXgurQvdWSMecTv9FfkFZUHVJRnK/view?usp=sharing
+
 
 
 
