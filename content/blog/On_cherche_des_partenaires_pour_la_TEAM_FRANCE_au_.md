@@ -1,8 +1,8 @@
 ---
 title: "On cherche des partenaires pour la TEAM FRANCE au FGC - Panama 2025"
-date: "2025-05-05T21:11:43+02:00"
-lastmod: "2025-05-06T13:33:36+02:00"
-lastupdate: "2025-05-06T13:33:36+02:00"
+date: "2025-05-05T19:11:43+02:00"
+lastmod: "2025-05-06T13:34:40+02:00"
+lastupdate: "2025-05-06T13:34:40+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -27,7 +27,7 @@ Après Washington (2017), Singapour (2023) et Athènes (2024), ce sera notre qua
 ### TEAM FRANCE We Robot
 
 <br>
-<table width="80%">
+<table width="100%">
 <tr>
 <td align="right"><img src="https://werobot.fr/posts/team_france_panama_2025.png"></td>
 </tr>
@@ -43,6 +43,7 @@ Après Washington (2017), Singapour (2023) et Athènes (2024), ce sera notre qua
 <br><br>
 
 https://drive.google.com/file/d/1K-E-CXgurQvdWSMecTv9FfkFZUHVJRnK/view?usp=sharing
+
 
 
 
