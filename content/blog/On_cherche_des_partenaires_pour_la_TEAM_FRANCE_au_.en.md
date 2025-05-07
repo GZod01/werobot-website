@@ -1,8 +1,8 @@
 ---
 title: "Looking for Partners for TEAM FRANCE at FGC – Panama 2025"
-date: "2025-05-07T08:27:13+02:00"
-lastmod: "2025-05-07T10:31:11+02:00"
-lastupdate: "2025-05-07T10:31:11+02:00"
+date: "2025-05-07T06:27:13+02:00"
+lastmod: "2025-05-07T10:33:49+02:00"
+lastupdate: "2025-05-07T10:33:49+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -22,6 +22,7 @@ draft: false
 We have officially been selected to represent France at the 9th edition of the FIRST Global Challenge — the “Olympic Games” of robotics — taking place in Panama from October 29 to November 1, 2025.
 
 After Washington (2017), Singapore (2023), and Athens (2024), this will be our fourth participation in this international challenge. TEAM FRANCE is proud and excited to be among the 190+ teams from all continents selected for this prestigious event. We are committed to giving our very best and building on the experience we have gained over the years.
+<br>
 
 ### TEAM FRANCE We Robot 2025
 
@@ -44,6 +45,7 @@ After Washington (2017), Singapore (2023), and Athens (2024), this will be our f
 <br><br>
 
 https://drive.google.com/file/d/1K-E-CXgurQvdWSMecTv9FfkFZUHVJRnK/view?usp=sharing
+
 
 
 
