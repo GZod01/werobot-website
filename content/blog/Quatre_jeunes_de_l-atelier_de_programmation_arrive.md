@@ -1,8 +1,8 @@
 ---
 title: "Quatre jeunes franchissent le pas de l'atelier de robotique"
-date: "2025-05-03T22:13:23+02:00"
-lastmod: "2025-05-05T15:15:10+02:00"
-lastupdate: "2025-05-05T15:15:10+02:00"
+date: "2025-05-03T20:13:23+02:00"
+lastmod: "2025-05-09T07:51:55+02:00"
+lastupdate: "2025-05-09T07:51:55+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -17,7 +17,7 @@ draft: false
 ---
 ## Quatre jeunes de l'atelier de programmation entrent dans la TEAM FRANCE FGC Panama 2025
 
-Comme tous les ans les jeunes qui vont entrer au lycée en septembre franchissent le pas de l'atelier de robotique pour rejoindre la Team We Robot. Lors de leur premier jour au club ils commencent par démonter le robot du dernier FIRST Tech Challenge afin de découvrir le matériel REV Robotics utilisé en compétition au FIRST Global Challenge. Les anciens guident les nouveaux pour leurs premiers tours de vis comme Houda en retrait
+Comme tous les ans les jeunes qui vont entrer au lycée en septembre franchissent le pas de l'atelier de robotique pour rejoindre la Team We Robot. Lors de leur premier jour au club ils commencent par démonter le robot du dernier FIRST Tech Challenge afin de découvrir le matériel REV Robotics utilisé en compétition au FIRST Global Challenge. Les anciens guident les nouveaux pour leurs premiers tours de vis comme Houda en retrait.
 
 De gauche à droite : Nathanaël, Alexandre, Léna, (Houda), Zeineb.
 
@@ -45,6 +45,7 @@ La TEAM FRANCE attend avec impatience le descriptif du challenge FGC 2025 pour c
 </table>
 </center>
 <br>
+
 
 
 
