@@ -1,8 +1,8 @@
 ---
 title: "Looking for Partners for TEAM FRANCE at FGC – Panama 2025"
-date: "2025-05-07T04:27:13+02:00"
-lastmod: "2025-05-07T11:29:43+02:00"
-lastupdate: "2025-05-07T11:29:43+02:00"
+date: "2025-05-07T02:27:13+02:00"
+lastmod: "2025-05-12T13:31:53+02:00"
+lastupdate: "2025-05-12T13:31:53+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -30,7 +30,7 @@ After Washington (2017), Singapore (2023), and Athens (2024), this will be our f
 <center>
 <table width="60%">
 <tr>
-<td><img src="https://werobot.fr/posts/team_france_panama_2025.png"></td>
+<td><img src="https://werobot.fr/posts/trombi_team_france_2025.png"></td>
 </tr>
 </table>
 </center>
@@ -45,6 +45,7 @@ After Washington (2017), Singapore (2023), and Athens (2024), this will be our f
 <br><br>
 
 https://drive.google.com/file/d/1K-E-CXgurQvdWSMecTv9FfkFZUHVJRnK/view?usp=sharing
+
 
 
 
