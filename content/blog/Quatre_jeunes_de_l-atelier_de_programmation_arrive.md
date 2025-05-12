@@ -1,8 +1,8 @@
 ---
 title: "Quatre jeunes franchissent le pas de l'atelier de robotique"
-date: "2025-05-03T20:13:23+02:00"
-lastmod: "2025-05-09T07:51:55+02:00"
-lastupdate: "2025-05-09T07:51:55+02:00"
+date: "2025-05-03T18:13:23+02:00"
+lastmod: "2025-05-12T13:32:23+02:00"
+lastupdate: "2025-05-12T13:32:23+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,7 +23,7 @@ De gauche à droite : Nathanaël, Alexandre, Léna, (Houda), Zeineb.
 
 <br>
 <center>
-<table width="60%">
+<table width="80%">
 <tr>
 <td align="right"><img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png"></td>
 </tr>
@@ -37,7 +37,7 @@ La TEAM FRANCE attend avec impatience le descriptif du challenge FGC 2025 pour c
 
 <br>
 <center>
-<table width="60%">
+<table width="80%">
 <tr>
 <td align="right"><img src="https://werobot.fr/posts/zeineb_houda.png"></td>
 <td align="left"><img src="https://werobot.fr/posts/alexandre_nathanael.jpg"></td>
@@ -45,6 +45,7 @@ La TEAM FRANCE attend avec impatience le descriptif du challenge FGC 2025 pour c
 </table>
 </center>
 <br>
+
 
 
 

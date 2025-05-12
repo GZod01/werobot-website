@@ -1,8 +1,8 @@
 ---
 title: "Four young students take the leap into the robotics workshop"
-date: "2025-05-05T11:07:57+02:00"
-lastmod: "2025-05-05T15:15:25+02:00"
-lastupdate: "2025-05-05T15:15:25+02:00"
+date: "2025-05-05T09:07:57+02:00"
+lastmod: "2025-05-12T13:32:39+02:00"
+lastupdate: "2025-05-12T13:32:39+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,7 +23,7 @@ From left to right: Nathanaël, Alexandre, Léna, (Houda), Zeineb.
 
 <br>
 <center>
-<table width="60%">
+<table width="80%">
 <tr>
 <td align="right"><img src="https://werobot.fr/posts/lena_zaneib_alexandre_nathanael.png"></td>
 </tr>
@@ -37,7 +37,7 @@ TEAM FRANCE is eagerly awaiting the announcement of the FGC 2025 challenge so th
 
 <br>
 <center>
-<table width="60%">
+<table width="80%">
 <tr>
 <td align="right"><img src="https://werobot.fr/posts/zeineb_houda.png"></td>
 <td align="left"><img src="https://werobot.fr/posts/alexandre_nathanael.jpg"></td>
@@ -45,5 +45,6 @@ TEAM FRANCE is eagerly awaiting the announcement of the FGC 2025 challenge so th
 </table>
 </center>
 <br>
+
 
 
