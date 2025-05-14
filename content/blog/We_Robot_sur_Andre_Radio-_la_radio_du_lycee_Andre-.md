@@ -1,8 +1,8 @@
 ---
 title: "We Robot sur André Radio, la radio du lycée André-Malraux à Gaillon"
-date: "2025-05-14T10:18:05+02:00"
-lastmod: "2025-05-14T16:31:50+02:00"
-lastupdate: "2025-05-14T16:31:50+02:00"
+date: "2025-05-14T08:18:05+02:00"
+lastmod: "2025-05-14T16:32:54+02:00"
+lastupdate: "2025-05-14T16:32:54+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,5 +23,6 @@ draft: false
 	<figcaption>Wemby à Athènes sur André Radio</figcaption>
 </figure>
 </center>
+
 
 
