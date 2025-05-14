@@ -1,8 +1,8 @@
 ---
 title: "We Robot sur André Radio, la radio du lycée André-Malraux à Gaillon"
-date: "2025-05-14T14:18:05+02:00"
-lastmod: "2025-05-14T16:27:12+02:00"
-lastupdate: "2025-05-14T16:27:12+02:00"
+date: "2025-05-14T10:18:05+02:00"
+lastmod: "2025-05-14T16:31:50+02:00"
+lastupdate: "2025-05-14T16:31:50+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -19,7 +19,9 @@ draft: false
 
 <center>
 <figure>
-  	<audio controls src="/posts/ASSO-DE-LA-SEMAINE-We-robot.mp3"></audio>
-	<figcaption>Interview We Robot (bpmlaradio.com)</figcaption>
+  	<audio controls src="https://werobot.fr/posts/radio_du_lycee_a_athenes.mp3"></audio>
+	<figcaption>Wemby à Athènes sur André Radio</figcaption>
 </figure>
 </center>
+
+
