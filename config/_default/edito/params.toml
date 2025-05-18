@@ -1,7 +1,7 @@
 [landing]
 [landing.edito]
 title="Edito"
-content="Après une année 2024 riche en émotions à travers trois compétitions nationale et internationales de robotique nous sommes fier·ères d’avoir été sélectionné.es pour représenter la France pendant trois années consécutives de 2025 à 2027 aux Jeux Olympiques juniors du FIRST Global Challenge à commencer par le FGC du 29 octobre au 1er novembre 2025 à Panama City.
+content="""Après une année 2024 riche en émotions à travers trois compétitions nationale et internationales de robotique nous sommes fier·ères d’avoir été sélectionné.es pour représenter la France pendant trois années consécutives de 2025 à 2027 aux Jeux Olympiques juniors du FIRST Global Challenge à commencer par le FGC du 29 octobre au 1er novembre 2025 à Panama City.
 Nous avons d'ores et déjà lancé la campagne de recherche de sponsors et votre aide à en trouver de nouveaux sera la bienvenue.
 Notre atelier de robotique éducative met en œuvre la pratique des STEM (Science, Technology, Engineering, and Mathematics) en s’appuyant sur des problèmes concrets et des approches interdisciplinaires. Aujourd’hui, il ne suffit plus de savoir, il faut surtout savoir agir c’est-à-dire être capables :
 •    de résoudre des problèmes complexes,
@@ -18,4 +18,4 @@ La conception d’un robot pour répondre au cahier des charges d’une compéti
 Les enfants sont naturellement curieux. En les exposant tôt aux STEM de façon ludique et pratique, on fait naître chez eux une passion durable pour les sciences et les technologies. La mission de We Robot est de transformer ces jeunes curieux en innovateurs de demain.
 Nous sommes de plus très attachés à la place des filles dans les sciences, à la diversité et à l’inclusion. Au club les filles sont aussi nombreuses que les garçons et se préparent à prendre toute leur place dans le monde de l’ingénierie. Au club tout le monde est bienvenu au-delà des différences individuelles visibles où cachées. Au club les jeunes et leurs parents développent un esprit d’équipe et de compétition qui permet à chacun de s’épanouir. 
 L’avenir n’est pas quelque chose que l’on attend, c’est quelque chose que l’on construit ensemble.
-"
+"""
