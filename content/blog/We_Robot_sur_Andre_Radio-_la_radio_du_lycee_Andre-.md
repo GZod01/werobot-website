@@ -1,8 +1,8 @@
 ---
 title: "We Robot sur André Radio, la radio du lycée André-Malraux à Gaillon"
-date: "2025-05-14T00:18:05+02:00"
-lastmod: "2025-05-16T14:30:36+02:00"
-lastupdate: "2025-05-16T14:30:36+02:00"
+date: "2025-05-13T22:18:05+02:00"
+lastmod: "2025-05-22T09:39:28+02:00"
+lastupdate: "2025-05-22T09:39:28+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -37,10 +37,11 @@ Lucy nous y a donné le privilège d'un formidable reportage sur notre participa
 
 <center>
 <figure>
-  	<audio controls src="https://werobot.fr/posts/radio_du_lycee_a_athenes.mp3"></audio>
+  	<audio controls src="https://werobot.fr/posts/radio_du_lycee_a_athenes_audacity.mp3"></audio>
 	<figcaption>Wemby à Athènes sur André Radio</figcaption>
 </figure>
 </center>
+
 
 
 
