@@ -1,8 +1,8 @@
 ---
 title: "We Robot sur André Radio, la radio du lycée André-Malraux à Gaillon"
-date: "2025-05-13T20:18:05+02:00"
-lastmod: "2025-05-22T09:42:12+02:00"
-lastupdate: "2025-05-22T09:42:12+02:00"
+date: "2025-05-13T16:18:05+02:00"
+lastmod: "2025-05-22T11:04:04+02:00"
+lastupdate: "2025-05-22T11:04:04+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -23,17 +23,15 @@ Depuis le début de l’année, ces apprentis journalistes consacrent leurs paus
 
 Lucy nous y a donné le privilège d'un formidable reportage sur notre participation aux Jeux Olympiques junior du FIRST Global Challenge Athens 2024.
 
-
 <br>
 <center>
 <table width="60%">
 <tr>
-<td><img src="https://werobot.fr/posts/radio_du_lycee_a_athenes_audacity.mp3"></td>
+<td><img src="https://werobot.fr/posts/GAM-FM-Gaillon.jpg"></td>
 </tr>
 </table>
 </center>
 <br><br>
-
 
 <center>
 <figure>
@@ -41,6 +39,8 @@ Lucy nous y a donné le privilège d'un formidable reportage sur notre participa
 	<figcaption>Wemby à Athènes sur André Radio</figcaption>
 </figure>
 </center>
+
+
 
 
 
