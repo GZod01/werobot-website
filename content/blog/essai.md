@@ -1,0 +1,43 @@
+---
+title: "essai"
+date: "2025-05-27T15:51:29+02:00"
+lastmod: "2025-05-27T17:55:29+02:00"
+lastupdate: "2025-05-27T17:55:29+02:00"
+author: "coach.francois"
+authors: ["coach.francois"]
+facebook_author: "false"
+facebook_site: "false"
+tags: [""]
+categories: [""]
+keywords: [""]
+description: ""
+baneer: "false"
+banner: "false"
+draft: false
+---
+<strong>
+« L’avenir n’est pas quelque chose que l’on attend, c’est quelque chose que l’on construit ensemble »
+</strong>
+<br><br>
+
+Après une année 2024 riche en émotions nous sommes fier·ères d’avoir été sélectionné.es pour représenter la France pendant trois années consécutives de 2025 à 2027 aux Jeux Olympiques juniors du FIRST Global Challenge à commencer par le FGC du 29 octobre au 1er novembre 2025 à Panama City.
+<br><br>
+
+Nous avons lancé la campagne de recherche de sponsors et votre aide à en trouver de nouveaux sera la bienvenue. Notre atelier de robotique met en œuvre la pratique des STEM (Science, Technology, Engineering, and Mathematics) en s’appuyant sur des problèmes concrets et des approches interdisciplinaires. Aujourd’hui, il ne suffit plus de savoir, il faut surtout savoir agir c’est-à-dire être capables :
+ - de résoudre des problèmes complexes
+ - d’analyser des données
+ - de comprendre des systèmes techniques
+ - de de collaborer avec les autres.
+<br><br>
+
+La conception d’un robot pour répondre au cahier des charges d’une compétition permet de développer ces compétences avec la physique pour comprendre :
+ - les mouvements,
+ - les mathématiques pour les calculs et les algorithmes,
+ - l’informatique pour la programmation,
+ - le design pour la conception de robots efficaces,
+ - la communication pour faciliter la collaboration.
+
+<br><br>
+Les enfants sont naturellement curieux et en les exposant tôt aux STEM de façon ludique et pratique, on fait naître chez eux une passion durable pour les sciences et les technologies. La mission de We Robot est de transformer ces jeunes curieux en innovateurs de demain. Nous sommes très attachés à la place des filles dans les sciences, à la diversité et à l’inclusion. Au club, les filles sont aussi nombreuses que les garçons et se préparent à prendre toute leur place dans le monde de l’ingénierie, tout le monde est bienvenu au-delà des différences individuelles visibles où cachées et les jeunes et leurs parents développent un esprit d’équipe et de compétition qui permet à chacun de s’épanouir.
+
+.
