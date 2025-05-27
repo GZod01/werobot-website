@@ -1,10 +1,10 @@
 ---
 title: "We Robot on André Radio, the radio station of the Lycée André-Malraux in Gaillon"
-date: "2025-05-16T14:35:02+02:00"
-lastmod: "2025-05-16T14:37:44+02:00"
-lastupdate: "2025-05-16T14:37:44+02:00"
+date: "2025-05-16T10:35:02+02:00"
+lastmod: "2025-05-27T12:10:03+02:00"
+lastupdate: "2025-05-27T12:10:03+02:00"
 author: "coach.francois"
-authors: ["coach.francois"]
+authors: ["coach.francois","GZod01"]
 facebook_author: "false"
 facebook_site: "false"
 tags: [""]
@@ -36,10 +36,12 @@ Lucy gave us the privilege of a fantastic report on our participation in the FIR
 
 <center>
 <figure>
-  	<audio controls src="https://werobot.fr/posts/radio_du_lycee_a_athenes.mp3"></audio>
+  	<audio controls src="https://werobot.fr/posts/radio_du_lycee_a_athenes_audacity.mp3"></audio>
 	<figcaption>Wemby in Athens on André Radio</figcaption>
 </figure>
 </center>
+
+
 
 
 
