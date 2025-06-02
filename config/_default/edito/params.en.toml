@@ -1,9 +1,8 @@
 [landing]
 [landing.edito]
 title="""Edito"""
-content="""<strong>
-"The future is not something we wait for, it’s something we build together."
-</strong>
+content="""<div align="justify">
+<strong><H3>"The future is not something we wait for, it’s something we build together.">/H3></strong>
 <br><br>
 
 After a 2024 filled with emotions, we are proud to have been selected to represent France for three consecutive years, from 2025 to 2027, at the Junior Olympics of the FIRST Global Challenge, starting with the FGC from October 29 to November 1, 2025, in Panama City.
@@ -32,4 +31,5 @@ Children are naturally curious, and by exposing them early to STEM in a fun and 
 <br><br>
 
 We are deeply committed to the role of girls in science, diversity, and inclusion. In our club, girls are just as numerous as boys and are preparing to take their place in the world of engineering. Everyone is welcome, regardless of visible or hidden individual differences, and both the young participants and their parents develop a team spirit and a competitive mindset that allows everyone to thrive.
+</div>
 """
