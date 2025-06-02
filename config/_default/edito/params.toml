@@ -1,7 +1,7 @@
 [landing]
 [landing.edito]
 title="""Edito"""
-content="""<strong><p align="justify">
+content="""<Div Align=Left><strong>
 <H3>« L’avenir n’est pas quelque chose que l’on attend, c’est quelque chose que l’on construit ensemble »</H3>
 </strong>
 
@@ -33,4 +33,5 @@ Les enfants sont naturellement curieux et en les exposant tôt aux STEM de faço
 <br><br>
 
 Nous sommes très attachés à la place des filles dans les sciences, à la diversité et à l’inclusion. Au club, les filles sont aussi nombreuses que les garçons et se préparent à prendre toute leur place dans le monde de l’ingénierie, tout le monde est bienvenu au-delà des différences individuelles visibles où cachées et les jeunes et leurs parents développent un esprit d’équipe et de compétition qui permet à chacun de s’épanouir.
+</div>
 """
