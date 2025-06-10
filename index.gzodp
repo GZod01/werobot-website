@@ -1,5 +1,5 @@
 <?php
-$accesstoken="IGQWRQaGFUVURIcjhnTzRwaFhqM1ZAfRlJzREVSdGJRdXE3WnRIenl1MGZA1MkYzOENELVdwR2hDaDhjREZAOOTExVGJXZA2d4Mk90VmJoc181Qzg3bHBPS0ptZAGdRMFFoWVctLTJLYU1OdW13MjhmZAU5KaDVRbVpWVlkZD";
+$accesstoken="";
 $medias = [];
 //if(!isset($_SESSION["medias"])){
 $opts = [
