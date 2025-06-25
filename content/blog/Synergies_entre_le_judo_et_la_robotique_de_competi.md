@@ -1,8 +1,8 @@
 ---
 title: "Synergies entre le judo et la robotique de compétition"
-date: "2025-06-24T07:13:35+02:00"
-lastmod: "2025-06-25T07:49:56+02:00"
-lastupdate: "2025-06-25T07:49:56+02:00"
+date: "2025-06-24T05:13:35+02:00"
+lastmod: "2025-06-25T07:50:51+02:00"
+lastupdate: "2025-06-25T07:50:51+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -33,9 +33,6 @@ Nous avons pu constater :
 
  - des valeurs communes
  - de nombreux jeunes de la Team France sont passé par le club de judo ce qui n'est sans doute pas le fait du hasard.
-<br><br>
-
-Une très belle rencontre et peut-être de futurs judokas au club de robotique dans les années à venir pour assurer la relève.
 
 <br><br>
 <center>
@@ -45,6 +42,7 @@ Une très belle rencontre et peut-être de futurs judokas au club de robotique d
 </center>
 <br><br>
 
+Une très belle rencontre et peut-être de futurs judokas au club de robotique dans les années à venir pour assurer la relève.
 
 
 
