@@ -1,8 +1,8 @@
 ---
 title: "Synergies Between Judo and Competitive Robotics"
-date: "2025-06-25T02:17:55+02:00"
-lastmod: "2025-06-25T08:21:42+02:00"
-lastupdate: "2025-06-25T08:21:42+02:00"
+date: "2025-06-25T00:17:55+02:00"
+lastmod: "2025-06-25T08:26:46+02:00"
+lastupdate: "2025-06-25T08:26:46+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -21,7 +21,7 @@ To complete the 4th "Social Media Challenge" of FGC Panama 2025, the We Robot Te
 
 <br>
 <center>
-<table width="35%">
+<table width="50%">
 <tr>
 <td><img src="https://werobot.fr/posts/werobot_judo_challenge4.jpg"></td>
 </tr>
@@ -46,6 +46,7 @@ We observed:
 <br>
 
 A wonderful meeting — and perhaps future judokas joining the robotics club in the years to come to carry on the legacy.
+
 
 
 
