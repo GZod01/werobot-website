@@ -1,8 +1,8 @@
 ---
 title: "Synergies entre le judo et la robotique de compétition"
-date: "2025-06-23T21:13:35+02:00"
-lastmod: "2025-06-25T07:54:50+02:00"
-lastupdate: "2025-06-25T07:54:50+02:00"
+date: "2025-06-23T19:13:35+02:00"
+lastmod: "2025-06-25T07:55:41+02:00"
+lastupdate: "2025-06-25T07:55:41+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -27,7 +27,7 @@ Pour réaliser le 4ème « Social Media Challenge » du FGC Panama 2025, la Team
 </tr>
 </table>
 </center>
-<br><br>
+<br>
 
 Nous avons pu constater :
 
@@ -43,9 +43,10 @@ Nous avons pu constater :
 <figcaption>Montage vidéo réalisé par Louise</figcaption>
 </figure>
 </center>
-<br><br>
+<br>
 
 Une très belle rencontre et peut-être de futurs judokas au club de robotique dans les années à venir pour assurer la relève.
+
 
 
 
