@@ -1,8 +1,8 @@
 ---
-title: "Synergies entre le judo et la robotique de compétition (TO TRANSLATE)"
-date: "2025-06-25T08:17:55+02:00"
-lastmod: "2025-06-25T08:18:21+02:00"
-lastupdate: "2025-06-25T08:18:21+02:00"
+title: "Synergies Between Judo and Competitive Robotics"
+date: "2025-06-25T04:17:55+02:00"
+lastmod: "2025-06-25T08:19:38+02:00"
+lastupdate: "2025-06-25T08:19:38+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Meeting and Sharing with Young Gaillon Judokas – Laurent and Team France We Robot"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/werobot_judo_blog.jpg"
+banner: "https://werobot.fr/posts/werobot_judo_blog.jpg"
 draft: false
 ---
 ## Meeting and Sharing with Young Gaillon Judokas – Laurent and Team France We Robot
@@ -46,3 +46,5 @@ We observed:
 <br>
 
 A wonderful meeting — and perhaps future judokas joining the robotics club in the years to come to carry on the legacy.
+
+
