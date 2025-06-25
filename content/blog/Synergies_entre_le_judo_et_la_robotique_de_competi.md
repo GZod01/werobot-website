@@ -1,8 +1,8 @@
 ---
 title: "Synergies entre le judo et la robotique de compétition"
-date: "2025-06-24T19:13:35+02:00"
-lastmod: "2025-06-25T07:43:34+02:00"
-lastupdate: "2025-06-25T07:43:34+02:00"
+date: "2025-06-24T17:13:35+02:00"
+lastmod: "2025-06-25T07:43:58+02:00"
+lastupdate: "2025-06-25T07:43:58+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -13,7 +13,7 @@ keywords: [""]
 description: "Rencontre et partage avec les jeunes judokas gaillonnais de Laurent et la Team France We Robot"
 baneer: "https://werobot.fr/posts/werobot_judo_blog.jpg"
 banner: "https://werobot.fr/posts/werobot_judo_blog.jpg"
-draft: true
+draft: false
 ---
 ## Rencontre et partage avec les jeunes judokas gaillonnais de Laurent et la Team France We Robot
 
@@ -31,6 +31,7 @@ Une très belle rencontre et peut-être de futurs judokas au club de robotique d
 </video>
 </center>
 <br><br>
+
 
 
 
