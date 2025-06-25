@@ -1,8 +1,8 @@
 ---
 title: "Synergies entre le judo et la robotique de compétition"
-date: "2025-06-23T19:13:35+02:00"
-lastmod: "2025-06-25T07:55:41+02:00"
-lastupdate: "2025-06-25T07:55:41+02:00"
+date: "2025-06-23T17:13:35+02:00"
+lastmod: "2025-06-25T08:06:10+02:00"
+lastupdate: "2025-06-25T08:06:10+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -38,7 +38,8 @@ Nous avons pu constater :
 <center>
 <figure>
 <video width="33%" controls>
-<source src="https://werobot.fr/posts/werobot_judo.mp4"/>
+<source src="https://werobot.fr/posts/werobot_judo.mp4">
+
 </video>
 <figcaption>Montage vidéo réalisé par Louise</figcaption>
 </figure>
@@ -46,6 +47,7 @@ Nous avons pu constater :
 <br>
 
 Une très belle rencontre et peut-être de futurs judokas au club de robotique dans les années à venir pour assurer la relève.
+
 
 
 
