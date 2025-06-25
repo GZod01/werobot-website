@@ -1,8 +1,8 @@
 ---
 title: "Synergies entre le judo et la robotique de compétition"
-date: "2025-06-24T17:13:35+02:00"
-lastmod: "2025-06-25T07:43:58+02:00"
-lastupdate: "2025-06-25T07:43:58+02:00"
+date: "2025-06-24T11:13:35+02:00"
+lastmod: "2025-06-25T07:48:00+02:00"
+lastupdate: "2025-06-25T07:48:00+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -17,10 +17,23 @@ draft: false
 ---
 ## Rencontre et partage avec les jeunes judokas gaillonnais de Laurent et la Team France We Robot
 
-Pour réaliser le 4ème « Social Media Challenge » du FGC Panama 2025, la Team We Robot est allée à la rencontre des judokas de Laurent Gringoire qui à accepté de nous recevoir pour son dernier cours de l'année afin de partager sur nos valeurs et de faire découvrir la robotique de compétition aux enfants. Nous avons pu constater :
+Pour réaliser le 4ème « Social Media Challenge » du FGC Panama 2025, la Team We Robot est allée à la rencontre des judokas de Laurent Gringoire qui à accepté de nous recevoir pour son dernier cours de l'année afin de partager sur nos valeurs et de faire découvrir la robotique de compétition aux enfants.
+
+<br>
+<center>
+<table width="100%">
+<tr>
+<td><img src="https://werobot.fr/posts/werobot_judo_challenge4.jpg"></td>
+</tr>
+</table>
+</center>
+<br><br>
+
+Nous avons pu constater :
 
  - des valeurs communes
  - de nombreux jeunes de la Team France sont passé par le club de judo ce qui n'est sans doute pas le fait du hasard.
+<br>
 
 Une très belle rencontre et peut-être de futurs judokas au club de robotique dans les années à venir pour assurer la relève.
 
@@ -31,6 +44,9 @@ Une très belle rencontre et peut-être de futurs judokas au club de robotique d
 </video>
 </center>
 <br><br>
+
+
+
 
 
 
