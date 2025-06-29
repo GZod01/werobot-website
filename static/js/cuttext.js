@@ -29,8 +29,8 @@ function recurseCutText(el){
 function cuttext(){
     document.querySelectorAll("*[cuttext]").forEach(a=>{
 	recurseCutText(a);
-	a.onscroll = scrollOverflow(e);
+	a.onscroll = scrollOverflow;
     });
-    window.onscroll = globalScroll(e);
+    window.onscroll = globalScroll;
 }
 cuttext();
