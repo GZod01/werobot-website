@@ -40,7 +40,7 @@
 	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 	{{ end }}
 	{{ block "previousnextblock" . }}{{ end }}
-	<div cuttext>
+	<div>
 	    {{ .Content | safeHTML }}
 	</div>
 	{{ block "previousnextblock" . }}{{ end }}

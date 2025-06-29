@@ -1,13 +1,3 @@
-function scrollOverflow(e){
-    let p= (e.srcElement.scrollY-e.srcElement.scrollTop/((e.srcElement.scrollBottom/2)-e.srcElement.scrollTop))*100;
-    console.log(p);
-};
-function globalScroll(e){
-    let p= (e.srcElement.scrollY-e.srcElement.scrollTop/((e.srcElement.scrollBottom/2)-e.srcElement.scrollTop))*100;
-    console.log(p);
-}
-function scrollCutText(percentage){
-}
 function recurseCutText(el){
     el.childNodes.forEach(node=>{
 	if(node.nodeType === 3 && node.nodeValue.trim() !== ""){
