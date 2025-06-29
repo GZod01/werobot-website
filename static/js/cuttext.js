@@ -1,6 +1,6 @@
 function recurseCutText(el){
     el.childNodes.forEach(node=>{
-	if(node.nodeType === 3 && node.nodeValue !== ""){
+	if(node.nodeType === 3 && node.nodeValue.trim() !== ""){
 	    console.log(node.nodeValue.trim()); 
 	}
 	else{
