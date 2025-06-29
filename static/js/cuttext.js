@@ -7,7 +7,7 @@ function recurseCutText(el){
 	    valel.setAttribute("cuttext-span-parent",1);
 	    vallist.forEach(t=>{
 		let sp = document.createElement("span");
-		sp.innerText = t;
+		sp.innerText = t+" ";
 		sp.setAttribute("cuttext-span","hidden");
 		valel.appendChild(sp);
 	    });
