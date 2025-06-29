@@ -1,8 +1,10 @@
 function scrollOverflow(e){
-
-
+    let p= (e.scrollY-e.scrollTop/((e.scrollBottom/2)-e.scrollTop))*100;
+    console.log(p);
 };
 function globalScroll(e){
+    let p= (e.scrollY/(e.scrollTop/2))*100;
+    console.log(p);
 }
 function scrollCutText(percentage){
 }
