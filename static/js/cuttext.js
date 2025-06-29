@@ -9,7 +9,7 @@ function recurseCutText(el){
 		let sp = document.createElement("span");
 		sp.innerText = t;
 		sp.setAttribute("cuttext-span","hidden");
-		valel.addChild(sp);
+		valel.appendChild(sp);
 	    });
 	    node.replaceWith(valel);
 	}
