@@ -27,4 +27,4 @@
 <!-- Note: j'ai galérer à rajouter du scss car en fait y'avait déja une variable $style de définit plus haut... -->
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS  | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
-
+<script src="/js/cuttext.js"></script>
