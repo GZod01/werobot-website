@@ -11,7 +11,7 @@
 </div>
 
 <main class="container mx-auto content text">
-    <article cuttext class="article">
+    <article class="article">
 
 	{{ with .Date }}
 	<div>Publié le <b><time>{{ . | time.Format ":date_full" }}</time></b></div>
@@ -40,7 +40,7 @@
 	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 	{{ end }}
 	{{ block "previousnextblock" . }}{{ end }}
-	<div>
+	<div cuttext>
 	    {{ .Content | safeHTML }}
 	</div>
 	{{ block "previousnextblock" . }}{{ end }}
