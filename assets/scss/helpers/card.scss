@@ -36,6 +36,9 @@ $card-border-radius: 5px;
       cursor: pointer; opacity: 1; }
   }
 }
+.card .articles{
+    height: 100%;
+}
 
 .card.no-actions {
   .card-text {
