@@ -36,8 +36,11 @@ $card-border-radius: 5px;
       cursor: pointer; opacity: 1; }
   }
 }
-.card .articles{
+.card .articles-list{
     height: 100%;
+}
+.card .article {
+    height:100%;
 }
 
 .card.no-actions {
