@@ -1,3 +1,11 @@
+function scrollOverflow(e){
+
+
+};
+function globalScroll(e){
+}
+function scrollCutText(percentage){
+}
 function recurseCutText(el){
     el.childNodes.forEach(node=>{
 	if(node.nodeType === 3 && node.nodeValue.trim() !== ""){
@@ -21,6 +29,8 @@ function recurseCutText(el){
 function cuttext(){
     document.querySelectorAll("*[cuttext]").forEach(a=>{
 	recurseCutText(a);
+	a.onscroll = scrollOverflow(e);
     });
+    window.onscroll = globalScroll(e);
 }
 cuttext();
