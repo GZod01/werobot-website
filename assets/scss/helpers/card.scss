@@ -1,6 +1,7 @@
 $card-border-radius: 5px;
 .card {
   margin-bottom: 1em;
+  height: 550px;
   .card-title {
     border-top-left-radius: $card-border-radius;
     border-top-right-radius: $card-border-radius;
@@ -29,9 +30,7 @@ $card-border-radius: 5px;
       color: inherit;
     }
     .card-action:hover {
-      cursor: pointer;
-      opacity: 1;
-    }
+      cursor: pointer; opacity: 1; }
   }
 }
 
@@ -90,6 +89,29 @@ $card-border-radius: 5px;
   }
   .card-actions {
     background-color: #2980b9;
+  }
+}
+.card.card-edito .card-text{
+    overflow: auto;
+    height:30em;
+  &::-webkit-scrollbar {
+    width: 10px;
+    z-index: 10;
+    right:0;
+  }
+
+  &::-webkit-scrollbar-track {
+    display: none;
+  }
+  &::-webkit-scrollbar-track-piece{
+    display: none;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #2232;
+    border-radius: 5px;
+  }
+  &::-webkit-scrollbar-thumb:hover{
+    background: #2980b9;
   }
 }
 .card.card-red {
