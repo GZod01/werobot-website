@@ -4,6 +4,9 @@ $card-border-radius: 5px;
   height: 550px;
   display:flex;
   flex-direction: column;
+  .articles-list, .articles, .article{
+      height:100%;
+  }
   .card-title {
     border-top-left-radius: $card-border-radius;
     border-top-right-radius: $card-border-radius;
@@ -35,12 +38,6 @@ $card-border-radius: 5px;
     .card-action:hover {
       cursor: pointer; opacity: 1; }
   }
-}
-.card .articles-list{
-    height: 100%;
-}
-.card .article {
-    height:100%;
 }
 
 .card.no-actions {
