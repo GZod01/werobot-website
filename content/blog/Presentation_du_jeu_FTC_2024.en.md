@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explanation of the FTC 2024 game"
-date: "2024-09-25T23:42:38+02:00"
-lastmod: "2025-07-06T08:58:10+02:00"
-lastupdate: "2025-07-06T08:58:10+02:00"
+date: "2024-09-25T21:42:38+02:00"
+lastmod: "2025-07-06T09:01:32+02:00"
+lastupdate: "2025-07-06T09:01:32+02:00"
 author: "coach.francois"
 authors: ["coach.francois","Franck"]
 facebook_author: "false"
@@ -55,18 +55,9 @@ Beneath the ocean's surface lie our planet's most complex ecosystems, full of li
 	overflow: hidden;
 	padding-top: 100%;
 	"> 
-  <iframe src="https://a360.co/4nxE7a7" style="
-	position: absolute;
-	top: 0;
-  	left: 0;
-  	bottom: 0;
-  	right: 0;
-  	width: 100%;
-  	height: 75%;
-  	border: none;
-	">
-</iframe>
+  <iframe src="https://gmail2880522.autodesk360.com/shares/public/SH30dd5QT870c25f12fcc7f3393a82f13c26?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
+
 
 
 
