@@ -1,8 +1,8 @@
 ---
 title: "Eco Equilibrium : le défit robotique"
-date: "2025-07-06T06:02:11+02:00"
-lastmod: "2025-07-06T08:06:58+02:00"
-lastupdate: "2025-07-06T08:06:58+02:00"
+date: "2025-07-06T04:02:11+02:00"
+lastmod: "2025-07-06T08:13:04+02:00"
+lastupdate: "2025-07-06T08:13:04+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -11,8 +11,8 @@ tags: [""]
 categories: [""]
 keywords: [""]
 description: "Eco Equilibrium Explication du Jeu"
-baneer: "false"
-banner: "false"
+baneer: "https://werobot.fr/posts/eco_equilibrium_defi_robotique.png"
+banner: "https://werobot.fr/posts/eco_equilibrium_defi_robotique.png"
 draft: false
 ---
 ## Eco Equilibrium Explication du Jeu
@@ -22,3 +22,4 @@ Dans le cadre de la Eco Equilibrium les équipes d'étudiants font naviguer leur
 <br>
 <iframe width="100%" height="683" src="https://www.youtube.com/embed/9SrzcKEjkSY?si=jexSlYyqvWMkOgQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
+
