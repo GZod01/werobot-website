@@ -1,8 +1,8 @@
 ---
 title: "INTO THE DEEP : explication du jeu FTC 2024"
-date: "2024-09-24T08:58:36+02:00"
-lastmod: "2025-04-24T14:11:28+02:00"
-lastupdate: "2025-04-24T14:11:28+02:00"
+date: "2024-09-24T06:58:36+02:00"
+lastmod: "2025-07-06T09:10:23+02:00"
+lastupdate: "2025-07-06T09:10:23+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -49,24 +49,10 @@ Sous la surface de l'océan se trouvent les écosystèmes les plus complexes de 
 ### Le terrain de jeu (PLAYING FIELD) en 3D :
 
 <br>
-<div style="
-	position: relative;
-	width: 100%;
-	overflow: hidden;
-	padding-top: 100%;
-	"> 
-  <iframe src="https://a360.co/4eH9Pwo" style="
-	position: absolute;
-	top: 0;
-  	left: 0;
-  	bottom: 0;
-  	right: 0;
-  	width: 100%;
-  	height: 75%;
-  	border: none;
-	">
-</iframe>
-</div>
+<br>
+<iframe src="https://gmail2880522.autodesk360.com/shares/public/SH30dd5QT870c25f12fcc7f3393a82f13c26?mode=embed" width="100%" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
 
 
 
