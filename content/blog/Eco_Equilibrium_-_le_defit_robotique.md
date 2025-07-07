@@ -1,8 +1,8 @@
 ---
 title: "Eco Equilibrium : le défit robotique"
-date: "2025-07-05T18:02:11+02:00"
-lastmod: "2025-07-06T12:04:27+02:00"
-lastupdate: "2025-07-06T12:04:27+02:00"
+date: "2025-07-05T16:02:11+02:00"
+lastmod: "2025-07-07T10:42:49+02:00"
+lastupdate: "2025-07-07T10:42:49+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -30,10 +30,18 @@ Dans le cadre de la Eco Equilibrium les équipes d'étudiants font naviguer leur
 </center>
 <br><br>
 
+## Règles du jeu
+<br>
+<center>
+<iframe src="https://drive.google.com/file/d/1MDPZKHnVQV6o9uJk8miQBB-RWkF7ohK9/preview" width="100%" height="1164" ></iframe>
+</center>
+<br><br>
+
 ## Le terrain de jeu (PLAYING FIELD) en 3D :
 
 <br>
 <iframe src="https://gmail2880522.autodesk360.com/shares/public/SH30dd5QT870c25f12fced36d1a21cf140fc?mode=embed" width="100%" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 
 
