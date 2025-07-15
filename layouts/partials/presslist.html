@@ -14,6 +14,7 @@
 	{{ if (gt (.source_url | len) 0)}}
 	</a>
 	{{ end }}
+	<a href="{{ .source_image | safeURL }}" target="_blank">Agrandir l'image</a>
     </div>
     {{ end }}
 </div>
