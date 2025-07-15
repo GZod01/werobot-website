@@ -1,19 +1,21 @@
 <div class=press_articles_list>
     {{ range site.Data.press.articles }}
-    <div class=press_article>
-	{{ if (gt (.source_url | len) 0)}}
-	<a href="{{.source_url | safeURL}}">
+    <div class=press_article_parent>
+	<div class=press_article>
+	    {{ if (gt (.source_url | len) 0)}}
+	    <a href="{{.source_url | safeURL}}">
+		{{ end }}
+		<div class=p_a_img>
+		    <img src="{{ .source_image | safeURL }}">
+		</div>
+		<div class=p_a_datas>
+		    <div class=p_a_title>{{.source_title}}</div>
+		    <div class=p_a_infos>{{.source_journal}}, {{.source_date}}</div>
+		</div>
+		{{ if (gt (.source_url | len) 0)}}
+	    </a>
 	    {{ end }}
-	    <div class=p_a_img>
-		<img src="{{ .source_image | safeURL }}">
-	    </div>
-	    <div class=p_a_datas>
-		<div class=p_a_title>{{.source_title}}</div>
-		<div class=p_a_infos>{{.source_journal}}, {{.source_date}}</div>
-	    </div>
-	{{ if (gt (.source_url | len) 0)}}
-	</a>
-	{{ end }}
+	</div>
 	<a href="{{ .source_image | safeURL }}" target="_blank">Agrandir l'image</a>
     </div>
     {{ end }}
