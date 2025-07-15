@@ -13,7 +13,7 @@ Voici une liste des shortcodes disponible pour le site WeRobot.FR:
 
 ## Comment utiliser les shortcodes ? 
 ### En édition depuis la page admin (recommendé, le mode le plus courant):
-```hugo
+```go-text-template
 {{%/*nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini*/%}}
 ```
 Dans cet exemple:
@@ -22,7 +22,7 @@ Dans cet exemple:
 - `paramètre_defini` représente la manière d'écrire des paramètres défini ou non (écrivez le nom du paramètre si vous voulez définir le paramètre, ou n'écrivez pas le paramètre si vous ne voulez pas le définir)
 
 ### En édition directe (édition directe d'un fichier sur le serveur)
-```hugo
+```go-text-template
 {{</*nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini*/>}}
 ```
 Dans cet exemple:
