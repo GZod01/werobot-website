@@ -14,7 +14,7 @@ Voici une liste des shortcodes disponible pour le site WeRobot.FR:
 ## Comment utiliser les shortcodes ? 
 ### En édition depuis la page admin (recommendé, le mode le plus courant):
 ```
-{{\%nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini\%}}
+{{%/*nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini*/%}}
 ```
 Dans cet exemple:
 - `nom_du_shortcode` représente le nom de la shortcode
@@ -23,7 +23,7 @@ Dans cet exemple:
 
 ### En édition directe (édition directe d'un fichier sur le serveur)
 ```
-{{&lt;nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini&gt;}}
+{{</*nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini*/>}}
 ```
 Dans cet exemple:
 - `nom_du_shortcode` représente le nom de la shortcode
