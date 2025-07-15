@@ -11,7 +11,7 @@
 	& #close{
 	    display:none;
 	}
-	&:has(#extendimage:checked){
+	&:has(.extendimagecheckbox:checked){
 	    & #open{
 		display:none;
 	    }
