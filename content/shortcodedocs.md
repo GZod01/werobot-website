@@ -24,7 +24,7 @@ Dans cet exemple:
 
 ### En édition directe (édition directe d'un fichier sur le serveur)
 ```
-{{<nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini>}}
+{{&lt;nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini&gt;}}
 ```
 Dans cet exemple:
 - `nom_du_shortcode` représente le nom de la shortcode
