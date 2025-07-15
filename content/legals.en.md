@@ -24,13 +24,7 @@ The person responsible for the publication of the werobot.fr site is:
 
 ## Host 
 
-Werobot hosts its online services, the website (werobot.fr) and its internal API (api.werobot.fr) on the Thingmill platform managed by the company [Thingmill](https://www.societe.com/etablissement/thingmill-89068760100025.html), its address being:
-
-THINGMILL,
-
-20 RUE SAINT NICOLAS
-
-53000 LAVAL
+Werobot hosts its online services, the website (werobot.fr) in a member private server: [Sezille.net](https://sezille.net) 
 
 ## Intellectual property
 

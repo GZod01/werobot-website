@@ -24,13 +24,7 @@ Le responsable de la publication du site werobot.fr est :
 
 ## Hébergeur 
 
-Werobot héberge ses services en ligne, le site web (werobot.fr) ainsi que son api interne (api.werobot.fr) sur la platforme Thingmill géré par la société [Thingmill](https://www.societe.com/etablissement/thingmill-89068760100025.html), son adresse étant : 
-
-THINGMILL,
-
-20 RUE SAINT NICOLAS
-
-53000 LAVAL
+Werobot héberge ses services en ligne, le site web (werobot.fr) sur le serveur privé d'un membre: [Sezille.Net](https://sezille.net).
 
 ## Propriété intellectuelle
 
