@@ -5,22 +5,23 @@
     grid-auto-rows: minmax(100px, auto);
     .press_article_parent{
 	display:flex;flex-direction:column;position:relative;
-	#open{
+	& #open{
 	    display:block;
 	}
-	#close{
+	& #close{
 	    display:none;
 	}
 	&:has(#extendimage:checked){
-	    #open{
+	    & #open{
 		display:none;
 	    }
-	    #close{
+	    & #close{
 		display:block;
 		position:fixed;
 		top:5px;
 		right:5px;
 	    }
+	    z-index:9999;
 	    width:100vw;
 	    height:100vh;
 	    position:fixed;
