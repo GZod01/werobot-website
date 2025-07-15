@@ -1,7 +1,7 @@
 <div class=press_articles_list>
     {{ range site.Data.press.articles }}
     <div class=press_article_parent>
-	<input type="checkbox" id="extendimage">
+	<input hidden type="checkbox" id="extendimage">
 	<div class=press_article>
 	    {{ if (gt (.source_url | len) 0)}}
 	    <a href="{{.source_url | safeURL}}">
