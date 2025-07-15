@@ -2,7 +2,6 @@
 title: Documentation Shortcode
 ---
 Cet article concerne principalement les éditeurs du blog.
-
 Ce site est construit avec l'outil [hugo](https://gohugo.io), il est donc possible d'intégrer des pseudo-élements qui intégreront des fonctionnalités complètes au moment de la construction du site (quand vous appuyez sur le bouton "Envoyer les modifications").
 
 Voici une liste des shortcodes disponible pour le site WeRobot.FR:
@@ -15,7 +14,7 @@ Voici une liste des shortcodes disponible pour le site WeRobot.FR:
 ## Comment utiliser les shortcodes ? 
 ### En édition depuis la page admin (recommendé, le mode le plus courant):
 ```
-{{%nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini%}}
+{{\%nom_du_shortcode parametre_avec_valeur="valeur_paramètre" parametre_defini\%}}
 ```
 Dans cet exemple:
 - `nom_du_shortcode` représente le nom de la shortcode
