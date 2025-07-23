@@ -1,8 +1,8 @@
 ---
 title: "Synergies Between Judo and Competitive Robotics"
-date: "2025-06-25T00:17:55+02:00"
-lastmod: "2025-06-25T08:26:46+02:00"
-lastupdate: "2025-06-25T08:26:46+02:00"
+date: "2025-06-24T22:17:55+02:00"
+lastmod: "2025-07-23T09:09:20+02:00"
+lastupdate: "2025-07-23T09:09:20+02:00"
 author: "coach.francois"
 authors: ["coach.francois"]
 facebook_author: "false"
@@ -46,6 +46,7 @@ We observed:
 <br>
 
 A wonderful meeting — and perhaps future judokas joining the robotics club in the years to come to carry on the legacy.
+
 
 
 
