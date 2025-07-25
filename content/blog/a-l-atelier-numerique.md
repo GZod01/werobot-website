@@ -10,7 +10,7 @@ Pendant ce temps à l’atelier numérique … initiation au langage Python
 ---
 ## Au début était l’initiation au langage Python! 
 Timothé et Quentin relèvent les défis sur un site dédié et bien connu des candidats potentiels aux olympiades informatiques.
-[www.france-ioi.org]("http://www.france-ioi.org/index.php")
+[www.france-ioi.org](http://www.france-ioi.org/index.php)
 
 ## Nathanaël, Alexandre et Constantin sont concentrés sur la modélisation 3D.Ils utilisent un langage Block en appui sur des modèles de robot préconçus pour apprendre la modélisation 3D.
 
